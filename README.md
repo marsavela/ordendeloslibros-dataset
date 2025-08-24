@@ -15,11 +15,74 @@ A comprehensive dataset that matches Wikipedia's bestselling book series with de
 2. **Alex Cross**: 3 orderings (publication + 2 variants)
 3. **A Series of Unfortunate Events**: 2 orderings (publication + variant)
 
-## 📁 **File Structure**
+## � **Quick Start**
+
+### To run the complete process:
+
+1. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   playwright install chromium
+   ```
+
+2. **Set up your API key:**
+
+   ```bash
+   cp .env.example .env
+   # Edit .env and add your OPENAI_API_KEY
+   ```
+
+3. **Scrape the data:**
+
+   ```bash
+   python run_scraper.py
+   ```
+
+4. **Run the matching:**
+
+   ```bash
+   python run_matcher.py
+   ```
+
+5. **Validate results:**
+   ```bash
+   python validate_dataset.py
+   ```
+
+### 🇪🇸 **Spanish Edition Finder (NEW!)**
+
+Find Spanish editions of books using multiple bibliographic APIs:
+
+1. **Run example searches:**
+
+   ```bash
+   python example_spanish_finder.py
+   ```
+
+2. **Process entire dataset for Spanish editions:**
+   ```bash
+   python process_spanish_editions.py
+   ```
+
+**Features:**
+
+- Multi-API search (ISBNdb, Open Library, Google Books)
+- Intelligent title variants and normalization
+- Confidence scoring system
+- OpenAI validation for official translations
+- Support for Spanish and Latin American publishers
+
+That's it! You'll get a `matched_series_final.json` file with 99.2% match rate.
+
+## �📁 **File Structure**
 
 ```
-├── scrape_orderofbooks.py          # Enhanced scraper (multiple orderings support)
-├── match_series_final.py            # Final comprehensive matcher
+├── run_scraper.py                   # Scrapes OrderOfBooks data (multiple orderings support)
+├── run_matcher.py                   # Matches Wikipedia series with OrderOfBooks data
+├── find_spanish_editions.py         # 🇪🇸 Spanish edition finder (bibliographic search)
+├── process_spanish_editions.py      # 🇪🇸 Process dataset for Spanish editions
+├── example_spanish_finder.py        # 🇪🇸 Example Spanish edition searches
 ├── matched_series_final.json        # Final results (99.2% match rate)
 ├── best_selling_book_series.json    # Wikipedia source data
 ├── index.json                       # Master index of all series/authors

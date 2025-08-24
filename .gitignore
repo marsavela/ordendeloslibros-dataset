@@ -62,3 +62,7 @@ tmp/
 .env.local
 .env.production
 secrets.json
+
+# Spanish edition finder cache
+cache/
+.cache/
