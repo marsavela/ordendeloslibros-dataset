@@ -1,229 +1,101 @@
-# OrderOfBooks Dataset - Wikipedia Series Matching
+# Book Series Dataset Builder
 
-A comprehensive dataset that matches Wikipedia's bestselling book series with detailed ordering information from orderofbooks.com, achieving 99.2% match rate with support for multiple ordering types (publication, chronological, companion series, etc.).
+A comprehensive tool that creates a dataset by combining data from Wikipedia's bestselling book series with detailed information from Order of Books, then finds Spanish editions for all books.
 
-## 📊 **Final Results**
+## 🎯 What It Does
 
-- **Wikipedia Series**: 129 bestselling book series
-- **OrderOfBooks Series**: 2,750 series scraped
-- **Match Rate**: 99.2% (128/129 series successfully matched)
-- **Multiple Orderings**: 3 series with multiple ordering variants
+1. **Scrapes Wikipedia** - Uses bestselling book series data (already included)
+2. **Scrapes Order of Books** - Gets detailed book information and orderings  
+3. **Matches Series** - Intelligently matches Wikipedia series with Order of Books data
+4. **Finds Spanish Editions** - Locates Spanish translations using ISBNdb API
 
-### Series with Multiple Orderings:
-
-1. **The Chronicles of Narnia**: 4 orderings (publication, chronological, companion, world)
-2. **Alex Cross**: 3 orderings (publication + 2 variants)
-3. **A Series of Unfortunate Events**: 2 orderings (publication + variant)
-
-## � **Quick Start**
-
-### To run the complete process:
-
-1. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   playwright install chromium
-   ```
-
-2. **Set up your API key:**
-
-   ```bash
-   cp .env.example .env
-   # Edit .env and add your OPENAI_API_KEY
-   ```
-
-3. **Scrape the data:**
-
-   ```bash
-   python run_scraper.py
-   ```
-
-4. **Run the matching:**
-
-   ```bash
-   python run_matcher.py
-   ```
-
-5. **Validate results:**
-   ```bash
-   python validate_dataset.py
-   ```
-
-### 🇪🇸 **Spanish Edition Finder (NEW!)**
-
-Find Spanish editions of books using multiple bibliographic APIs:
-
-1. **Run example searches:**
-
-   ```bash
-   python example_spanish_finder.py
-   ```
-
-2. **Process entire dataset for Spanish editions:**
-   ```bash
-   python process_spanish_editions.py
-   ```
-
-**Features:**
-
-- Multi-API search (ISBNdb, Open Library, Google Books)
-- Intelligent title variants and normalization
-- Confidence scoring system
-- OpenAI validation for official translations
-- Support for Spanish and Latin American publishers
-
-That's it! You'll get a `matched_series_final.json` file with 99.2% match rate.
-
-## �📁 **File Structure**
-
-```
-├── run_scraper.py                   # Scrapes OrderOfBooks data (multiple orderings support)
-├── run_matcher.py                   # Matches Wikipedia series with OrderOfBooks data
-├── find_spanish_editions.py         # 🇪🇸 Spanish edition finder (bibliographic search)
-├── process_spanish_editions.py      # 🇪🇸 Process dataset for Spanish editions
-├── example_spanish_finder.py        # 🇪🇸 Example Spanish edition searches
-├── matched_series_final.json        # Final results (99.2% match rate)
-├── best_selling_book_series.json    # Wikipedia source data
-├── index.json                       # Master index of all series/authors
-└── data/
-    └── series/                      # 2,750 individual series files
-        ├── harry-potter.json
-        ├── the-chronicles-of-narnia.json
-        └── ...
-```
-
-## 🚀 **Usage**
-
-### Scraping OrderOfBooks Data
+## 🚀 Quick Start
 
 ```bash
-# Scrape all series with multiple orderings
-python scrape_orderofbooks.py --only-series
+# Install dependencies
+pip install -r requirements.txt
 
-# Scrape specific series
-python scrape_orderofbooks.py --only-series --include "harry-potter,narnia"
+# Set up environment (ISBNdb API key required for Spanish editions)
+cp .env.example .env
+# Edit .env and add your ISBNdb API key
 
-# Resume interrupted scrape with high concurrency
-python scrape_orderofbooks.py --resume --concurrency 30
+# Run complete pipeline
+python main.py --all
+
+# Or run individual steps
+python main.py --scrape-orderofbooks  # Step 1: Scrape Order of Books
+python main.py --match-series         # Step 2: Match with Wikipedia  
+python main.py --find-spanish         # Step 3: Find Spanish editions
 ```
 
-### Matching Series
+## 📊 Output Files
 
-```bash
-# Run comprehensive matching
-python match_series_final.py
+- `index.json` - Order of Books series index
+- `data/series/` - Individual series data with book orderings  
+- `matched_series_final.json` - Wikipedia + Order of Books matched data
+- `spanish_editions_results.json` - Spanish edition search results
 
-# Custom settings
-python match_series_final.py \
-  --wikipedia-data best_selling_book_series.json \
-  --confidence-threshold 0.3 \
-  --output custom_results.json
+## 🛠️ Core Components
+
+### Order of Books Scraper (`run_scraper.py`)
+- Scrapes all series from orderofbooks.com
+- Captures multiple orderings per series (publication vs chronological)
+- Concurrent processing for performance
+- Resume functionality for interrupted scrapes
+
+### Series Matcher (`run_matcher.py`)  
+- Matches Wikipedia series with Order of Books data
+- Uses fuzzy string matching and author validation
+- Handles series name variations and aliases
+- 99%+ match rate on bestselling series
+
+### Spanish Edition Finder (`main.py`)
+- Searches ISBNdb for Spanish translations
+- Matches books by title and author
+- Returns ISBN, publisher, and publication details
+
+## 📁 Project Structure
+
+```
+├── main.py                          # Main pipeline orchestrator
+├── run_scraper.py                   # Order of Books scraper  
+├── run_matcher.py                   # Wikipedia-OrderOfBooks matcher
+├── best_selling_book_series.json    # Wikipedia source data (129 series)
+├── requirements.txt                 # Python dependencies
+└── .env.example                     # Environment configuration template
 ```
 
-## 📋 **Dependencies**
+## 🔧 Configuration
 
-```bash
-pip install playwright aiohttp beautifulsoup4 tqdm python-slugify rapidfuzz openai
-python -m playwright install chromium
+Create a `.env` file with:
+
+```env
+# Required for Spanish edition finding
+ISBNDB_API_KEY=your_isbndb_api_key_here
+
+# Optional for enhanced matching
+OPENAI_API_KEY=your_openai_key_here
 ```
 
-## 🏗 **Data Structure**
+## 📈 Performance
 
-### Series with Multiple Orderings
+- **Series Coverage**: 129 Wikipedia bestselling series
+- **Match Rate**: 99%+ Wikipedia-OrderOfBooks matching
+- **Processing Speed**: ~20 concurrent requests for scraping
+- **Cache Support**: Preserves cache for faster subsequent runs
 
-```json
-{
-  "wikipedia_info": {
-    "series_name": "The Chronicles of Narnia",
-    "authors": ["C. S. Lewis"],
-    "approximate_sales": "120 million"
-  },
-  "orderofbooks_info": {
-    "orderings": {
-      "publication": {
-        "heading": "Publication Order of The Chronicles Of Narnia Books",
-        "books": [
-          {
-            "title": "The Lion, the Witch, and the Wardrobe",
-            "year": 1950,
-            "index": 1
-          },
-          { "title": "Prince Caspian", "year": 1951, "index": 2 }
-        ]
-      },
-      "chronological": {
-        "heading": "Chronological Order of The Chronicles Of Narnia Books",
-        "books": [
-          { "title": "The Magician's Nephew", "year": 1955, "index": 1 },
-          {
-            "title": "The Lion, the Witch, and the Wardrobe",
-            "year": 1950,
-            "index": 2
-          }
-        ]
-      }
-    }
-  },
-  "match_info": {
-    "confidence": 1.0,
-    "match_type": "exact",
-    "notes": "4 orderings available"
-  }
-}
-```
+## 🎯 Use Cases
 
-## 📈 **Matching Statistics**
+- **Research**: Academic studies on book series and translations
+- **Publishing**: Market analysis for Spanish edition opportunities  
+- **Development**: Training data for book recommendation systems
+- **Analysis**: Cross-language publication pattern studies
 
-- **Total Wikipedia series**: 129
-- **Successfully matched**: 128 (99.2%)
-- **Match types**:
-  - Exact matches: 53 (41.1%)
-  - Fuzzy matches: 75 (58.1%)
-  - No matches: 1 (0.8%)
+## 🚀 Getting Started
 
-### Unmatched Series
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Configure APIs in `.env` file
+4. Run: `python main.py --all`
 
-Only 1 series remains unmatched: Japanese language series not available on orderofbooks.com.
-
-## 🎯 **Key Features**
-
-### Enhanced Scraper
-
-- Captures **all ordering types** from orderofbooks.com pages
-- Detects publication vs chronological vs companion orderings
-- Concurrent processing for 2,750+ series
-- Resume functionality for large scrapes
-
-### Advanced Matcher
-
-- Fuzzy string matching with rapidfuzz
-- GPT validation for ambiguous matches
-- Author similarity scoring
-- Known series mappings for edge cases
-- Comprehensive statistics and reporting
-
-## 🔧 **Technical Highlights**
-
-1. **Multiple Orderings Detection**: Automatically identifies different ordering types from page headings
-2. **High Accuracy**: 99.2% match rate through intelligent fuzzy matching + validation
-3. **Scalable Architecture**: Handles 2,750+ series with concurrent processing
-4. **Robust Data Structure**: Supports both old and new data formats for compatibility
-
-## 📚 **Example Series Coverage**
-
-Major bestselling series successfully matched:
-
-- Harry Potter (7 books)
-- Goosebumps (62+ books)
-- Chronicles of Narnia (7 books + variants)
-- Twilight (4 books)
-- Hunger Games (5 books)
-- Percy Jackson (7+ books)
-- And 122 more...
-
----
-
-**Created**: August 2025  
-**Match Rate**: 99.2% (128/129 series)  
-**Data Source**: Wikipedia + orderofbooks.com
+The tool will create a comprehensive dataset combining Wikipedia metadata, detailed book orderings, and Spanish edition information for analysis and research purposes.

@@ -1,17 +1,15 @@
-# Core dependencies for OrderOfBooks scraper and matcher
+# Core dependencies for Book Series Dataset Builder
+# Order of Books scraper
 playwright>=1.40.0
 aiohttp>=3.9.0
 beautifulsoup4>=4.12.0
 tqdm>=4.66.0
 python-slugify>=8.0.0
+
+# Series matcher  
 rapidfuzz>=3.5.0
-openai>=1.3.0
 
-# Spanish edition finder dependencies
+# Spanish edition finder
 requests>=2.31.0
+openai>=1.3.0
 python-dotenv>=1.0.0
-
-# Development dependencies (optional)
-# pytest>=7.4.0
-# black>=23.0.0
-# flake8>=6.0.0
