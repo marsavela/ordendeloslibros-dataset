@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Bell Elkins",
+  "slug": "bell-elkins",
+  "source": "https://www.orderofbooks.com/characters/bell-elkins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Bell-Elkins-by-Julia-Keller-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julia Keller",
+      "slug": "julia-keller"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Killing in the Hills",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bitter River",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Summer of the Dead",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Devil's Stepdaughter",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Haunting of the Bones",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ghost Roll",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Last Ragged Breath",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Evening Street",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Sorrow Road",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fast Falls the Night",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bone on Bone",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Cold Way Home",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

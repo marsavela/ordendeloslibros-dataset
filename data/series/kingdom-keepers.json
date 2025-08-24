@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Kingdom Keepers",
+  "slug": "kingdom-keepers",
+  "source": "https://www.orderofbooks.com/characters/kingdom-keepers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Kingdom-Keepers-by-Ridley-Pearson.jpg",
+  "books": [
+    {
+      "title": "Disney After Dark",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Disney at Dawn",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Disney in Shadow",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Power Play",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shell Game",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dark Passage",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Unforeseen",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Insider",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Syndrome",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

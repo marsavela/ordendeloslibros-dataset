@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Artemis Fowl",
+  "slug": "artemis-fowl",
+  "source": "https://www.orderofbooks.com/characters/artemis-fowl/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Artemis-Fowl-by-Eoin-Colfer.jpg",
+  "books": [
+    {
+      "title": "Artemis Fowl",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Arctic Incident",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Eternity Code",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Opal Deception",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Lost Colony",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Time Paradox",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Artemis Fowl and the Atlantis Complex",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Last Guardian",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

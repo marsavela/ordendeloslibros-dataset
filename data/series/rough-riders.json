@@ -1,0 +1,215 @@
+{
+  "type": "series",
+  "name": "Rough Riders",
+  "slug": "rough-riders",
+  "source": "https://www.orderofbooks.com/characters/rough-riders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Rough-Riders-by-Lorelei-James.jpg",
+  "authors": [
+    {
+      "name": "Lorelei James",
+      "slug": "lorelei-james"
+    }
+  ],
+  "books": [
+    {
+      "title": "Long Hard Ride",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rode Hard, Put Up Wet",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cowgirl Up and Ride",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tied Up, Tied Down",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rough, Raw, and Ready",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Branded as Trouble",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Strong Silent Type",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shoulda Been a Cowboy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "All Jacked Up",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Wild Ride",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Raising Kane",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Slow Ride",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Cowgirls Don't Cry",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Chasin' Eight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Cowboy Casanova",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "King of Hearts",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Kissin' Tell",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Gone Country",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Short Rides",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Redneck Romeo",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Cowboy Take Me Away",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Long Time Gone",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Wound Tight",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Silver-Tongued Devil",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Back in the Saddle",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

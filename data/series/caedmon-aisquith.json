@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Caedmon Aisquith",
+  "slug": "caedmon-aisquith",
+  "source": "https://www.orderofbooks.com/characters/caedmon-aisquith/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Caedmon-Aisquith-by-CM-Palov-500x200.jpg",
+  "authors": [
+    {
+      "name": "CM Palov",
+      "slug": "cm-palov"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ark of Fire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Templar's Code",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Templar's Quest",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Templar's Secret",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

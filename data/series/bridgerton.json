@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Bridgerton",
+  "slug": "bridgerton",
+  "source": "https://www.orderofbooks.com/characters/bridgerton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Bridgertons-by-Julia-Quinn.jpg",
+  "authors": [
+    {
+      "name": "Julia Quinn",
+      "slug": "julia-quinn"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Duke and I",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Viscount Who Loved Me",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Offer from a Gentleman",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Romancing Mister Bridgerton",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "To Sir Phillip, With Love",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "When He Was Wicked",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "It's in His Kiss",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "On the Way to the Wedding",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Because of Miss Bridgerton",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Girl with the Make-Believe Husband",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Other Miss Bridgerton",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "First Comes Scandal",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Wit and Wisdom of Bridgerton",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Queen Charlotte",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Sunset Warrior Cycle",
+  "slug": "sunset-warrior-cycle",
+  "source": "https://www.orderofbooks.com/characters/sunset-warrior-cycle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Sunset-Warrior-Cycle.jpg",
+  "books": [
+    {
+      "title": "The Sunset Warrior",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shallows of Night",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dai-San",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Beneath an Opal Moon",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dragons on the Sea of Night",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

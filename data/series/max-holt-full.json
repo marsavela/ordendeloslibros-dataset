@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Max Holt/Full",
+  "slug": "max-holt-full",
+  "source": "https://www.orderofbooks.com/characters/max-holt/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Full.jpg",
+  "books": [
+    {
+      "title": "Full House",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Full Tilt",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Full Speed",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Full Blast",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Full Bloom",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Full Scoop",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

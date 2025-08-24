@@ -1,0 +1,169 @@
+{
+  "type": "series",
+  "name": "Starry Hollow Witches",
+  "slug": "starry-hollow-witches",
+  "source": "https://www.orderofbooks.com/characters/starry-hollow-witches/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/03/Starry-Hollow-Witches-by-Annabel-Chase.jpg",
+  "books": [
+    {
+      "title": "Magic & Murder",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Magic & Mystery",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Magic & Mischief",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Magic & Mayhem",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Magic & Mercy",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "One Witch's Trash Panda Is Another Witch's Treasure",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Magic & Madness",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Magic & Malice",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Magic & Mythos",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Magic & Mishaps",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Magic & Maladies",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Magic & Misdeeds",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Magic & Monsters",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Magic & Misfits",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Magic & Misfortune",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Magic & Marriage",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Magic & Midnight",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Magic & Mirrors",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Magic & Mistletoe",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Magic & Mutiny",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    }
+  ]
+}

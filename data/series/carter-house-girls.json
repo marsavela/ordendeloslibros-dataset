@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Carter House Girls",
+  "slug": "carter-house-girls",
+  "source": "https://www.orderofbooks.com/characters/carter-house-girls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Carter-House-Girls-by-Melody-Carlson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Melody Carlson",
+      "slug": "melody-carlson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mixed Bags",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Stealing Bradford",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Homecoming Queen",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Viva Vermont!",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lost in Las Vegas",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "New York Debut",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Spring Breakdown",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Last Dance",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

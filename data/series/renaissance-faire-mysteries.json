@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Renaissance Faire Mysteries",
+  "slug": "renaissance-faire-mysteries",
+  "source": "https://www.orderofbooks.com/characters/renaissance-faire-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Renaissance-Faire-Mysteries-by-Joyce-Jim-Lavene.jpg",
+  "authors": [
+    {
+      "name": "Joyce Jim Lavene",
+      "slug": "joyce-jim-lavene"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wicked Weaves",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ghastly Glass",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deadly Daggers",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Harrowing Hats",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Treacherous Toys",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Perilous Pranks",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murderous Matrimony",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bewitching Boots",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fatal Fairies",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

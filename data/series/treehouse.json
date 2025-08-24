@@ -1,0 +1,145 @@
+{
+  "type": "series",
+  "name": "Treehouse",
+  "slug": "treehouse",
+  "source": "https://www.orderofbooks.com/characters/treehouse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/12/Treehouse-by-Andy-Griffiths.jpg",
+  "books": [
+    {
+      "title": "The 13-Story Treehouse",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The 26-Story Treehouse",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The 65-Story Treehouse: Time Travel Trouble!",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The 39-Story Treehouse",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The 52-Story Treehouse",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The 65-Storey Treehouse",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The 78-Story Treehouse",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The 91-Story Treehouse",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Terry's Dumb Dot Story",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The 104-Story Treehouse",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The 117-Story Treehouse",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The 130-Story Treehouse",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Ten Unlucky Pirates",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The 143-Storey Treehouse",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The 156-Story Treehouse: Holiday Havoc!",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The 169-Storey Treehouse: Monkeys, Mirrors, Mayhem!",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The 169-Story Treehouse: Doppelganger Doom!",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

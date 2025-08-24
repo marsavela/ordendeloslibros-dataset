@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Blanco County Mysteries",
+  "slug": "blanco-county-mysteries",
+  "source": "https://www.orderofbooks.com/characters/blanco-county-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Blanco-County-Mysteries-by-Ben-Rehder-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ben Rehder",
+      "slug": "ben-rehder"
+    }
+  ],
+  "books": [
+    {
+      "title": "Buck Fever",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bone Dry",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flat Crazy",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Guilt Trip",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gun Shy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Holy Moly",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mind Game",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hog Heaven",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Stag Party",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Bum Steer",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Point Taken",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Dog Tag",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Last Laugh",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Lefty Loosey",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Free Ride",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Boom Town",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Weed Killer",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Money Maker",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

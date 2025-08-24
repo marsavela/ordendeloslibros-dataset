@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Elfhome",
+  "slug": "elfhome",
+  "source": "https://www.orderofbooks.com/characters/elfhome/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/12/Elfhome-by-Wen-Spencer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Wen Spencer",
+      "slug": "wen-spencer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tinker",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wolf Who Rules",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blue Sky",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wyvern",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Elfhome",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Peace Offering",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wood Sprites",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Project Elfhome",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Harbinger",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Monsters In Our Midst",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Storm Furies",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

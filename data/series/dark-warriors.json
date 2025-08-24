@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Dark Warriors",
+  "slug": "dark-warriors",
+  "source": "https://www.orderofbooks.com/characters/dark-warriors/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Dark-Warriors-by-Donna-Grant-500x200.jpg",
+  "authors": [
+    {
+      "name": "Donna Grant",
+      "slug": "donna-grant"
+    }
+  ],
+  "books": [
+    {
+      "title": "Midnight's Master",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Midnight's Lover",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Midnight's Seduction",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Midnight's Warrior",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Midnight's Kiss",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Midnight's Captive",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Midnight's Temptation",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Midnight's Promise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Midnight's Surrender",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Warrior for Christmas",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

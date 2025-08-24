@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Texas Tradition",
+  "slug": "texas-tradition",
+  "source": "https://www.orderofbooks.com/characters/texas-tradition/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Texas-Tradition-by-Elmer-Kelton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elmer Kelton",
+      "slug": "elmer-kelton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Day the Cowboys Quit",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wagontongue",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Manhunters",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Wolf and the Buffalo",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stand Proud",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dark Thicket",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Man Who Rode Midnight",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Honor at Daybreak",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

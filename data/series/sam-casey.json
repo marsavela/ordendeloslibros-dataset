@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Sam Casey",
+  "slug": "sam-casey",
+  "source": "https://www.orderofbooks.com/characters/sam-casey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Sam-Casey-by-SD-Tooley-500x200.jpg",
+  "authors": [
+    {
+      "name": "SD Tooley",
+      "slug": "sd-tooley"
+    }
+  ],
+  "books": [
+    {
+      "title": "When the Dead Speak",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Nothing Else Matters",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Restless Spirit",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Echoes from the Grave",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "What Lies Within",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Destiny Kills",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Tunnel",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

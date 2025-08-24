@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "DC Gary Goodhew",
+  "slug": "dc-gary-goodhew",
+  "source": "https://www.orderofbooks.com/characters/dc-gary-goodhew/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/12/DC-Gary-Goodhew-by-Alison-Bruce.jpg",
+  "books": [
+    {
+      "title": "Cambridge Blue",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Siren",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Calling",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Silence",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Cry in the Night / The Backs",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Promise",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cambridge Black",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

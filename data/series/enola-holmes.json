@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Enola Holmes",
+  "slug": "enola-holmes",
+  "source": "https://www.orderofbooks.com/characters/enola-holmes/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/11/enola-holmes.jpg",
+  "authors": [
+    {
+      "name": "Nancy Springer",
+      "slug": "nancy-springer"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Case of the Missing Marquess",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Case of the Left-Handed Lady",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Case of the Bizarre Bouquets",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Case of the Peculiar Pink Fan",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Case of the Cryptic Crinoline",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Case of the Gypsy Good-Bye / The Case of the Disappearing Duchess",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "type": "series",
+  "name": "Captain Awesome",
+  "slug": "captain-awesome",
+  "source": "https://www.orderofbooks.com/characters/captain-awesome/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/captain-awesome-500x200.jpg",
+  "books": [
+    {
+      "title": "Captain Awesome to the Rescue!",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Captain Awesome vs. Nacho Cheese Man",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Captain Awesome and the New Kid",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Captain Awesome Takes a Dive",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Captain Awesome, Soccer Star",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Captain Awesome Saves the Winter Wonderland",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Captain Awesome and the Ultimate Spelling Bee",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Captain Awesome vs. the Spooky, Scary House",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Captain Awesome Gets Crushed",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Captain Awesome and the Missing Elephants",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Captain Awesome vs. the Evil Babysitter",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Captain Awesome Gets a Hole-in-One",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Captain Awesome and the Easter Egg Bandit",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Captain Awesome Goes to Superhero Camp",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Captain Awesome and the Mummy's Treasure",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Captain Awesome vs. the Sinister Substitute Teacher",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Captain Awesome Meets Super Dude!",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Captain Awesome Has the Best Snow Day Ever?",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Captain Awesome Takes Flight",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Captain Awesome for President",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Captain Awesome and the Trapdoor",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Captain Awesome Says the Magic Word",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Captain Awesome, the Show Must Go On!",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Captain Awesome vs. the Evil Ice Cream Jingle",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Captain Awesome Is a Spy!",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

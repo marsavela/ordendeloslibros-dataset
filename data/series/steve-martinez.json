@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Steve Martinez",
+  "slug": "steve-martinez",
+  "source": "https://www.orderofbooks.com/characters/steve-martinez/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Steve-Martinez-by-Henry-Kisor-500x200.jpg",
+  "authors": [
+    {
+      "name": "Henry Kisor",
+      "slug": "henry-kisor"
+    }
+  ],
+  "books": [
+    {
+      "title": "Season's Revenge",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Venture into Murder",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cache of Corpses",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hang Fire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tracking the Beast",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Riddle of Billy Gibbs",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

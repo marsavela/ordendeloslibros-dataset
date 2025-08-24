@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Joliffe The Player",
+  "slug": "joliffe-the-player",
+  "source": "https://www.orderofbooks.com/characters/joliffe-the-player/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Joliffe-the-Player-by-Margaret-Frazer.jpg",
+  "authors": [
+    {
+      "name": "Margaret Frazer",
+      "slug": "margaret-frazer"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Play of Isaac",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Play of Dux Moraud",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Play of Knaves",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Play of Lords",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Play of Treachery",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Play of Piety",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Play of Heresy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

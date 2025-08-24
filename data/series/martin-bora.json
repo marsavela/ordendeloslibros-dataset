@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Martin Bora",
+  "slug": "martin-bora",
+  "source": "https://www.orderofbooks.com/characters/martin-bora/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/Martin-Bora-by-Ben-Pastor.jpg",
+  "books": [
+    {
+      "title": "Lumen",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Liar Moon",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Dark Song of Blood",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tin Sky",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Road to Ithaca",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Horseman’s Song",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Night of Shooting Stars",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Venus of Salo",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

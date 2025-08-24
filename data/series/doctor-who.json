@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Doctor Who",
+  "slug": "doctor-who",
+  "source": "https://www.orderofbooks.com/characters/doctor-who/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Doctor-Who.jpg",
+  "authors": [
+    {
+      "name": "Sydney Newman",
+      "slug": "sydney-newman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Genesys",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Timewyrm: Exodus",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Apocalypse",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Revelation",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

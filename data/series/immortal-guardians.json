@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Immortal Guardians",
+  "slug": "immortal-guardians",
+  "source": "https://www.orderofbooks.com/characters/immortal-guardians/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Immortal-Guardians-by-Dianne-Duvall-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dianne Duvall",
+      "slug": "dianne-duvall"
+    }
+  ],
+  "books": [
+    {
+      "title": "Darkness Dawns",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Night Reigns",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Phantom Shadows",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darkness Rises",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In Still Darkness",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Night Unbound",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Phantom Embrace",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shadows Strike",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Blade of Darkness",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Awaken the Darkness",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Death of Darkness",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Broken Dawn",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Cliff's Descent",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Rogue Darkness",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

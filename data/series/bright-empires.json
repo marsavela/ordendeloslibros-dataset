@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Bright Empires",
+  "slug": "bright-empires",
+  "source": "https://www.orderofbooks.com/characters/bright-empires/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Bright-Empires-by-Stephen-R-Lawhead.jpg",
+  "books": [
+    {
+      "title": "The Skin Map",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bone House",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Spirit Well",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Shadow Lamp",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fatal Tree",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

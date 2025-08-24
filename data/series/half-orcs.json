@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Half-Orcs",
+  "slug": "half-orcs",
+  "source": "https://www.orderofbooks.com/characters/half-orcs/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/half-orcs-500x200.jpg",
+  "authors": [
+    {
+      "name": "American David Dalglish",
+      "slug": "american-david-dalglish"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Weight of Blood",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Cost of Betrayal",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Death of Promises",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Shadows of Grace",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Sliver of Redemption",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Prison of Angels",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The King of the Vile",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The King of the Fallen",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

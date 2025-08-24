@@ -1,0 +1,191 @@
+{
+  "type": "series",
+  "name": "Spider Shepherd",
+  "slug": "spider-shepherd",
+  "source": "https://www.orderofbooks.com/characters/spider-shepherd/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Spider-Shepherd-by-Stephen-Leather-500x200.jpg",
+  "authors": [
+    {
+      "name": "Stephen Leather",
+      "slug": "stephen-leather"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hard Landing",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Soft Target",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cold Kill",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hot Blood",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead Men",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Live Fire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rough Justice",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fair Game",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "False Friends",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "True Colours",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "White Lies",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Black Ops",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Dark Forces",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Light Touch",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Tall Order",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Short Range",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Slow Burn",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Fast Track",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Dirty War",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Clean Kill",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "First Strike",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Last Chance",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

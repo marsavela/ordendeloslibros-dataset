@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Vintage Kitchen Mysteries",
+  "slug": "vintage-kitchen-mysteries",
+  "source": "https://www.orderofbooks.com/characters/vintage-kitchen-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Vintage-Kitchen-Mystery-by-Victoria-Hamilton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Victoria Hamilton",
+      "slug": "victoria-hamilton"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Deadly Grind",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bowled Over",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Freezer I'll Shoot",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Mallets Intended",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "White Colander Crime",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Leave It to Cleaver",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "No Grater Danger",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Breaking the Mould",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Cast Iron Alibi",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Calculated Whisk",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Sieve and Let Die",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Cat Got Your Tongs",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

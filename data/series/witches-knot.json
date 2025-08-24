@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Witches Knot",
+  "slug": "witches-knot",
+  "source": "https://www.orderofbooks.com/characters/witches-knot/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Witches-Knot-by-Lauren-Dane1-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lauren Dane",
+      "slug": "lauren-dane"
+    }
+  ],
+  "books": [
+    {
+      "title": "Triad",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Touch of Fae",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vengeance Due",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thrice United",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Threat of Darkness",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Celebration for the Dead",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

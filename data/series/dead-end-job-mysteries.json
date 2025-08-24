@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Dead-End Job Mysteries",
+  "slug": "dead-end-job-mysteries",
+  "source": "https://www.orderofbooks.com/characters/dead-end-job-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Dead-End-Job-by-Elaine-Viets-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elaine Viets",
+      "slug": "elaine-viets"
+    }
+  ],
+  "books": [
+    {
+      "title": "Shop Till You Drop",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder Between the Covers",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dying to Call You",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Killer Blonde",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Just Murdered",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder Unleashed",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder with Reservations",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Clubbed to Death",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Killer Cuts",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Half-Price Homicide",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Pumped for Murder",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Final Sail",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Board Stiff",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Catnapped!",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Checked Out",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Art of Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

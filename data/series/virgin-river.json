@@ -1,0 +1,209 @@
+{
+  "type": "series",
+  "name": "Virgin River",
+  "slug": "virgin-river",
+  "source": "https://www.orderofbooks.com/characters/virgin-river/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Virgin-River-by-Robyn-Carr.jpg",
+  "books": [
+    {
+      "title": "Virgin River",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shelter Mountain",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Whispering Rock",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Virgin River Christmas",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Second Chance Pass",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Temptation Ridge",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Paradise Valley",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Under the Christmas Tree",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Forbidden Falls",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "'Tis The Season",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Angel's Peak",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Happy New Year in Virgin River",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Moonlight Road",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Sheltering Hearts",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Midnight Confessions",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Promise Canyon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Wild Man Creek",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Harvest Moon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Bring Me Home for Christmas",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Hidden Summit",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Redwood Bend",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Sunrise Point",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "My Kind of Christmas",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Return to Virgin River",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Holidays in Virgin River",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

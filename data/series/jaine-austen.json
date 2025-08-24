@@ -1,0 +1,199 @@
+{
+  "type": "series",
+  "name": "Jaine Austen",
+  "slug": "jaine-austen",
+  "source": "https://www.orderofbooks.com/characters/jaine-austen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Jaine-Austen-by-Laura-Levine-500x200.jpg",
+  "authors": [
+    {
+      "name": "Laura Levine",
+      "slug": "laura-levine"
+    }
+  ],
+  "books": [
+    {
+      "title": "This Pen for Hire",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Last Writes",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Killer Blonde",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shoes to Die For",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The PMS Murder",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death by Pantyhose",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Killing Bridezilla",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Killer Cruise",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Death of a Trophy Wife",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Dangers of Gingerbread Cookies",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Pampered to Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Death of a Neighborhood Witch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Killing Cupid",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Death by Tiara",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Murder Has Nine Lives",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Death of a Bachelorette",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Death of a Neighborhood Scrooge",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Death of a Gigolo",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Murder Gets a Makeover",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Death by Smoothie",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Nightmare on Elf Street",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Dangers of Candy Canes",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Murder Buys a One-Way Ticket",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Dortmunder",
+  "slug": "dortmunder",
+  "source": "https://www.orderofbooks.com/characters/dortmunder/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Dortmunder-by-Donald-Westlake.jpg",
+  "books": [
+    {
+      "title": "The Hot Rock",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bank Shot",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jimmy The Kid",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nobody's Perfect",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Why Me?",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Good Behavior",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Drowned Hopes",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Don't Ask",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "What's The Worst That Could Happen?",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Bad News",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Road To Ruin",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Thieves' Dozen",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Watch Your Back!",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "What's So Funny?",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Get Real",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

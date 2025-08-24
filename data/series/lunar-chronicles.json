@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Lunar Chronicles",
+  "slug": "lunar-chronicles",
+  "source": "https://www.orderofbooks.com/characters/lunar-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Lunar-Chronicles-by-Marissa-Meyer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Marissa Meyer",
+      "slug": "marissa-meyer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cinder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Queen's Army / L'armée de la reine",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Scarlet",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cress",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fairest",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Winter",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Stars Above",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "COVID-128",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Cinder's Adventure",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Bodyguards",
+  "slug": "bodyguards",
+  "source": "https://www.orderofbooks.com/characters/bodyguards/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Bodyguards-by-Cindy-Gerard-500x200.jpg",
+  "authors": [
+    {
+      "name": "Cindy Gerard",
+      "slug": "cindy-gerard"
+    }
+  ],
+  "books": [
+    {
+      "title": "To the Edge",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "To the Limit",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "To the Brink",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Over the Line",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Under the Wire",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Into the Dark",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

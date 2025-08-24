@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Defender",
+  "slug": "defender",
+  "source": "https://www.orderofbooks.com/characters/defender/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/The-Defender-by-Jerry-Ahern.jpg",
+  "books": [
+    {
+      "title": "The Battle Begins",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Killing Wedge",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Out of Control",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Decision Time",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Entrapment",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Escape",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Vengeance",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Justice Denied",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Death Grip",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Good Fight",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Challenge",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "No Survivors",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

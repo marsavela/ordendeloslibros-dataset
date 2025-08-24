@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Devaneys",
+  "slug": "devaneys",
+  "source": "https://www.orderofbooks.com/characters/devaneys/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Devaneys-by-Sherryl-Woods.jpg",
+  "books": [
+    {
+      "title": "Sean's Reckoning",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Michael's Discovery",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ryan's Place",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Daniel's Desire",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Patrick's Destiny",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

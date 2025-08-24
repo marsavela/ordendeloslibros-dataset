@@ -1,0 +1,185 @@
+{
+  "type": "series",
+  "name": "Hillary Greene",
+  "slug": "hillary-greene",
+  "source": "https://www.orderofbooks.com/characters/hillary-greene/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/03/Hillary-Greene-by-Faith-Martin.jpg",
+  "books": [
+    {
+      "title": "Murder on the Oxford Canal / A Narrow Escape",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder at the University / On the Straight and Narrow",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder of the Bride / Narrow is the Way",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder in the Village / By a Narrow Majority",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder in the Family / Through a Narrow Door",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder at Home / With a Narrow Blade",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder in the Meadow / Beside a Narrow Stream",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder in a Mansion / Down a Narrow Path",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder in the Garden / Across the Narrow Blue Line",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Murder by Fire / A Narrow Point of View",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Murder at Work / A Narrow Exit",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Narrow Return / Murder Never Retires",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Narrow Margin of Error / Murder of a Lover",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Walk a Narrow Mile / Murder Never Misses",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Narrow Victory / Murder at Midnight",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Work of a Narrow Mind / Murder in Mind",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "A Narrow Trajectory / Hillary's Final Case",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Hillary's Back!",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Murder Now and Then",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Murder in the Parish",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Murder on the Train",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Murder Under The Sun",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

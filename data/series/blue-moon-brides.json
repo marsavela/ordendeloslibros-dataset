@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Blue Moon Brides",
+  "slug": "blue-moon-brides",
+  "source": "https://www.orderofbooks.com/characters/blue-moon-brides/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Blue-Moon-Brides-by-Anne-Marsh-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anne Marsh",
+      "slug": "anne-marsh"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tempted By the Pack",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pleasured by the Pack",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Claimed by the Pack",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Taken by the Pack",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Captured by the Pack",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wolf's Desire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wolf's Redemption",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

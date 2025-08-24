@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Moon Shifter",
+  "slug": "moon-shifter",
+  "source": "https://www.orderofbooks.com/characters/moon-shifter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Moon-Shifter-by-Katie-Reus-500x200.jpg",
+  "authors": [
+    {
+      "name": "Katie Reus",
+      "slug": "katie-reus"
+    }
+  ],
+  "books": [
+    {
+      "title": "Alpha Instinct",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lover's Instinct",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Primal Possession",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mating Instinct",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "His Untamed Desire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Avenger's Heat",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hunter Reborn",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Protective Instinct",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dark Protector",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Mate for Christmas",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

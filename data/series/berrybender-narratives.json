@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Berrybender Narratives",
+  "slug": "berrybender-narratives",
+  "source": "https://www.orderofbooks.com/characters/berrybender-narratives/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Berrybender-Narrative-by-Larry-McMurtry.jpg",
+  "books": [
+    {
+      "title": "Sin Killer",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wandering Hill",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "By Sorrow's River",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Folly and Glory",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "type": "series",
+  "name": "Whales and Tails Mysteries",
+  "slug": "whales-and-tails-mysteries",
+  "source": "https://www.orderofbooks.com/characters/whales-and-tails-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/11/Whales-and-Tails-Mysteries-by-Kathi-Daley.jpg",
+  "books": [
+    {
+      "title": "Romeow and Juliet",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mad Catter",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Grimm's Furry Tail",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Much Ado About Felines",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Legend of Tabby Hollow",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Cat of Christmas Past",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Tale of Two Tabbies",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Great Catsby",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Count Catula",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Cat of Christmas Present",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Winter's Tail",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Taming of the Tabby",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Frankencat",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Cat of Christmas Future",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Farewell to Felines",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "A Whisker in Time",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Catsgiving Feast",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "A Whale of a Tail",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Catnap Before Christmas",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Mew Beginning",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "CATastrophe in the Making",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Fear and Loathing",
+  "slug": "fear-and-loathing",
+  "source": "https://www.orderofbooks.com/characters/fear-and-loathing/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Fear-and-Loathing-by-Hunter-S.-Thompson.jpg",
+  "books": [
+    {
+      "title": "Fear and Loathing in Las Vegas",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fear and Loathing on the Campaign Trail '72",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fear and Loathing at Rolling Stone",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

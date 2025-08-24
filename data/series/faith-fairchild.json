@@ -1,0 +1,223 @@
+{
+  "type": "series",
+  "name": "Faith Fairchild",
+  "slug": "faith-fairchild",
+  "source": "https://www.orderofbooks.com/characters/faith-fairchild/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Faith-Fairchild-by-Katherine-Hall-Page-500x200.jpg",
+  "authors": [
+    {
+      "name": "Katherine Hall Page",
+      "slug": "katherine-hall-page"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Body in the Belfry",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Body in the Kelp",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Body in the Bouillon",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Body in the Vestibule",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Body in the Cast",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Body in the Basement",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Body in the Bog / The Body in the Marsh",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Body in the Fjord",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Body in the Bookcase",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Body in the Big Apple",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Body in the Moonlight",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Body in the Bonfire",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Body in the Lighthouse",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Body in the Attic",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Body in the Snowdrift",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Body in the Ivy",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Body in the Gallery",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Body in the Sleigh",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Body in the Gazebo",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Body in the Boudoir",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Body in the Piazza",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Body in the Birches",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Body in the Wardrobe",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Body in the Casket",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Body in the Wake",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Body in the Web",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    }
+  ]
+}

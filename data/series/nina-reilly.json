@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "Nina Reilly",
+  "slug": "nina-reilly",
+  "source": "https://www.orderofbooks.com/characters/nina-reilly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Nina-Reilly-by-Perri-OShaughnessy.jpg",
+  "books": [
+    {
+      "title": "Motion to Suppress",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Invasion of Privacy",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Obstruction of Justice",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Breach of Promise",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Acts of Malice",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Move to Strike",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Writ of Execution",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Unfit to Practice",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Presumption of Death",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Unlucky in Law",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Case of Lies",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Show No Fear",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Dreams of the Dead",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

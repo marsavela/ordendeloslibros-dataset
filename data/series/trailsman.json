@@ -1,0 +1,3135 @@
+{
+  "type": "series",
+  "name": "Trailsman",
+  "slug": "trailsman",
+  "source": "https://www.orderofbooks.com/characters/trailsman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Trailsman-by-Jon-Sharpe.jpg",
+  "authors": [
+    {
+      "name": "John Joseph Messmann",
+      "slug": "john-joseph-messmann"
+    }
+  ],
+  "books": [
+    {
+      "title": "Seven Wagons West",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hanging Trail",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mountain Man Kill",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Sundown Searchers",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The River Raiders",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dakota Wild",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wolf Country",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Six-gun Drive",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dead Man's Saddle",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Slave Hunter",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Montana Maiden",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Condor Pass",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Blood Country",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Spoon River Stud",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Arrowhead Territory",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Stalking Horse",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Savage Shadow",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Ride The Wild Shadow",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Cry Of The Cherokee",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Judas Killer",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Whiskey Guns",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Border Arrows",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Comstock Killers",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Twisted Noose",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Maverick Maiden",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Warpaint Rifles",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Bloody Heritage",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Hostage Trail",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "High Mountain Guns",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "White Savage",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Six-gun Sombreros",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Apache Gold",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Red River Revenge",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Sharpshooter",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Kiowa Kill",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Badge",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Valley Of Death",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Lost Patrol",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Grizzly Man",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Range Killers",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Renegade Command",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Mesquite Manhunt",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Scorpion Trail",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Killer Caravan",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Hell Town",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Six-gun Salvation",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "The White Hell Trail",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Blood Oath",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Swamp Slayers",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Sioux Captive",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Posse From Hell",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Longhorn Guns",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Killer Clan",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Thief River Showdown",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Guns Of Hungry Horse",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Fortune Riders",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Slaughter Express",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Thunderhawk",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "The Wayward Lassie",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Bullet Caravan",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Horsethief Crossing",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Stagecoach To Hell",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Fargo's Woman",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "River Kill",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Treachery Pass",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "Manitoba Marauders",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Trapper Rampage",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Confederate Challenge",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Hostage Arrows",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Renegade Rebellion",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Calico Kill",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "Blood Pass",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "Santa Fe Slaughter",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "White Hell",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Colorado Robber",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Wildcat Wagons",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "Minnesota Missionary",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "Smokey Hell Trail",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "Twisted Trails",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "Mescalero Mask",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "Dead Mans Forest",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "Utah Slaughter",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "Machine Gun Madness",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "Call Of The White Wolf",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "Texas Hell Country",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "Brothel Bullets",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "Mexican Massacre",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "Target Conestoga",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "Mesabi Huntdown",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "Cave Of Death",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "Death's Caravan",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "The Texas Train",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "Desperate Dispatch",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    },
+    {
+      "title": "Cry Revenge",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 94
+    },
+    {
+      "title": "Shadow Guns",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 95
+    },
+    {
+      "title": "Buzzard's Gap",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 96
+    },
+    {
+      "title": "Queen's High Bid",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 97
+    },
+    {
+      "title": "Desert Desperados",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 98
+    },
+    {
+      "title": "Black Hills Blood",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 99
+    },
+    {
+      "title": "Riverboat Gold",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 100
+    },
+    {
+      "title": "Shoshoni Spirits",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 101
+    },
+    {
+      "title": "The Coronado Killers",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 102
+    },
+    {
+      "title": "Secret Six-guns",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 103
+    },
+    {
+      "title": "Comanche Crossing",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 104
+    },
+    {
+      "title": "Camp St. Lucifer",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 105
+    },
+    {
+      "title": "Sierra Shootout",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 106
+    },
+    {
+      "title": "Gunsmoke Gulch",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 107
+    },
+    {
+      "title": "The Great Land Swindle",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 108
+    },
+    {
+      "title": "Pawnee Bargain",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 109
+    },
+    {
+      "title": "Gold Mine Madness",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 110
+    },
+    {
+      "title": "Arizona Slaughter",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 111
+    },
+    {
+      "title": "Lone Star Lightning",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 112
+    },
+    {
+      "title": "Wyoming Manhunt",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 113
+    },
+    {
+      "title": "Counterfeit Cargo",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 114
+    },
+    {
+      "title": "Blood Canyon",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 115
+    },
+    {
+      "title": "Renegade Rifles",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 116
+    },
+    {
+      "title": "Doomsday Wagons",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 117
+    },
+    {
+      "title": "Southern Belles",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 118
+    },
+    {
+      "title": "Tamarind Trail",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 119
+    },
+    {
+      "title": "Kansas Kill",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 120
+    },
+    {
+      "title": "Gun Valley",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 121
+    },
+    {
+      "title": "Death Ranch",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 122
+    },
+    {
+      "title": "Blood And Gold",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 123
+    },
+    {
+      "title": "Gold Fever",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 124
+    },
+    {
+      "title": "Desert Death",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 125
+    },
+    {
+      "title": "Blood Prairie",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 126
+    },
+    {
+      "title": "Nevada Warpath",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 127
+    },
+    {
+      "title": "Snake River Butcher",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 128
+    },
+    {
+      "title": "Redwood Revenge",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 129
+    },
+    {
+      "title": "Colorado Quarry",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 130
+    },
+    {
+      "title": "Coins Of Death",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 131
+    },
+    {
+      "title": "Wyoming Conspiracy",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 132
+    },
+    {
+      "title": "The Silver Maria",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 133
+    },
+    {
+      "title": "Blood Bounty",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 134
+    },
+    {
+      "title": "Montana Fire Smoke",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 135
+    },
+    {
+      "title": "Beartown Bloodshed",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 136
+    },
+    {
+      "title": "Colorado Ambush",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 137
+    },
+    {
+      "title": "Kentucky Colts",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 138
+    },
+    {
+      "title": "Louisiana Gold Race",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 139
+    },
+    {
+      "title": "Sage River Conspiracy",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 140
+    },
+    {
+      "title": "Cougar Dawn",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 141
+    },
+    {
+      "title": "Montana Mayhem",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 142
+    },
+    {
+      "title": "Chicago Six-guns",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 143
+    },
+    {
+      "title": "Texas Triggers",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 144
+    },
+    {
+      "title": "Moon Lake Massacre",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 145
+    },
+    {
+      "title": "Rocky Mountain Feud",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 146
+    },
+    {
+      "title": "Silver Fury",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 147
+    },
+    {
+      "title": "Buffalo Guns",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 148
+    },
+    {
+      "title": "The Killing Corrider",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 149
+    },
+    {
+      "title": "Golden Bullets",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 150
+    },
+    {
+      "title": "Deathblow Trail",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 151
+    },
+    {
+      "title": "Abilene Ambush",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 152
+    },
+    {
+      "title": "Crowheart's Revenge",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 153
+    },
+    {
+      "title": "Cheyenne Crossfire",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 154
+    },
+    {
+      "title": "Nebraska Nightmare",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 155
+    },
+    {
+      "title": "Death Trails",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 156
+    },
+    {
+      "title": "California Quarry",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 157
+    },
+    {
+      "title": "Springfield Sharpshooters",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 158
+    },
+    {
+      "title": "Savage Guns",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 159
+    },
+    {
+      "title": "Prairie Fire",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 160
+    },
+    {
+      "title": "Saguaro Showdown",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 161
+    },
+    {
+      "title": "Ambush At Skull Pass",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 162
+    },
+    {
+      "title": "Oklahoma Ordeal",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 163
+    },
+    {
+      "title": "The Sawdust Trail",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 164
+    },
+    {
+      "title": "Revenge At Lost Creek",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 165
+    },
+    {
+      "title": "Rogue River Feud",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 166
+    },
+    {
+      "title": "Nez Perce Nightmare",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 167
+    },
+    {
+      "title": "Colorado Carnage",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 168
+    },
+    {
+      "title": "Black Mesa Treachery",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 169
+    },
+    {
+      "title": "The Texas Terror",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 170
+    },
+    {
+      "title": "Ghost Ranch Massacre",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 171
+    },
+    {
+      "title": "North Country Guns",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 172
+    },
+    {
+      "title": "The Tornado Trail",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 173
+    },
+    {
+      "title": "Yukon Massacre",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 174
+    },
+    {
+      "title": "Dakota Death House",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 175
+    },
+    {
+      "title": "Kiowa Command",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 176
+    },
+    {
+      "title": "The Greenback Trail",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 177
+    },
+    {
+      "title": "Socorro Slaughter",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 178
+    },
+    {
+      "title": "Utah Trackdown",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 179
+    },
+    {
+      "title": "Dead Man's River",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 180
+    },
+    {
+      "title": "Sutter's Secret",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 181
+    },
+    {
+      "title": "Washington Warpath",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 182
+    },
+    {
+      "title": "Death Valley Bloodbath",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 183
+    },
+    {
+      "title": "Betrayal At El Diablo",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 184
+    },
+    {
+      "title": "Curse Of The Grizzly",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 185
+    },
+    {
+      "title": "Colorado Wolfpack",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 186
+    },
+    {
+      "title": "Apache Arrows",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 187
+    },
+    {
+      "title": "Sagebrush Skeletons",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 188
+    },
+    {
+      "title": "Bayou Bloodbath",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 189
+    },
+    {
+      "title": "Bullet Hole Claims",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 190
+    },
+    {
+      "title": "Blue Sierra Renegades",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 191
+    },
+    {
+      "title": "Vengeance At Dead Man Rapids",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 192
+    },
+    {
+      "title": "Rocky Mountain Nightmare",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 193
+    },
+    {
+      "title": "Sioux War Cry",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 194
+    },
+    {
+      "title": "Mercy Manhunt",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 195
+    },
+    {
+      "title": "Missouri Massacre",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 196
+    },
+    {
+      "title": "Pecos Death",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 197
+    },
+    {
+      "title": "Target Gold",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 198
+    },
+    {
+      "title": "Durango Duel",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 199
+    },
+    {
+      "title": "Kansas Carnage",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 200
+    },
+    {
+      "title": "Bullets And Brides",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 201
+    },
+    {
+      "title": "Montana Stage",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 202
+    },
+    {
+      "title": "Fort Ravage Conspiracy",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 203
+    },
+    {
+      "title": "Utah Uprising",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 204
+    },
+    {
+      "title": "Black Gulch Gamble",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 205
+    },
+    {
+      "title": "Wyoming Wildcats",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 206
+    },
+    {
+      "title": "Salmon River Rage",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 207
+    },
+    {
+      "title": "Sixguns By The Sea",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 208
+    },
+    {
+      "title": "The Stallion Search",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 209
+    },
+    {
+      "title": "Silver Hooves",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 210
+    },
+    {
+      "title": "The Leavenworth Express",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 211
+    },
+    {
+      "title": "Mountain Mankillers",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 212
+    },
+    {
+      "title": "Oregon Outrider",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 213
+    },
+    {
+      "title": "Chimney Rock Burial",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 214
+    },
+    {
+      "title": "Arizona Renegades",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 215
+    },
+    {
+      "title": "Timber Terror",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 216
+    },
+    {
+      "title": "The Bush League",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 217
+    },
+    {
+      "title": "Badlands Bloodbath",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 218
+    },
+    {
+      "title": "Sioux Stampede",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 219
+    },
+    {
+      "title": "Apache Wells",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 220
+    },
+    {
+      "title": "Texas Hellion",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 221
+    },
+    {
+      "title": "Duet For Six-guns",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 222
+    },
+    {
+      "title": "High Sierra Horror",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 223
+    },
+    {
+      "title": "Dakota Deception",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 224
+    },
+    {
+      "title": "Pecos Belle Brigade",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 225
+    },
+    {
+      "title": "Navajo Revenge",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 226
+    },
+    {
+      "title": "Colorado Diamond Dupe",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 227
+    },
+    {
+      "title": "Nebraska Slaying Ground",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 228
+    },
+    {
+      "title": "Montana Gun Sharps",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 229
+    },
+    {
+      "title": "Arizona Silver Strike",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 230
+    },
+    {
+      "title": "California Crusader",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 231
+    },
+    {
+      "title": "Idaho Ghost Town",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 232
+    },
+    {
+      "title": "Texas Tinhorns",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 233
+    },
+    {
+      "title": "Prairie Firestorm",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 234
+    },
+    {
+      "title": "Wyoming War Cry",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 235
+    },
+    {
+      "title": "Flatwater Firebrand",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 236
+    },
+    {
+      "title": "Denver City Gold",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 237
+    },
+    {
+      "title": "Salt Lake Siren",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 238
+    },
+    {
+      "title": "Pacific Phantoms",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 239
+    },
+    {
+      "title": "Missouri Mayhem",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 240
+    },
+    {
+      "title": "Apache Duel",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 241
+    },
+    {
+      "title": "Flathead Fury",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 242
+    },
+    {
+      "title": "Dakota Damnation",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 243
+    },
+    {
+      "title": "Cherokee Justice",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 244
+    },
+    {
+      "title": "Comanche Battle Cry",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 245
+    },
+    {
+      "title": "Texas Blood Money",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 246
+    },
+    {
+      "title": "Wyoming Whirlwind",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 247
+    },
+    {
+      "title": "West Texas Uprising",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 248
+    },
+    {
+      "title": "Pacific Polecats",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 249
+    },
+    {
+      "title": "Bloody Brazos",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 250
+    },
+    {
+      "title": "Seven Devils Slaughter",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 251
+    },
+    {
+      "title": "Texas Death Storm",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 252
+    },
+    {
+      "title": "Silver City Slayer",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 253
+    },
+    {
+      "title": "Sixgun Justice",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 254
+    },
+    {
+      "title": "Utah Uproar",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 255
+    },
+    {
+      "title": "Kansas City Swindle",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 256
+    },
+    {
+      "title": "Dead Man's Hand",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 257
+    },
+    {
+      "title": "Nebraska Gunrunners",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 258
+    },
+    {
+      "title": "Colorado Cutthroats",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 259
+    },
+    {
+      "title": "High Country Horror",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 260
+    },
+    {
+      "title": "Casino Carnage",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 261
+    },
+    {
+      "title": "Wyoming Wolf Pact",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 262
+    },
+    {
+      "title": "Blood Wedding",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 263
+    },
+    {
+      "title": "Desert Death Trap",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 264
+    },
+    {
+      "title": "Arkansas Assault",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 265
+    },
+    {
+      "title": "Snake River Ruins",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 266
+    },
+    {
+      "title": "Dakota Death Rattle",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 267
+    },
+    {
+      "title": "Six-gun Scholar",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 268
+    },
+    {
+      "title": "California Casualties",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 269
+    },
+    {
+      "title": "New Mexico Nymph",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 270
+    },
+    {
+      "title": "Devil's Den",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 271
+    },
+    {
+      "title": "Colorado Corpse",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 272
+    },
+    {
+      "title": "St. Louis Sinners",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 273
+    },
+    {
+      "title": "Nevada Nemesis",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 274
+    },
+    {
+      "title": "Montana Massacre",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 275
+    },
+    {
+      "title": "Ozarks Onslaught",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 276
+    },
+    {
+      "title": "Skeleton Canyon",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 277
+    },
+    {
+      "title": "Hell's Belles",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 278
+    },
+    {
+      "title": "Mountain Manhunt",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 279
+    },
+    {
+      "title": "Death Valley Vengeance",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 280
+    },
+    {
+      "title": "Texas Tart",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 281
+    },
+    {
+      "title": "Kansas Weapon Wolves",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 282
+    },
+    {
+      "title": "Colorado Claim Jumpers",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 283
+    },
+    {
+      "title": "Dakota Prairie Pirates",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 284
+    },
+    {
+      "title": "Salt Lake Slaughter",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 285
+    },
+    {
+      "title": "Texas Terror Trail",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 286
+    },
+    {
+      "title": "California Camel Corps",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 287
+    },
+    {
+      "title": "Gila River Dry-gulchers",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 288
+    },
+    {
+      "title": "Renegade Raiders",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 289
+    },
+    {
+      "title": "Mountain Mavericks",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 290
+    },
+    {
+      "title": "The Cutting Kind",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 291
+    },
+    {
+      "title": "San Francisco Showdown",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 292
+    },
+    {
+      "title": "Ozark Blood Feud",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 293
+    },
+    {
+      "title": "Oregon Outlaws",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 294
+    },
+    {
+      "title": "Oasis Of Blood",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 295
+    },
+    {
+      "title": "Six-gun Persuasion",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 296
+    },
+    {
+      "title": "South Texas Slaughter",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 297
+    },
+    {
+      "title": "Dead Man's Bounty",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 298
+    },
+    {
+      "title": "Dakota Danger",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 299
+    },
+    {
+      "title": "Backwoods Bloodbath",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 300
+    },
+    {
+      "title": "High Plains Grifters",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 301
+    },
+    {
+      "title": "Black Rock Pass",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 302
+    },
+    {
+      "title": "Terror Trackdown",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 303
+    },
+    {
+      "title": "Death Valley Demons",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 304
+    },
+    {
+      "title": "Wyoming Wipeout",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 305
+    },
+    {
+      "title": "Nebraska Night Riders",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 306
+    },
+    {
+      "title": "Montana Marauders",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 307
+    },
+    {
+      "title": "Border Bravados",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 308
+    },
+    {
+      "title": "California Carnage",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 309
+    },
+    {
+      "title": "Alaskan Vengeance",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 310
+    },
+    {
+      "title": "Idaho Impact",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 311
+    },
+    {
+      "title": "Shanghaied Six-guns",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 312
+    },
+    {
+      "title": "Texas Timber War",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 313
+    },
+    {
+      "title": "North Country Cutthroats",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 314
+    },
+    {
+      "title": "Missouri Manhunt",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 315
+    },
+    {
+      "title": "Beyond Squaw Creek",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 316
+    },
+    {
+      "title": "Mountain Mystery",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 317
+    },
+    {
+      "title": "Louisiana Laydown",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 318
+    },
+    {
+      "title": "Oregon Outrage",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 319
+    },
+    {
+      "title": "Apache Ambush",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 320
+    },
+    {
+      "title": "Wyoming Death Trap",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 321
+    },
+    {
+      "title": "California Crackdown",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 322
+    },
+    {
+      "title": "Seminole Showdown",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 323
+    },
+    {
+      "title": "Silver Mountain Slaughter",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 324
+    },
+    {
+      "title": "Idaho Gold Fever",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 325
+    },
+    {
+      "title": "Bayou Trackdown",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 326
+    },
+    {
+      "title": "Tucson Temptress",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 327
+    },
+    {
+      "title": "Northwoods Nightmare",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 328
+    },
+    {
+      "title": "Beartooth Incident",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 329
+    },
+    {
+      "title": "Black Hills Badman",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 330
+    },
+    {
+      "title": "Colorado Clash",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 331
+    },
+    {
+      "title": "Riverboat Rampage",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 332
+    },
+    {
+      "title": "Utah Outlaws",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 333
+    },
+    {
+      "title": "Silver Showdown",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 334
+    },
+    {
+      "title": "Texas Trackdown",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 335
+    },
+    {
+      "title": "Red River Reckoning",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 336
+    },
+    {
+      "title": "Hannibal Rising",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 337
+    },
+    {
+      "title": "Sierra Six-guns",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 338
+    },
+    {
+      "title": "Rocky Mountain Revenge",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 339
+    },
+    {
+      "title": "Six-gun Gallows",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 340
+    },
+    {
+      "title": "Arkansas Ambush",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 341
+    },
+    {
+      "title": "South Pass Snakepit",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 342
+    },
+    {
+      "title": "Dakota Death Trap",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 343
+    },
+    {
+      "title": "Backwoods Brawl",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 344
+    },
+    {
+      "title": "New Mexico Gun-down",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 345
+    },
+    {
+      "title": "Terror Town",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 346
+    },
+    {
+      "title": "Texas Tangle",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 347
+    },
+    {
+      "title": "Bitterroot Bullets",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 348
+    },
+    {
+      "title": "Nevada Night Riders",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 349
+    },
+    {
+      "title": "Texas Gunrunners",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 350
+    },
+    {
+      "title": "Grizzly Fury",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 351
+    },
+    {
+      "title": "Stagecoach Sidewinders",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 352
+    },
+    {
+      "title": "Six-gun Vendetta",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 353
+    },
+    {
+      "title": "Platte River Gauntlet",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 354
+    },
+    {
+      "title": "Texas Lead Slingers",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 355
+    },
+    {
+      "title": "Utah Deadly Double",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 356
+    },
+    {
+      "title": "Range War",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 357
+    },
+    {
+      "title": "Death Devil",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 358
+    },
+    {
+      "title": "Rocky Mountain Ruckus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 359
+    },
+    {
+      "title": "High Country Greed",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 360
+    },
+    {
+      "title": "Mountains Of No Return",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 361
+    },
+    {
+      "title": "Texas Tempest",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 362
+    },
+    {
+      "title": "Colorado Crosshairs",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 363
+    },
+    {
+      "title": "Badlands Bloodsport",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 364
+    },
+    {
+      "title": "Blind Man's Bluff",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 365
+    },
+    {
+      "title": "California Killers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 366
+    },
+    {
+      "title": "Missouri Mastermind",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 367
+    },
+    {
+      "title": "Utah Terror",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 368
+    },
+    {
+      "title": "Fort Death",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 369
+    },
+    {
+      "title": "Texas Swamp Fever",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 370
+    },
+    {
+      "title": "New Mexico Madman",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 371
+    },
+    {
+      "title": "Bounty Hunt",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 372
+    },
+    {
+      "title": "Wyoming Winterkill",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 373
+    },
+    {
+      "title": "Hangtown Hellcat",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 374
+    },
+    {
+      "title": "Texas Tornado",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 375
+    },
+    {
+      "title": "Bowie's Knife",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 376
+    },
+    {
+      "title": "High Plains Massacre",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 377
+    },
+    {
+      "title": "Diablo Death Cry",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 378
+    },
+    {
+      "title": "Thunderhead Trail",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 379
+    },
+    {
+      "title": "Nevada Vipers' Nest",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 380
+    },
+    {
+      "title": "Apache Vendetta",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 381
+    },
+    {
+      "title": "Borderland Bloodbath",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 382
+    },
+    {
+      "title": "Outlaw Trackdown",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 383
+    },
+    {
+      "title": "Night Terror",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 384
+    },
+    {
+      "title": "Six-gun Inferno",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 385
+    },
+    {
+      "title": "Burning Bullets",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 386
+    },
+    {
+      "title": "Black Hills Deathblow",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 387
+    },
+    {
+      "title": "Dead Man's Journey",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 388
+    },
+    {
+      "title": "Riverboat Reckoning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 389
+    },
+    {
+      "title": "Arizona Ambushers",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 390
+    }
+  ]
+}

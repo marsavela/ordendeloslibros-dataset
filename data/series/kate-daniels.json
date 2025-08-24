@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Kate Daniels",
+  "slug": "kate-daniels",
+  "source": "https://www.orderofbooks.com/characters/kate-daniels/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Kate-Daniels-by-Ilona-Andrews.jpg",
+  "authors": [
+    {
+      "name": "Ilona Andrews",
+      "slug": "ilona-andrews"
+    }
+  ],
+  "books": [
+    {
+      "title": "Magic Bites",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Magic Burns",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Magic Burns",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Magic Strikes",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Magic Mourns",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Magic Bleeds",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Magic Slays",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Magic Gifts",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Magic Dreams",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Retribution Clause",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Magic Rises",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "An Ill-Advised Rescue",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Magic Breaks",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Magic Shifts",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Questionable Client",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Magic Binds",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Magic Triumphs",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

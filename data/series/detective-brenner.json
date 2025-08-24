@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Detective Brenner",
+  "slug": "detective-brenner",
+  "source": "https://www.orderofbooks.com/characters/detective-brenner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Detective-Brenner-by-Wolf-Haas-500x200.jpg",
+  "authors": [
+    {
+      "name": "Wolf Haas",
+      "slug": "wolf-haas"
+    }
+  ],
+  "books": [
+    {
+      "title": "Resurrection / Auferstehung der Toten",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bone Man / Der Knochenmann",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Come, Sweet Death / Komm, süßer Tod",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silentium!",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wie die Tiere",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Das ewige Leben",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Brenner and God / Der Brenner und der liebe Gott",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Brennerova",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Müll",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "English translations are listed by initial Austrian publication date.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

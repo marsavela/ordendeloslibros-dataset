@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "NFL Monday Night Football Club",
+  "slug": "nfl-monday-night-football-club",
+  "source": "https://www.orderofbooks.com/characters/nfl-monday-night-football-club/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/NFL-Monday-Night-Football-Club-by-Gordon-Korman.jpg",
+  "authors": [
+    {
+      "name": "Gordon Korman",
+      "slug": "gordon-korman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Quarterback Exchange: I Was John Elway",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Running Back Conversion: I Was Barry Sanders",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Super Bowl Switch: I Was Dan Marino",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Heavy Artillery: I Was Junior Seau",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ultimate Scoring Machine: I Was Jerry Rice",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "NFL Rules!: Bloopers, Pranks, Upsets and Touchdowns",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

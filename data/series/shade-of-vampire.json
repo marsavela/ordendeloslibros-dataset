@@ -1,0 +1,759 @@
+{
+  "type": "series",
+  "name": "Shade Of Vampire",
+  "slug": "shade-of-vampire",
+  "source": "https://www.orderofbooks.com/characters/shade-of-vampire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/05/Shade-of-Vampire-by-Bella-Forrest.jpg",
+  "authors": [
+    {
+      "name": "Bella Forrest",
+      "slug": "bella-forrest"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Shade of Vampire",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Shade of Blood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Castle of Sand",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Shadow of Light",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Blaze of Sun",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Gate of Night",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Break of Day",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Shade of Novak",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Bond of Blood",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Spell of Time",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Chase of Prey",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Shade of Doubt",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Turn of Tides",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Dawn of Strength",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Fall of Secrets",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "An End of Night",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "A Wind of Change",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "A Trail of Echoes",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "A Soldier of Shadows",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Hero of Realms",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Vial of Life",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "A Fork of Paths",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "A Flight of Souls",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "A Bridge of Stars",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "A Clan of Novaks",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "A World of New",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "A Web of Lies",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "A Touch of Truth",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "An Hour of Need",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "A Game of Risk",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "A Twist of Fates",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "A Day of Glory",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "A Dawn of Guardians",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "A Sword of Chance",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "A Race of Trials",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "A King of Shadow",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "An Empire of Stones",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "A Power of Old",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "A Rip of Realms",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "A Throne of Fire",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "A Tide of War",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "A Gift of Three",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "A House of Mysteries",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "A Tangle of Hearts",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "A Meet of Tribes",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "A Ride of Peril",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "A Passage of Threats",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "A Tip of Balance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "A Shield of Glass",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "A Clash of Storms",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "A Call of Vampires",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "A Valley of Darkness",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "A Hunt of Fiends",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "A Den of Tricks",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "A City of Lies",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "A League of Exiles",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "A Charge of Allies",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "A Snare of Vengeance",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "A Battle of Souls",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "A Voyage of Founders",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "A Land of Perfects",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "A Citadel of Captives",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "A Jungle of Rogues",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "A Camp of Savages",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "A Plague of Deceit",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "An Edge of Malice",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "A Dome of Blood",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "A Purge of Nature",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "A Birth of Fire",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "A Breed of Elements",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "A Sacrifice of Flames",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "A Conspiracy of Realms",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "A Search for Death",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "A Piece of Scythe",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "A Blade of Thieron",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "A Phantom of Truth",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "A Fate of Time",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "An Origin of Vampires",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "A Game of Death",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "A Veil of Dark",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "A Bringer of Night",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "A Circle of Nine",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "A Bender of Spirit",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "A Memory of Time",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "A Shard of Soul",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "A Break of Seals",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "A Shade of Mystery",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "An Isle of Mirrors",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "A Sanctuary of Foes",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "A Ruler of Clones",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "A Gate of Light",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "A Dawn of Worlds",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "This series is not currently available for purchase on Amazon.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    }
+  ]
+}

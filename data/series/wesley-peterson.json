@@ -1,0 +1,247 @@
+{
+  "type": "series",
+  "name": "Wesley Peterson",
+  "slug": "wesley-peterson",
+  "source": "https://www.orderofbooks.com/characters/wesley-peterson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Wesley-Peterson-by-Kate-Ellis.jpg",
+  "authors": [
+    {
+      "name": "Kate Ellis",
+      "slug": "kate-ellis"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Merchant's House",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Armada Boy",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Unhallowed Grave",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Funeral Boat",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bone Garden",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Painted Doom",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Skeleton Room",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Plague Maiden",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Cursed Inheritance",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Marriage Hearse",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Shining Skull",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Blood Pit",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Perfect Death",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Flesh Tailor",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Jackal Man",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Cadaver Game",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Shadow Collector",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Shroud Maker",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Death Season",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The House of Eyes",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Mermaid's Scream",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Mechanical Devil",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Dead Man's Lane",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Burial Circle",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Stone Chamber",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Serpent's Point",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Killing Place",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Coffin Island",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Deadly Remains",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    }
+  ]
+}

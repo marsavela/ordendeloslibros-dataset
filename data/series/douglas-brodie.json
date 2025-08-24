@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Douglas Brodie",
+  "slug": "douglas-brodie",
+  "source": "https://www.orderofbooks.com/characters/douglas-brodie/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Douglas-Brodie-by-Gordon-Ferris-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gordon Ferris",
+      "slug": "gordon-ferris"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hanging Shed",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bitter Water",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pilgrim Soul",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gallowglass",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

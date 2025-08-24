@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Comeback Kids",
+  "slug": "comeback-kids",
+  "source": "https://www.orderofbooks.com/characters/comeback-kids/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Comeback-Kids-by-Mike-Lupica.jpg",
+  "books": [
+    {
+      "title": "Hot Hand",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Two-Minute Drill",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Long Shot",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Safe at Home",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shoot-Out",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

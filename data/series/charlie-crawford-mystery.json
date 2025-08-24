@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "Charlie Crawford Mystery",
+  "slug": "charlie-crawford-mystery",
+  "source": "https://www.orderofbooks.com/characters/charlie-crawford-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/10/charliecrawford.jpg",
+  "authors": [
+    {
+      "name": "Tom Turner",
+      "slug": "tom-turner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Palm Beach Nasty",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Palm Beach Poison",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Palm Beach Deadly",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Palm Beach Bones",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Palm Beach Pretenders",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Palm Beach Predator",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Palm Beach Broke",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Palm Beach Bedlam",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Palm Beach Blues",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Palm Beach Taboo",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Palm Beach Piranha",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Palm Beach Perfidious",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Palm Beach Betrayers",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Palm Beach Schemers",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Palm Beach Scavengers",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Palm Beach Psycho",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Palm Beach Rogues",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Battle of Palm Beach",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Palm Beach Shooter",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

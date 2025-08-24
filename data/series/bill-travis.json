@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "Bill Travis",
+  "slug": "bill-travis",
+  "source": "https://www.orderofbooks.com/characters/bill-travis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Bill-Travis-by-George-Wier-500x200.jpg",
+  "authors": [
+    {
+      "name": "George Wier",
+      "slug": "george-wier"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Last Call",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Capitol Offense",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Longnecks & Twisted Hearts",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Devil to Pay",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death on the Pedernales",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Slow Falling",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Caddo Cold",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Arrowmoon",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "After the Fire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ghost of the Karankawa",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Desperate Crimes",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Mexico Fever",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Lone Star Express",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Trinity Trio",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Buffalo Bayou Blues",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Reveille in Red",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Bexar County Line",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Long Goodnight",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Amarillo Waltz",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Seven",
+  "slug": "seven",
+  "source": "https://www.orderofbooks.com/characters/seven/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Seven-by-Dannika-Dark-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dannika Dark",
+      "slug": "dannika-dark"
+    }
+  ],
+  "books": [
+    {
+      "title": "Seven Years",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Six Months",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Five Weeks",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Four Days",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Three Hours",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Two Minutes",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Charming",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "One Second",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Winter Moon",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Seven Series Companion: An Insider's Guide",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

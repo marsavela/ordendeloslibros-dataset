@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Sharyn Howard",
+  "slug": "sharyn-howard",
+  "source": "https://www.orderofbooks.com/characters/sharyn-howard/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Sharyn-Howard-by-Joyce-Jim-Lavene.jpg",
+  "authors": [
+    {
+      "name": "Joyce Jim Lavene",
+      "slug": "joyce-jim-lavene"
+    }
+  ],
+  "books": [
+    {
+      "title": "Last Dance",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "One Last Good-Bye",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Last to Remember",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Until Our Last Embrace",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "For the Last Time",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dreams Don't Last",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Last Fires Burning",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Glory's Last Victim",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Last Rites",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Last One Down",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Before The Last Lap",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The First Shall Be Last",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

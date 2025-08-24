@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Blaine McCracken",
+  "slug": "blaine-mccracken",
+  "source": "https://www.orderofbooks.com/characters/blaine-mccracken/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Blaine-McCracken-by-Jon-Land.jpg",
+  "authors": [
+    {
+      "name": "Jon Land",
+      "slug": "jon-land"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Omega Command",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Alpha Deception",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Gamma Option",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Omicron Legion",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Vengeance of the Tau",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Day of the Delphi",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Kingdom of the Seven",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Fires of Midnight",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dead Simple",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Pandora's Temple",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Tenth Circle",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

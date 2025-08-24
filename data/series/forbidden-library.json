@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Forbidden Library",
+  "slug": "forbidden-library",
+  "source": "https://www.orderofbooks.com/characters/forbidden-library/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Forbidden-Library-by-Django-Wexler-500x200.jpg",
+  "authors": [
+    {
+      "name": "Django Wexler",
+      "slug": "django-wexler"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Forbidden Library",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mad Apprentice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Palace of Glass",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fall of the Readers",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

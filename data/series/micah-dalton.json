@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Micah Dalton",
+  "slug": "micah-dalton",
+  "source": "https://www.orderofbooks.com/characters/micah-dalton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Micah-Dalton-by-David-Stone.jpg",
+  "books": [
+    {
+      "title": "The Echelon Vendetta",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Orpheus Deception",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Venetian Judgment",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Skorpion Directive",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

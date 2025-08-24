@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Earl Swagger",
+  "slug": "earl-swagger",
+  "source": "https://www.orderofbooks.com/characters/earl-swagger/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/07/Earl-Swagger-by-Stephen-Hunter.jpg",
+  "books": [
+    {
+      "title": "Hot Springs",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pale Horse Coming",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Havana",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Bullet Garden",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "type": "series",
+  "name": "Joe Hunter",
+  "slug": "joe-hunter",
+  "source": "https://www.orderofbooks.com/characters/joe-hunter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Joe-Hunter-by-Matt-Hilton.jpg",
+  "books": [
+    {
+      "title": "Dead Men's Dust",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Fall",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Judgement and Wrath",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Slash and Burn",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cut and Run",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blood and Ashes",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dead Men's Harvest",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Six of the Best",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "No Going Back",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Rules of Honour",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Red Stripes",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Lawless Kind",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Devil's Anvil",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Hot Property",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "No Safe Place",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Marked for Death",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Fourth Option",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

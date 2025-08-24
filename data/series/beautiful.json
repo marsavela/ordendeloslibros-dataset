@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Beautiful",
+  "slug": "beautiful",
+  "source": "https://www.orderofbooks.com/characters/beautiful/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/Beautiful-by-Christina-Lauren-500x200.jpg",
+  "authors": [
+    {
+      "name": "Christina Lauren",
+      "slug": "christina-lauren"
+    }
+  ],
+  "books": [
+    {
+      "title": "Beautiful Bastard",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Beautiful Bitch",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beautiful Stranger",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Beautiful Bombshell",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beautiful Player",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Beautiful Beginning",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Beautiful Beloved",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Beautiful Secret",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Beautiful Boss",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Beautiful",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

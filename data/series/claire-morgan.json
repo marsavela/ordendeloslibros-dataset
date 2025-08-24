@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Claire Morgan",
+  "slug": "claire-morgan",
+  "source": "https://www.orderofbooks.com/characters/claire-morgan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Claire-Morgan-by-Linda-Ladd.jpg",
+  "authors": [
+    {
+      "name": "Linda Ladd",
+      "slug": "linda-ladd"
+    }
+  ],
+  "books": [
+    {
+      "title": "Head to Head",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dark Places",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Die Smiling",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Enter Evil",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Remember Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mostly Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bad Bones",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Devil Dead",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Gone Black",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fatal Game",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

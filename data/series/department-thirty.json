@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Department Thirty",
+  "slug": "department-thirty",
+  "source": "https://www.orderofbooks.com/characters/department-thirty/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Department-Thirty-by-David-Kent-B-Kent-Anderson.jpg",
+  "books": [
+    {
+      "title": "Department Thirty",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mesa Conspiracy",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Blackjack Conspiracy",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Triangle Conspiracy",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Ben Treven",
+  "slug": "ben-treven",
+  "source": "https://www.orderofbooks.com/characters/ben-treven/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/ben-treven.jpg",
+  "books": [
+    {
+      "title": "Fault Line",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Inside Out",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

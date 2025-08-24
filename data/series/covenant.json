@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Covenant",
+  "slug": "covenant",
+  "source": "https://www.orderofbooks.com/characters/covenant/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Covenant-by-Jennifer-L-Armentrout.jpg",
+  "books": [
+    {
+      "title": "Daimon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Half-Blood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pure",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deity",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Elixir",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Apollyon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sentinel",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

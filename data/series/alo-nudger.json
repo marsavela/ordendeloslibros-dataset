@@ -1,0 +1,107 @@
+{
+  "type": "series",
+  "name": "Alo Nudger",
+  "slug": "alo-nudger",
+  "source": "https://www.orderofbooks.com/characters/alo-nudger/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Alo-Nudger-by-John-Lutz.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alo Nudger Books",
+      "books": [
+        {
+          "title": "Buyer Beware",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Nightlines",
+          "year": 1984,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Right to Sing the Blues",
+          "year": 1985,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Ride the Lightning",
+          "year": 1987,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Dancer's Debt",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Time Exposure",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Diamond Eyes",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Thicker Than Blood",
+          "year": 1993,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Death By Jury",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Oops!",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Alo Nudger Collections",
+      "books": [
+        {
+          "title": "The Nudger Dilemmas",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        }
+      ]
+    }
+  }
+}

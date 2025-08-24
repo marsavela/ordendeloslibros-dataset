@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Forbidden",
+  "slug": "forbidden",
+  "source": "https://www.orderofbooks.com/characters/forbidden/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Forbidden-by-Melody-Anne.jpg",
+  "authors": [
+    {
+      "name": "Melody Anne",
+      "slug": "melody-anne"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bound",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Broken",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Betrayed",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Burned",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

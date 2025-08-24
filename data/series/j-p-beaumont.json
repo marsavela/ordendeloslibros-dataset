@@ -1,0 +1,249 @@
+{
+  "type": "series",
+  "name": "J.P. Beaumont",
+  "slug": "j-p-beaumont",
+  "source": "https://www.orderofbooks.com/characters/jp-beaumont/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/J.P.-Beaumont.jpg",
+  "books": [
+    {
+      "title": "Until Proven Guilty",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Injustice For All",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Trial by Fury",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Taking the Fifth",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Improbable Cause",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A More Perfect Union",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dismissed with Prejudice",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Minor in Possession",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Payment In Kind",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Without Due Process",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Failure to Appear",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Lying in Wait",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Name Withheld",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Breach Of Duty",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Birds of Prey",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Partner in Crime",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Long Time Gone",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Justice Denied",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Fire and Ice",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Betrayal of Trust",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Second Watch",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Ring In the Dead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Stand Down",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Dance of the Bones",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Still Dead",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Proof of Life",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Sins of the Fathers",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Nothing to Lose",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Girls' Night Out",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Den of Iniquity",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

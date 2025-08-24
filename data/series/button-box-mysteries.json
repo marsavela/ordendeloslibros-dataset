@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Button Box Mysteries",
+  "slug": "button-box-mysteries",
+  "source": "https://www.orderofbooks.com/characters/button-box-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Button-Box-Mysteries-by-Kylie-Logan.jpg",
+  "authors": [
+    {
+      "name": "Kylie Logan",
+      "slug": "kylie-logan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Button Holed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hot Button",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Panic Button",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Buttoned Up",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

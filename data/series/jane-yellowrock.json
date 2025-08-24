@@ -1,0 +1,215 @@
+{
+  "type": "series",
+  "name": "Jane Yellowrock",
+  "slug": "jane-yellowrock",
+  "source": "https://www.orderofbooks.com/characters/jane-yellowrock/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Jane-Yellowrock-by-Faith-Hunter.jpg",
+  "authors": [
+    {
+      "name": "Faith Hunter",
+      "slug": "faith-hunter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Skinwalker",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood Cross",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mercy Blade",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cat Tales",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Raven Cursed",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Golden Delicious",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Have Stakes, Will Travel",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death's Rival",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Blood Trade",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Early Years",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Jane Yellowrock World Companion",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Cat o' Nine Tales",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Beneath a Bloody Moon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Black Arts",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Black Water",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Broken Soul",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Dark Heir",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Blood in Her Veins",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Shadow Rites",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Cold Reign",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Dark Queen",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Shattered Bonds",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "True Dead",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Of Claws and Fangs",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Final Heir",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

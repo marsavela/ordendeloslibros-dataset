@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Federation",
+  "slug": "federation",
+  "source": "https://www.orderofbooks.com/characters/federation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Federation-Chronicles-Phantom-Corps-by-Lauren-Dane.jpg",
+  "books": [
+    {
+      "title": "Undercover",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Relentless",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Insatiable",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Macdonald Hall",
+  "slug": "macdonald-hall",
+  "source": "https://www.orderofbooks.com/characters/macdonald-hall/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Macdonald-Hall-Bruno-Boots-by-Gordon-Korman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gordon Korman",
+      "slug": "gordon-korman"
+    }
+  ],
+  "books": [
+    {
+      "title": "This Can't Be Happening at MacDonald Hall!",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Go Jump in the Pool!",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beware the Fish!",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The War with Mr. Wizzle",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Zucchini Warriors",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "MacDonald Hall Goes Hollywood / Lights, Camera, Disaster!",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Something Fishy at Macdonald Hall / The Joke's On Us",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

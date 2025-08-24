@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "ChroMagic",
+  "slug": "chromagic",
+  "source": "https://www.orderofbooks.com/characters/chromagic/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/ChroMagic-by-Piers-Anthony.jpg",
+  "books": [
+    {
+      "title": "Key to Havoc",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Key to Chroma",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Key to Destiny",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Key to Liberty",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Key to Survival",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

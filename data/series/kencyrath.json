@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Kencyrath",
+  "slug": "kencyrath",
+  "source": "https://www.orderofbooks.com/characters/kencyrath/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/10/Kencyrath-by-PC-Hodgell.jpg",
+  "books": [
+    {
+      "title": "God Stalk",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dark of the Moon",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Seeker's Mask",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blood and Ivory",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "To Ride a Rathorn",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bound in Blood",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Honor's Paradox",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Sea of Time",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Gates of Tagmeth",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "By Demons Possessed",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Deathless Gods",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

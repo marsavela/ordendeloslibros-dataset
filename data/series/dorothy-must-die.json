@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Dorothy Must Die",
+  "slug": "dorothy-must-die",
+  "source": "https://www.orderofbooks.com/characters/dorothy-must-die/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Dorothy-Must-Die-by-Danielle-Paige-500x200.jpg",
+  "authors": [
+    {
+      "name": "Danielle Paige",
+      "slug": "danielle-paige"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dorothy Must Die",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wicked Will Rise",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Yellow Brick War",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The End of Oz",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

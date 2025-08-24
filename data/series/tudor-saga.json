@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Tudor Saga",
+  "slug": "tudor-saga",
+  "source": "https://www.orderofbooks.com/characters/tudor-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Tudor-Saga-by-Jean-Plaidy-Victoria-Holt.jpg",
+  "authors": [
+    {
+      "name": "Jean Plaidy",
+      "slug": "jean-plaidy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder Most Royal / King's Pleasure",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sixth Wife",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Spanish Bridegroom / For a Queen's Love",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Saint Thomas' Eve / The King's Confidante",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gay Lord Robert / Lord Robert / A Favorite of the Queen",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Katharine, the Virgin Widow",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Shadow of the Pomegranate",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The King's Secret Matter",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Thistle and the Rose",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mary, Queen of France",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Uneasy Lies the Head / To Hold the Crown",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

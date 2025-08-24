@@ -1,0 +1,233 @@
+{
+  "type": "series",
+  "name": "Emma Lord",
+  "slug": "emma-lord",
+  "source": "https://www.orderofbooks.com/characters/emma-lord/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Emma-Lord-by-Mary-Daheim.jpg",
+  "books": [
+    {
+      "title": "The Alpine Advocate",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Alpine Betrayal",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Alpine Christmas",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Alpine Decoy",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Alpine Escape",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Alpine Fury",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Alpine Gamble",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Alpine Hero",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Alpine Icon",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Alpine Journey",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Alpine Kindred",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Alpine Legacy",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Alpine Menace",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Alpine Nemesis",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Alpine Obituary",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Alpine Pursuit",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Alpine Quilt",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Alpine Recluse",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Alpine Scandal",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Alpine Traitor",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Alpine Uproar",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Alpine Vengeance",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Alpine Winter",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Alpine Xanadu",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Alpine Yeoman",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Alpine Zen",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Alpha Alpine",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Bitter Alpine",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    }
+  ]
+}

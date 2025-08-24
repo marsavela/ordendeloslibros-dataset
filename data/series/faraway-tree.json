@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Faraway Tree",
+  "slug": "faraway-tree",
+  "source": "https://www.orderofbooks.com/characters/faraway-tree/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Enid-Blyton-Faraway-Tree.jpg",
+  "books": [
+    {
+      "title": "The Enchanted Wood",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Magic Faraway Tree",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Folk of the Faraway Tree",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Up the Faraway Tree",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Yellow Fairy Book",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Land of Goodies",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "In Santa Claus's Castle",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Land of Enchantments",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A New Adventure",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Christmas Adventure",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

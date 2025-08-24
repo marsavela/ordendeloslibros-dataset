@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Bloodrunners",
+  "slug": "bloodrunners",
+  "source": "https://www.orderofbooks.com/characters/bloodrunners/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Bloodrunners-by-Rhyannon-Byrd.jpg",
+  "books": [
+    {
+      "title": "Last Wolf Standing",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Last Wolf Hunting",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Last Wolf Watching",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dark Wolf Rising",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dark Wolf Running",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dark Wolf Returning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blood Wolf Dawning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wild Wolf Claiming",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wild Wolf Chasing",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

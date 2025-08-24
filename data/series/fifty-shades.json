@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Fifty Shades",
+  "slug": "fifty-shades",
+  "source": "https://www.orderofbooks.com/characters/fifty-shades/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Fifty-Shades-of-Grey-by-EL-James.jpg",
+  "books": [
+    {
+      "title": "Fifty Shades of Grey",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fifty Shades Darker",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fifty Shades Freed",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Mrs. Hudson Of Baker Street",
+  "slug": "mrs-hudson-of-baker-street",
+  "source": "https://www.orderofbooks.com/characters/mrs-hudson-of-baker-street/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/09/Mrs-Hudson-of-Baker-Street-by-Barry-S-Brown.jpg",
+  "books": [
+    {
+      "title": "The Unpleasantness at Parkerton Manor",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mrs. Hudson and the Irish Invincibles",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mrs. Hudson in the Ring",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mrs. Hudson in New York",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mrs Hudson's Olympic Triumph",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mrs. Hudson Takes The Stage",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mrs. Hudson and the Wild West",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

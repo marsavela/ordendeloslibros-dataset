@@ -1,0 +1,249 @@
+{
+  "type": "series",
+  "name": "Ben Hope",
+  "slug": "ben-hope",
+  "source": "https://www.orderofbooks.com/characters/ben-hope/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Ben-Hope-by-Scott-Mariani.jpg",
+  "books": [
+    {
+      "title": "The Alchemist's Secret",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mozart Conspiracy",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Doomsday Prophecy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Heretic's Treasure",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Shadow Project",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Lost Relic",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Sacred Sword",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Armada Legacy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Nemesis Program",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Forgotten Holocaust",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Martyr's Curse",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Cassandra Sanction",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Star of Africa",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Devil's Kingdom",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Babylon Idol",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Bach Manuscript",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Moscow Cipher",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Rebel’s Revenge",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Valley of Death",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "House of War",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Pretender's Gold",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Demon Club",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Pandemic Plot",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Crusader’s Cross",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Silver Serpent",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Graveyard of Empires",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The White Knight",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Tudor Deception",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Golden Library",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Templar Secret",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

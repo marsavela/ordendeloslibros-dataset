@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Mine",
+  "slug": "mine",
+  "source": "https://www.orderofbooks.com/characters/mine/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Mine-by-Cynthia-Eden.jpg",
+  "authors": [
+    {
+      "name": "Cynthia Eden",
+      "slug": "cynthia-eden"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mine to Take",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mine to Keep",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mine to Hold",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mine to Crave",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mine to Have",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mine to Protect",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

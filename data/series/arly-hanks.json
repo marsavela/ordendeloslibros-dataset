@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Arly Hanks",
+  "slug": "arly-hanks",
+  "source": "https://www.orderofbooks.com/characters/arly-hanks/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Arly-Hanks-Maggody-Mysteries-by-Joan-Hess-500x200.jpg",
+  "authors": [
+    {
+      "name": "Joan Hess",
+      "slug": "joan-hess"
+    }
+  ],
+  "books": [
+    {
+      "title": "Malice in Maggody",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Miracles in Maggody",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mischief in Maggody",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Much Ado in Maggody",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Madness in Maggody",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mortal Remains in Maggody",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Maggody in Manhattan",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "O Little Town of Maggody",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Martians in Maggody",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Maggody Militia",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Misery Loves Maggody",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "murder@maggody.com / murda@maggody.com",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Maggody and the Moonbeams",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Muletrain to Maggody",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Malpractice in Maggody",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Merry Wives of Maggody",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

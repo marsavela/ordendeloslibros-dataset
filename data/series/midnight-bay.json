@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Midnight Bay",
+  "slug": "midnight-bay",
+  "source": "https://www.orderofbooks.com/characters/midnight-bay/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Midnight-Bay-by-Janet-Chapman.jpg",
+  "books": [
+    {
+      "title": "Moonlight Warrior",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dragon Warrior",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mystical Warrior",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

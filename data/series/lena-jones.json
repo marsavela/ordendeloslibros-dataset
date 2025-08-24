@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Lena Jones",
+  "slug": "lena-jones",
+  "source": "https://www.orderofbooks.com/characters/lena-jones/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/07/Lena-Jones-by-Betty-Webb.jpg",
+  "books": [
+    {
+      "title": "Desert Noir",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Desert Wives",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Desert Shadows",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Desert Run",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Desert Cut",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Desert Lost",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Desert Wind",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Desert Rage",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Desert Vengeance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Desert Redemption",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

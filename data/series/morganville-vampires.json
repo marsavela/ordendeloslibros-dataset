@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "Morganville Vampires",
+  "slug": "morganville-vampires",
+  "source": "https://www.orderofbooks.com/characters/morganville-vampires/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Morganville-Vampires-by-Rachel-Caine-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rachel Caine",
+      "slug": "rachel-caine"
+    }
+  ],
+  "books": [
+    {
+      "title": "Glass Houses",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dead Girls' Dance",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "First Day of the Rest of Your Life (in Many Bloody Returns)",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Midnight Alley",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Feast of Fools",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lord of Misrule",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Carpe Corpus",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fade Out",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Kiss of Death",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ghost Town",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bite Club",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Last Breath",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Black Dawn",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Dark Rides",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Bitter Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Fall of Night",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Daylighters",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Midnight Bites",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "First Day of the Rest of Your Life is a prequel short story to the Morganville Vampires series and is found in the anthology Many Bloody Returns , edited by Charlaine Harris and Toni L.P. Kelner.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

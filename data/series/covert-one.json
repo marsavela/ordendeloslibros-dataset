@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Covert-One",
+  "slug": "covert-one",
+  "source": "https://www.orderofbooks.com/characters/covert-one/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Covert-One.jpg",
+  "authors": [
+    {
+      "name": "Gayle Lynds. The",
+      "slug": "gayle-lynds-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hades Factor (By:Gayle Lynds,Robert Ludlum)",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Cassandra Compact (By:Robert Ludlum,Philip Shelby)",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Paris Option (By: Gayle Lynds)",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Altman Code (By: Gayle Lynds)",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Lazarus Vendetta (By: Patrick Larkin)",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Moscow Vector (By: Patrick Larkin)",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Robert Ludlum's The Arctic Event (By: James H. Cobb)",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Ares Decision (By: Kyle Mills)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Janus Reprisal (By: Jamie Freveletti)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Utopia Experiment (By: Kyle Mills)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Geneva Strategy (By: Jamie Freveletti)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Patriot Attack (By: Kyle Mills)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

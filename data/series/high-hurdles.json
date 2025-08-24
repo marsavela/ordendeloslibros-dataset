@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "High Hurdles",
+  "slug": "high-hurdles",
+  "source": "https://www.orderofbooks.com/characters/high-hurdles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/High-Hurdles-by-Lauraine-Snelling-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lauraine Snelling",
+      "slug": "lauraine-snelling"
+    }
+  ],
+  "books": [
+    {
+      "title": "Olympic Dreams",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "DJ's Challenge",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Setting the Pace",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Out of the Blue",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Storm Clouds",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Close Quarters",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Moving Up",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Letting Go",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Raising the Bar",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Class Act",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

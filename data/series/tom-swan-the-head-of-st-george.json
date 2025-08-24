@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Tom Swan & The Head Of St. George",
+  "slug": "tom-swan-the-head-of-st-george",
+  "source": "https://www.orderofbooks.com/characters/tom-swan-and-the-head-of-st-george/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Tom-Swan-by-Christian-Cameron-500x200.jpg",
+  "authors": [
+    {
+      "name": "Christian Cameron",
+      "slug": "christian-cameron"
+    }
+  ],
+  "books": [
+    {
+      "title": "Castillon",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Venice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Constantinople",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rome",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rhodes",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Chios",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Tom Swan and the Keys of Saint Peter",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tom Swan and the Siege of Belgrade",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Tom Swan and the Last Spartans",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

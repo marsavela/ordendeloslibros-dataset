@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Dublin Murder Squad",
+  "slug": "dublin-murder-squad",
+  "source": "https://www.orderofbooks.com/characters/dublin-murder-squad/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Dublin-Murder-Squad-by-Tana-French.jpg",
+  "books": [
+    {
+      "title": "In the Woods",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Likeness",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Faithful Place",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Broken Harbour",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Secret Place",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Trespasser / Intrusion",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

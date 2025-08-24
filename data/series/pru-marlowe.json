@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Pru Marlowe",
+  "slug": "pru-marlowe",
+  "source": "https://www.orderofbooks.com/characters/pru-marlowe/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/09/Pru-Marlowe-by-Clea-Simon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Clea Simon",
+      "slug": "clea-simon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dogs Don't Lie",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cats Can't Shoot",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Parrots Prove Deadly",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Panthers Play for Keeps",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Kittens Can Kill",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "When Bunnies Go Bad",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fear on Four Paws",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

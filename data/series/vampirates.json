@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Vampirates",
+  "slug": "vampirates",
+  "source": "https://www.orderofbooks.com/characters/vampirates/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Vampirates-by-Justin-Somper.jpg",
+  "books": [
+    {
+      "title": "Demons of the Ocean",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tide of Terror",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood Captain",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Black Heart",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Empire of Night",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Immortal War",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Ellie Hatcher",
+  "slug": "ellie-hatcher",
+  "source": "https://www.orderofbooks.com/characters/ellie-hatcher/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Ellie-Hatcher.jpg",
+  "books": [
+    {
+      "title": "Dead Connection",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Angel's Tip / City of Fear",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "212 / City of Lies",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Never Tell",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "All Day and a Night",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Find Me / The Girl She Was",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

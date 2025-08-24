@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "War That Came Early",
+  "slug": "war-that-came-early",
+  "source": "https://www.orderofbooks.com/characters/war-that-came-early/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/War-That-Came-Early-by-Harry-Turtledove.jpg",
+  "books": [
+    {
+      "title": "Hitler's War",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "West and East",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Big Switch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Coup d'Etat",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Two Fronts",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Last Orders",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

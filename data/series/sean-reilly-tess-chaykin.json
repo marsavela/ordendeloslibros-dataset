@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Sean Reilly/Tess Chaykin",
+  "slug": "sean-reilly-tess-chaykin",
+  "source": "https://www.orderofbooks.com/characters/sean-reilly-tess-chaykin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Sean-Reilly-and-Tess-Chaykin-by-Raymond-Khoury.jpg",
+  "books": [
+    {
+      "title": "The Last Templar",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Templar Salvation",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Elixir / Second Time Around",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rasputin's Shadow",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The End Game",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "type": "series",
+  "name": "Elder Races",
+  "slug": "elder-races",
+  "source": "https://www.orderofbooks.com/characters/elder-races/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/elder-races-500x200.jpg",
+  "books": [
+    {
+      "title": "Dragon Bound",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Storm's Heart",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Serpent's Kiss",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "True Colors",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Oracle's Moon",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Natural Evil",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Devil's Gate",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hunter's Season",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Lord's Fall",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Wicked",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Kinked",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Dragos Takes A Holiday",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Divine Tarot",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Pia Saves The Day",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Peanut Goes to School",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Night's Honor",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Midnight's Kiss",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Dragos Goes to Washington",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Pia Does Hollywood",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Shadow's End",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Liam Takes Manhattan",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Dragos Meets Stinkpot",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Chosen",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Planet Dragos",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

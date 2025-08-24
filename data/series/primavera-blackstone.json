@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Primavera Blackstone",
+  "slug": "primavera-blackstone",
+  "source": "https://www.orderofbooks.com/characters/primavera-blackstone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Primavera-Blackstone-Mysteries-by-Quintin-Jardine-500x200.jpg",
+  "authors": [
+    {
+      "name": "Quintin Jardine",
+      "slug": "quintin-jardine"
+    }
+  ],
+  "books": [
+    {
+      "title": "Inhuman Remains",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood Red",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "As Easy as Murder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deadly Business",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "As Serious As Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

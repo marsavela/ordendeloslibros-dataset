@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Animal Magnetism",
+  "slug": "animal-magnetism",
+  "source": "https://www.orderofbooks.com/characters/animal-magnetism/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Animal-Magnetism-by-Jill-Shalvis-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jill Shalvis",
+      "slug": "jill-shalvis"
+    }
+  ],
+  "books": [
+    {
+      "title": "Animal Magnetism",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Animal Attraction",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rescue My Heart",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rumor Has It",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stray Hearts",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Then Came You",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Still the One",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "All I Want",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

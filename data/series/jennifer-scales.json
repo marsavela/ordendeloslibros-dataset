@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Jennifer Scales",
+  "slug": "jennifer-scales",
+  "source": "https://www.orderofbooks.com/characters/jennifer-scales/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Jennifer-Scales-by-MaryJanice-Davidson-and-Anthony-Alongi.jpg",
+  "books": [
+    {
+      "title": "Jennifer Scales and the Ancient Furnace",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Jennifer Scales and the Messenger of Light",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Silver Moon Elm",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Seraph of Sorrow",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rise of the Poison Moon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Evangelina",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

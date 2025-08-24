@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Double Trouble",
+  "slug": "double-trouble",
+  "source": "https://www.orderofbooks.com/characters/double-trouble/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Double-Trouble-by-Wanda-E-Brunstetter-500x200.jpg",
+  "books": [
+    {
+      "title": "What a Pair!",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bumpy Ride Ahead!",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bubble Troubles",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Green Fever",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Humble Pie",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

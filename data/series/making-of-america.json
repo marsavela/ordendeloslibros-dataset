@@ -1,0 +1,471 @@
+{
+  "type": "series",
+  "name": "Making Of America",
+  "slug": "making-of-america",
+  "source": "https://www.orderofbooks.com/characters/making-of-america/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Making-of-America-by-Lee-Davis-Willoughby-Richard-Laymon.jpg",
+  "authors": [
+    {
+      "name": "Lee Davis Willoughby",
+      "slug": "lee-davis-willoughby"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Wilderness Seekers",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mountain Breed",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Conestoga People",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Forty-Niners",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hearts Divided",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Builders",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Land Rushers",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Wild and The Wayward",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Texans",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Alaskans",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Golden Staters",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The River People",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Land Grabbers",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Ranchers",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Homesteaders",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Frontier Healers",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Buffalo People",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Far Islanders",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Border Breed",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Boomers",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Wildcatters",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Gunfighters",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Cajuns",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Donner People",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Creoles",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Nightriders",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Sooners",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Vigilantes",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Express Riders",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Soldiers of Fortune",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Wranglers",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Baja People",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Yukon Breed",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Smugglers",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Voyageurs",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Barbary Coasters",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Whalers",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Canadians",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Prophet's People",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Lawmen",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Copper Kings",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Caribbeans",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "The Trail Blazers",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The Gamblers",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "The Robber Barons",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Assassins",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "The Bounty Hunters",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "The Texas Rangers",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Outlaws",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "The Fugitives",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "The Frontier Detectives",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "The Raiders",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "The Rough Riders",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Warriors of the Code",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "The Sixgun Apostles",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "The Scarlet Sisters",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Northeast Georgia: A History",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    }
+  ]
+}

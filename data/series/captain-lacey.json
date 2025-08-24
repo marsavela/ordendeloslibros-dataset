@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "Captain Lacey",
+  "slug": "captain-lacey",
+  "source": "https://www.orderofbooks.com/characters/captain-lacey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Captain-Lacey-by-Ashley-Gardner-Jennifer-Ashley.jpg",
+  "authors": [
+    {
+      "name": "Ashley Gardner Jennifer Ashley",
+      "slug": "ashley-gardner-jennifer-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hanover Square Affair",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Regimental Murder",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Glass House",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Sudbury School Murders",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Body in Berkeley Square",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Covent Garden Mystery",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Necklace Affair",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Gentleman's Walking Stick",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Death in Norfolk",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Disappearance in Drury Lane",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Murder in Grosvenor Square",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Thames River Murders",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Alexandria Affair",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Mystery at Carlton House",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Murder in St. Giles",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Death at Brighton Pavilion",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Custom House Murders",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Murder in the Eternal City",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "A Darkness in Seven Dials",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

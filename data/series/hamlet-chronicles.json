@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Hamlet Chronicles",
+  "slug": "hamlet-chronicles",
+  "source": "https://www.orderofbooks.com/characters/hamlet-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Hamlet-Chronicles-by-Gregory-Maguire.jpg",
+  "books": [
+    {
+      "title": "Seven Spiders Spinning",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Six Haunted Hairdos",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Five Alien Elves",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Four Stupid Cupids",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Three Rotten Eggs",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Couple of April Fools",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "One Final Firecracker",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

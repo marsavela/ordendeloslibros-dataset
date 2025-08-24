@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Shadowdance",
+  "slug": "shadowdance",
+  "source": "https://www.orderofbooks.com/characters/shadowdance/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/shadowdance-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Dalglish",
+      "slug": "david-dalglish"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Dance of Cloaks",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Dance of Blades",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Dance of Mirrors / A Dance of Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cloak and Spider",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Dance of Shadows",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Dance of Ghosts",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Dance of Chaos",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "D.I. Charlie Priest",
+  "slug": "d-i-charlie-priest",
+  "source": "https://www.orderofbooks.com/characters/di-charlie-priest/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/DI-Charlie-Priest-by-Stuart-Pawson.jpg",
+  "books": [
+    {
+      "title": "The Picasso Scam",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Judas Sheep",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mushroom Man",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Last Reminder",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deadly Friends",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Some by Fire",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chill Factor",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Laughing Boy",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Limestone Cowboy",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Over The Edge",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Shooting Elvis",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Grief Encounters",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Very Private Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

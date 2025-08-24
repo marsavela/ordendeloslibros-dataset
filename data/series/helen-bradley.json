@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Helen Bradley",
+  "slug": "helen-bradley",
+  "source": "https://www.orderofbooks.com/characters/helen-bradley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Helen-Bradley-by-Patricia-Rushford.jpg",
+  "authors": [
+    {
+      "name": "Patricia Rushford",
+      "slug": "patricia-rushford"
+    }
+  ],
+  "books": [
+    {
+      "title": "Now I Lay Me Down to Sleep",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Red Sky in Mourning",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Haunting Refrain",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "When Shadows Fall",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death on Arrival",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

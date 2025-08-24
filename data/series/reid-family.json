@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Reid Family",
+  "slug": "reid-family",
+  "source": "https://www.orderofbooks.com/characters/reid-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Reid-Family-by-Johanna-Lindsey.jpg",
+  "authors": [
+    {
+      "name": "Johanna Lindsey",
+      "slug": "johanna-lindsey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Heir",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Devil Who Tamed Her",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Rogue of My Own",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Let Love Find You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

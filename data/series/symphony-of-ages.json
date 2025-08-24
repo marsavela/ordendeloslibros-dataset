@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Symphony Of Ages",
+  "slug": "symphony-of-ages",
+  "source": "https://www.orderofbooks.com/characters/symphony-of-ages/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Symphony-of-Ages-by-Elizabeth-Haydon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Haydon",
+      "slug": "elizabeth-haydon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rhapsody",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Prophecy",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Destiny",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Requiem for the Sun",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Elegy for a Lost Star",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Assassin King",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Merchant Emperor",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Hollow Queen",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Weaver's Lament",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

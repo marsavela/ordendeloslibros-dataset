@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Ballantyne",
+  "slug": "ballantyne",
+  "source": "https://www.orderofbooks.com/characters/ballantyne/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Ballatyne-by-Wilbur-Smith.jpg",
+  "books": [
+    {
+      "title": "A Falcon Flies / Flight of the Falcon",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Men of Men",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Angels Weep",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Leopard Hunts in Darkness",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Triumph of the Sun",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "King of Kings",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Call of the Raven",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fire on the Horizon",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

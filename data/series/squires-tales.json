@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Squire’s Tales",
+  "slug": "squires-tales",
+  "source": "https://www.orderofbooks.com/characters/squires-tales/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Squires-Tales-by-Gerald-Morris.jpg",
+  "books": [
+    {
+      "title": "The Squire's Tale",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Squire, His Knight, and His Lady",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Savage Damsel and the Dwarf",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Parsifal's Page",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Ballad of Sir Dinadan",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Princess, the Crone, and the Dung-Cart Knight",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Lioness and Her Knight",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Quest of the Fair Unknown",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Squire's Quest",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Legend of the King",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

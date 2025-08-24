@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Songs Of Magic",
+  "slug": "songs-of-magic",
+  "source": "https://www.orderofbooks.com/characters/songs-of-magic/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Songs-of-Magic-by-JL-Bryan-500x200.jpg",
+  "authors": [
+    {
+      "name": "JL Bryan",
+      "slug": "jl-bryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fairy Metal Thunder",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fairy Blues",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fairystruck",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fairyland",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fairyvision",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fairy Luck",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

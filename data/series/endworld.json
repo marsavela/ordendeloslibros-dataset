@@ -1,0 +1,271 @@
+{
+  "type": "series",
+  "name": "Endworld",
+  "slug": "endworld",
+  "source": "https://www.orderofbooks.com/characters/endworld/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Endworld-by-David-Robbins.jpg",
+  "authors": [
+    {
+      "name": "David Robbins",
+      "slug": "david-robbins"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fox Run",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thief River Falls Run",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Twin Cities Run",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Kalispell Run",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dakota Run",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Citadel Run",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Armageddon Run",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Denver Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Capital Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "New York Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Liberty Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Houston Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Anaheim Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Seattle Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Nevada Run",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Miami Run",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Atlanta Run",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Memphis Run",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Cincinnati Run",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Dallas Run",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Boston Run",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Green Bay Run",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Yellowstone Run",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Spartan Run",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Madman Run",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Chicago Run",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "New Orleans Run",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Doomsday",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Dark Days",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Lords of Kismet",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Synthezoids",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Doomsday is a prequel to the Endworld Series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    }
+  ]
+}

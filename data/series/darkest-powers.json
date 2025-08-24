@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Darkest Powers",
+  "slug": "darkest-powers",
+  "source": "https://www.orderofbooks.com/characters/darkest-powers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Darkest-Powers-by-Kelley-Armstrong.jpg",
+  "books": [
+    {
+      "title": "The Summoning",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Awakening",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kat",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Reckoning",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dangerous",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Disenchanted",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Divided",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Belonging",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hunting Kat",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Darkest Powers Tales",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

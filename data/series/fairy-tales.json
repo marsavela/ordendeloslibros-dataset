@@ -1,0 +1,199 @@
+{
+  "type": "series",
+  "name": "Fairy Tales",
+  "slug": "fairy-tales",
+  "source": "https://www.orderofbooks.com/characters/fairy-tales/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Fairy-Tales-by-Viola-Grace-500x200.jpg",
+  "authors": [
+    {
+      "name": "Viola Grace",
+      "slug": "viola-grace"
+    }
+  ],
+  "books": [
+    {
+      "title": "Red Run",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Flight and Fantasy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Asylum Mine",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Rapunzel Factor",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Washed Up",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Micro Lena",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mask of the Overlord",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Escaping Lightning",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Seven in the Sky",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Heart of the Oracle",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Silver and Silence",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Drop of Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Jill and the Genestalk",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Mermaid's Wish",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Bride of Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Rhoe's Request",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Whyt's Plea",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Bride of Fire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Feather's Blossom",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Bride of Midnight",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Guarding Forever",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Huntsman",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Virtual Snow",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    }
+  ]
+}

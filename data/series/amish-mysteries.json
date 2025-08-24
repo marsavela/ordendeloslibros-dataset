@@ -1,0 +1,92 @@
+{
+  "type": "series",
+  "name": "Amish Mysteries",
+  "slug": "amish-mysteries",
+  "source": "https://www.orderofbooks.com/characters/amish-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Amish-Mysteries-by-Laura-Bradford-500x200.jpg",
+  "authors": [
+    {
+      "name": "Laura Bradford",
+      "slug": "laura-bradford"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amish Mysteries Books",
+      "books": [
+        {
+          "title": "Hearse and Buggy",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Assaulted Pretzel",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Shunned and Dangerous",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Suspendered Sentence",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "A Christmas Mourning",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "A Churn for the Worse",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Plain as Day",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Just Plain Murder",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "A Killer Carol",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        }
+      ]
+    }
+  }
+}

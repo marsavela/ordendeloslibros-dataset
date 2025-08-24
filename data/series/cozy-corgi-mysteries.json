@@ -1,0 +1,319 @@
+{
+  "type": "series",
+  "name": "Cozy Corgi Mysteries",
+  "slug": "cozy-corgi-mysteries",
+  "source": "https://www.orderofbooks.com/characters/cozy-corgi-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/08/Cozy-Corgi-Mysteries-by-Mildred-Abbott.jpg",
+  "authors": [
+    {
+      "name": "Mildred Abbott",
+      "slug": "mildred-abbott"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cruel Candy",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Traitorous Toys",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bickering Birds",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Savage Sourdough",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Scornful Scones",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Chaotic Corgis",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Quarrelsome Quartz",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wicked Wildlife",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Malevolent Magic",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Killer Keys",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Perilous Pottery",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Ghastly Gadgets",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Meddlesome Money",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Precarious Pasta",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Evil Elves",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Phony Photos",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Despicable Desserts",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Chattering Chipmunks",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Vengeful Vellum",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Wretched Wool",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Jaded Jewels",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Yowling Yetis",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Lethal Lace",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Pesky Puppies",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Deceptive Designs",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Antagonizing Antiques",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Malicious Malts",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Salacious Socialites",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Dastardly Ducks",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Stormy Stars",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Baffling Bachelorettes",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Bamboozled Brides",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Puzzling Pizza",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Guilty Glass",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Rampaging Rabbits",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Hostile Homecomings",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Naughty Novels",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Hoodwinked Husbands",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    }
+  ]
+}

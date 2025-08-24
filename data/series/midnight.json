@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Midnight",
+  "slug": "midnight",
+  "source": "https://www.orderofbooks.com/characters/midnight/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Midnight-by-Nancy-Gideon.jpg",
+  "books": [
+    {
+      "title": "Midnight Kiss",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Midnight Temptation",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Midnight Surrender",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Midnight Enchantment",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Midnight Gamble",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Midnight Redeemer",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Midnight Shadows",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Midnight Masquerade",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Midnight Crusader",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Michael Kelly",
+  "slug": "michael-kelly",
+  "source": "https://www.orderofbooks.com/characters/michael-kelly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Michael-Kelly-by-Michael-Harvey.jpg",
+  "authors": [
+    {
+      "name": "Michael Harvey",
+      "slug": "michael-harvey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Chicago Way",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fifth Floor",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Third Rail",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "We All Fall Down",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Governor's Wife",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

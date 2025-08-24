@@ -1,0 +1,201 @@
+{
+  "type": "series",
+  "name": "Iron Druid Chronicles",
+  "slug": "iron-druid-chronicles",
+  "source": "https://www.orderofbooks.com/characters/iron-druid-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Iron-Druid-Chronicles-by-Kevin-Hearne.jpg",
+  "books": [
+    {
+      "title": "Clan Rathskeller",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Test of Mettle",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hounded",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hexed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hammered",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kaibab Unbound",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Tricked",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Two Ravens and One Crow",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Trapped",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Hunted",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Grimoire of the Lamb",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Shattered",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Chapel Perilous",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Demon Barker of Wheat Street",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Carniepunk",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "A Prelude to War (Three Slices)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Two Tales of the Iron Druid Chronicles",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Staked",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Purloined Poodle",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Besieged",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Squirrel on the Train",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Scourged",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Death and Honey",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Oberon’s Bathtime Stories",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

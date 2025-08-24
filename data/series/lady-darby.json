@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Lady Darby",
+  "slug": "lady-darby",
+  "source": "https://www.orderofbooks.com/characters/lady-darby/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Lady-Darby-by-Anna-Lee-Huber.jpg",
+  "authors": [
+    {
+      "name": "Anna Lee Huber",
+      "slug": "anna-lee-huber"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Anatomist's Wife",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mortal Arts",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Grave Matter",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Study in Death",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Pressing Engagement",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "As Death Draws Near",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Brush with Shadows",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "An Artless Demise",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Stroke of Malice",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Wicked Conceit",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Perilous Perspective",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Fatal Illusion",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Deceptive Composition",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Tarnished Canvas",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

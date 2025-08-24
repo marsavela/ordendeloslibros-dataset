@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Talon & Chantry",
+  "slug": "talon-chantry",
+  "source": "https://www.orderofbooks.com/characters/talon-chantry/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Talon-and-Chantry-by-Louis-LAmour.jpg",
+  "books": [
+    {
+      "title": "Rivers West",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Man from the Broken Hills",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Milo Talon",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

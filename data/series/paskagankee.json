@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Paskagankee",
+  "slug": "paskagankee",
+  "source": "https://www.orderofbooks.com/characters/paskagankee/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/paskagankee-500x200.jpg",
+  "authors": [
+    {
+      "name": "Allan Leverone",
+      "slug": "allan-leverone"
+    }
+  ],
+  "books": [
+    {
+      "title": "Paskagankee",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Revenant",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wellspring",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Grimoire",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

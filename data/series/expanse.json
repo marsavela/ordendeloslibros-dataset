@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Expanse",
+  "slug": "expanse",
+  "source": "https://www.orderofbooks.com/characters/expanse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/The-Expanse-by-James-SA-Corey-500x200.jpg",
+  "authors": [
+    {
+      "name": "James S.A. Corey",
+      "slug": "james-s-a-corey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Leviathan Wakes",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Caliban's War",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Abaddon's Gate",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cibola Burn",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nemesis Games",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Babylon's Ashes",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Persepolis Rising",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tiamat's Wrath",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Leviathan Falls",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

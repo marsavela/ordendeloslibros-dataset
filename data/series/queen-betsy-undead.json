@@ -1,0 +1,185 @@
+{
+  "type": "series",
+  "name": "Queen Betsy/Undead",
+  "slug": "queen-betsy-undead",
+  "source": "https://www.orderofbooks.com/characters/queen-betsy-undead/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Undead-Queen-Betsy-Series-by-MaryJanice-Davidson.jpg",
+  "books": [
+    {
+      "title": "Undead and Unwed",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Girls Don't Dance",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Undead and Unemployed",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Undead and Unappreciated",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Undead and Unreturnable",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Undead and Unpopular",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Undead and Uneasy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Undead and Unworthy",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Incredible Misadventures of Boo and the Boy Blunder",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Undead and Unwelcome",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Undead and Unfinished",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Undead and Undermined",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Undead and Unstable",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Undead and Underwater",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Undead and Unsure",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Undead and Unwary",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Undead and Unforgiven",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Undead and Done",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Unwavering",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Undead and Unmistakable",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Unreliable",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Undead AF",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Round Ringford",
+  "slug": "round-ringford",
+  "source": "https://www.orderofbooks.com/characters/round-ringford/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Round-Ringford-by-Ann-Purser.jpg",
+  "books": [
+    {
+      "title": "Pastures New",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Spinster Of The Parish / A Tangled Web",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "New Every Morning",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Orphan Lamb",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Thy Neighbour's Wife",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mixed Doubles",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Dark Angels",
+  "slug": "dark-angels",
+  "source": "https://www.orderofbooks.com/characters/dark-angels/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Dark-Angels-by-Keri-Arthur-500x200.jpg",
+  "authors": [
+    {
+      "name": "Keri Arthur",
+      "slug": "keri-arthur"
+    }
+  ],
+  "books": [
+    {
+      "title": "Darkness Unbound",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Darkness Rising",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Darkness Devours",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darkness Hunts",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Darkness Unmasked",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Darkness Splintered",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Darkness Falls",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Murphy",
+  "slug": "murphy",
+  "source": "https://www.orderofbooks.com/characters/murphy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Murphy-by-Gary-Paulsen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gary Paulsen",
+      "slug": "gary-paulsen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murphy",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murphy's Gold",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murphy's Herd",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murphy's War",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murphy's Stand",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murphy's Ambush",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murphy's Trail",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Fantasyland",
+  "slug": "fantasyland",
+  "source": "https://www.orderofbooks.com/characters/fantasyland/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Fantasyland-by-Kristen-Ashley.jpg",
+  "authors": [
+    {
+      "name": "Kristen Ashley",
+      "slug": "kristen-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wildest Dreams",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Golden Dynasty",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fantastical",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Broken Dove",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Midnight Soul",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gossamer in the Darkness",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

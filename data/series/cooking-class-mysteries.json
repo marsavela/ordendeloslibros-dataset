@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Cooking Class Mysteries",
+  "slug": "cooking-class-mysteries",
+  "source": "https://www.orderofbooks.com/characters/cooking-class-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Cooking-Class-Mysteries-by-Miranda-Bliss.jpg",
+  "authors": [
+    {
+      "name": "Miranda Bliss",
+      "slug": "miranda-bliss"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cooking Up Murder",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder on the Menu",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Men Don't Get the Munchies",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dying for Dinner",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder Has a Sweet Tooth",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

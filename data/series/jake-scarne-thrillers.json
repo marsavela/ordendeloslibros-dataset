@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Jake Scarne Thrillers",
+  "slug": "jake-scarne-thrillers",
+  "source": "https://www.orderofbooks.com/characters/jake-scarne-thrillers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/02/Jake-Scarne-by-Lawrence-De-Maria.jpg",
+  "books": [
+    {
+      "title": "Sound of Blood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Madman's Thirst",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Killerfest",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Viron Conspiracy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Pedestal",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Facets",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chance",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dancefire",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Splicer",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Nightingale",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Hope",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Solange",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

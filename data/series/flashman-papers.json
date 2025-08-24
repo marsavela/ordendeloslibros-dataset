@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Flashman Papers",
+  "slug": "flashman-papers",
+  "source": "https://www.orderofbooks.com/characters/flashman-papers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Flashman-Papers-by-George-MacDonald-Fraser-500x200.jpg",
+  "authors": [
+    {
+      "name": "George MacDonald Fraser",
+      "slug": "george-macdonald-fraser"
+    }
+  ],
+  "books": [
+    {
+      "title": "Flashman",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Royal Flash",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flash for Freedom!",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Flashman at the Charge",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Flashman in the Great Game",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Flashman's Lady",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Flashman and the Redskins",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Flashman and the Dragon",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Flashman and the Mountain of Light",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Flashman and the Angel of the Lord",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Flashman and the Tiger",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Flashman on the March",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

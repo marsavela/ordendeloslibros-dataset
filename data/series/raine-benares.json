@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Raine Benares",
+  "slug": "raine-benares",
+  "source": "https://www.orderofbooks.com/characters/raine-benares/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Raine-Benares-by-Lisa-Shearin-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lisa Shearin",
+      "slug": "lisa-shearin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Magic Lost, Trouble Found",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Armed & Magical",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Trouble with Demons",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bewitched & Betrayed",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Con & Conjure",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "All Spell Breaks Loose",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wedding Bells, Magic Spells",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Treasure & Treason",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Ruins and Revenge",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Wild Card",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

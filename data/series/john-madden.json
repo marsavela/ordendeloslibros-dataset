@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "John Madden",
+  "slug": "john-madden",
+  "source": "https://www.orderofbooks.com/characters/john-madden/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/John-Madden-by-Rennie-Airth-500x200.jpg",
+  "authors": [
+    {
+      "name": "South African",
+      "slug": "south-african"
+    }
+  ],
+  "books": [
+    {
+      "title": "River of Darkness",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Blood-Dimmed Tide",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dead of Winter",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Reckoning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Death of Kings",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Decent Inn of Death",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Enemy",
+  "slug": "enemy",
+  "source": "https://www.orderofbooks.com/characters/enemy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/The-Enemy-by-Charlie-Higson.jpg",
+  "authors": [
+    {
+      "name": "Charlie Higson",
+      "slug": "charlie-higson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Enemy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dead",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fear",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Geeks vs. Zombies",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Sacrifice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Fallen",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Hunted",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The End",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

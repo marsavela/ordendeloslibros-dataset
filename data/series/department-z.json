@@ -1,0 +1,233 @@
+{
+  "type": "series",
+  "name": "Department Z",
+  "slug": "department-z",
+  "source": "https://www.orderofbooks.com/characters/department-z/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/08/Department-Z-by-John-Creasey.jpg",
+  "books": [
+    {
+      "title": "The Death Miser",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Redhead",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "First Came a Murder",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death 'Round the Corner",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mark of the Crescent",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Thunder in Europe",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Terror Trap",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Carriers of Death",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Days of Danger",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Death Stands By",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Menace!",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Murder Must Wait",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Panic!",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Death by Night",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Island of Peril",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Sabotage",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Go Away Death",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Day of Disaster",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Prepare for Action",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "No Darker Crime",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Dark Peril",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Peril Ahead",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The League of Dark Men",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Department of Death",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Enemy Within",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Dead or Alive",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "A Kind of Prisoner",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Black Spiders",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    }
+  ]
+}

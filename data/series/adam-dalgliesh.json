@@ -1,0 +1,126 @@
+{
+  "type": "series",
+  "name": "Adam Dalgliesh",
+  "slug": "adam-dalgliesh",
+  "source": "https://www.orderofbooks.com/characters/adam-dalgliesh/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Adam-Dalgliesh-by-PD-James.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Adam Dalgliesh Books",
+      "books": [
+        {
+          "title": "Cover Her Face",
+          "year": 1962,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "A Mind to Murder",
+          "year": 1963,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Unnatural Causes",
+          "year": 1967,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Shroud for a Nightingale",
+          "year": 1971,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Black Tower",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Death of an Expert Witness",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "A Taste for Death",
+          "year": 1986,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Devices and Desires",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Original Sin",
+          "year": 1994,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "A Certain Justice",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Death in Holy Orders",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "The Murder Room",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Lighthouse",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Private Patient",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        }
+      ]
+    }
+  }
+}

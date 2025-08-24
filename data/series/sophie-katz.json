@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Sophie Katz",
+  "slug": "sophie-katz",
+  "source": "https://www.orderofbooks.com/characters/sophie-katz/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Sophie-Katz-by-Kyra-Davis.jpg",
+  "authors": [
+    {
+      "name": "Kyra Davis",
+      "slug": "kyra-davis"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sex, Murder And A Double Latte",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Passion, Betrayal And Killer Highlights",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Obsession, Deceit, and Really Dark Chocolate",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lust, Loathing and a Little Lip Gloss",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Vows, Vendettas and a Little Black Dress",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Vanity, Vengeance And A Weekend In Vegas",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chaos, Desire & A Kick-Ass Cupcake",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

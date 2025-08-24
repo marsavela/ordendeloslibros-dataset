@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Rogues Of Scotland",
+  "slug": "rogues-of-scotland",
+  "source": "https://www.orderofbooks.com/characters/rogues-of-scotland/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Rogues-of-Scotland-by-Donna-Grant-500x200.jpg",
+  "authors": [
+    {
+      "name": "Donna Grant",
+      "slug": "donna-grant"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Craving",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hunger",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Tempted",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Seduced",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

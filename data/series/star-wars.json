@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Star Wars",
+  "slug": "star-wars",
+  "source": "https://www.orderofbooks.com/characters/star-wars/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Star-Wars.jpg",
+  "books": [
+    {
+      "title": "Fatal Alliance",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Revan",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deceived",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Annihilation",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

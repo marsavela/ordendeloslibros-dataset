@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Miss Dimple Kilpatrick",
+  "slug": "miss-dimple-kilpatrick",
+  "source": "https://www.orderofbooks.com/characters/miss-dimple-kilpatrick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Miss-Dimple-Kilpatrick.jpg",
+  "books": [
+    {
+      "title": "Miss Dimple Disappears",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Miss Dimple Rallies to the Cause",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Miss Dimple Suspects",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Miss Dimple Picks a Peck of Trouble",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Miss Dimple and the Slightly Bewildered Angel",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

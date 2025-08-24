@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "P.I. Jack Marconi",
+  "slug": "p-i-jack-marconi",
+  "source": "https://www.orderofbooks.com/characters/pi-jack-marconi/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/PI-Jack-Marconi-by-Vincent-Zandri.jpg",
+  "authors": [
+    {
+      "name": "Vincent Zandri",
+      "slug": "vincent-zandri"
+    }
+  ],
+  "books": [
+    {
+      "title": "As Catch Can / The Innocent",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Godchild",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Guilty",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Corruptions",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dressed to Kill",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Arbor Hill",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Sins of the Sons",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "White Wedding",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Slender Man",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Body",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

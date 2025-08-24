@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Town Called Fury",
+  "slug": "town-called-fury",
+  "source": "https://www.orderofbooks.com/characters/town-called-fury/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/A-Town-Called-Fury-by-William-W-Johnstone-and-JA-Johnstone.jpg",
+  "books": [
+    {
+      "title": "A Town Called Fury",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hard Country",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Judgment Day",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Redemption",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

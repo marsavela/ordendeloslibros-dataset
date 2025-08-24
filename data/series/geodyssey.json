@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Geodyssey",
+  "slug": "geodyssey",
+  "source": "https://www.orderofbooks.com/characters/geodyssey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Geodyssey-by-Piers-Anthony.jpg",
+  "books": [
+    {
+      "title": "Isle of Woman",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shame of Man",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hope of Earth",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Muse of Art",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Climate of Change",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Muse of Art",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

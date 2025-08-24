@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Suspense Series",
+  "slug": "suspense-series",
+  "source": "https://www.orderofbooks.com/characters/suspense-series/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Suspense-Series-by-Heather-Graham.jpg",
+  "books": [
+    {
+      "title": "Drop Dead Gorgeous",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tall, Dark, and Deadly",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Long, Lean, and Lethal",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dying to Have Her",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hurricane Bay",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Picture Me Dead",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dead on the Dance Floor",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Killing Kelly",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Charles Lenox",
+  "slug": "charles-lenox",
+  "source": "https://www.orderofbooks.com/characters/charles-lenox/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Charles-Lenox-by-Charles-Finch.jpg",
+  "authors": [
+    {
+      "name": "Charles Finch",
+      "slug": "charles-finch"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Beautiful Blue Death",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The September Society",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fleet Street Murders",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Stranger in Mayfair",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Burial at Sea",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "An East End Murder",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Death in the Small Hours",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "An Old Betrayal",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Laws of Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Home by Nightfall",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Inheritance",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Gone Before Christmas",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Woman in the Water",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Vanishing Man",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Last Passenger",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "An Extravagant Death",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Hidden City",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

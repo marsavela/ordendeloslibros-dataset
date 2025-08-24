@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "Scumble River Mysteries",
+  "slug": "scumble-river-mysteries",
+  "source": "https://www.orderofbooks.com/characters/scumble-river-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Scumble-River-Mysteries-by-Denise-Swanson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Denise Swanson",
+      "slug": "denise-swanson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder of a Small-Town Honey",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder of a Sweet Old Lady",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder of a Sleeping Beauty",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder of a Snake in the Grass",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder of a Barbie and Ken",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder of a Pink Elephant",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder of a Smart Cookie",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder of a Real Bad Boy",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder of a Botoxed Blonde",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Murder of a Chocolate-Covered Cherry",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Murder of a Royal Pain",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Murder of a Wedding Belle",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Murder of a Bookstore Babe",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Murder of a Creped Suzette",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Murder of the Cat's Meow",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Murder of a Stacked Librarian",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Murder of a Needled Knitter",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Murder of an Open Book",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Murder of a Cranky Catnapper",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

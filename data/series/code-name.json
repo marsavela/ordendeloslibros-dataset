@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Code Name",
+  "slug": "code-name",
+  "source": "https://www.orderofbooks.com/characters/code-name/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Code-Name-by-William-W-Johnstone.jpg",
+  "books": [
+    {
+      "title": "Code Name: Payback",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Code Name: Survival",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Code Name: Death",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Code Name: Coldfire",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Code Name: Quickstrike",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Code Name: Extreme Prejudice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Code Name: Kill Zone",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

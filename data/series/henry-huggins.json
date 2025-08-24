@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Henry Huggins",
+  "slug": "henry-huggins",
+  "source": "https://www.orderofbooks.com/characters/henry-huggins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Henry-Huggins-by-Beverly-Cleary.jpg",
+  "authors": [
+    {
+      "name": "Beverly Cleary",
+      "slug": "beverly-cleary"
+    }
+  ],
+  "books": [
+    {
+      "title": "Henry Huggins",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Henry and Beezus",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Henry and Ribsy",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Henry and the Paper Route",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Henry and the Clubhouse",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ribsy",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

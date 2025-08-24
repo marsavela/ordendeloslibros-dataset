@@ -1,0 +1,169 @@
+{
+  "type": "series",
+  "name": "Joe DeMarco",
+  "slug": "joe-demarco",
+  "source": "https://www.orderofbooks.com/characters/joe-demarco/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Joe-De-Marco-by-Mike-Lawson.jpg",
+  "books": [
+    {
+      "title": "The Inside Ring",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Second Perimeter / The Payback",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "House Rules / Dead on Arrival",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "House Secrets / Dead Man’s List",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "House Justice",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "House Divided",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "House Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "House Odds",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "House Reckoning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "House Rivals",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "House Revenge",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "House Witness",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "House Arrest",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "House Privilege",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "House Standoff",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Alligator Alley",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Kingpin",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Ella",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Untouchable",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Asset",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    }
+  ]
+}

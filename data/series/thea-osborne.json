@@ -1,0 +1,183 @@
+{
+  "type": "series",
+  "name": "Thea Osborne",
+  "slug": "thea-osborne",
+  "source": "https://www.orderofbooks.com/characters/thea-osborne/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Thea-Osborne-Cotswolds-Mysteries-by-Rebecca-Tope-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rebecca Tope",
+      "slug": "rebecca-tope"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Cotswold Killing",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Cotswold Ordeal",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death in the Cotswolds",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Cotswold Mystery",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood in the Cotswolds",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Slaughter in the Cotswolds",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fear in the Cotswolds",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Grave in the Cotswolds",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Deception in the Cotswolds",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Malice in the Cotswolds",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Shadows in the Cotswolds",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Trouble in the Cotswolds",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Revenge in the Cotswolds",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Guilt in the Cotswolds",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Peril in the Cotswolds",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Crisis in the Cotswolds",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Secrets in the Cotswolds",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "A Cotswold Christmas Mystery",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Echoes in the Cotswolds",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Betrayal in the Cotswolds",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Discovery in the Cotswolds",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    }
+  ]
+}

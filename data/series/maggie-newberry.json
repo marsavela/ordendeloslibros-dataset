@@ -1,0 +1,249 @@
+{
+  "type": "series",
+  "name": "Maggie Newberry",
+  "slug": "maggie-newberry",
+  "source": "https://www.orderofbooks.com/characters/maggie-newberry/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/05/Maggie-Newberry-by-Susan-Kiernan-Lewis.jpg",
+  "books": [
+    {
+      "title": "Murder On the Cote d’Azur/ Murder in the South of France",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Toujours Dead / Murder à la Carte",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder in Provence",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder in Paris",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder in Aix",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder in Nice",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder in the Latin Quarter",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder in the Abbey",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder in the Bistro",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Provençal Christmas",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Murder in Cannes",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Murder in Grenoble",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Murder in the Vineyard",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Thanksgiving in Provence",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Murder in Arles",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Murder in Marseille",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Murder in Saint-Rémy",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Murder à la Mode",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Murder in Avignon",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Murder in the Lavender",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Murder in Mont St-Michel",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Murder in the Village",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Murder in St-Tropez",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Murder in Grasse",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Murder in Monaco",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Murder in the Villa",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Murder in Montmartre",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Murder in Toulouse",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Murder in Metz",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Murder in Cassis",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

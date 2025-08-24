@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Shane Schofield",
+  "slug": "shane-schofield",
+  "source": "https://www.orderofbooks.com/characters/shane-schofield/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Shane-Schofield.jpg",
+  "books": [
+    {
+      "title": "Ice Station",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Area 7",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Scarecrow",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hell Island",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Scarecrow Returns / Scarecrow and the Army of Thieves",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

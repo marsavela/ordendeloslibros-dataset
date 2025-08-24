@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Gunman’s Reputation",
+  "slug": "gunmans-reputation",
+  "source": "https://www.orderofbooks.com/characters/gunmans-reputation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Gunmans-Reputation-by-Ralph-Cotton.jpg",
+  "authors": [
+    {
+      "name": "Ralph Cotton",
+      "slug": "ralph-cotton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gunman's Song",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Between Hell and Texas",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Law in Somos Santos",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bad Day at Willow Creek",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fast Guns Out of Texas",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ride to Hell's Gate",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gunmen of the Desert Sands",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Crossing Fire River",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Escape From Fire River",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Gun Country",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "City of Bad Men",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

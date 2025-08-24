@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Kathryn Swinbrooke",
+  "slug": "kathryn-swinbrooke",
+  "source": "https://www.orderofbooks.com/characters/kathryn-swinbrooke/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Kathryn-Swinbrooke-by-CL-Grace-Paul-Doherty-500x200.jpg",
+  "authors": [
+    {
+      "name": "CL Grace Paul Doherty",
+      "slug": "cl-grace-paul-doherty"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Shrine of Murders",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Eye of God",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Merchant of Death",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Book of Shadows",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Saintly Murders",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Maze of Murders",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Feast of Poisons",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

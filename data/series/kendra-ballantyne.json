@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Kendra Ballantyne",
+  "slug": "kendra-ballantyne",
+  "source": "https://www.orderofbooks.com/characters/kendra-ballantyne/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Kendra-Ballantyne-by-Linda-O-Johnston.jpg",
+  "books": [
+    {
+      "title": "Sit, Stay, Slay",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Nothing to Fear But Ferrets",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fine-Feathered Death",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Meow is for Murder",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fright of the Iguana",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Double Dog Dare",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Never Say Sty",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Howl Deadly",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Feline Fatale",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

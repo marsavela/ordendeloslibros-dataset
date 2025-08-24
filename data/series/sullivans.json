@@ -1,0 +1,223 @@
+{
+  "type": "series",
+  "name": "Sullivans",
+  "slug": "sullivans",
+  "source": "https://www.orderofbooks.com/characters/sullivans/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Sullivans-by-Bella-Andre-500x200.jpg",
+  "authors": [
+    {
+      "name": "Bella Andre",
+      "slug": "bella-andre"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Look of Love",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "From This Moment On",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Can't Help Falling in Love",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "I Only Have Eyes for You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "If You Were Mine",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Let Me Be the One",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Come A Little Bit Closer",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Always on My Mind",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Kissing Under the Mistletoe",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "It Must Be Your Love",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "One Perfect Night",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Just To Be With You",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "I Love How You Love Me",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "All I Ever Need Is You",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Every Beat Of My Heart",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Now That I've Found You",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Since I Fell for You",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Sweeter than Ever",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "You Do Something To Me",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Every Time We Fall In Love",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Falling In Love All Over Again",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Your Love Is Mine",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "There Goes My Heart",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "When You Kiss Me",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Hold on to My Heart",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    }
+  ]
+}

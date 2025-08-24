@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Shadow Keepers",
+  "slug": "shadow-keepers",
+  "source": "https://www.orderofbooks.com/characters/shadow-keepers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Shadow-Keepers-by-JK-Beck-Julie-Kenner-500x200.jpg",
+  "authors": [
+    {
+      "name": "JK Beck Julie Kenner",
+      "slug": "jk-beck-julie-kenner"
+    }
+  ],
+  "books": [
+    {
+      "title": "When Blood Calls",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "When Pleasure Rules",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Wicked Craves",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Midnight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "When Passion Lies",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "When Darkness Hungers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "When Temptation Burns",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

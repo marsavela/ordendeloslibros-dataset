@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Jon Stanton",
+  "slug": "jon-stanton",
+  "source": "https://www.orderofbooks.com/characters/jon-stanton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Jon-Stanton-by-Victor-Methos-500x200.jpg",
+  "authors": [
+    {
+      "name": "Victor Methos",
+      "slug": "victor-methos"
+    }
+  ],
+  "books": [
+    {
+      "title": "The White Angel Murder / Chains of Darkness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Walk In Darkness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sin City Homicide",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Arsonist",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Porn Star Murders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sociopath",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Black Widow",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Run Away",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mania",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Peak Road",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Purgatory",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Shadows",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

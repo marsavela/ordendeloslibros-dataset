@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "MacDonald Sisters",
+  "slug": "macdonald-sisters",
+  "source": "https://www.orderofbooks.com/characters/macdonald-sisters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/MacDonald-Sisters-by-Emilie-Richards.jpg",
+  "authors": [
+    {
+      "name": "Emilie Richards",
+      "slug": "emilie-richards"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sweet Georgia Girl",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sweet Sea Spirit",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sweet Mockingbird's Call",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sweet Mountain Magic",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sweet Homecoming",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

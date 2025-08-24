@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Biggie Weatherford",
+  "slug": "biggie-weatherford",
+  "source": "https://www.orderofbooks.com/characters/biggie-weatherford/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Biggie-Weatherford-by-Nancy-Bell.jpg",
+  "books": [
+    {
+      "title": "Biggie and The Poisoned Politician",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Biggie and the Mangled Mortician",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Biggie and the Fricasseed Fat Man",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Biggie and the Meddlesome Mailman",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Biggie and the Quincy Ghost",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Biggie and the Devil Diet",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

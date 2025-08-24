@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Rebecca Schwartz",
+  "slug": "rebecca-schwartz",
+  "source": "https://www.orderofbooks.com/characters/rebecca-schwartz/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Rebecca-Schwartz-by-Julie-Smith.jpg",
+  "authors": [
+    {
+      "name": "Julie Smith",
+      "slug": "julie-smith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death Turns a Trick",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sourdough Wars",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tourist Trap",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead in the Water",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Other People's Skeletons",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blood Types",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cul-de-Sac",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "David Brunelle",
+  "slug": "david-brunelle",
+  "source": "https://www.orderofbooks.com/characters/david-brunelle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/David-Brunelle-by-Stephen-Penner-500x200.jpg",
+  "authors": [
+    {
+      "name": "Stephen Penner",
+      "slug": "stephen-penner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Presumption of Innocence",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tribal Court",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "By Reason of Insanity",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Prosecutor for the Defense",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beyond a Reasonable Doubt",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Case Theory",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Substantial Risk",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Corpus Delicti",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Accomplice Liability",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Lack of Motive",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Missing Witness",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Diminished Capacity",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Devil's Plea Bargain",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Homicide in Berlin",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Premeditated Intent",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Alibi Defense",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Defense of Others:",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Necessity",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Interests of Justice:",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

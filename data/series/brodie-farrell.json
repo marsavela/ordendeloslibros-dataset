@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Brodie Farrell",
+  "slug": "brodie-farrell",
+  "source": "https://www.orderofbooks.com/characters/brodie-farrell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Brodie-Farrell-by-Jo-Bannister-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jo Bannister",
+      "slug": "jo-bannister"
+    }
+  ],
+  "books": [
+    {
+      "title": "Echoes of Lies",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "True Witness",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Reflections",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Depths of Solitude",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Breaking Faith",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Requiem for a Dealer",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Flawed",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Closer Still",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Liars All",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

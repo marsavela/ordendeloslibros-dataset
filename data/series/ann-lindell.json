@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Ann Lindell",
+  "slug": "ann-lindell",
+  "source": "https://www.orderofbooks.com/characters/ann-lindell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Ann-Lindell-by-Kjell-Eriksson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kjell Eriksson",
+      "slug": "kjell-eriksson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Princess of Burundi",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Cruel Stars of the Night",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Demon of Dakar / The Demon from Dakar",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hand That Trembles",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Black Lies, Red Blood",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Open Grave",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Stone Coffin",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Night of the Fire",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Deathwatch Beetle",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

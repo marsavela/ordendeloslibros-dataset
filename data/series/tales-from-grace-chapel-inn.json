@@ -1,0 +1,399 @@
+{
+  "type": "series",
+  "name": "Tales From Grace Chapel Inn",
+  "slug": "tales-from-grace-chapel-inn",
+  "source": "https://www.orderofbooks.com/characters/tales-from-grace-chapel-inn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Tales-From-Grace-Chapel-Inn.jpg",
+  "authors": [
+    {
+      "name": "Guideposts. The",
+      "slug": "guideposts-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "Back Home Again",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Going to the Chapel",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Recipes & Wooden Spoons",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hidden History",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Portraits of the Past",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Winter Wonders",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Home for the Holidays",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Slices of Life",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Midsummer Melody",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Something Old, Something New",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "We Have This Moment",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "All in the Timing",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Promises to Keep",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Price of Fame",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Pipe Organ",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Prayers, Paws & Providence / Prayers and Pawprints",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Tempest in a Teapot",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Life is a Three-Ring Circus",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Mystery at the Inn",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Rally 'Round the Flag",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Spirit of the Season",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Small-Town Reality",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Kindness of Strangers",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Start of Something Big",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Going, Going, Gone!",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Spring is in the Air",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Amazing Gracie",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Rosemary for Remembrance",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Autumn Tales",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Time of Their Lives",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Never Give Up",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Fond Memories, Fresh Beginnings",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Summer Breezes",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Reading, Writing and Riddles",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "They Also Serve",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Sing a New Song",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Saints Among Us",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "In Her Sister's Footsteps",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Ready to Wed",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Building Bridges",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Talk of the Town",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Way We Were",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Empty Nest",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Steady and Slow",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "As Time Goes By",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Eyes on the Prize",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Keeping the Faith",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Christmas Traditions at Grace Chapel Inn",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    }
+  ]
+}

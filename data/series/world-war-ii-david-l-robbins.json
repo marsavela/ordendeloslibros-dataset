@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "World War II (David L. Robbins)",
+  "slug": "world-war-ii-david-l-robbins",
+  "source": "https://www.orderofbooks.com/characters/world-war-ii-david-l-robbins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/World-War-II-by-David-Robbins.jpg",
+  "books": [
+    {
+      "title": "War of the Rats",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The End of War",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Last Citadel",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Liberation Road",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Broken Jewel",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "type": "series",
+  "name": "Pennyfoot Hotel Mysteries",
+  "slug": "pennyfoot-hotel-mysteries",
+  "source": "https://www.orderofbooks.com/characters/pennyfoot-hotel-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Pennyfoot-Hotel-Mysteries-by-Kate-Kingsbury-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kate Kingsbury",
+      "slug": "kate-kingsbury"
+    }
+  ],
+  "books": [
+    {
+      "title": "Room with a Clue",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Do Not Disturb",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Service for Two",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eat, Drink, and Be Buried",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Check-Out Time",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Grounds for Murder",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Pay the Piper",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Chivalry is Dead",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Ring for Tomb Service",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Death with Reservations",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dying Room Only",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Maid to Murder",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "No Clue at the Inn",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Slay Bells",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Shrouds of Holly",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Ringing in Murder",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Decked with Folly",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Mistletoe and Mayhem",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Herald of Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Clue is in the Pudding",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Mulled Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "A Perilous Promise",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "A Merry Murder",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    }
+  ]
+}

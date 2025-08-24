@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Casteel",
+  "slug": "casteel",
+  "source": "https://www.orderofbooks.com/characters/casteel/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Casteel-by-VC-Andrews.jpg",
+  "books": [
+    {
+      "title": "Heaven",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dark Angel",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fallen Hearts",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gates of Paradise",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Web of Dreams",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

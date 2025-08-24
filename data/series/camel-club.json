@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Camel Club",
+  "slug": "camel-club",
+  "source": "https://www.orderofbooks.com/characters/camel-club/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/camel-club.jpg",
+  "books": [
+    {
+      "title": "The Camel Club",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Collectors",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stone Cold",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Divine Justice",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hell's Corner",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bullseye",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

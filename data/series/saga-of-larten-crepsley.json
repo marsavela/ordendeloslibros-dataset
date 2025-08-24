@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Saga Of Larten Crepsley",
+  "slug": "saga-of-larten-crepsley",
+  "source": "https://www.orderofbooks.com/characters/saga-of-larten-crepsley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Saga-of-Larten-Crepsley-by-Darren-Shan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Darren Shan",
+      "slug": "darren-shan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Birth of a Killer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ocean of Blood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Palace of the Damned",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Brothers to the Death",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

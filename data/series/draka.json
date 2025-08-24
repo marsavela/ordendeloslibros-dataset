@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Draka",
+  "slug": "draka",
+  "source": "https://www.orderofbooks.com/characters/draka/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Draka-by-SM-Stirling-500x200.jpg",
+  "authors": [
+    {
+      "name": "SM Stirling",
+      "slug": "sm-stirling"
+    }
+  ],
+  "books": [
+    {
+      "title": "Marching Through Georgia",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Under the Yoke",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Stone Dogs",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Drakon",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Drakas!",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

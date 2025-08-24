@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Twilight",
+  "slug": "twilight",
+  "source": "https://www.orderofbooks.com/characters/twilight/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/Twilight.jpg",
+  "books": [
+    {
+      "title": "Twilight",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "New Moon",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Eclipse",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Breaking Dawn",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Midnight Sun",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

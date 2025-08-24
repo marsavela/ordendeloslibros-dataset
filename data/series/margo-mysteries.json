@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "Margo Mysteries",
+  "slug": "margo-mysteries",
+  "source": "https://www.orderofbooks.com/characters/margo-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Margo-Mysteries-by-Jerry-B-Jenkins.jpg",
+  "books": [
+    {
+      "title": "Margo",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Karlyn",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hilary",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Paige",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Allyson",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Erin",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Shannon",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lindsey",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Meaghan",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Janell",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Courtney",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Lyssa",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Margo's Reunion",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

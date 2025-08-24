@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "McRyan",
+  "slug": "mcryan",
+  "source": "https://www.orderofbooks.com/characters/mcryan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/McRyan-by-Roger-Stelljes.jpg",
+  "authors": [
+    {
+      "name": "Roger Stelljes",
+      "slug": "roger-stelljes"
+    }
+  ],
+  "books": [
+    {
+      "title": "The St. Paul Conspiracy",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deadly Stillwater",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "First Case",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Electing to Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fatally Bound",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blood Silence",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Next Girl on the List",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Stakeout",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fireball",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Tangled Web We Weave",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Jeffrey Fuller",
+  "slug": "jeffrey-fuller",
+  "source": "https://www.orderofbooks.com/characters/jeffrey-fuller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Jeffery-Fuller-by-Joe-Buff.jpg",
+  "books": [
+    {
+      "title": "Deep Sound Channel",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thunder in the Deep",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Crush Depth",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tidal Rip",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Straits of Power",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Seas of Crisis",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

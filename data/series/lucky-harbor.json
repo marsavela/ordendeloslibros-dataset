@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Lucky Harbor",
+  "slug": "lucky-harbor",
+  "source": "https://www.orderofbooks.com/characters/lucky-harbor/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Lucky-Harbor-by-Jill-Shalvis-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jill Shalvis",
+      "slug": "jill-shalvis"
+    }
+  ],
+  "books": [
+    {
+      "title": "Simply Irresistible",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bah Handsome!",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sweetest Thing",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Head Over Heels",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lucky in Love",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "At Last",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Forever and a Day",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Under the Mistletoe",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "It Had to Be You",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Always on My Mind",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dream a Little Dream",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Once in a Lifetime",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "It's in His Kiss",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "He's So Fine",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "One in a Million",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Merry Christmas, Baby",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

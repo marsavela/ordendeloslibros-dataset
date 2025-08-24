@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Escape To New Zealand",
+  "slug": "escape-to-new-zealand",
+  "source": "https://www.orderofbooks.com/characters/escape-to-new-zealand/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Escape-to-New-Zealand-by-Rosalind-James-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rosalind James",
+      "slug": "rosalind-james"
+    }
+  ],
+  "books": [
+    {
+      "title": "Just This Once",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Just Good Friends",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Just for Now",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Just for Fun",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Just My Luck",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Just Not Mine",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Just Once More",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Just for You",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Just in Time",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Just Stop Me",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Just Say Yes",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Just Say (Hell) No",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Just Come Over",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Just Say Christmas",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Just One Look",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Just for Me",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Just for You is a prequel novella in the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

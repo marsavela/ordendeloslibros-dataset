@@ -1,0 +1,223 @@
+{
+  "type": "series",
+  "name": "Benjamin January",
+  "slug": "benjamin-january",
+  "source": "https://www.orderofbooks.com/characters/benjamin-january/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Benjamin-January-by-Barbara-Hambly.jpg",
+  "authors": [
+    {
+      "name": "Barbara Hambly",
+      "slug": "barbara-hambly"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Free Man of Color",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fever Season",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Graveyard Dust",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sold Down the River",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Die Upon a Kiss",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wet Grave",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Days of the Dead",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dead Water",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dead and Buried",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Shirt On His Back",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Ran Away",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Good Man Friday",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Crimson Angel",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Hagar",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Libre",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "There Shall Your Heart Be Also",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "A Time For Every Purpose Under Heaven",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Death on the Moon",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Drinking Gourd",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Murder in July",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Cold Bayou",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Lady of Perdition",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "House of the Patriarch",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Death and Hard Cider",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Nubian’s Curse",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Murder in the Trembling Lands",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    }
+  ]
+}

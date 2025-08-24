@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Brad Miller",
+  "slug": "brad-miller",
+  "source": "https://www.orderofbooks.com/characters/brad-miller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Brad-Miller-by-Phillip-Margolin.jpg",
+  "books": [
+    {
+      "title": "Executive Privilege",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Supreme Justice",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Capitol Murder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sleight of Hand",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

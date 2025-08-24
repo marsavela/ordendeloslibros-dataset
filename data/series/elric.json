@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Elric",
+  "slug": "elric",
+  "source": "https://www.orderofbooks.com/characters/elric/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Elric-by-Michael-Moorcock.jpg",
+  "books": [
+    {
+      "title": "The Vanishing Tower / The Sleeping Sorceress",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Elric of Melniboné / The Dreaming City",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sailor on the Seas of Fate",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Weird of the White Wolf / The White Wolf",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bane of the Black Sword / Song of the Black Sword",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Stormbringer",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Fortress of the Pearl",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Revenge of the Rose",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Dreamthief's Daughter",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The White Wolf's Son",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Citadel of Forgotten Myths",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

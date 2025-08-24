@@ -1,0 +1,201 @@
+{
+  "type": "series",
+  "name": "Last Gunfighter",
+  "slug": "last-gunfighter",
+  "source": "https://www.orderofbooks.com/characters/last-gunfighter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Last-Gunfighter-by-William-W-Johnstone-JA-Johnstone.jpg",
+  "books": [
+    {
+      "title": "The Drifter",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Reprisal",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ghost Valley",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Forbidden",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Showdown",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Imposter",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rescue",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Burning",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "No Man's Land",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Manhunt",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Violent Sunday",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Renegades",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Savage Country",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Devil's Legion",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Avenger",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Hell Town",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Ambush Valley",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Killing Ground",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Slaughter",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Sudden Fury",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Winter Kill",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Dead Before Sundown",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Montana Gundown",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Morgan Men",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Magic",
+  "slug": "magic",
+  "source": "https://www.orderofbooks.com/characters/magic-books/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Magic-Books-by-Andre-Norton.jpg",
+  "books": [
+    {
+      "title": "Steel Magic",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Octagon Magic",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dragon Magic",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fur Magic",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lavender-Green Magic",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Red Hart Magic",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dragon Mage",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

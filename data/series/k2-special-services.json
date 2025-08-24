@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "K2 Special Services",
+  "slug": "k2-special-services",
+  "source": "https://www.orderofbooks.com/characters/k2-special-services/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/02/K2-Special-Services-by-Sandra-Owens.jpg",
+  "books": [
+    {
+      "title": "Crazy for Her",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Someone Like Her",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Falling For Her",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lost in Her",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Only Her",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

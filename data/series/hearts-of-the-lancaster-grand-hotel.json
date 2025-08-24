@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Hearts of the Lancaster Grand Hotel",
+  "slug": "hearts-of-the-lancaster-grand-hotel",
+  "source": "https://www.orderofbooks.com/characters/hearts-of-the-lancaster-grand-hotel/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/hearts-of-the-lancaster-grand-hotel-500x200.jpg",
+  "authors": [
+    {
+      "name": "Amy Clipston.",
+      "slug": "amy-clipston"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Hopeful Heart",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Mother's Secret",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Dream of Home",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Simple Prayer",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

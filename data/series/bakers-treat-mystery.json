@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Bakers Treat Mystery",
+  "slug": "bakers-treat-mystery",
+  "source": "https://www.orderofbooks.com/characters/bakers-treat-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/bakers-treat-mystery-500x200.jpg",
+  "books": [
+    {
+      "title": "Gluten for Punishment",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder Gone A-Rye",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flourless to Stop Him",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

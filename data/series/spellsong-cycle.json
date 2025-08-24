@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Spellsong Cycle",
+  "slug": "spellsong-cycle",
+  "source": "https://www.orderofbooks.com/characters/spellsong-cycle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Spellsong-Cycle-by-LE-Modesitt-Jr.jpg",
+  "books": [
+    {
+      "title": "The Soprano Sorceress",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Spellsong War",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Darksong Rising",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Shadow Sorceress",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadowsinger",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

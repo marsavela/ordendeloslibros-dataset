@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Princess Power",
+  "slug": "princess-power",
+  "source": "https://www.orderofbooks.com/characters/princess-power/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Princess-Power-by-Suzanne-Williams.jpg",
+  "books": [
+    {
+      "title": "The Charmingly Clever Cousin",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Perfectly Proper Prince",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mysterious, Mournful Maiden",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Stubbornly Secretive Servant",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Awfully Angry Ogre",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Gigantic, Genuine Genie",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Tucker",
+  "slug": "tucker",
+  "source": "https://www.orderofbooks.com/characters/tucker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/06/Tucker-by-Ray-Daniel-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ray Daniel",
+      "slug": "ray-daniel"
+    }
+  ],
+  "books": [
+    {
+      "title": "Terminated",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Corrupted Memory",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Child Not Found",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hacked",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

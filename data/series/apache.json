@@ -1,0 +1,231 @@
+{
+  "type": "series",
+  "name": "Apache",
+  "slug": "apache",
+  "source": "https://www.orderofbooks.com/characters/apache/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Apache-by-William-M-James.jpg",
+  "authors": [
+    {
+      "name": "William M. James",
+      "slug": "william-m-james"
+    }
+  ],
+  "books": [
+    {
+      "title": "The First Death",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Knife in the Night",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Duel to the Death",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death Train",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fort Treachery",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sonora Slaughter",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blood Line",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Blood on the Tracks",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Naked and the Savage",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "All Blood is Red",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Cruel Trail",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Fool's Gold",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Best Man",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Born to Die",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Blood Rising",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Texas Killing",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Blood Brother",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Slow Dying",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Death Dragon",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Blood Wedding",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Fast Living",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Border Killing",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Death Valley",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Death Ride",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Times Past",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Hanging",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Debt of Blood",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    }
+  ]
+}

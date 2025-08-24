@@ -1,0 +1,241 @@
+{
+  "type": "series",
+  "name": "Kirk McGarvey",
+  "slug": "kirk-mcgarvey",
+  "source": "https://www.orderofbooks.com/characters/kirk-mcgarvey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Kirk-McGarvey.jpg",
+  "books": [
+    {
+      "title": "Without Honor",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Countdown",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Crossfire",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Critical Mass",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "High Flight",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Assassin",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "White House",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Joshua's Hammer",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Kill Zone",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Soldier of God",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Allah's Scorpion",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Dance with the Dragon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Expediter",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Cabal",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Abyss",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Castro's Daughter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Blood Pact",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Retribution",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Shadowmen",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Fourth Horseman",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "24 Hours",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "End Game",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Tower Down",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Flash Points",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Face Off",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "First Kill",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "McGarvey",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Gambit",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Traitor",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    }
+  ]
+}

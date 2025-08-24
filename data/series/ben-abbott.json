@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Ben Abbott",
+  "slug": "ben-abbott",
+  "source": "https://www.orderofbooks.com/characters/ben-abbott/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Ben-Abbott-by-Justin-Scott-500x200.jpg",
+  "authors": [
+    {
+      "name": "Justin Scott",
+      "slug": "justin-scott"
+    }
+  ],
+  "books": [
+    {
+      "title": "HardScape",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Stonedust",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "FrostLine",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "McMansion",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mausoleum",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

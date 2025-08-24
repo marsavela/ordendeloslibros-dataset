@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Heaven Sent",
+  "slug": "heaven-sent",
+  "source": "https://www.orderofbooks.com/characters/heaven-sent/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Heaven-Sent-by-Montre-Bible.jpg",
+  "books": [
+    {
+      "title": "Heaven Sent",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Heaven Bound",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Heaven's Ghost",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sons of Heaven",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Ring of Death and Heaven's Power were re-published into Heaven's Ghost .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

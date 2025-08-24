@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "U.S. Marshals",
+  "slug": "u-s-marshals",
+  "source": "https://www.orderofbooks.com/characters/us-marshals/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/US-Marshall-by-Carla-Neggers.jpg",
+  "books": [
+    {
+      "title": "Cold Ridge",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shelter Island",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Night's Landing",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Rapids",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dark Sky",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Breakwater",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Abandon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

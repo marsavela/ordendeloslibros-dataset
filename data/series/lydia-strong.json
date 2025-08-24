@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Lydia Strong",
+  "slug": "lydia-strong",
+  "source": "https://www.orderofbooks.com/characters/lydia-strong/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Lydia-Strong-by-Lisa-Unger.jpg",
+  "books": [
+    {
+      "title": "Angel Fire",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Darkness Gathers",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Twice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Smoke",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

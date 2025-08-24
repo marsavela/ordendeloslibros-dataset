@@ -1,0 +1,321 @@
+{
+  "type": "series",
+  "name": "Sharon McCone",
+  "slug": "sharon-mccone",
+  "source": "https://www.orderofbooks.com/characters/sharon-mccone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Sharon-McCone-by-Marcia-Muller.jpg",
+  "books": [
+    {
+      "title": "Edwin of the Iron Shoes",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ask the Cards a Question",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cheshire Cat's Eye",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Games to Keep the Dark Away",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Leave a Message for Willie",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Double",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "There's Nothing to Be Afraid Of",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Eye of the Storm",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Shape of Dread",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "There's Something in a Sunday",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Trophies and Dead Things",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Where Echoes Live",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Pennies On a Dead Woman's Eyes",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Wolf in the Shadows",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Till the Butchers Cut Him Down",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "A Wild and Lonely Place",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Broken Promise Land",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Both Ends of the Night",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "While Other People Sleep",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Walk Through the Fire",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Listen to the Silence",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Dead Midnight",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Dangerous Hour",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Vanishing Point",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Ever-Running Man",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Burn Out",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Locked In",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Coming Back",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "City of Whispers",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Looking for Yesterday",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Skeleton in the Closet",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Night Searchers",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Merrill-Go-Round",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Tell Me Who I Am",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Someone Always Knows",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Color of Fear",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Breakers",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Ice and Stone",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Circle in the Water",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    }
+  ]
+}

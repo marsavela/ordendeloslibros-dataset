@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Angel’s Bay",
+  "slug": "angels-bay",
+  "source": "https://www.orderofbooks.com/characters/angels-bay/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Angels-Bay-by-Barbara-Freethy-500x200.jpg",
+  "authors": [
+    {
+      "name": "Barbara Freethy",
+      "slug": "barbara-freethy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Suddenly One Summer",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "On Shadow Beach",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "In Shelter Cove",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "At Hidden Falls",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Garden of Secrets",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

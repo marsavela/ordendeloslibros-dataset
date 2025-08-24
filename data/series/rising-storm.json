@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Rising Storm",
+  "slug": "rising-storm",
+  "source": "https://www.orderofbooks.com/characters/rising-storm/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Rising-Storm-Series-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julie Kenner",
+      "slug": "julie-kenner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tempest Rising (By: Julie Kenner)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "White Lightning (By: Lexi Blake)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Crosswinds (By: Elisabeth Naughton)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dance in the Wind (By: Jennifer Probst)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Calm Before the Storm (By: Larissa Ione)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Take the Storm (By: Rebecca Zanetti)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Weather the Storm (By: Lisa Mondello)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Thunder Rolls (By: Dee Davis)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "After the Storm (By: Julie Kenner)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Distant Thunder (By: Larissa Ione)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Against the Wind (By: Rebecca Zanetti)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Storm Warning (By: Larissa Ione)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Brave the Storm (By: Lisa Mondello)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Lightning Strikes (By: Lexi Blake)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Fire and Rain (By: R.K. Lilley)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Quiet Storm (By:Julie Kenner)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Blinding Rain (By: Elisabeth Naughton)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Blue Skies (By: Dee Davis)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

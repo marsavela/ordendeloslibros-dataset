@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Milo Weaver",
+  "slug": "milo-weaver",
+  "source": "https://www.orderofbooks.com/characters/milo-weaver/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Milo-Weaver-by-Olen-Steinhauer.jpg",
+  "books": [
+    {
+      "title": "The Tourist",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Nearest Exit",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An American Spy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Tourist",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

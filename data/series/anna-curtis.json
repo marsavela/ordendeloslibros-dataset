@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Anna Curtis",
+  "slug": "anna-curtis",
+  "source": "https://www.orderofbooks.com/characters/anna-curtis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/08/Anna-Curtis-by-Allison-Leotta.jpg",
+  "books": [
+    {
+      "title": "Law of Attraction",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Discretion",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Speak of the Devil",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Good Killing",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Last Good Girl",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

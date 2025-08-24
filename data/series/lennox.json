@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Lennox",
+  "slug": "lennox",
+  "source": "https://www.orderofbooks.com/characters/lennox/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/08/Lennox-by-Craig-Russell-500x200.jpg",
+  "authors": [
+    {
+      "name": "Craig Russell",
+      "slug": "craig-russell"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lennox",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Long Glasgow Kiss",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Deep Dark Sleep",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead Men And Broken Hearts",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Quiet Death of Thomas Quaid",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

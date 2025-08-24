@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Immortals",
+  "slug": "immortals",
+  "source": "https://www.orderofbooks.com/characters/immortals/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Immortals-by-Alyson-Noel.jpg",
+  "books": [
+    {
+      "title": "Evermore",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blue Moon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shadowland",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dark Flame",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Night Star",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Everlasting",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

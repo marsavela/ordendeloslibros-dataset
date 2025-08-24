@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Magic Kingdom Of Landover",
+  "slug": "magic-kingdom-of-landover",
+  "source": "https://www.orderofbooks.com/characters/magic-kingdom-of-landover/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Magic-Kingdom-of-Landover-by-Terry-Brooks.jpg",
+  "books": [
+    {
+      "title": "Magic Kingdom for Sale—Sold!",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Black Unicorn",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wizard at Large",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Tangle Box",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Witches' Brew",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Princess of Landover",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

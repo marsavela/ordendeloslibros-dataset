@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Strain",
+  "slug": "strain",
+  "source": "https://www.orderofbooks.com/characters/strain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/11/Strain-by-Guillermo-Del-Toro-Chuck-Hogan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Guillermo Del Toro Chuck Hogan",
+      "slug": "guillermo-del-toro-chuck-hogan"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Strain",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fall",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Night Eternal",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

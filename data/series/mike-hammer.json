@@ -1,0 +1,249 @@
+{
+  "type": "series",
+  "name": "Mike Hammer",
+  "slug": "mike-hammer",
+  "source": "https://www.orderofbooks.com/characters/mike-hammer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Mike-Hammer-by-Mickey-Spillane.jpg",
+  "books": [
+    {
+      "title": "I, the Jury",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "My Gun Is Quick",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vengeance is Mine",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "One Lonely Night",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Big Kill",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kiss Me, Deadly",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Girl Hunters",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Snake",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Twisted Thing",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Body Lovers",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Survival... Zero",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Killing Man",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Black Alley",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Goliath Bone",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Kiss Her Goodbye",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Big Bang",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Lady, Go Die!",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Skin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Complex 90",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "King of the Weeds",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Kill Me, Darling",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Murder Never Knocks",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "A Long Time Dead",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Will to Kill",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Killing Town",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Murder, My Love",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Masquerade for Murder",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Kill Me If You Can",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Dig Two Graves",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Baby, It's Murder",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Dave Riley",
+  "slug": "dave-riley",
+  "source": "https://www.orderofbooks.com/characters/dave-riley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Dave-Riley-by-Bob-Mayer.jpg",
+  "books": [
+    {
+      "title": "Eyes of the Hammer",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dragon Sim-13",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Synbat / Operation Synbat",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cut Out",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Eternity Base",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Z",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chasing the Ghost",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Chasing the Lost",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chasing the Son",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "New York Minute",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Lawyers, Guns and Money",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Walk on the Wild Side",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Hell of a Town",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "No Quarter",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Shelter From The Storm",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

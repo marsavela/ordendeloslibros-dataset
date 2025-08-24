@@ -1,0 +1,239 @@
+{
+  "type": "series",
+  "name": "October Daye",
+  "slug": "october-daye",
+  "source": "https://www.orderofbooks.com/characters/october-daye/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/October-Daye-by-Seanan-McGuire.jpg",
+  "authors": [
+    {
+      "name": "Seanan McGuire",
+      "slug": "seanan-mcguire"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rosemary and Rue",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Local Habitation",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Artificial Night",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Late Eclipses",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "One Salt Sea",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ashes of Honor",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chimes at Midnight",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Forbid the Sea",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Winter Long",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Fixed Stars",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "No Sooner Met",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Red-Rose Chain",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Heaps of Pearl",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Full of Briars",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Once Broken Faith",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Brightest Fell",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Of Things Unknown",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Night and Silence",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Suffer a Sea-Change",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Unkindest Tide",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Killing Frost",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Never Shines The Sun",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "When Sorrows Come",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Be the Serpent",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Candles and Starlight",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Sleep No More",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Innocent Sleep",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Silver and Lead",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    }
+  ]
+}

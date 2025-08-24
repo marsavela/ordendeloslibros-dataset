@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Nexus Chronicles",
+  "slug": "nexus-chronicles",
+  "source": "https://www.orderofbooks.com/characters/nexus-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Nexus-Chronicles-by-Viola-Grace-500x200.jpg",
+  "authors": [
+    {
+      "name": "Viola Grace",
+      "slug": "viola-grace"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gnomes of Suburbia",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Nexus Xmas",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gargoyles in the Round",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hotel Spectre",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Pixies in the Park",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Chubby is the Night",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Raven Dexter, Paranormal Midwife",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Impractical Magus",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Nexus Wedding",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Turning Night",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Hellebore's Holiday",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Courting the Phoenix",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

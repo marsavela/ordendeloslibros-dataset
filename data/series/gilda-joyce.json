@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Gilda Joyce",
+  "slug": "gilda-joyce",
+  "source": "https://www.orderofbooks.com/characters/gilda-joyce/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Gilda-Joyce-by-Jennifer-Allison.jpg",
+  "books": [
+    {
+      "title": "Gilda Joyce, Psychic Investigator",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Ladies of the Lake",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ghost Sonata",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Dead Drop",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bones of the Holy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

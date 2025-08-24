@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Flandry",
+  "slug": "flandry",
+  "source": "https://www.orderofbooks.com/characters/flandry/",
+  "image": "https://www.orderofbooks.com/images/bn-banner.png",
+  "books": [
+    {
+      "title": "We Claim These Stars",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Earthman, Go Home!",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mayday Orbit",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Agent of the Terran Empire",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Flandry of Terra",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ensign Flandry",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Rebel Worlds / Commander Flandry",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Circus of Hells",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Day of Their Return",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Knight of Ghosts and Shadows / Knight Flandry",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Stone In Heaven",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Long Night",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Game of Empire",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Tiger by the Tail!",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Flandry's Legacy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

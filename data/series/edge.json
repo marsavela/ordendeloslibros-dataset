@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Edge",
+  "slug": "edge",
+  "source": "https://www.orderofbooks.com/characters/edge/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Edge-by-Ilona-Andrews.jpg",
+  "authors": [
+    {
+      "name": "Ilona Andrews",
+      "slug": "ilona-andrews"
+    }
+  ],
+  "books": [
+    {
+      "title": "On the Edge",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bayou Moon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fate's Edge",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Steel's Edge",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

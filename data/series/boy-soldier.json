@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Boy Soldier",
+  "slug": "boy-soldier",
+  "source": "https://www.orderofbooks.com/characters/boy-soldier/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/06/boy-soldier.jpg",
+  "books": [
+    {
+      "title": "Traitor / Boy Soldier",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Payback",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Avenger",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Meltdown",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

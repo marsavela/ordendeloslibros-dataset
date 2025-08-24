@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Druid’s Glen",
+  "slug": "druids-glen",
+  "source": "https://www.orderofbooks.com/characters/druid-glen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Druid-Glen-by-Donna-Grant-500x200.jpg",
+  "authors": [
+    {
+      "name": "Donna Grant",
+      "slug": "donna-grant"
+    }
+  ],
+  "books": [
+    {
+      "title": "Highland Mist",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Highland Nights",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Highland Dawn",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Highland Fires",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Highland Magic",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dragonfyre",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

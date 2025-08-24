@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Spellbound Falls",
+  "slug": "spellbound-falls",
+  "source": "https://www.orderofbooks.com/characters/spellbound-falls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Spellbound-Falls-by-Janet-Chapman.jpg",
+  "books": [
+    {
+      "title": "Spellbound Falls",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Charmed by His Love",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Courting Carolina",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Heart of a Hero",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "For the Love of Magic",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Highlander Next Door",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Call It Magic",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

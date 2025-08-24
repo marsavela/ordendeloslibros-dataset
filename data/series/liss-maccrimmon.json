@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Liss MacCrimmon",
+  "slug": "liss-maccrimmon",
+  "source": "https://www.orderofbooks.com/characters/liss-maccrimmon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Liss-MacCrimmon-Mysteries-by-Kaitlyn-Dunnett-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kaitlyn Dunnett",
+      "slug": "kaitlyn-dunnett"
+    }
+  ],
+  "books": [
+    {
+      "title": "Kilt Dead",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Scone Cold Dead",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Wee Christmas Homicide",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Corpse Wore Tartan",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Scotched",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bagpipes, Brides and Homicides",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Vampires, Bones and Treacle Scones",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ho-Ho-Homicide",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Scottie Barked At Midnight",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Kilt at the Highland Games",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "X Marks the Scot",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Overkilt",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A View to a Kilt",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Wyndham Werewolf",
+  "slug": "wyndham-werewolf",
+  "source": "https://www.orderofbooks.com/characters/wyndham-werewolf/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Wyndham-Werewolf-by-MaryJanice-Davidson.jpg",
+  "books": [
+    {
+      "title": "Derik's Bane",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead and Loving It",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Honeymoon Story",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fiend in Need",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wolf at the Door",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Driftwood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Monster Love",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

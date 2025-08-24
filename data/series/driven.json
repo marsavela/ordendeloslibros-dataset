@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Driven",
+  "slug": "driven",
+  "source": "https://www.orderofbooks.com/characters/driven/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Driven-by-K-Bromberg-500x200.jpg",
+  "authors": [
+    {
+      "name": "K Bromberg",
+      "slug": "k-bromberg"
+    }
+  ],
+  "books": [
+    {
+      "title": "Driven",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fueled",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Crashed",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Raced",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Slow Burn",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sweet Ache",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hard Beat",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Aced",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Down Shift",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

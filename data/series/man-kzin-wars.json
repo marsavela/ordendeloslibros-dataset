@@ -1,0 +1,183 @@
+{
+  "type": "series",
+  "name": "Man-Kzin Wars",
+  "slug": "man-kzin-wars",
+  "source": "https://www.orderofbooks.com/characters/man-kzin-wars/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Man-Kzin-Wars-by-Larry-Niven.jpg",
+  "authors": [
+    {
+      "name": "Larry Niven",
+      "slug": "larry-niven"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Man-Kzin Wars",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Man-Kzin Wars II",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Man-Kzin Wars III",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Man-Kzin Wars IV",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Children's Hour",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Man-Kzin Wars V",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Man-Kzin Wars VI",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Man-Kzin Wars VII",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Darker Geometry",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Best of All Possible Wars",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Man-Kzin Wars VIII: Choosing Names",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Man-Kzin Wars IX",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The House of the Kzinti",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Man-Kzin Wars X: The Wunder War",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Man-Kzin Wars XI",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Destiny's Forge",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Man-Kzin Wars XII",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Man-Kzin Wars XIII",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Man-Kzin Wars XIV",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Treasure Planet",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Man-Kzin Wars XV",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    }
+  ]
+}

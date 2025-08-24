@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Drenai Saga",
+  "slug": "drenai-saga",
+  "source": "https://www.orderofbooks.com/characters/drenai-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Drenai-Saga-by-David-Gemmell.jpg",
+  "authors": [
+    {
+      "name": "David Gemmell",
+      "slug": "david-gemmell"
+    }
+  ],
+  "books": [
+    {
+      "title": "Legend / Against the Horde",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The King Beyond the Gate",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Waylander",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Quest for Lost Heroes",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In the Realm of the Wolf",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The First Chronicles of Druss the Legend",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Legend of Deathwalker",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Winter Warriors",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hero in the Shadows",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "White Wolf",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Swords of Night and Day",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "type": "series",
+  "name": "Gor",
+  "slug": "gor",
+  "source": "https://www.orderofbooks.com/characters/gor/",
+  "image": "https://www.orderofbooks.com/images/bn-banner.png",
+  "books": [
+    {
+      "title": "Tarnsman of Gor",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Outlaw of Gor",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Priest-Kings of Gor",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nomads of Gor",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Assassin of Gor",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Raiders of Gor",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Captive of Gor",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hunters of Gor",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Marauders of Gor",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Tribesmen of Gor",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Slave Girl of Gor",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Beasts of Gor",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Explorers of Gor",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Fighting Slave of Gor",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Rogue of Gor",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Guardsman of Gor",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Savages of Gor",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Blood Brothers of Gor",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Kajira of Gor",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Players of Gor",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Mercenaries of Gor",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Dancer of Gor",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Renegades of Gor",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Vagabonds of Gor",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Magicians of Gor",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Witness of Gor",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Prize of Gor",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Kur of Gor",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Swordsmen of Gor",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Mariners of Gor",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Conspirators of Gor",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Smugglers of Gor",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Rebels of Gor",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Plunder of Gor",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Quarry of Gor",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Avengers of Gor",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Warriors of Gor",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Treasure of Gor",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    }
+  ]
+}

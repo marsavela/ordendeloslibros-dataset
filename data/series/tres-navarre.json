@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Tres Navarre",
+  "slug": "tres-navarre",
+  "source": "https://www.orderofbooks.com/characters/tres-navarre/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Tres-Navarre-by-Rick-Riordan.jpg",
+  "books": [
+    {
+      "title": "Big Red Tequila",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Widower's Two-Step",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Last King of Texas",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Devil Went Down to Austin",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Southtown",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mission Road",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rebel Island",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

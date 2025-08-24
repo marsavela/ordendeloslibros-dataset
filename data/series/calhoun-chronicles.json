@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Calhoun Chronicles",
+  "slug": "calhoun-chronicles",
+  "source": "https://www.orderofbooks.com/characters/calhoun-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Calhoun-Chronicles-by-Susan-Wiggs.jpg",
+  "books": [
+    {
+      "title": "The Charm School",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Horsemaster's Daughter",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Halfway to Heaven",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Enchanted Afternoon",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Summer Affair",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

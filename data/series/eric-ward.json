@@ -1,0 +1,145 @@
+{
+  "type": "series",
+  "name": "Eric Ward",
+  "slug": "eric-ward",
+  "source": "https://www.orderofbooks.com/characters/eric-ward/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/Eric-Ward-by-Roy-Lewis.jpg",
+  "books": [
+    {
+      "title": "A Certain Blindness / The Sedleigh Hall Murder",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dwell in Danger / The Farming Murder",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Limited Vision / The Quayside Murder",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Once Dying, Twice Dead / The Diamond Murder",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Blurred Reality / The Geordie Murder",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Premium on Death / The Shipping Murder",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Salamander Chill / The City of London Murder",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Necessary Dealing / The Apartment Murder",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Kind of Transaction / The Spanish Villa Murder",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Form of Death / The Marriage Murder",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Nightwalker / The Wasteful Murder",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Phantom / The Phantom Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Dead Man Running / The Slaughterhouse Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Embers of the Dead / The Tattoo Murder",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Death Squad / The Football Murder",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Guardian of the Dead / The Tutankhamun Murder",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Design for Murder / The Zodiac Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Little House",
+  "slug": "little-house",
+  "source": "https://www.orderofbooks.com/characters/little-house/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Little-House-by-Laura-Ingalls-Wilder.jpg",
+  "books": [
+    {
+      "title": "Little House in the Big Woods",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Farmer Boy",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Little House on the Prairie",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "On the Banks of Plum Creek",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "By the Shores of Silver Lake",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Long Winter",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Little Town on the Prairie",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "These Happy Golden Years",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The First Four Years",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

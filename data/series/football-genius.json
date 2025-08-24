@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Football Genius",
+  "slug": "football-genius",
+  "source": "https://www.orderofbooks.com/characters/football-genius/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Football-Genius-by-Tim-Green.jpg",
+  "books": [
+    {
+      "title": "Football Genius",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Football Hero",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Football Champ",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Big Time",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deep Zone",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Perfect Season",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

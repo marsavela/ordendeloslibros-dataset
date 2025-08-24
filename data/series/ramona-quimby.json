@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Ramona Quimby",
+  "slug": "ramona-quimby",
+  "source": "https://www.orderofbooks.com/characters/ramona-quimby/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Ramona-Quimby-by-Beverly-Cleary.jpg",
+  "books": [
+    {
+      "title": "Beezus and Ramona",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ramona the Pest",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ramona the Brave",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ramona and Her Father",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ramona and Her Mother",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ramona Quimby, Age 8",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ramona Forever",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ramona's World",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

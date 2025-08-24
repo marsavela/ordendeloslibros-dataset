@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Baseball Great",
+  "slug": "baseball-great",
+  "source": "https://www.orderofbooks.com/characters/baseball-great/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Baseball-Great-by-Tim-Green-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tim Green",
+      "slug": "tim-green"
+    }
+  ],
+  "books": [
+    {
+      "title": "Baseball Great",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rivals",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Best of the Best",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Home Run",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

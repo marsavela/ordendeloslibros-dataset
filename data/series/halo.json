@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Halo",
+  "slug": "halo",
+  "source": "https://www.orderofbooks.com/characters/halo/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Halo-by-Bungie-Microsoft-Studios-343-Industries.jpg",
+  "authors": [
+    {
+      "name": "Bungie. The",
+      "slug": "bungie-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fall of Reach",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "First Strike",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Evolutions: Essential Tales of the Halo Universe",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Evolutions: Essential Tales of the Halo Universe",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Thursday War",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Broken Circle",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hunters in the Dark",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Saint's Testimony",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Shadow of Intent",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fractures",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Legacy of Onyx",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Contact Harvest",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Shadows of Reach",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Rubicon Protocol",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Outcasts",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Epitaph",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Edge of Dawn",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

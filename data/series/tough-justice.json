@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Tough Justice",
+  "slug": "tough-justice",
+  "source": "https://www.orderofbooks.com/characters/tough-justice/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Tough-Justice-500x200.jpg",
+  "authors": [
+    {
+      "name": "Carla Cassidy",
+      "slug": "carla-cassidy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Exposed",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Watched",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Burned",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trapped",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Twisted",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ambushed",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Betrayed",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hunted",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Countdown 1",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Countdown 2",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Countdown 3",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Countdown 4",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Countdown 5",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Countdown 6",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Countdown 7",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Countdown 8",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

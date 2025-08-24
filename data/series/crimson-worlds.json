@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Crimson Worlds",
+  "slug": "crimson-worlds",
+  "source": "https://www.orderofbooks.com/characters/crimson-worlds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Crimson-Worlds-by-Jay-Allan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jay Allan",
+      "slug": "jay-allan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Marines",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Cost of Victory",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Little Rebellion",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The First Imperium",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Line Must Hold",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "To Hell's Heart",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Shadow Legions",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Even Legends Die",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Fall",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Red Team Alpha",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Prizzi",
+  "slug": "prizzi",
+  "source": "https://www.orderofbooks.com/characters/prizzi/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/04/Prizzi-by-Richard-Condon.jpg",
+  "books": [
+    {
+      "title": "Prizzi's Honor",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Prizzi's Family",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Prizzi's Glory",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Prizzi's Money",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

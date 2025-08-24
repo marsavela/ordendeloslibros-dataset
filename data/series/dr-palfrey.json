@@ -1,0 +1,289 @@
+{
+  "type": "series",
+  "name": "Dr. Palfrey",
+  "slug": "dr-palfrey",
+  "source": "https://www.orderofbooks.com/characters/dr-palfrey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/08/Dr-Palfrey-by-John-Creasey.jpg",
+  "books": [
+    {
+      "title": "Traitor's Doom",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Legion of the Lost",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Perilous Country / The Valley of Fear",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dangerous Quest",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death in the Rising Sun",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Hounds of Vengeance",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Shadow of Doom",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The House of the Bears",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dark Harvest",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Wings of Peace",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Sons of Satan",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Dawn of Darkness",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The League of Light",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Man Who Shook the World",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Prophet of Fire",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Killers of Innocence / The Children of Hate",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Touch of Death",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Mists of Fear",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Flood",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Plague of Silence",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Drought / Dry Spell",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Terror",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Depths",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Sleep",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Inferno",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Perilous Country",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Famine",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Blight",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Oasis",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Smog",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Unbegotten",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Insulators",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Voiceless Ones",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Thunder-Maker",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Whirlwind",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    }
+  ]
+}

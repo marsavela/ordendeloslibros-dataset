@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "name": "Ana Grey",
+  "slug": "ana-grey",
+  "source": "https://www.orderofbooks.com/characters/ana-grey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/07/Ana-Grey-by-April-Smith.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Ana Grey Books",
+      "books": [
+        {
+          "title": "North of Montana",
+          "year": 1994,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Good Morning, Killer",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Judas Horse",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "White Shotgun",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    }
+  }
+}

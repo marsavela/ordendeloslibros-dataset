@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Quigg",
+  "slug": "quigg",
+  "source": "https://www.orderofbooks.com/characters/quigg/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Quigg-by-Tim-Ellis.jpg",
+  "books": [
+    {
+      "title": "Body 13",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Graves at Angel Brook",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Twelve Murders of Christmas",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Skulls Beneath Eternity Wharf",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Terror at Grisly Park",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Haunting of Bleeding Heart Yard",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Corpse in Highgate Cemetery",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Enigma of Apocalypse Heights:",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Lost Children of Bethnal Green",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Charnel House in Copperfield Street",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

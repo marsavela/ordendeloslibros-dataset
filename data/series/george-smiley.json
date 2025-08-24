@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "George Smiley",
+  "slug": "george-smiley",
+  "source": "https://www.orderofbooks.com/characters/george-smiley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/George-Smiley.jpg",
+  "books": [
+    {
+      "title": "Call for the Dead",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Murder of Quality",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Spy Who Came in from the Cold",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Looking Glass War",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tinker, Tailor, Soldier, Spy",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Honourable Schoolboy",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Smiley's People",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Secret Pilgrim",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Legacy of Spies",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Karla's Choice",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

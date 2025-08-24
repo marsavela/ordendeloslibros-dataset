@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "Chocoholic Mysteries",
+  "slug": "chocoholic-mysteries",
+  "source": "https://www.orderofbooks.com/characters/chocoholic-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Chocoholic-Mystery-by-JoAnna-Carl.jpg",
+  "authors": [
+    {
+      "name": "JoAnna Carl",
+      "slug": "joanna-carl"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Chocolate Kidnapping Clue",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Chocolate Cat Caper",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Chocolate Bear Burglary",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Chocolate Frog Frame-Up",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Chocolate Puppy Puzzle",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Chocolate Mouse Trap",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Chocolate Bridal Bash",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Chocolate Jewel Case",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Chocolate Snowman Murders",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Chocolate Cupid Killings",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Chocolate Pirate Plot",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Chocolate Castle Clue",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Chocolate Moose Motive",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Chocolate Book Bandit",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Chocolate Clown Corpse",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Chocolate Falcon Fraud",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Chocolate Bunny Brouhaha",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Chocolate Shark Shenanigans",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Chocolate Raccoon Rigmarole",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

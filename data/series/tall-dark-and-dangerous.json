@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "Tall, Dark And Dangerous",
+  "slug": "tall-dark-and-dangerous",
+  "source": "https://www.orderofbooks.com/characters/tall-dark-and-dangerous/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Tall-Dark-Dangerous-by-Suzanne-Brockmann.jpg",
+  "books": [
+    {
+      "title": "Prince Joe",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Forever Blue",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Frisco's Kid",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Everyday, Average Jones",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Harvard's Education",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "It Came Upon a Midnight Clear / Hawken's Heart",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Admiral's Bride",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Identity: Unknown",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Get Lucky",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Taylor's Temptation",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Night Watch",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "SEAL Camp",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "King's Ransom",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

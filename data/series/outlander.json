@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Outlander",
+  "slug": "outlander",
+  "source": "https://www.orderofbooks.com/characters/outlander/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Outlander.jpg",
+  "books": [
+    {
+      "title": "Outlander / Cross Stitch",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dragonfly in Amber",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Voyager",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Drums of Autumn",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fiery Cross",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Breath of Snow and Ashes",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "An Echo in the Bone",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Written in My Own Heart's Blood",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Go Tell The Bees That I Am Gone",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "type": "series",
+  "name": "Miss Fortune Mysteries",
+  "slug": "miss-fortune-mysteries",
+  "source": "https://www.orderofbooks.com/characters/miss-fortune-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Miss-Fortune-Mysteries-by-Jana-DeLeon.jpg",
+  "authors": [
+    {
+      "name": "Jana DeLeon",
+      "slug": "jana-deleon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Louisiana Longshot",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lethal Bayou Beauty",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Swamp Sniper",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Swamp Team 3",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gator Bait",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Soldiers of Fortune",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hurricane Force",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fortune Hunter",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Later Gator",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Hook, Line and Blinker",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Change of Fortune",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Reel of Fortune",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Swamp Spook",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Fortune Furlough",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Cajun Fried Felony",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Swamp Santa",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Bullets and Beads",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Gators and Garters",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Fortune Funhouse",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Frightfully Fortune",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Swamp Sweets",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Flame and Fortune",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Swamp Spirits",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Clue Krewe",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Fortune Teller",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Swamp Spies",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Baskets and Beignets",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Marsh Madness",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    }
+  ]
+}

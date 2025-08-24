@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Barney Mysteries",
+  "slug": "barney-mysteries",
+  "source": "https://www.orderofbooks.com/characters/barney-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Barney-Mysteries-by-Enid-Blyton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Enid Blyton",
+      "slug": "enid-blyton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Rockingdown Mystery",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Rilloby Fair Mystery",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ring O' Bells Mystery",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Rubadub Mystery",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Rat-A-Tat Mystery",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Ragamuffin Mystery",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

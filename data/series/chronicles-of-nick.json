@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Chronicles Of Nick",
+  "slug": "chronicles-of-nick",
+  "source": "https://www.orderofbooks.com/characters/chronicles-of-nick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Chronicles-of-Nick-by-Sherrilyn-Kenyon.jpg",
+  "books": [
+    {
+      "title": "Infinity",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Invincible",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Infamous",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Inferno",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Illusion",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Instinct",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Invision",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Intensity",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

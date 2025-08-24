@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Inspector Huss",
+  "slug": "inspector-huss",
+  "source": "https://www.orderofbooks.com/characters/inspector-huss/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Detective-Inspector-Irene-Huss-by-Helene-Tursten-500x200.jpg",
+  "authors": [
+    {
+      "name": "Helene Tursten",
+      "slug": "helene-tursten"
+    }
+  ],
+  "books": [
+    {
+      "title": "Detective Inspector Huss",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Torso",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Glass Devil",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Night Rounds",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Golden Calf",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Fire Dance",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Beige Man",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Treacherous Net",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Who Watcheth",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Protected by the Shadows",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

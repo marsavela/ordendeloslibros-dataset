@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Lonestar",
+  "slug": "lonestar",
+  "source": "https://www.orderofbooks.com/characters/lonestar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Lonestar-by-Colleen-Coble-500x200.jpg",
+  "authors": [
+    {
+      "name": "Colleen Coble",
+      "slug": "colleen-coble"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lonestar Sanctuary",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lonestar Secrets",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lonestar Homecoming",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lonestar Angel",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "All Is Calm",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

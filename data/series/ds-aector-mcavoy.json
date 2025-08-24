@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "DS Aector McAvoy",
+  "slug": "ds-aector-mcavoy",
+  "source": "https://www.orderofbooks.com/characters/ds-aector-mcavoy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/DS-Aector-McAvoy-by-David-Mark-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Mark",
+      "slug": "david-mark"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dark Winter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Original Skin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sorrow Bound",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Taking Pity",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead Pretty",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cruel Mercy",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Scorched Earth",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Cold Bones",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Darkness Falls",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Bad Death",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Fire of Lies",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Past Life",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Blind Justice",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Flesh and Blood",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Burning Time",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Past Redemption",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "After the Weeping",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Darkness Falls is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

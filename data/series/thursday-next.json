@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Thursday Next",
+  "slug": "thursday-next",
+  "source": "https://www.orderofbooks.com/characters/thursday-next/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Thursday-Next-by-Jasper-Fforde-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jasper Fforde",
+      "slug": "jasper-fforde"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Eyre Affair",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lost in a Good Book",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Well of Lost Plots",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Something Rotten",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "First Among Sequels",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "One of Our Thursdays Is Missing",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Woman Who Died A Lot",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dark Reading Matter",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

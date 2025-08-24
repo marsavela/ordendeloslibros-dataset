@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Detective Galileo",
+  "slug": "detective-galileo",
+  "source": "https://www.orderofbooks.com/characters/detective-galileo/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/03/Detective-Galileo-by-Keigo-Higashino.jpg",
+  "books": [
+    {
+      "title": "The Devotion of Suspect X",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Salvation of a Saint",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Midsummer's Equation",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silent Parade",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Invisible Helix",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

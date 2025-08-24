@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "His Dark Materials",
+  "slug": "his-dark-materials",
+  "source": "https://www.orderofbooks.com/characters/his-dark-materials/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/His-Dark-Materials-by-Philip-Pullman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Philip Pullman",
+      "slug": "philip-pullman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Northern Lights / The Golden Compass",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Subtle Knife",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Amber Spyglass",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lyra's Oxford",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Once Upon a Time in the North",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Once Upon a Time in the North / Lyra's Oxford / Serpentine",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Serpentine",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Imagination Chamber",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Collectors",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

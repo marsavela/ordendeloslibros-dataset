@@ -1,0 +1,145 @@
+{
+  "type": "series",
+  "name": "Company Of Rogues",
+  "slug": "company-of-rogues",
+  "source": "https://www.orderofbooks.com/characters/company-of-rogues/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/Company-of-Rogues-by-Jo-Beverley.jpg",
+  "books": [
+    {
+      "title": "An Arranged Marriage",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Christmas Angel",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Unwilling Bride",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Forbidden",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Forbidden Magic",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dangerous Joy",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Dragon's Bride",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Devil's Heiress",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hazard",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "St. Raven",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Skylark",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Rogue's Return",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "To Rescue A Rogue",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Lady Beware",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Shocking Delight",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Too Dangerous For a Lady",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Viscount Needs a Wife",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

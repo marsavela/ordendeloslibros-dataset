@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Raine Stockton",
+  "slug": "raine-stockton",
+  "source": "https://www.orderofbooks.com/characters/raine-stockton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Raine-Stockton-Dog-Mysteries-by-Donna-Ball.jpg",
+  "authors": [
+    {
+      "name": "Donna Ball",
+      "slug": "donna-ball"
+    }
+  ],
+  "books": [
+    {
+      "title": "Smoky Mountain Tracks",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rapid Fire",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gun Shy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bone Yard",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Silent Night",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dead Season",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "All That Glitters (Short Story)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "High In Trial",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Double Dog Dare",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Home of the Brave",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dog Days",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Land of the Free",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Deadfall",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Devil's Deal",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Murder Creek",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Judge's Daughter",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Dead Man's Trail",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

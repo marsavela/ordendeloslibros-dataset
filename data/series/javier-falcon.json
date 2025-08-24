@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Javier Falcon",
+  "slug": "javier-falcon",
+  "source": "https://www.orderofbooks.com/characters/javier-falcon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Javier-Falcon-by-Robert-Wilson.jpg",
+  "authors": [
+    {
+      "name": "Robert Wilson",
+      "slug": "robert-wilson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Blind Man of Seville",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Silent and the Damned / The Vanished Hands",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Hidden Assassins",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Ignorance of Blood",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

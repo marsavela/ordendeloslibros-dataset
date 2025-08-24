@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Charlie Hood",
+  "slug": "charlie-hood",
+  "source": "https://www.orderofbooks.com/characters/charlie-hood/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Charlie-Hood.jpg",
+  "books": [
+    {
+      "title": "L.A. Outlaws",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Renegades",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Iron River",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Border Lords",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Jaguar",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Famous and the Dead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

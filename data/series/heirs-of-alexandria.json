@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Heirs Of Alexandria",
+  "slug": "heirs-of-alexandria",
+  "source": "https://www.orderofbooks.com/characters/heirs-of-alexandria/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Heirs-of-Alexandria-by-Mercedes-Lackey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mercedes Lackey",
+      "slug": "mercedes-lackey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Shadow of the Lion",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "This Rough Magic",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Mankind Witch",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Much Fall of Blood",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Burdens of the Dead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "All the Plagues of Hell",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Haley Randolph",
+  "slug": "haley-randolph",
+  "source": "https://www.orderofbooks.com/characters/haley-randolph/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Haley-Rudolph-by-Dorothy-Howell-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dorothy Howell",
+      "slug": "dorothy-howell"
+    }
+  ],
+  "books": [
+    {
+      "title": "Handbags and Homicide",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Purses and Poison",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shoulder Bags and Shootings",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Clutches and Curses",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Slay Bells and Satchels",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tote Bags and Toe Tags",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Evening Bags and Executions",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Beach Bags and Burglaries",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Duffel Bags and Drownings",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fanny Packs and Foul Play",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Swag Bags and Swindlers",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Backpacks and Betrayals",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Pocketbooks and Pistols",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Messenger Bags and Murder",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Man Bags and Malice",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

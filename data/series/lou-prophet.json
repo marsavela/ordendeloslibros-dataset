@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Lou Prophet",
+  "slug": "lou-prophet",
+  "source": "https://www.orderofbooks.com/characters/lou-prophet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/Lou-Prophet-by-Peter-Brandvold.jpg",
+  "books": [
+    {
+      "title": "Stagecoach to Purgatory / The Devil and Lou Prophet",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood at Sundown / Dealt the Devil's Hand",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Riding with the Devil's Mistress / The Cost of Dying",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Devil Gets His Due / The Graves at Seven Devils",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Staring Down the Devil / Helldorado",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Devil's Lair / The Devil's Winchester",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Devil's Laughter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Killing Melvin Badthunder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hell's Angel",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Devil's Bride",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Devil's Ambush",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

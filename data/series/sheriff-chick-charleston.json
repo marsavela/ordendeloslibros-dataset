@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Sheriff Chick Charleston",
+  "slug": "sheriff-chick-charleston",
+  "source": "https://www.orderofbooks.com/characters/sheriff-chick-charleston/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Sheriff-Chick-Charleston-by-AB-Guthrie-Jr.jpg",
+  "authors": [
+    {
+      "name": "AB Guthrie Jr",
+      "slug": "ab-guthrie-jr"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wild Pitch",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Genuine Article",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "No Second Wind",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Playing Catch-Up",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder in the Cotswolds",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Uglies",
+  "slug": "uglies",
+  "source": "https://www.orderofbooks.com/characters/uglies/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Uglies-by-Scott-Westerfeld-500x200.jpg",
+  "authors": [
+    {
+      "name": "Scott Westerfeld",
+      "slug": "scott-westerfeld"
+    }
+  ],
+  "books": [
+    {
+      "title": "Uglies",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pretties",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Specials",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Extras",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

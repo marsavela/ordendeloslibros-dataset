@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Honeywells Of Kentucky",
+  "slug": "honeywells-of-kentucky",
+  "source": "https://www.orderofbooks.com/characters/honeywells-of-kentucky/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Honeywells-of-Kentucky-by-Vanessa-Gray-Bartal-500x200.jpg",
+  "authors": [
+    {
+      "name": "Vanessa Gray Bartal",
+      "slug": "vanessa-gray-bartal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wild Stallions",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wild and Wounded",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wild Pride",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wild and Unbroken",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wild and Free",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Lindsay Gordon",
+  "slug": "lindsay-gordon",
+  "source": "https://www.orderofbooks.com/characters/lindsay-gordon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Lindsay-Gordon.jpg",
+  "books": [
+    {
+      "title": "Report For Murder",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Common Murder",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Final Edition / Open and Shut / Deadline for Murder",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Union Jack / Conferences Are Murder",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Booked For Murder",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Final Edition",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hostage To Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

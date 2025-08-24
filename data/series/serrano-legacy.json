@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Serrano Legacy",
+  "slug": "serrano-legacy",
+  "source": "https://www.orderofbooks.com/characters/serrano-legacy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Serrano-Legacy-by-Elizabeth-Moon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Moon",
+      "slug": "elizabeth-moon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hunting Party",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sporting Chance",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Winning Colors",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Once a Hero",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rules of Engagement",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Change of Command",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Against the Odds",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

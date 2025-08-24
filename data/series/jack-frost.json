@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Jack Frost",
+  "slug": "jack-frost",
+  "source": "https://www.orderofbooks.com/characters/jack-frost/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Jack-Frost-by-RD-Wingfield-500x200.jpg",
+  "authors": [
+    {
+      "name": "RD Wingfield",
+      "slug": "rd-wingfield"
+    }
+  ],
+  "books": [
+    {
+      "title": "Frost at Christmas",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Touch of Frost",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Night Frost",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hard Frost",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Winter Frost",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Killing Frost",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

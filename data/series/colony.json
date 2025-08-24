@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Colony",
+  "slug": "colony",
+  "source": "https://www.orderofbooks.com/characters/colony/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Colony-by-Nancy-Bush-Lisa-Jackson.jpg",
+  "books": [
+    {
+      "title": "Wicked Game",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Unseen",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blind Spot",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wicked Lies",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Something Wicked",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wicked Ways",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wicked Dreams",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

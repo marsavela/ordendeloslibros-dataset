@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Spellsinger",
+  "slug": "spellsinger",
+  "source": "https://www.orderofbooks.com/characters/spellsinger/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Spellsinger-by-Alan-Dean-Foster.jpg",
+  "authors": [
+    {
+      "name": "Alan Dean Foster",
+      "slug": "alan-dean-foster"
+    }
+  ],
+  "books": [
+    {
+      "title": "Spellsinger",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hour of the Gate",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Day of the Dissonance",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Moment of the Magician",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Paths of the Perambulator",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Time of the Transference",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Son of Spellsinger",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Chorus Skating",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

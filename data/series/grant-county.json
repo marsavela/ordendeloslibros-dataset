@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Grant County",
+  "slug": "grant-county",
+  "source": "https://www.orderofbooks.com/characters/grant-county/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Grant-County.jpg",
+  "books": [
+    {
+      "title": "Blindsighted",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kisscut",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Faint Cold Fear",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Indelible",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Faithless",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Beyond Reach / Skin Privilege",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Genesis / Undone",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Short Story",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

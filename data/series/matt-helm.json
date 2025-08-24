@@ -1,0 +1,231 @@
+{
+  "type": "series",
+  "name": "Matt Helm",
+  "slug": "matt-helm",
+  "source": "https://www.orderofbooks.com/characters/matt-helm/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Matt-Helm-by-Donald-Hamilton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Donald Hamilton",
+      "slug": "donald-hamilton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death of a Citizen",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wrecking Crew",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Removers",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Silencers",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murderers' Row",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Ambushers",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Shadowers",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Ravagers",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Devastators",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Betrayers",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Menacers",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Interlopers",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Poisoners",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Intriguers",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Intimidators",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Terminators",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Retaliators",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Terrorizers",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Revengers",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Annihilators",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Infiltrators",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Detonators",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Vanishers",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Demolishers",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Frighteners",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Threateners",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Damagers",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    }
+  ]
+}

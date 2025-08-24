@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Kelvin Of Rud",
+  "slug": "kelvin-of-rud",
+  "source": "https://www.orderofbooks.com/characters/kelvin-of-rud/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Kelvin-of-Rud-by-Piers-Anthony-Robert-E-Margroff.jpg",
+  "authors": [
+    {
+      "name": "Piers Anthony",
+      "slug": "piers-anthony"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dragon's Gold",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Serpent's Silver",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Chimaera's Copper",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Orc's Opal",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mouvar's Magic",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

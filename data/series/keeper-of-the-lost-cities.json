@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Keeper Of The Lost Cities",
+  "slug": "keeper-of-the-lost-cities",
+  "source": "https://www.orderofbooks.com/characters/keeper-of-the-lost-cities/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Keeper-of-the-Lost-Cities-by-Shannon-Messenger-500x200.jpg",
+  "authors": [
+    {
+      "name": "Shannon Messenger",
+      "slug": "shannon-messenger"
+    }
+  ],
+  "books": [
+    {
+      "title": "Keeper of the Lost Cities",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Exile",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Everblaze",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Neverseen",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lodestar",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Nightfall",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Flashback",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Legacy",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Unlocked",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Stellarlune",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Unraveled",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

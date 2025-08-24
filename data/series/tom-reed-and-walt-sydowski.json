@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Tom Reed and Walt Sydowski",
+  "slug": "tom-reed-and-walt-sydowski",
+  "source": "https://www.orderofbooks.com/characters/tom-reed-and-walt-sydowski/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Tom-Reed-Walt-Sydowski-by-Rick-Mofina.jpg",
+  "authors": [
+    {
+      "name": "Rick Mofina",
+      "slug": "rick-mofina"
+    }
+  ],
+  "books": [
+    {
+      "title": "If Angels Fall",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cold Fear",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood of Others",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Way Back",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Be Mine",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

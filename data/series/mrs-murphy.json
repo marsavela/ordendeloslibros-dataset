@@ -1,0 +1,279 @@
+{
+  "type": "series",
+  "name": "Mrs. Murphy",
+  "slug": "mrs-murphy",
+  "source": "https://www.orderofbooks.com/characters/mrs-murphy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Mrs-Murphy-by-Rita-Mae-Brown.jpg",
+  "authors": [
+    {
+      "name": "Rita Mae Brown",
+      "slug": "rita-mae-brown"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wish You Were Here",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rest in Pieces",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder at Monticello",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pay Dirt",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder, She Meowed",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder on the Prowl",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cat on the Scent",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Pawing Through the Past",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Claws and Effect",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Catch as Cat Can",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Tail of the Tip-Off",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Whisker of Evil",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Cat's Eyewitness",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Sour Puss",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Puss 'n Cahoots",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Purrfect Murder",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Santa Clawed",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Cat of the Century",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Hiss of Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Big Cat Nap",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Sneaky Pie for President",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Litter of the Law",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Nine Lives to Die",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Tail Gait",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Tall Tail",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "A Hiss Before Dying",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Probable Claws",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Whiskers in the Dark",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Furmidable Foes",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Claws for Alarm",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Hiss & Tell",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Feline Fatale",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Sealed with a Hiss",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    }
+  ]
+}

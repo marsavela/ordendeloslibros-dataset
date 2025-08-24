@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Aunt Jane’s Nieces",
+  "slug": "aunt-janes-nieces",
+  "source": "https://www.orderofbooks.com/characters/aunt-janes-nieces/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Aunt-Janes-Nieces-by-L-Frank-Baum-Edith-Van-Dyne.jpg",
+  "books": [
+    {
+      "title": "Aunt Jane's Nieces",
+      "year": 1906,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Aunt Jane's Nieces Abroad",
+      "year": 1907,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Aunt Jane's Nieces at Millville",
+      "year": 1908,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Aunt Jane's Nieces at Work",
+      "year": 1909,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Aunt Jane's Nieces In Society",
+      "year": 1910,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Aunt Jane's Nieces and Uncle John",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Aunt Jane's Nieces on Vacation",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Aunt Jane's Nieces on the Ranch",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Aunt Jane's Nieces Out West",
+      "year": 1914,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Aunt Jane's Nieces in the Red Cross",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Haunted Home Renovation Mysteries",
+  "slug": "haunted-home-renovation-mysteries",
+  "source": "https://www.orderofbooks.com/characters/haunted-home-renovation-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Haunted-Home-Renovation-Mysteries-by-Juliet-Blackwell-500x200.jpg",
+  "authors": [
+    {
+      "name": "Juliet Blackwell",
+      "slug": "juliet-blackwell"
+    }
+  ],
+  "books": [
+    {
+      "title": "If Walls Could Talk",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Bolt",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder on the House",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Home For the Haunting",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Keeper of the Castle",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Give Up the Ghost",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Ghostly Light",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Last Curtain Call",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

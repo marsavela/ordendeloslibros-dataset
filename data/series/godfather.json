@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Godfather",
+  "slug": "godfather",
+  "source": "https://www.orderofbooks.com/characters/godfather/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/The-Godfather-by-Mario-Puzo.jpg",
+  "books": [
+    {
+      "title": "The Godfather",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sicilian",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Omerta",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "series",
+  "name": "Amanda Jaffe",
+  "slug": "amanda-jaffe",
+  "source": "https://www.orderofbooks.com/characters/amanda-jaffe/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Amanda-Jaffe-by-Phillip-Margolin.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amanda Jaffe Books",
+      "books": [
+        {
+          "title": "Wild Justice",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Associate",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Ties That Bind",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Proof Positive",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Fugitive",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Violent Crimes",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

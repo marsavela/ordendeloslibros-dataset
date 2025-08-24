@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Boy Nobody / Unknown Assassin",
+  "slug": "boy-nobody-unknown-assassin",
+  "source": "https://www.orderofbooks.com/characters/boy-nobody-unknown-assassin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/boy-nobody-500x200.jpg",
+  "books": [
+    {
+      "title": "Boy Nobody / I Am the Weapon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I Am the Mission",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "I Am the Traitor",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

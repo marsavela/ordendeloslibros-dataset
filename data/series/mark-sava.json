@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Mark Sava",
+  "slug": "mark-sava",
+  "source": "https://www.orderofbooks.com/characters/mark-sava/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Mark-Sava-by-Dan-Mayland.jpg",
+  "authors": [
+    {
+      "name": "Dan Mayland",
+      "slug": "dan-mayland"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Colonel's Mistake",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Leveling",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Spy for Hire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death of a Spy",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

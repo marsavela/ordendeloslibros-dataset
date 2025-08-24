@@ -1,0 +1,94 @@
+{
+  "type": "series",
+  "name": "Abe Lieberman",
+  "slug": "abe-lieberman",
+  "source": "https://www.orderofbooks.com/characters/abe-lieberman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Abe-Lieberman-by-Stuart-M-Kaminsky-500x200.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Abe Lieberman Books",
+      "books": [
+        {
+          "title": "Lieberman's Folly",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Lieberman's Choice",
+          "year": 1993,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Lieberman's Day",
+          "year": 1994,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Lieberman's Thief",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Lieberman's Law",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Big Silence",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Not Quite Kosher",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Last Dark Place",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Terror Town",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Dead Don't Lie",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        }
+      ]
+    }
+  }
+}

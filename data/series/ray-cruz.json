@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Ray Cruz",
+  "slug": "ray-cruz",
+  "source": "https://www.orderofbooks.com/characters/ray-cruz/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/07/ray-cruz.jpg",
+  "books": [
+    {
+      "title": "Dead Zero",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Soft Target",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

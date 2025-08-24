@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "DCI Andrew Fenwick",
+  "slug": "dci-andrew-fenwick",
+  "source": "https://www.orderofbooks.com/characters/dci-andrew-fenwick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/03/DCI-Andrew-Fenwick-by-Elizabeth-Corley.jpg",
+  "books": [
+    {
+      "title": "Requiem Mass",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fatal Legacy",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Grave Doubts",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Innocent Blood",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead of Winter",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

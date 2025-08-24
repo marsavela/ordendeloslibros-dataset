@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Swindle Mysteries",
+  "slug": "swindle-mysteries",
+  "source": "https://www.orderofbooks.com/characters/swindle-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Swindle-Mysteries-by-Gordon-Korman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gordon Korman",
+      "slug": "gordon-korman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Swindle",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Zoobreak",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Framed",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Showoff",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hideout",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Jackpot",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Unleashed",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Jingle",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Crown Of Stars",
+  "slug": "crown-of-stars",
+  "source": "https://www.orderofbooks.com/characters/crown-of-stars/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Crown-of-Stars-by-Kate-Elliott-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kate Elliott",
+      "slug": "kate-elliott"
+    }
+  ],
+  "books": [
+    {
+      "title": "King's Dragon",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Prince of Dogs",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Burning Stone",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Child of Flame",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Gathering Storm",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "In the Ruins",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Crown of Stars",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

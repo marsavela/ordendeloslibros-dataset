@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "IQ",
+  "slug": "iq",
+  "source": "https://www.orderofbooks.com/characters/iq/",
+  "image": "https://www.orderofbooks.com/images/bn-banner.png",
+  "authors": [
+    {
+      "name": "Joe Ide",
+      "slug": "joe-ide"
+    }
+  ],
+  "books": [
+    {
+      "title": "IQ",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Righteous",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wrecked",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hi Five",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Smoke",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fixit",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

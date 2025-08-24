@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Peter & Kori Brichter",
+  "slug": "peter-kori-brichter",
+  "source": "https://www.orderofbooks.com/characters/peter-and-kori-brichter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Peter-and-Kori-Brichter-by-Mary-Monica-Pulver-Monica-Ferris-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mary Monica Pulver Monica Ferris",
+      "slug": "mary-monica-pulver-monica-ferris"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder at the War",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Unforgiving Minutes",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ashes to Ashes",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Original Sin",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Show Stopper",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

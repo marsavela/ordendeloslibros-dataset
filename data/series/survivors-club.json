@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Survivor’s Club",
+  "slug": "survivors-club",
+  "source": "https://www.orderofbooks.com/characters/survivors-club/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Survivors-Club-by-Mary-Balogh.jpg",
+  "authors": [
+    {
+      "name": "Mary Balogh",
+      "slug": "mary-balogh"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Proposal",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Suitor",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Arrangement",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Escape",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Only Enchanting",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Only a Promise",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Only a Kiss",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Only Beloved",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

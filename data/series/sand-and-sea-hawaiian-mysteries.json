@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Sand and Sea Hawaiian Mysteries",
+  "slug": "sand-and-sea-hawaiian-mysteries",
+  "source": "https://www.orderofbooks.com/characters/sand-and-sea-hawaiian-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/11/Sand-and-Sea-Hawaiian-Mysteries-by-Kathi-Daley.jpg",
+  "books": [
+    {
+      "title": "Murder at Dolphin Bay",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder at Sunrise",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder at the Witching Hour",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder at Christmas",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder at Turtle Cove",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder at Waters Edge",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder at Midnight",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder at Pope Investigations",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

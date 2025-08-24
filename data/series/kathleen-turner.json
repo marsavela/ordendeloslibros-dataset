@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Kathleen Turner",
+  "slug": "kathleen-turner",
+  "source": "https://www.orderofbooks.com/characters/kathleen-turner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Kathleen-Turner-by-Tiffany-Snow.jpg",
+  "authors": [
+    {
+      "name": "Tiffany Snow",
+      "slug": "tiffany-snow"
+    }
+  ],
+  "books": [
+    {
+      "title": "No Turning Back",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Turn to Me",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Turning Point",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Turn on a Dime - Blane's Turn",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Out of Turn",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Point of No Return",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Turn on a Dime - Kade's Turn",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Turn the Tables",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

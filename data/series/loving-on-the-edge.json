@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Loving On The Edge",
+  "slug": "loving-on-the-edge",
+  "source": "https://www.orderofbooks.com/characters/loving-on-the-edge/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/09/Loving-on-the-Edge-by-Roni-Loren-500x200.jpg",
+  "authors": [
+    {
+      "name": "Roni Loren",
+      "slug": "roni-loren"
+    }
+  ],
+  "books": [
+    {
+      "title": "Crash Into You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Still Into You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Melt Into You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fall Into You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Caught Up in You",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Not Until You",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Need You Tonight",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Forever Starts Tonight",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Nothing Between Us",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Yours All Along",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Call on Me",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Break Me Down",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Loving You Easy",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Not Until You is set following Fall Into You and prior to Caught Up in You .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Cedar Cove",
+  "slug": "cedar-cove",
+  "source": "https://www.orderofbooks.com/characters/cedar-cove/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Cedar-Cove-by-Debbie-Macomber.jpg",
+  "books": [
+    {
+      "title": "16 Lighthouse Road",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "204 Rosewood Lane",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "311 Pelican Court",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "44 Cranberry Point",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "50 Harbor Street",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "6 Rainier Drive",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "74 Seaside Avenue",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "8 Sandpiper Way",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "92 Pacific Boulevard",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "1022 Evergreen Place",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "1105 Yakima Street",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "1225 Christmas Tree Lane",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

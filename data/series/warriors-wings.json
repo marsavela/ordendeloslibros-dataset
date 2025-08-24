@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Warrior’s Wings",
+  "slug": "warriors-wings",
+  "source": "https://www.orderofbooks.com/characters/warriors-wings/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Warriors-Wings-by-Evan-Currie-500x200.jpg",
+  "authors": [
+    {
+      "name": "Evan Currie",
+      "slug": "evan-currie"
+    }
+  ],
+  "books": [
+    {
+      "title": "On Silver Wings",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Valkyrie Rising",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Valkyrie Burning",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Valhalla Call",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "By Other Means",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "De Oppresso Liber",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Open Arms",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Border Wars",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Among Enemies",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Storm Warning: Insurgent",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

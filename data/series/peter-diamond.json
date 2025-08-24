@@ -1,0 +1,191 @@
+{
+  "type": "series",
+  "name": "Peter Diamond",
+  "slug": "peter-diamond",
+  "source": "https://www.orderofbooks.com/characters/peter-diamond/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Peter-Diamond-by-Peter-Lovesey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Peter Lovesey",
+      "slug": "peter-lovesey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Last Detective",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Diamond Solitaire",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Summons",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bloodhounds",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Upon a Dark Night",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Vault",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Diamond Dust",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The House Sitter",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Secret Hangman",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Skeleton Hill",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Stagestruck",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Cop to Corpse",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Tooth Tattoo",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Stone Wife",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Down Among the Dead Men",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Another One Goes Tonight",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Beau Death",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Killing with Confetti",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Finisher",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Diamond and the Eye",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Showstopper",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Against the Grain",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

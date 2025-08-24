@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Cynster",
+  "slug": "cynster",
+  "source": "https://www.orderofbooks.com/characters/cynster/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Cynster-by-Stephanie-Laurens-500x200.jpg",
+  "authors": [
+    {
+      "name": "Stephanie Laurens",
+      "slug": "stephanie-laurens"
+    }
+  ],
+  "books": [
+    {
+      "title": "Devil's Bride",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Rake's Vow",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Scandal's Bride",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Rogue's Proposal",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Secret Love",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "All About Love",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "All About Passion",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Promise in a Kiss",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "On a Wild Night",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "On a Wicked Dawn",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Perfect Lover",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Ideal Bride",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Truth About Love",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "What Price Love?",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Taste of Innocence",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Temptation and Surrender",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Wedding Planner",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Lost and Found",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

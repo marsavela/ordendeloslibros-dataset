@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Sword Of Cartimandua",
+  "slug": "sword-of-cartimandua",
+  "source": "https://www.orderofbooks.com/characters/sword-of-cartimandua/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/06/Sword-of-Cartimandua-by-Griff-Hosker.jpg",
+  "books": [
+    {
+      "title": "The Sword of Cartimandua",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Horse Warriors",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Invasion - Caledonia",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Roman Retreat",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Revolt of the Red Witch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Druid's Gold",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Trajan's Hunters",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Last Frontier",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hero of Rome",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Roman Hawk",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Roman Treachery",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Roman Wall",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Roman Courage",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Ulpius Felix: Warrior of Rome",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Ulpius Felix: Warrior of Rome is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Wicked Play",
+  "slug": "wicked-play",
+  "source": "https://www.orderofbooks.com/characters/wicked-play/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/wicked-play-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lynda Aicher",
+      "slug": "lynda-aicher"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bonds of Trust",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bonds of Desire",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bonds of Need",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bonds of Hope",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bonds of Denial",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bonds of Courage",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Shattered Bonds",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "type": "series",
+  "name": "Harry Bosch",
+  "slug": "harry-bosch",
+  "source": "https://www.orderofbooks.com/characters/harry-bosch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Harry-Bosch-by-Michael-Connelly.jpg",
+  "authors": [
+    {
+      "name": "Michael Connelly",
+      "slug": "michael-connelly"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Black Echo",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Black Ice",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Concrete Blonde",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Coyote",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Trunk Music",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Angels Flight",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Darkness More Than Night",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "City of Bones",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Lost Light",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Narrows",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Closers",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Echo Park",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Overlook",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Nine Dragons",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Drop",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Black Box",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Switchblade",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Burning Room",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Crossing",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Wrong Side of Goodbye",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Two Kinds of Truth",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Dark Sacred Night",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Night Fire",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Dark Hours",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Desert Star",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Resurrection Walk",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Waiting",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    }
+  ]
+}

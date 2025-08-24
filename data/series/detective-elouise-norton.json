@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Detective Elouise Norton",
+  "slug": "detective-elouise-norton",
+  "source": "https://www.orderofbooks.com/characters/detective-elouise-norton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/11/elouise-norton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Napoleon Crase",
+      "slug": "napoleon-crase"
+    }
+  ],
+  "books": [
+    {
+      "title": "Land of Shadows",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Skies of Ash",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Trail of Echoes",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "City of Saviors",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

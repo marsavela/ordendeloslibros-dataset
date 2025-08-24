@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Demonsouled",
+  "slug": "demonsouled",
+  "source": "https://www.orderofbooks.com/characters/demonsouled/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/12/Demonsouled-by-Jonathan-Moeller.jpg",
+  "authors": [
+    {
+      "name": "Jonathan Moeller",
+      "slug": "jonathan-moeller"
+    }
+  ],
+  "books": [
+    {
+      "title": "Demonsouled",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Soul of Tyrants",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Soul of Serpents",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Soul of Swords",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Soul of Dragons",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Soul of Sorcery",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Soul of Skulls",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Hyperion Cantos",
+  "slug": "hyperion-cantos",
+  "source": "https://www.orderofbooks.com/characters/hyperion-cantos/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Hyperion-by-Dan-Simmons.jpg",
+  "books": [
+    {
+      "title": "Hyperion",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fall of Hyperion",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Endymion",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Rise of Endymion",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Orphans of the Helix",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

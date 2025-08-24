@@ -1,0 +1,3695 @@
+{
+  "type": "series",
+  "name": "Executioner",
+  "slug": "executioner",
+  "source": "https://www.orderofbooks.com/characters/executioner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/The-Executioner-by-Don-Pendleton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Don Pendleton",
+      "slug": "don-pendleton"
+    }
+  ],
+  "books": [
+    {
+      "title": "War Against the Mafia",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death Squad",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Battle Mask",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Miami Massacre",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Continental Contract",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Assault on Soho",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Nightmare in New York",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Chicago Wipe-Out",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Vegas Vendetta",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Caribbean Kill",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "California Hit",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Boston Blitz",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Panic in Philly",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Sicilian Slaughter",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Washington I.O.U.",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "San Diego Siege",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Jersey Guns",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Texas Storm",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Detroit Deathwatch",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "New Orleans Knockout",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Firebase Seattle",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Hawaiian Hellground",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "St. Louis Showdown",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Canadian Crisis",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Colorado Kill-Zone",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Acapulco Rampage",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Dixie Convoy",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Savage Fire",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Command Strike",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Cleveland Pipeline",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Arizona Ambush",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Tennessee Smash",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Monday's Mob",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Terrible Tuesday",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Wednesday's Wrath",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Thermal Thursday",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Friday's Feast",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Satan's Sabbath",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The New War",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Tower of Terror",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Violent Streets",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Double Crossfire",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Iranian Hit",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Return to Vietnam",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Terrorist Summit",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Paramilitary Plot",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Bloodsport",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Renegade Agent",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Libya Connection",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Doomsday Disciples",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Vulture's Vengeance",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Tuscany Terror",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Mountain Rampage",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Paradine's Gauntlet",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Island Deathtrap",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Flesh Wounds",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Ambush on Blood River",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Crude Kill",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Sold for Slaughter",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Tiger War",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Day of Mourning",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "The New War Book",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Dead Man Running",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Cambodia Clash",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Orbiting Omega",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "Beirut Payback",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Prairie Fire",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Skysweeper",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Ice Cold Kill",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Blood Dues",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Hellbinder",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "Appointment In Kabul",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "Savannah Swingsaw",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "The Bone Yard",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Teheran Wipeout",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Hollywood Hell",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "Death Games",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "Council of Kings",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "Running Hot",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "Shock Waves",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "Hammerhead Reef",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "Missouri Deathwatch",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "Fastburn",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "Sunscream",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "Hell's Gate",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "Hellfire Crusade",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "Baltimore Trackdown",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "Defenders And Believers",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "Blood Heat Zero",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "The Trial",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "Moscow Massacre",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "The Fire Eaters",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "Save The Children",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    },
+    {
+      "title": "Blood and Thunder",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 94
+    },
+    {
+      "title": "Death Has a Name",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 95
+    },
+    {
+      "title": "Meltdown",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 96
+    },
+    {
+      "title": "Black Dice",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 97
+    },
+    {
+      "title": "Code of Dishonor",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 98
+    },
+    {
+      "title": "Blood Testament",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 99
+    },
+    {
+      "title": "Eternal Triangle",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 100
+    },
+    {
+      "title": "Split Image",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 101
+    },
+    {
+      "title": "Assault on Rome",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 102
+    },
+    {
+      "title": "Devil's Horn",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 103
+    },
+    {
+      "title": "Countdown to Chaos",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 104
+    },
+    {
+      "title": "Run to Ground",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 105
+    },
+    {
+      "title": "American Nightmare",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 106
+    },
+    {
+      "title": "Time to Kill",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 107
+    },
+    {
+      "title": "Hong Kong Hit List",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 108
+    },
+    {
+      "title": "Trojan Horse",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 109
+    },
+    {
+      "title": "The Fiery Cross",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 110
+    },
+    {
+      "title": "Blood of the Lion",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 111
+    },
+    {
+      "title": "Vietnam Fallout",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 112
+    },
+    {
+      "title": "Cold Judgment",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 113
+    },
+    {
+      "title": "Circle of Steel",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 114
+    },
+    {
+      "title": "The Killing Urge",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 115
+    },
+    {
+      "title": "Vendetta in Venice",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 116
+    },
+    {
+      "title": "Warrior's Revenge",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 117
+    },
+    {
+      "title": "Line of Fire",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 118
+    },
+    {
+      "title": "Border Sweep",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 119
+    },
+    {
+      "title": "Twisted Path",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 120
+    },
+    {
+      "title": "Desert Strike",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 121
+    },
+    {
+      "title": "War Born",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 122
+    },
+    {
+      "title": "Night Kill",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 123
+    },
+    {
+      "title": "Dead Man's Tale",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 124
+    },
+    {
+      "title": "Death Wind",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 125
+    },
+    {
+      "title": "Kill Zone",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 126
+    },
+    {
+      "title": "Sudan Slaughter",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 127
+    },
+    {
+      "title": "Haitian Hit",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 128
+    },
+    {
+      "title": "Dead Line",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 129
+    },
+    {
+      "title": "Ice Wolf",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 130
+    },
+    {
+      "title": "The Big Kill",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 131
+    },
+    {
+      "title": "Blood Run",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 132
+    },
+    {
+      "title": "White Line War",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 133
+    },
+    {
+      "title": "Devil Force",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 134
+    },
+    {
+      "title": "Down And Dirty",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 135
+    },
+    {
+      "title": "Battle Lines",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 136
+    },
+    {
+      "title": "Kill Trap",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 137
+    },
+    {
+      "title": "Cutting Edge",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 138
+    },
+    {
+      "title": "Wild Card",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 139
+    },
+    {
+      "title": "Direct Hit",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 140
+    },
+    {
+      "title": "Fatal Error",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 141
+    },
+    {
+      "title": "Helldust Cruise",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 142
+    },
+    {
+      "title": "Whipsaw",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 143
+    },
+    {
+      "title": "Chicago Payoff",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 144
+    },
+    {
+      "title": "Payback Game",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 145
+    },
+    {
+      "title": "Deep and Swift",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 146
+    },
+    {
+      "title": "Blood Rules",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 147
+    },
+    {
+      "title": "Deadly Tactics",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 148
+    },
+    {
+      "title": "Death Load",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 149
+    },
+    {
+      "title": "Message to Medellin",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 150
+    },
+    {
+      "title": "Combat Stretch",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 151
+    },
+    {
+      "title": "Firebase Florida",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 152
+    },
+    {
+      "title": "Night Hit",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 153
+    },
+    {
+      "title": "Hawaiian Heat",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 154
+    },
+    {
+      "title": "Phantom Force",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 155
+    },
+    {
+      "title": "Cayman Strike",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 156
+    },
+    {
+      "title": "Firing Line",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 157
+    },
+    {
+      "title": "Steel And Flame",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 158
+    },
+    {
+      "title": "Storm Warning",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 159
+    },
+    {
+      "title": "Eye Of The Storm",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 160
+    },
+    {
+      "title": "Colors of Hell",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 161
+    },
+    {
+      "title": "Warrior's Edge",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 162
+    },
+    {
+      "title": "Death Trail",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 163
+    },
+    {
+      "title": "Fire Sweep",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 164
+    },
+    {
+      "title": "Assassin's Creed",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 165
+    },
+    {
+      "title": "Double Action",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 166
+    },
+    {
+      "title": "Blood Price",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 167
+    },
+    {
+      "title": "White Heat",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 168
+    },
+    {
+      "title": "Baja Blitz",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 169
+    },
+    {
+      "title": "Deadly Force",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 170
+    },
+    {
+      "title": "Fast Strike",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 171
+    },
+    {
+      "title": "Capitol Hit",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 172
+    },
+    {
+      "title": "Battle Plan",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 173
+    },
+    {
+      "title": "Battle Ground",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 174
+    },
+    {
+      "title": "Ransom Run",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 175
+    },
+    {
+      "title": "Evil Code",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 176
+    },
+    {
+      "title": "Black Hand",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 177
+    },
+    {
+      "title": "War Hammer",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 178
+    },
+    {
+      "title": "Force Down",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 179
+    },
+    {
+      "title": "Shifting Target",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 180
+    },
+    {
+      "title": "Lethal Agent",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 181
+    },
+    {
+      "title": "Clean Sweep",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 182
+    },
+    {
+      "title": "Death Warrant",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 183
+    },
+    {
+      "title": "Sudden Fury",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 184
+    },
+    {
+      "title": "Fire Burst",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 185
+    },
+    {
+      "title": "Cleansing Flame",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 186
+    },
+    {
+      "title": "War Paint",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 187
+    },
+    {
+      "title": "Wellfire",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 188
+    },
+    {
+      "title": "Killing Range",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 189
+    },
+    {
+      "title": "Extreme Force",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 190
+    },
+    {
+      "title": "Maximum Impact",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 191
+    },
+    {
+      "title": "Hostile Action",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 192
+    },
+    {
+      "title": "Deadly Contest",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 193
+    },
+    {
+      "title": "Select Fire",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 194
+    },
+    {
+      "title": "Triburst",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 195
+    },
+    {
+      "title": "Armed Force",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 196
+    },
+    {
+      "title": "Shoot Down",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 197
+    },
+    {
+      "title": "Rogue Agent",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 198
+    },
+    {
+      "title": "Crisis Point",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 199
+    },
+    {
+      "title": "Prime Target",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 200
+    },
+    {
+      "title": "Combat Zone",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 201
+    },
+    {
+      "title": "Hard Contact",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 202
+    },
+    {
+      "title": "Rescue Run",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 203
+    },
+    {
+      "title": "Hell Road",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 204
+    },
+    {
+      "title": "Freedom Strike",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 205
+    },
+    {
+      "title": "Hunting Cry",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 206
+    },
+    {
+      "title": "Death Whisper",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 207
+    },
+    {
+      "title": "Asian Crucible",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 208
+    },
+    {
+      "title": "Fire Lash",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 209
+    },
+    {
+      "title": "Steel Claws",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 210
+    },
+    {
+      "title": "Ride the Beast",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 211
+    },
+    {
+      "title": "Blood Harvest",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 212
+    },
+    {
+      "title": "Fission Fury",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 213
+    },
+    {
+      "title": "Fire Hammer",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 214
+    },
+    {
+      "title": "Death Force",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 215
+    },
+    {
+      "title": "Fight or Die",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 216
+    },
+    {
+      "title": "End Game",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 217
+    },
+    {
+      "title": "Terror Intent",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 218
+    },
+    {
+      "title": "Tiger Stalk",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 219
+    },
+    {
+      "title": "Blood and Fire",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 220
+    },
+    {
+      "title": "Patriot Gambit",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 221
+    },
+    {
+      "title": "Hour of Conflict",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 222
+    },
+    {
+      "title": "Call to Arms",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 223
+    },
+    {
+      "title": "Body Armor",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 224
+    },
+    {
+      "title": "Red Horse",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 225
+    },
+    {
+      "title": "Blood Circle",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 226
+    },
+    {
+      "title": "Terminal Option",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 227
+    },
+    {
+      "title": "Zero Tolerance",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 228
+    },
+    {
+      "title": "Deep Attack",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 229
+    },
+    {
+      "title": "Slaughter Squad",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 230
+    },
+    {
+      "title": "Jackal Hunt",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 231
+    },
+    {
+      "title": "Target Command",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 232
+    },
+    {
+      "title": "Tough Justice",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 233
+    },
+    {
+      "title": "Plague Wind",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 234
+    },
+    {
+      "title": "Vengeance Rising",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 235
+    },
+    {
+      "title": "Hellfire Trigger",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 236
+    },
+    {
+      "title": "Crimson Tide",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 237
+    },
+    {
+      "title": "Hostile Proximity",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 238
+    },
+    {
+      "title": "Devil's Guard",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 239
+    },
+    {
+      "title": "Evil Reborn",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 240
+    },
+    {
+      "title": "Doomsday Conspiracy",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 241
+    },
+    {
+      "title": "Assault Reflex",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 242
+    },
+    {
+      "title": "Judas Kill",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 243
+    },
+    {
+      "title": "Virtual Destruction",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 244
+    },
+    {
+      "title": "Blood Of The Earth",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 245
+    },
+    {
+      "title": "Black Dawn Rising",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 246
+    },
+    {
+      "title": "Rolling Death",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 247
+    },
+    {
+      "title": "Shadow Target",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 248
+    },
+    {
+      "title": "Warning Shot",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 249
+    },
+    {
+      "title": "Kill Radius",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 250
+    },
+    {
+      "title": "Death Line",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 251
+    },
+    {
+      "title": "Risk Factor",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 252
+    },
+    {
+      "title": "Chill Effect",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 253
+    },
+    {
+      "title": "War Bird",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 254
+    },
+    {
+      "title": "Point of Impact",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 255
+    },
+    {
+      "title": "Precision Play",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 256
+    },
+    {
+      "title": "Target Lock",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 257
+    },
+    {
+      "title": "Nightfire",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 258
+    },
+    {
+      "title": "Dayhunt",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 259
+    },
+    {
+      "title": "Dawnkill",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 260
+    },
+    {
+      "title": "Trigger Point",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 261
+    },
+    {
+      "title": "Skysniper",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 262
+    },
+    {
+      "title": "Iron Fist",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 263
+    },
+    {
+      "title": "Freedom Force",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 264
+    },
+    {
+      "title": "Ultimate Price",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 265
+    },
+    {
+      "title": "Invisible Invader",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 266
+    },
+    {
+      "title": "Shattered Trust",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 267
+    },
+    {
+      "title": "Shifting Shadows",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 268
+    },
+    {
+      "title": "Judgment Day",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 269
+    },
+    {
+      "title": "Cyberhunt",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 270
+    },
+    {
+      "title": "Stealth Striker",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 271
+    },
+    {
+      "title": "UFORCE",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 272
+    },
+    {
+      "title": "Rogue Target",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 273
+    },
+    {
+      "title": "Leviathan",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 274
+    },
+    {
+      "title": "Dirty Mission",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 275
+    },
+    {
+      "title": "Triple Reverse",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 276
+    },
+    {
+      "title": "Fire Wind",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 277
+    },
+    {
+      "title": "Fear Rally",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 278
+    },
+    {
+      "title": "Blood Stone",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 279
+    },
+    {
+      "title": "Jungle Conflict",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 280
+    },
+    {
+      "title": "Ring of Retaliation",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 281
+    },
+    {
+      "title": "Devil's Army",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 282
+    },
+    {
+      "title": "Final Strike",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 283
+    },
+    {
+      "title": "Armageddon Exit",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 284
+    },
+    {
+      "title": "Rogue Warrior",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 285
+    },
+    {
+      "title": "Arctic Blast",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 286
+    },
+    {
+      "title": "Vendetta Force",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 287
+    },
+    {
+      "title": "Pursued",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 288
+    },
+    {
+      "title": "Blood Trade",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 289
+    },
+    {
+      "title": "Savage Game",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 290
+    },
+    {
+      "title": "Death Merchants",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 291
+    },
+    {
+      "title": "Scorpion Rising",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 292
+    },
+    {
+      "title": "Hostile Alliance",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 293
+    },
+    {
+      "title": "Nuclear Game",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 294
+    },
+    {
+      "title": "Deadly Pursuit",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 295
+    },
+    {
+      "title": "Final Play",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 296
+    },
+    {
+      "title": "Dangerous Encounter",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 297
+    },
+    {
+      "title": "Warrior's Requiem",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 298
+    },
+    {
+      "title": "Blast Radius",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 299
+    },
+    {
+      "title": "Shadow Search",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 300
+    },
+    {
+      "title": "Sea of Terror",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 301
+    },
+    {
+      "title": "Soviet Specter",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 302
+    },
+    {
+      "title": "Point Position",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 303
+    },
+    {
+      "title": "Into the Fire",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 304
+    },
+    {
+      "title": "Flames of Fury",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 305
+    },
+    {
+      "title": "Killing Heat",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 306
+    },
+    {
+      "title": "Night of the Knives",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 307
+    },
+    {
+      "title": "Death Gamble",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 308
+    },
+    {
+      "title": "Lockdown",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 309
+    },
+    {
+      "title": "Lethal Payload",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 310
+    },
+    {
+      "title": "Agent of Peril",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 311
+    },
+    {
+      "title": "Poison Justice",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 312
+    },
+    {
+      "title": "Hour of Judgment",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 313
+    },
+    {
+      "title": "Code of Resistance",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 314
+    },
+    {
+      "title": "Entry Point",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 315
+    },
+    {
+      "title": "Exit Code",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 316
+    },
+    {
+      "title": "Suicide Highway",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 317
+    },
+    {
+      "title": "Time Bomb",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 318
+    },
+    {
+      "title": "Soft Target",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 319
+    },
+    {
+      "title": "Terminal Zone",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 320
+    },
+    {
+      "title": "Edge of Hell",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 321
+    },
+    {
+      "title": "Blood Tide",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 322
+    },
+    {
+      "title": "Serpent's Lair",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 323
+    },
+    {
+      "title": "Triangle of Terror",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 324
+    },
+    {
+      "title": "Hostile Crossing",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 325
+    },
+    {
+      "title": "Dual Action",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 326
+    },
+    {
+      "title": "Assault Force",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 327
+    },
+    {
+      "title": "Slaughter House",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 328
+    },
+    {
+      "title": "Aftershock",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 329
+    },
+    {
+      "title": "Jungle Justice",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 330
+    },
+    {
+      "title": "Blood Vector",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 331
+    },
+    {
+      "title": "Homeland Terror",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 332
+    },
+    {
+      "title": "Tropic Blast",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 333
+    },
+    {
+      "title": "Nuclear Reaction",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 334
+    },
+    {
+      "title": "Deadly Contact",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 335
+    },
+    {
+      "title": "Splinter Cell",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 336
+    },
+    {
+      "title": "Rebel Force",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 337
+    },
+    {
+      "title": "Double Play",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 338
+    },
+    {
+      "title": "Border War",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 339
+    },
+    {
+      "title": "Primal Law",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 340
+    },
+    {
+      "title": "Orange Alert",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 341
+    },
+    {
+      "title": "Vigilante Run",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 342
+    },
+    {
+      "title": "Dragon's Den",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 343
+    },
+    {
+      "title": "Carnage Code",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 344
+    },
+    {
+      "title": "Firestorm",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 345
+    },
+    {
+      "title": "Volatile Agent",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 346
+    },
+    {
+      "title": "Hell Night",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 347
+    },
+    {
+      "title": "Killing Trade",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 348
+    },
+    {
+      "title": "Black Death Reprise",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 349
+    },
+    {
+      "title": "Ambush Force",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 350
+    },
+    {
+      "title": "Outback Assault",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 351
+    },
+    {
+      "title": "Defense Breach",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 352
+    },
+    {
+      "title": "Extreme Justice",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 353
+    },
+    {
+      "title": "Blood Toll",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 354
+    },
+    {
+      "title": "Mission to Burma",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 355
+    },
+    {
+      "title": "Desperate Passage",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 356
+    },
+    {
+      "title": "Final Resort",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 357
+    },
+    {
+      "title": "Patriot Acts",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 358
+    },
+    {
+      "title": "Face of Terror",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 359
+    },
+    {
+      "title": "Hostile Odds",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 360
+    },
+    {
+      "title": "Collision Course",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 361
+    },
+    {
+      "title": "Pele's Fire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 362
+    },
+    {
+      "title": "Loose Cannon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 363
+    },
+    {
+      "title": "Crisis Nation",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 364
+    },
+    {
+      "title": "Dangerous Tides",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 365
+    },
+    {
+      "title": "Dark Alliance",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 366
+    },
+    {
+      "title": "Fire Zone",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 367
+    },
+    {
+      "title": "Lethal Compound",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 368
+    },
+    {
+      "title": "Code of Honor",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 369
+    },
+    {
+      "title": "System Corruption",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 370
+    },
+    {
+      "title": "Salvador Strike",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 371
+    },
+    {
+      "title": "Frontier Fury",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 372
+    },
+    {
+      "title": "Desperate Cargo",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 373
+    },
+    {
+      "title": "Death Run",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 374
+    },
+    {
+      "title": "Deep Recon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 375
+    },
+    {
+      "title": "Silent Threat",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 376
+    },
+    {
+      "title": "Killing Ground",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 377
+    },
+    {
+      "title": "Threat Factor",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 378
+    },
+    {
+      "title": "Raw Fury",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 379
+    },
+    {
+      "title": "Cartel Clash",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 380
+    },
+    {
+      "title": "Recovery Force",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 381
+    },
+    {
+      "title": "Crucial Intercept",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 382
+    },
+    {
+      "title": "Powder Burn",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 383
+    },
+    {
+      "title": "Final Coup",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 384
+    },
+    {
+      "title": "Deadly Command",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 385
+    },
+    {
+      "title": "Toxic Terrain",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 386
+    },
+    {
+      "title": "Shadow Hunt",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 387
+    },
+    {
+      "title": "Enemy Agents",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 388
+    },
+    {
+      "title": "Stand Down",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 389
+    },
+    {
+      "title": "Trial by Fire",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 390
+    },
+    {
+      "title": "Hazard Zone",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 391
+    },
+    {
+      "title": "Fatal Combat",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 392
+    },
+    {
+      "title": "Damage Radius",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 393
+    },
+    {
+      "title": "Battle Cry",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 394
+    },
+    {
+      "title": "Nuclear Storm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 395
+    },
+    {
+      "title": "Blind Justice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 396
+    },
+    {
+      "title": "Jungle Hunt",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 397
+    },
+    {
+      "title": "Rebel Trade",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 398
+    },
+    {
+      "title": "Line of Honor",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 399
+    },
+    {
+      "title": "Final Judgment",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 400
+    },
+    {
+      "title": "Lethal Diversion",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 401
+    },
+    {
+      "title": "Survival Mission",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 402
+    },
+    {
+      "title": "Throw Down",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 403
+    },
+    {
+      "title": "Border Offensive",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 404
+    },
+    {
+      "title": "Blood Vendetta",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 405
+    },
+    {
+      "title": "Hostile Force",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 406
+    },
+    {
+      "title": "Cold Fusion",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 407
+    },
+    {
+      "title": "Night's Reckoning",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 408
+    },
+    {
+      "title": "Double Cross",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 409
+    },
+    {
+      "title": "Prison Code",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 410
+    },
+    {
+      "title": "Ivory Wave",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 411
+    },
+    {
+      "title": "Extraction",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 412
+    },
+    {
+      "title": "Rogue Assault",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 413
+    },
+    {
+      "title": "Viral Siege",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 414
+    },
+    {
+      "title": "Sleeping Dragons",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 415
+    },
+    {
+      "title": "Rebel Blast",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 416
+    },
+    {
+      "title": "Hard Targets",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 417
+    },
+    {
+      "title": "Nigeria Meltdown",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 418
+    },
+    {
+      "title": "Breakout",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 419
+    },
+    {
+      "title": "Amazon Impunity",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 420
+    },
+    {
+      "title": "Patriot Strike",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 421
+    },
+    {
+      "title": "Pirate Offensive",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 422
+    },
+    {
+      "title": "Pacific Creed",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 423
+    },
+    {
+      "title": "Desert Impact",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 424
+    },
+    {
+      "title": "Arctic Kill",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 425
+    },
+    {
+      "title": "Deadly Salvage",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 426
+    },
+    {
+      "title": "Maximum Chaos",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 427
+    },
+    {
+      "title": "Slayground",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 428
+    },
+    {
+      "title": "Point Blank",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 429
+    },
+    {
+      "title": "Savage Deadlock",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 430
+    },
+    {
+      "title": "Dragon Key",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 431
+    },
+    {
+      "title": "Perilous Cargo",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 432
+    },
+    {
+      "title": "Assassin's Tripwire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 433
+    },
+    {
+      "title": "The Cartel Hit",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 434
+    },
+    {
+      "title": "Blood Rites",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 435
+    },
+    {
+      "title": "Killpath",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 436
+    },
+    {
+      "title": "Murder Island",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 437
+    },
+    {
+      "title": "Syrian Rescue",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 438
+    },
+    {
+      "title": "Uncut Terror",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 439
+    },
+    {
+      "title": "Dark Savior",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 440
+    },
+    {
+      "title": "Final Assault",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 441
+    },
+    {
+      "title": "Kill Squad",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 442
+    },
+    {
+      "title": "Missile Intercept",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 443
+    },
+    {
+      "title": "Terrorist Dispatch",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 444
+    },
+    {
+      "title": "Combat Machines",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 445
+    },
+    {
+      "title": "Omega Cult",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 446
+    },
+    {
+      "title": "Fatal Prescription",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 447
+    },
+    {
+      "title": "Death List",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 448
+    },
+    {
+      "title": "Rogue Elements",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 449
+    },
+    {
+      "title": "Enemies Within",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 450
+    },
+    {
+      "title": "Chicago Vendetta",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 451
+    },
+    {
+      "title": "Thunder Down Under",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 452
+    },
+    {
+      "title": "Dying Art",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 453
+    },
+    {
+      "title": "Killing Kings",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 454
+    },
+    {
+      "title": "Stealth Assassin",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 455
+    },
+    {
+      "title": "Lethal Vengeance",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 456
+    },
+    {
+      "title": "Cold Fury",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 457
+    },
+    {
+      "title": "Cyberthreat",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 458
+    },
+    {
+      "title": "Righteous Fear",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 459
+    },
+    {
+      "title": "Blood Vortex",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 460
+    }
+  ]
+}

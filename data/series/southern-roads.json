@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Southern Roads",
+  "slug": "southern-roads",
+  "source": "https://www.orderofbooks.com/characters/southern-roads/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Southern-Roads-by-Stephanie-Bond.jpg",
+  "books": [
+    {
+      "title": "Baby, I'm Yours",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Baby, Drive South",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Baby, Come Home",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Baby, Don't Go",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Baby, Hold On",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Baby, I'm Back",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Baby It's You",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

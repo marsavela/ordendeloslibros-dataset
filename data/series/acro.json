@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "name": "ACRO",
+  "slug": "acro",
+  "source": "https://www.orderofbooks.com/characters/acro/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/ACRO-by-Sydney-Croft.jpg",
+  "authors": [
+    {
+      "name": "Sydney Croft",
+      "slug": "sydney-croft"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of ACRO Books",
+      "books": [
+        {
+          "title": "Riding the Storm",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Unleashing the Storm",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Seduced by the Storm",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Taming the Fire",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Tempting the Fire",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Taken by Fire",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Deadly Desires",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Three the Hard Way",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        }
+      ]
+    }
+  }
+}

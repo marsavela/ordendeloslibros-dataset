@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Greater Foundation",
+  "slug": "greater-foundation",
+  "source": "https://www.orderofbooks.com/characters/greater-foundation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Foundation-by-Isaac-Asimov.jpg",
+  "books": [
+    {
+      "title": "I, Robot",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Caves of Steel",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Naked Sun",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Rest of the Robots",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Robots of Dawn",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Robots and Empire",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Robot Dreams",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Robot Visions",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Visiones de robot",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

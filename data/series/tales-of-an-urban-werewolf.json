@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Tales Of An Urban Werewolf",
+  "slug": "tales-of-an-urban-werewolf",
+  "source": "https://www.orderofbooks.com/characters/tales-of-an-urban-werewolf/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Tales-of-an-Urban-Werewolf-by-Karen-MacInerney.jpg",
+  "books": [
+    {
+      "title": "Howling at the Moon",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "On the Prowl",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Leader of the Pack",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

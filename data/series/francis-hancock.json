@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Francis Hancock",
+  "slug": "francis-hancock",
+  "source": "https://www.orderofbooks.com/characters/francis-hancock/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Francis-Hancock-by-Barbara-Nadel.jpg",
+  "authors": [
+    {
+      "name": "Barbara Nadel",
+      "slug": "barbara-nadel"
+    }
+  ],
+  "books": [
+    {
+      "title": "Last Rights",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "After the Mourning",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ashes to Ashes",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sure and Certain Death",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

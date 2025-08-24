@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Rune Trilogy",
+  "slug": "rune-trilogy",
+  "source": "https://www.orderofbooks.com/characters/rune/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/10/Rune-Trilogy-by-Jeffery-Deaver.jpg",
+  "books": [
+    {
+      "title": "Manhattan Is My Beat",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death of a Blue Movie Star",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hard News",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Remy Chandler",
+  "slug": "remy-chandler",
+  "source": "https://www.orderofbooks.com/characters/remy-chandler/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Remy-Chandler-by-Thomas-E-Sniegoski-500x200.jpg",
+  "books": [
+    {
+      "title": "A Kiss Before the Apocalypse",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dancing on the Head of a Pin",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Where Angels Fear to Tread",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Hundred Words for Hate",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In the House of the Wicked",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Walking In the Midst of Fire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Deafening Silence in Heaven",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Lily Bard",
+  "slug": "lily-bard",
+  "source": "https://www.orderofbooks.com/characters/lily-bard/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/10/Lily-Bard.jpg",
+  "books": [
+    {
+      "title": "Shakespeare's Landlord",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shakespeare's Champion",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shakespeare's Christmas",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shakespeare's Trollop",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shakespeare's Counselor",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Spindle Cove",
+  "slug": "spindle-cove",
+  "source": "https://www.orderofbooks.com/characters/spindle-cove/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Spindle-Cove-by-Tessa-Dare-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tessa Dare",
+      "slug": "tessa-dare"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Night to Surrender",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Once Upon a Winter's Eve",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Week to Be Wicked",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Lady by Midnight",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beauty and the Blacksmith",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Love Letters From a Lord",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Any Duchess Will Do",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lord Dashwood Missed Out",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

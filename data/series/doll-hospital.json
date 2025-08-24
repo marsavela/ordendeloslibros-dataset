@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Doll Hospital",
+  "slug": "doll-hospital",
+  "source": "https://www.orderofbooks.com/characters/doll-hospital/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Doll-Hospital-by-Joan-Holub.jpg",
+  "books": [
+    {
+      "title": "Tatiana Comes to America",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Goldie's Fortune",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Glory's Freedom",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Saving Marissa",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Danielle's Dollhouse Wish",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Charlotte's Choice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

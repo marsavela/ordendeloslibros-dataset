@@ -1,0 +1,121 @@
+{
+  "type": "series",
+  "name": "Baseball Card Adventures",
+  "slug": "baseball-card-adventures",
+  "source": "https://www.orderofbooks.com/characters/baseball-card-adventures/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Baseball-Card-Adventures-by-Dan-Gutman.jpg",
+  "books": [
+    {
+      "title": "Honus & Me",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Jackie & Me",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Babe & Me",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shoeless Joe & Me",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mickey & Me",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Abner & Me",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Satch & Me",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Jim & Me",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mickey & Me",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ray & Me",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Abner & Me",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Roberto & Me",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Ted & Me",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Willie & Me",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

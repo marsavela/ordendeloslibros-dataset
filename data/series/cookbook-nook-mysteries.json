@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Cookbook Nook Mysteries",
+  "slug": "cookbook-nook-mysteries",
+  "source": "https://www.orderofbooks.com/characters/cookbook-nook-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Cookbook-Nook-Mysteries-by-Daryl-Wood-Gerber-500x200.jpg",
+  "authors": [
+    {
+      "name": "Daryl Wood Gerber",
+      "slug": "daryl-wood-gerber"
+    }
+  ],
+  "books": [
+    {
+      "title": "Final Sentence",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Inherit the Word",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stirring the Plot",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fudging the Books",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Grilling the Subject",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pressing the Issue",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wreath Between the Lines",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Sifting Through Clues",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Shredding the Evidence",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Wining and Dying",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Simmering with Resentment",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Poaching Is Puzzling",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

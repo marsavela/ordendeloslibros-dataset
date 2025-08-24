@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "On The Runway",
+  "slug": "on-the-runway",
+  "source": "https://www.orderofbooks.com/characters/on-the-runway/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/On-The-Runway-by-Melody-Carlson.jpg",
+  "authors": [
+    {
+      "name": "Melody Carlson",
+      "slug": "melody-carlson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Premiere",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Catwalk",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rendezvous",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Spotlight",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Glamour",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ciao",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

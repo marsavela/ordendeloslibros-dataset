@@ -1,0 +1,137 @@
+{
+  "type": "series",
+  "name": "Blackbird Sisters",
+  "slug": "blackbird-sisters",
+  "source": "https://www.orderofbooks.com/characters/blackbird-sisters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Blackbird-Sisters-Mystery-by-Nancy-Martin.jpg",
+  "books": [
+    {
+      "title": "How to Murder a Millionaire",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Girls Don't Wear Diamonds",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Some Like It Lethal",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cross Your Heart and Hope to Die",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mick Abruzzo's Story",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Have Your Cake and Kill Him Too",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Crazy Little Thing Called Death",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder Melts in Your Mouth",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Slay Belles",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "No Way to Kill a Lady",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Little Black Book of Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Mick Abruzzo: The Second Wire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Little Night Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Lady Be Good",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Bye, Bye Blackbird",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Mick Abruzzo's Story is a prequel short story in the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

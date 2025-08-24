@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Too Smart Jones",
+  "slug": "too-smart-jones",
+  "source": "https://www.orderofbooks.com/characters/too-smart-jones/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Too-Smart-Jones-by-Gilbert-Morris.jpg",
+  "authors": [
+    {
+      "name": "Gilbert Morris",
+      "slug": "gilbert-morris"
+    }
+  ],
+  "books": [
+    {
+      "title": "Too Smart Jones and the Pool Party Thief",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Too Smart Jones and the Buried Jewels",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Too Smart Jones and the Disappearing Dogs",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Too Smart Jones and the Spooky Mountain",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Too Smart Jones and the Dangerous Woman",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Too Smart Jones and the Cat's Secret",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Too Smart Jones and the Stanger in the Cave",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Too Smart Jones and the Wilderness Mystery",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Too Smart Jones and the Stolen Bicycle",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Too Smart Jones and the Mysterious Artist",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

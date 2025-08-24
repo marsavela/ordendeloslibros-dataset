@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Presidential Agent",
+  "slug": "presidential-agent",
+  "source": "https://www.orderofbooks.com/characters/presidential-agent/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Presidential-Agent.jpg",
+  "authors": [
+    {
+      "name": "William E. Butterworth IV",
+      "slug": "william-e-butterworth-iv"
+    }
+  ],
+  "books": [
+    {
+      "title": "By Order of the President",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hostage",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Hunters",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Shooters",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Black Ops",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Outlaws",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Covert Warriors",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hazardous Duty",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Rogue Asset",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Direct Action",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Mostly Miserable Life Of April Sinclair",
+  "slug": "mostly-miserable-life-of-april-sinclair",
+  "source": "https://www.orderofbooks.com/characters/mostly-miserable-life-of-april-sinclair/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Mostly-Miserable-Life-of-April-Sinclair-by-Laurie-Friedman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Laurie Friedman",
+      "slug": "laurie-friedman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Can You Say Catastrophe?",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Too Good to Be True",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Truth and Kisses",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Love or Something Like It",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Not What I Expected",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Too Much Drama",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Twist of Fate",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Life, Loss, and Lemonade",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

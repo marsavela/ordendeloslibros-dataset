@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Pegasus",
+  "slug": "pegasus",
+  "source": "https://www.orderofbooks.com/characters/pegasus/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/12/Pegasus-by-Kate-OHearn-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kate O’Hearn",
+      "slug": "kate-ohearn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pegasus and the Flame / The Flame of Olympus",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fight for Olympus / Olympus at War",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The New Olympians / Pegasus and the New Olympians",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Origins of Olympus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rise of the Titans",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The End of Olympus",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

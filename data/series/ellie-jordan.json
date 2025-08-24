@@ -1,0 +1,191 @@
+{
+  "type": "series",
+  "name": "Ellie Jordan",
+  "slug": "ellie-jordan",
+  "source": "https://www.orderofbooks.com/characters/ellie-jordan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Ellie-Jordan-Ghost-Trapper-by-JL-Bryan-500x200.jpg",
+  "authors": [
+    {
+      "name": "JL Bryan",
+      "slug": "jl-bryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ellie Jordan, Ghost Trapper",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cold Shadows",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Crawling Darkness",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Terminal",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "House of Whispers",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Maze of Souls",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Lullaby",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Keeper",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Tower",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Monster Museum",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Fire Devil",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Necromancer's Library",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Trailwalker",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Midnight Movie",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Lodge",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Cabinet Jack",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Fallen Wishes",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Sunset House",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Funtime Show",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Miracle Mountain",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Mortuary Manor",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Robber's Road",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

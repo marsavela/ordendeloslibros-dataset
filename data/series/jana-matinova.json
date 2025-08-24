@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Jana Matinova",
+  "slug": "jana-matinova",
+  "source": "https://www.orderofbooks.com/characters/jana-matinova/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Jana-Matinova-by-Michael-Gennelin-500x200.jpg",
+  "authors": [
+    {
+      "name": "Michael Gennelin",
+      "slug": "michael-gennelin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Siren of the Waters",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dark Dream",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Magician's Accomplice",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Requiem for a Gypsy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "For the Dignified Dead",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

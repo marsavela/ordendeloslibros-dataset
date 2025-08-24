@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Daniel Jacobus",
+  "slug": "daniel-jacobus",
+  "source": "https://www.orderofbooks.com/characters/daniel-jacobus/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/11/Daniel-Jacobus-by-Gerald-Elias-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gerald Elias",
+      "slug": "gerald-elias"
+    }
+  ],
+  "books": [
+    {
+      "title": "Devil's Trill",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Danse Macabre",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death and the Maiden",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death and Transfiguration",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Playing with Fire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Spring Break",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cloudy With a Chance of Murder",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder at the Royal Albert",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

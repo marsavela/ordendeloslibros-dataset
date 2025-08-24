@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Mossy Creek Hometown",
+  "slug": "mossy-creek-hometown",
+  "source": "https://www.orderofbooks.com/characters/mossy-creek-hometown/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Mossy-Creek-Hometown.jpg",
+  "books": [
+    {
+      "title": "Mossy Creek",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Reunion at Mossy Creek",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Summer in Mossy Creek",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blessings of Mossy Creek",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Day in Mossy Creek",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "At Home in Mossy Creek",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gone But Not Forgotten",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Critters of Mossy Creek",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Homecoming in Mossy Creek",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Closer Than They Appear",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Christmas in Mossy Creek",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

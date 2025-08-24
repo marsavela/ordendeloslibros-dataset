@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Karin Schaeffer",
+  "slug": "karin-schaeffer",
+  "source": "https://www.orderofbooks.com/characters/karin-schaeffer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Karin-Schaeffer-by-Katia-Lief-500x200.jpg",
+  "authors": [
+    {
+      "name": "Katia Lief",
+      "slug": "katia-lief"
+    }
+  ],
+  "books": [
+    {
+      "title": "You Are Next",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Next Time You See Me / Hide and Seek",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vanishing Girls / The 12th Victim",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Gift",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Money Kill / Dead Rich",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Domino Killer",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chronological Order of Karin Schaeffer Books The Domino Killer is a prequel short story to You Are Next .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

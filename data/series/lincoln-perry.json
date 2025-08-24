@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Lincoln Perry",
+  "slug": "lincoln-perry",
+  "source": "https://www.orderofbooks.com/characters/lincoln-perry/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Lincoln-Perry-by-Michael-Koryta.jpg",
+  "books": [
+    {
+      "title": "Tonight I Said Goodbye",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sorrow's Anthem",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Welcome Grave",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Silent Hour",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

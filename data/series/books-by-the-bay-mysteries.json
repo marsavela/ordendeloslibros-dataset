@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Books By The Bay Mysteries",
+  "slug": "books-by-the-bay-mysteries",
+  "source": "https://www.orderofbooks.com/characters/books-by-the-bay-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Books-by-the-Bay-Mystery-by-Ellery-Adams-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ellery Adams",
+      "slug": "ellery-adams"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Killer Plot",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Deadly Cliché",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Last Word",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Written in Stone",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Poisoned Prose",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lethal Letters",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Writing All Wrongs",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Killer Characters",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

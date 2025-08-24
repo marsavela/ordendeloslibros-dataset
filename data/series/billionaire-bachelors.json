@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Billionaire Bachelors",
+  "slug": "billionaire-bachelors",
+  "source": "https://www.orderofbooks.com/characters/billionaire-bachelors/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Billionaire-Bachelors-by-Melody-Anne.jpg",
+  "authors": [
+    {
+      "name": "Melody Anne",
+      "slug": "melody-anne"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Billionaire Wins the Game",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Billionaire's Dance",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Billionaire Falls",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Billionaire's Marriage Proposal",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blackmailing the Billionaire",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Runaway Heiress / The Runaway",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Billionaire's Final Stand",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Unexpected Treasure",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hidden Treasure",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Holiday Treasure",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Priceless Treasure",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Ultimate Treasure",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

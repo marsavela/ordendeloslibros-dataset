@@ -1,0 +1,86 @@
+{
+  "type": "series",
+  "name": "American Girl: Caroline",
+  "slug": "american-girl-caroline",
+  "source": "https://www.orderofbooks.com/characters/american-girl-caroline/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/10/American-Girl-Caroline-by-Kathleen-Ernst.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of American Girls: Caroline Books",
+      "books": [
+        {
+          "title": "Meet Caroline",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Caroline's Secret Message",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "A Surprise for Caroline",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Caroline Takes a Chance",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Caroline's Battle",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Changes for Caroline",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Traitor in the Shipyard",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Catch the Wind",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Smuggler's Secrets",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        }
+      ]
+    }
+  }
+}

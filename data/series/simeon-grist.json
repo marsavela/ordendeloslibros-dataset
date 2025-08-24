@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Simeon Grist",
+  "slug": "simeon-grist",
+  "source": "https://www.orderofbooks.com/characters/simeon-grist/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Simeon-Grist-by-Timothy-Hallinan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Timothy Hallinan",
+      "slug": "timothy-hallinan"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Four Last Things",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Everything But the Squeal",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Skin Deep",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Incinerator",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Man With No Time",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bone Polisher",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Pulped",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

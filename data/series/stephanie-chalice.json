@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Stephanie Chalice",
+  "slug": "stephanie-chalice",
+  "source": "https://www.orderofbooks.com/characters/stephanie-chalice/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/10/Stephanie-Chalice-by-Lawrence-Kelter-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lawrence Kelter",
+      "slug": "lawrence-kelter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Don't Close Your Eyes",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ransom Beach",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Brain Vault",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Our Honored Dead",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Baby Girl Doe",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Compromised",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Out of the Ashes",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Making Her Bones",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Righteous Collars",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

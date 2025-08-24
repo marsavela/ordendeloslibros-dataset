@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Fiona Griffiths",
+  "slug": "fiona-griffiths",
+  "source": "https://www.orderofbooks.com/characters/fiona-griffiths/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/12/Fiona-Griffiths-by-Harry-Bingham-500x200.jpg",
+  "authors": [
+    {
+      "name": "Harry Bingham",
+      "slug": "harry-bingham"
+    }
+  ],
+  "books": [
+    {
+      "title": "Talking to the Dead",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Love Story, With Murders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Strange Death of Fiona Griffiths",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "This Thing of Darkness",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dead House",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Deepest Grave",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

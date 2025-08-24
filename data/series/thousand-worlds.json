@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Thousand Worlds",
+  "slug": "thousand-worlds",
+  "source": "https://www.orderofbooks.com/characters/thousand-worlds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/12/Thousand-Worlds.jpg",
+  "books": [
+    {
+      "title": "Ties of Blood and Silver",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Emile and the Dutchman",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Not For Glory",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hero",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

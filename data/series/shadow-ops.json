@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Shadow Ops",
+  "slug": "shadow-ops",
+  "source": "https://www.orderofbooks.com/characters/shadow-ops/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/12/Shadow-Ops-by-Myke-Cole-500x200.jpg",
+  "authors": [
+    {
+      "name": "Myke Cole",
+      "slug": "myke-cole"
+    }
+  ],
+  "books": [
+    {
+      "title": "Control Point",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fortress Frontier",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Breach Zone",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

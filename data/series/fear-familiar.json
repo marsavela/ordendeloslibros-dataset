@@ -1,0 +1,161 @@
+{
+  "type": "series",
+  "name": "Fear Familiar",
+  "slug": "fear-familiar",
+  "source": "https://www.orderofbooks.com/characters/fear-familiar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Fear-Familiar-by-Caroline-Burnes-Carolyn-Haines.jpg",
+  "books": [
+    {
+      "title": "Fear Familiar",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Too Familiar",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shades Of Familiar",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Familiar Remedy",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Familiar Tale",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bewitching Familiar",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Familiar Heart",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Familiar Fire",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Familiar Christmas",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Familiar Obsession",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Familiar Lullaby",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Familiar Mirage",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Familiar Oasis",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Familiar Double",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Familiar Texas",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Familiar Escape",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Familiar Vows",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Familiar Showdown",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Thrice Familiar",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

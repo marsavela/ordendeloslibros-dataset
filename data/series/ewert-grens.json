@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Ewert Grens",
+  "slug": "ewert-grens",
+  "source": "https://www.orderofbooks.com/characters/ewert-grens/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Ewert-Grens-by-Roslund-Hellstrom-500x200.jpg",
+  "books": [
+    {
+      "title": "The Beast / Pen 33 / Odjuret",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Vault / Box 21",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cell 8 / Edward Finnigans",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Flickan under gatan",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Three Seconds / Tre sekunder",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Two Soldiers / Två soldate",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Three Minutes / Tre Minuter",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Three Hours / Tre Timmar",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Knock Knock",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sweet Dreams / Sovsågott",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Litapåmig",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "100 procent",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

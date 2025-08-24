@@ -1,0 +1,167 @@
+{
+  "type": "series",
+  "name": "Quiller",
+  "slug": "quiller",
+  "source": "https://www.orderofbooks.com/characters/quiller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Quiller-by-Adam-Hall.jpg",
+  "authors": [
+    {
+      "name": "Adam Hall",
+      "slug": "adam-hall"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Berlin Memorandum / Quiller Memorandum",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The 9th Directive",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Striker Portfolio",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Warsaw Document",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Tango Briefing",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Mandarin Cypher",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Kobra Manifesto",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Sinkiang Executive",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Scorpion Signal",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Peking Target",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Northlight / Quiller",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Quiller's Run",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Quiller KGB",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Quiller Barracuda",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Quiller Bamboo",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Quiller Solitaire",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Quiller Meridian",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Quiller Salamander",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Quiller Balalaika",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Tina Boyd",
+  "slug": "tina-boyd",
+  "source": "https://www.orderofbooks.com/characters/tina-boyd/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Tina-Boyd-by-Simon-Kernick.jpg",
+  "authors": [
+    {
+      "name": "Simon Kernick",
+      "slug": "simon-kernick"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Crime Trade",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Relentless",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deadline",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Target",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Last 10 Seconds",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ultimatum",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Final Minute",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

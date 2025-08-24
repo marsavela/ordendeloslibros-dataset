@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Otherworlds",
+  "slug": "otherworlds",
+  "source": "https://www.orderofbooks.com/characters/otherworlds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/12/Otherworlds-by-Jonathan-Moeller.jpg",
+  "authors": [
+    {
+      "name": "Jonathan Moeller",
+      "slug": "jonathan-moeller"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Devil's Agent",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mirrored Knight",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The King of Tears Unnumbered",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sacrifices",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tournament of Thieves",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Threefold Gift",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Inexorable",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Blood Artists",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Driven",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dragons' Wrath",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Knights' Quest",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Bound to the Eye",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Most of the Otherworlds stories have been released as a single short story collection entitled Otherworlds , and are no longer available for purchase individually.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

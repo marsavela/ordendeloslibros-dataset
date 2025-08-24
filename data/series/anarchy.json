@@ -1,0 +1,174 @@
+{
+  "type": "series",
+  "name": "Anarchy",
+  "slug": "anarchy",
+  "source": "https://www.orderofbooks.com/characters/anarchy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/06/Anarchy-by-Griff-Hosker.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Anarchy Books",
+      "books": [
+        {
+          "title": "English Knight",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Knight of the Empress",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Baron of the North",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Earl",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "King Henry's Champion",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Warlord of the North",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Enemy at the Gate",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Warlord's War",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Crusader",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Irish War",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Northern Knight",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Poisonous Plots",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Princes' Revolt",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The King is Dead",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Earl Marshal",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "The Fallen Crown",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Kingmaker",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Henry II",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "The Welsh Marches",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "The Perfect Knight",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        }
+      ]
+    }
+  }
+}

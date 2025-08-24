@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Jesus Chronicles",
+  "slug": "jesus-chronicles",
+  "source": "https://www.orderofbooks.com/characters/jesus-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Jesus-Chronicles-by-Tim-LaHaye-Jerry-B-Jenkins.jpg",
+  "authors": [
+    {
+      "name": "Tim LaHaye",
+      "slug": "tim-lahaye"
+    }
+  ],
+  "books": [
+    {
+      "title": "John's Story",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mark's Story",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Luke's Story",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Matthew's Story",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

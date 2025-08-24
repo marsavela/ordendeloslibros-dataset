@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Happily Ever After/Fairy Tales",
+  "slug": "happily-ever-after-fairy-tales",
+  "source": "https://www.orderofbooks.com/characters/happily-ever-after/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Happily-Ever-After-by-Eloisa-James.jpg",
+  "authors": [
+    {
+      "name": "Eloisa James",
+      "slug": "eloisa-james"
+    }
+  ],
+  "books": [
+    {
+      "title": "Storming the Castle",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Winning the Wallflower",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Seduced by a Pirate",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "With this Kiss: Part 1",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "With this Kiss: Part 2",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "With this Kiss: Part 3",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

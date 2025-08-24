@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Maxie & Stretch",
+  "slug": "maxie-stretch",
+  "source": "https://www.orderofbooks.com/characters/maxie-and-stretch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Maxie-and-Stretch-by-Sue-Henry.jpg",
+  "authors": [
+    {
+      "name": "Sue Henry",
+      "slug": "sue-henry"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Serpents Trail",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tooth of Time",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Refuge",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The End of the Road",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

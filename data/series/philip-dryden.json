@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Philip Dryden",
+  "slug": "philip-dryden",
+  "source": "https://www.orderofbooks.com/characters/philip-dryden/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Philip-Dryden-by-Jim-Kelly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jim Kelly",
+      "slug": "jim-kelly"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Water Clock",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fire Baby",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Moon Tunnel",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Coldest Blood",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Skeleton Man",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Nightrise",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Funeral Owl",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

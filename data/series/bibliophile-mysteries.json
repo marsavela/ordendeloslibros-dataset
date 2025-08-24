@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Bibliophile Mysteries",
+  "slug": "bibliophile-mysteries",
+  "source": "https://www.orderofbooks.com/characters/bibliophile-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Bibliophile-Mysteries-by-Kate-Carlisle-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kate Carlisle",
+      "slug": "kate-carlisle"
+    }
+  ],
+  "books": [
+    {
+      "title": "Homicide in Hardcover",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "If Books Could Kill",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Lies That Bind",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder under Cover",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Pages of Sin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "One Book in the Grave",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Peril in Paperback",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Cookbook Conspiracy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Book Stops Here",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ripped From the Pages",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Books of a Feather",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Once Upon a Spine",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Buried In Books",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Book Supremacy",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Grim Reader",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Little Black Book",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Paper Caper",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Twelve Books of Christmas",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

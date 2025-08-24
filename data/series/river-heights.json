@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "River Heights",
+  "slug": "river-heights",
+  "source": "https://www.orderofbooks.com/characters/river-heights/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/River-Heights-by-Carolyn-Keene.jpg",
+  "authors": [
+    {
+      "name": "Carolyn Keene",
+      "slug": "carolyn-keene"
+    }
+  ],
+  "books": [
+    {
+      "title": "Love Times Three",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Guilty Secrets",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Going Too Far",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Stolen Kisses",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Between the Lines",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lessons in Love",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cheating Hearts",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Trouble with Love",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Lies and Whispers",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mixed Emotions",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Broken Hearts",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Hard to Handle",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Junior Class Trip",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Mind of Her Own",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Love and Games",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Friends And Rivals",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Jealousy Trap",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

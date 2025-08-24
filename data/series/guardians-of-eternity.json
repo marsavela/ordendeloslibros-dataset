@@ -1,0 +1,247 @@
+{
+  "type": "series",
+  "name": "Guardians of Eternity",
+  "slug": "guardians-of-eternity",
+  "source": "https://www.orderofbooks.com/characters/guardians-of-eternity/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/guardians-of-eternity-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alexandra Ivy.",
+      "slug": "alexandra-ivy"
+    }
+  ],
+  "books": [
+    {
+      "title": "When Darkness Comes",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Embrace the Darkness",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Darkness Everlasting",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darkness Revealed",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Darkness Unleashed",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Beyond the Darkness",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Yours for Eternity / Taken by Darkness",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Yours For Eternity",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Devoured by Darkness",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Darkness Eternal",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bound by Darkness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Fear the Darkness",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Levet",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Darkness Avenged",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Hunt the Darkness",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Where Darkness Lives",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "A Very Levet Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "When Darkness Ends",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Darkness Returns",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Beware the Darkness",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Conquer the Darkness",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "All About Levet",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Sacrifice of Darkness",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Shades of Darkness",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Darkness Betrayed",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Slayed by Darkness",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Bewitch the Darkness",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Stalk the Darkness",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Sate the Darkness",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    }
+  ]
+}

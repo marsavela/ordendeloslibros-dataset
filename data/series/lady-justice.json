@@ -1,0 +1,375 @@
+{
+  "type": "series",
+  "name": "Lady Justice",
+  "slug": "lady-justice",
+  "source": "https://www.orderofbooks.com/characters/lady-justice/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/09/crap.jpg",
+  "authors": [
+    {
+      "name": "Robert Thornhill. Lady Justice Takes",
+      "slug": "robert-thornhill-lady-justice-takes"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lady Justice Takes A. C.R.A.P.",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lady Justice And The Lost Tapes",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lady Justice Gets Lei'd",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lady Justice and the Avenging Angels",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lady Justice And The Sting",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lady Justice And Dr. Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Lady Justice And The Vigilante",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lady Justice and the Watchers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Lady Justice and the Candidate",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Lady Justice and the Book Club Murders",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Lady Justice and the Cruise Ship Murders",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Lady Justice and the Class Reunion",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Lady Justice and the Assassin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Lady Justice and the Lottery",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Lady Justice and the Vet",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Lady Justice and the Organ Traders",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Lady Justice and the Pharaoh's Curse",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Lady Justice in the Eye of the Storm",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Lady Justice on the Dark Side",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Lady Justice and the Broken Hearts",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Lady Justice and the Conspiracy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Lady Justice and the Conspiracy Trial",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Lady Justice and the Ghostly Treasure",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Lady Justice and the Ghost Whisperer",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Lady Justice and the Spy",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Lady Justice and the Cat",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Lady Justice and the Geriatric Gumshoes",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Lady Justice and the Sixth Sense",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Lady Justice and the Magic Dragon",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Lady Justice and the Black Widow",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Lady Justice and the Devil's Breath",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Lady Justice and the Mysterious Box",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Lady Justice and the Mystery Mansion",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Lady Justice and Good vs Evil",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Lady Justice and the Quirky Arlo Quimby",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Lady Justice and the Evil Twin",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Lady Justice and the Living Trust",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Lady Justice and the Bad Seed",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Lady Justice and the Raven",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Lady Justice and the Landlords' Nightmare",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Lady Justice and Terror on the Tracks",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Lady Justice and the Bounty Hunter",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Lady Justice Down on the Farm",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Lady Justice and the Abduction",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Lady Justice and the Mob",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Louis Kincaid",
+  "slug": "louis-kincaid",
+  "source": "https://www.orderofbooks.com/characters/louis-kincaid/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Louis-Kincaid-by-PJ-Parrish.jpg",
+  "authors": [
+    {
+      "name": "P.J. Parrish",
+      "slug": "p-j-parrish"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dark of the Moon",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead of Winter",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Paint It Black",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thicker Than Water",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Island of Bones",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Killing Rain",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "An Unquiet Grave",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Thousand Bones",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "South of Hell",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Little Death",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Claw Back",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Heart of Ice",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Damage Done",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

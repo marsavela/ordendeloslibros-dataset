@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Vicky Bliss",
+  "slug": "vicky-bliss",
+  "source": "https://www.orderofbooks.com/characters/vicky-bliss/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Vicky-Bliss-by-Elizabeth-Peters.jpg",
+  "books": [
+    {
+      "title": "The Camelot Caper",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Borrower of the Night",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Street of the Five Moons",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silhouette in Scarlet",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Trojan Gold",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Night Train to Memphis",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Laughter of Dead Kings",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Vicky isn't in The Camelot Caper but it takes place in the same universe featuring Sir John Smythe.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

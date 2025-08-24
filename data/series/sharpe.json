@@ -1,0 +1,225 @@
+{
+  "type": "series",
+  "name": "Sharpe",
+  "slug": "sharpe",
+  "source": "https://www.orderofbooks.com/characters/sharpe/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Sharpe-by-Bernard-Cornwell.jpg",
+  "books": [
+    {
+      "title": "Sharpe's Gold",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sharpe's Eagle",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sharpe's Company",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sharpe's Sword",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sharpe's Enemy",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sharpe's Honor",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sharpe's Regiment",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Sharpe's Siege",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Sharpe's Rifles",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sharpe's Revenge",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Sharpe's Waterloo",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Sharpe's Devil",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Sharpe's Christmas",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Sharpe's Ransom",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Sharpe's Battle",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Sharpe's Tiger",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Sharpe's Triumph",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Sharpe's Skirmish",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Sharpe's Fortress",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Sharpe's Trafalgar",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Sharpe's Prey",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Sharpe's Havoc",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Sharpe's Escape",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Sharpe's Fury",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Sharpe’s Assassin",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Sharpe's Command",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Sharpe's Storm",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    }
+  ]
+}

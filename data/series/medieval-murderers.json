@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Medieval Murderers",
+  "slug": "medieval-murderers",
+  "source": "https://www.orderofbooks.com/characters/medieval-murderers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Medieval-Murderers.jpg",
+  "authors": [
+    {
+      "name": "Ian Morson",
+      "slug": "ian-morson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Tainted Relic",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sword of Shame",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "House of Shadows",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lost Prophecies",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "King Arthur's Bones",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Sacred Stone",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hill of Bones",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The First Murder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The False Virgin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Deadliest Sin",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Medieval Murderers are a group of historical fiction authors that includes Bernard Knight, Ian Morson, Michael Jecks, Karen Maitland, Susanna Gregory, Philip Gooden and CJ Sansom.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

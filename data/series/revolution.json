@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Revolution",
+  "slug": "revolution",
+  "source": "https://www.orderofbooks.com/characters/revolution/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Revolution-by-Simon-Scarrow.jpg",
+  "authors": [
+    {
+      "name": "Simon Scarrow",
+      "slug": "simon-scarrow"
+    }
+  ],
+  "books": [
+    {
+      "title": "Young Bloods",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Generals",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire and Sword",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fields of Death",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

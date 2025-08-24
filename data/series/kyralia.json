@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Kyralia",
+  "slug": "kyralia",
+  "source": "https://www.orderofbooks.com/characters/kyralia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Kyralia-by-Trudi-Canavan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Trudi Canavan",
+      "slug": "trudi-canavan"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Magicians' Guild",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Novice",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The High Lord",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Magician's Apprentice",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

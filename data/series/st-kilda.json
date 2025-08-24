@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "St. Kilda",
+  "slug": "st-kilda",
+  "source": "https://www.orderofbooks.com/characters/st-kilda/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/St-Kilda-by-Elizabeth-Lowell.jpg",
+  "books": [
+    {
+      "title": "Always Time to Die",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wrong Hostage",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Innocent as Sin",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blue Smoke and Murder",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death Echo",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

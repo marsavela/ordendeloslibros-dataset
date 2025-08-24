@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Sonchai Jitpleecheep",
+  "slug": "sonchai-jitpleecheep",
+  "source": "https://www.orderofbooks.com/characters/sonchai-jitpleecheep/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Sonchai-Jitpleecheep.jpg",
+  "books": [
+    {
+      "title": "Bangkok 8",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bangkok Tattoo",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bangkok Haunts",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Godfather of Kathmandu",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Vulture Peak",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bangkok Asset",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

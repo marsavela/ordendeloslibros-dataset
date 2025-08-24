@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Ray Crawley",
+  "slug": "ray-crawley",
+  "source": "https://www.orderofbooks.com/characters/ray-crawley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Ray-Crawley-by-Peter-Corris.jpg",
+  "authors": [
+    {
+      "name": "Peter Corris",
+      "slug": "peter-corris"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pokerface",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Baltic Business",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Kimberly Killing",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Cargo Club",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Azanian Action",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Japanese Job",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Time Trap",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Vietnam Volunteer",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

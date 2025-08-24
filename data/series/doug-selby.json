@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Doug Selby",
+  "slug": "doug-selby",
+  "source": "https://www.orderofbooks.com/characters/doug-selby/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Doug-Selby-by-Erle-Stanley-Gardner-500x200.jpg",
+  "authors": [
+    {
+      "name": "Erle Stanley Gardner",
+      "slug": "erle-stanley-gardner"
+    }
+  ],
+  "books": [
+    {
+      "title": "The D.A. Calls It Murder",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The D.A. Holds a Candle",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The D.A. Draws a Circle",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The D.A. Goes to Trial",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The D. A. Cooks a Goose",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The D.A. Calls a Turn",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The D.A. Breaks a Seal",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The D.A. Takes a Chance",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The D.A. Breaks An Egg",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

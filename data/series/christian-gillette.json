@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Christian Gillette",
+  "slug": "christian-gillette",
+  "source": "https://www.orderofbooks.com/characters/christian-gillette/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Christian-Gillette-by-Stephen-Frey.jpg",
+  "books": [
+    {
+      "title": "The Chairman",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Protégé",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Power Broker",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Successor",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

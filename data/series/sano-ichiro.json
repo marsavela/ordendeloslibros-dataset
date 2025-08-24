@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Sano Ichiro",
+  "slug": "sano-ichiro",
+  "source": "https://www.orderofbooks.com/characters/sano-ichiro/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Sano-Ichiro-by-Laura-Joh-Rowland-500x200.jpg",
+  "authors": [
+    {
+      "name": "Laura Joh Rowland",
+      "slug": "laura-joh-rowland"
+    }
+  ],
+  "books": [
+    {
+      "title": "Shinju",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bundori",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Way of the Traitor",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Concubine's Tattoo",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Samurai's Wife",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Black Lotus",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Pillow Book of Lady Wisteria",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Dragon King's Palace",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Perfumed Sleeve",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Assassin's Touch",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Red Chrysanthemum",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Snow Empress",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Fire Kimono",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Cloud Pavilion",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Ronin's Mistress",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Incense Game",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Shogun's Daughter",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Iris Fan",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

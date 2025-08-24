@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Hagan",
+  "slug": "hagan",
+  "source": "https://www.orderofbooks.com/characters/hagan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Hagan-by-Kay-Hooper.jpg",
+  "books": [
+    {
+      "title": "The Fall of Lucas Kendrick",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In Serena's Web",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rafferty's Wife",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Raven on the Wing",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Zach's Law",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Captain's Paradise",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Outlaw Derek",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shades of Gray",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Unmasking Kelsey",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Aces High",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "It Takes a Thief",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

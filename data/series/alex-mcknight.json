@@ -1,0 +1,118 @@
+{
+  "type": "series",
+  "name": "Alex McKnight",
+  "slug": "alex-mcknight",
+  "source": "https://www.orderofbooks.com/characters/alex-mcknight/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/Alex-McKnight.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alex McKnight Books",
+      "books": [
+        {
+          "title": "A Cold Day in Paradise",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Winter of the Wolf Moon",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Hunting Wind",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "North of Nowhere",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Blood is the Sky",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Ice Run",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "A Stolen Season",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Beneath the Book Tower",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Misery Bay",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Die a Stranger",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Let it Burn",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Dead Man Running",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Riddle Island",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        }
+      ]
+    }
+  }
+}

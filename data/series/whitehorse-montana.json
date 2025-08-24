@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Whitehorse, Montana",
+  "slug": "whitehorse-montana",
+  "source": "https://www.orderofbooks.com/characters/whitehorse-montana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Whitehorse-Montana-by-BJ-Daniels-500x200.jpg",
+  "authors": [
+    {
+      "name": "BJ Daniels",
+      "slug": "bj-daniels"
+    }
+  ],
+  "books": [
+    {
+      "title": "Secret of Deadman's Coulee",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The New Deputy in Town",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mystery Man of Whitehorse",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Classified Christmas",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Matchmaking with a Mission",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Second Chance Cowboy",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Montana Royalty",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

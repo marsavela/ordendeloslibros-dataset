@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Darby McCormick",
+  "slug": "darby-mccormick",
+  "source": "https://www.orderofbooks.com/characters/darby-mccormick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Darby-McCormick-by-Chris-Mooney.jpg",
+  "books": [
+    {
+      "title": "The Missing",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Secret Friend",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dead Room",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Soul Collectors",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fear the Dark",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Every Three Hours",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Every Pretty Thing",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Snow Girls",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

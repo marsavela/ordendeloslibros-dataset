@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "SBC Fighters",
+  "slug": "sbc-fighters",
+  "source": "https://www.orderofbooks.com/characters/sbc-fighters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/SBC-Fighters-by-Lori-Foster.jpg",
+  "books": [
+    {
+      "title": "Causing Havoc",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Simon Says",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hard To Handle",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "My Man, Michael",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Back in Black",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tails of Love",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Double the Heat",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

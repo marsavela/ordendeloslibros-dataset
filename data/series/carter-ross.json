@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Carter Ross",
+  "slug": "carter-ross",
+  "source": "https://www.orderofbooks.com/characters/carter-ross/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Carter-Ross-by-Brad-Parks-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brad Parks",
+      "slug": "brad-parks"
+    }
+  ],
+  "books": [
+    {
+      "title": "Faces of the Gone",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Eyes of the Innocent",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Nightgown",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Girl Next Door",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Good Cop",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Player",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Fraud",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Canadian West",
+  "slug": "canadian-west",
+  "source": "https://www.orderofbooks.com/characters/canadian-west/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Canadian-West-by-Janette-Oke-500x200.jpg",
+  "authors": [
+    {
+      "name": "Janette Oke",
+      "slug": "janette-oke"
+    }
+  ],
+  "books": [
+    {
+      "title": "When Calls the Heart",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "When Comes the Spring",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Breaks the Dawn",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "When Hope Springs New",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beyond the Gathering Storm",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "When Tomorrow Comes",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Guardians Of Ga’Hoole",
+  "slug": "guardians-of-gahoole",
+  "source": "https://www.orderofbooks.com/characters/guardians-of-gahoole/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Guardians-of-GaHoole-by-Kathryn-Lasky.jpg",
+  "authors": [
+    {
+      "name": "Kathryn Lasky",
+      "slug": "kathryn-lasky"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Capture",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Journey",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Rescue",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Siege",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Shattering",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The First Collier",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Hatchling",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "To Be a King",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The River of Wind",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Golden Tree",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Exile",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The War of the Ember",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Burning",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Outcast",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Coming of Hoole",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Rise of a Legend",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Chronological Order of Guardian Of Ga'Hoole Books The Rise of a Legend is a prequel in the Guardian of Ga'Hoole series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

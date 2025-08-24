@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Mitford",
+  "slug": "mitford",
+  "source": "https://www.orderofbooks.com/characters/mitford/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Mitford-by-Jan-Karon.jpg",
+  "books": [
+    {
+      "title": "At Home in Mitford",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Light in the Window",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "These High, Green Hills",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Out to Canaan",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A New Song",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Common Life",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "In This Mountain",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shepherds Abiding",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Light from Heaven",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Home to Holly Springs",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "In the Company of Others",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Somewhere Safe with Somebody Good",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "To Be Where You Are",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "My Beloved",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Hathaways",
+  "slug": "hathaways",
+  "source": "https://www.orderofbooks.com/characters/hathaways/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Hathaways-by-Lisa-Kleypas.jpg",
+  "books": [
+    {
+      "title": "Mine Till Midnight",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Seduce Me at Sunrise",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Hathaway Wedding",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tempt Me at Twilight",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Married By Morning",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Love in the Afternoon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

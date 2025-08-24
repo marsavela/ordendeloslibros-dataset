@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Ladies Of Covington",
+  "slug": "ladies-of-covington",
+  "source": "https://www.orderofbooks.com/characters/ladies-of-covington/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Ladies-of-Covington-by-Joan-Medlicott.jpg",
+  "books": [
+    {
+      "title": "The Ladies of Covington Send Their Love",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Gardens of Covington",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "From the Heart of Covington",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Spirit of Covington",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "At Home in Covington",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Covington Christmas",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Two Days After the Wedding",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "An Unexpected Family",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Promises of Change",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Blue and Gray Christmas",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

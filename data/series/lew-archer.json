@@ -1,0 +1,153 @@
+{
+  "type": "series",
+  "name": "Lew Archer",
+  "slug": "lew-archer",
+  "source": "https://www.orderofbooks.com/characters/lew-archer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Lew-Archer-by-Ross-Macdonald.jpg",
+  "books": [
+    {
+      "title": "The Moving Target / Harper",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Drowning Pool",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Way Some People Die",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Ivory Grin / Marked for Murder",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Find a Victim",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Barbarous Coast",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Doomsters",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Galton Case",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Wycherly Woman",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Zebra-Striped Hearse",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Chill",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Far Side of the Dollar",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Black Money",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Instant Enemy",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Goodbye Look",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Underground Man",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Sleeping Beauty",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Blue Hammer",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

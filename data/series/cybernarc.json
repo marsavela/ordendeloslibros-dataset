@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Cybernarc",
+  "slug": "cybernarc",
+  "source": "https://www.orderofbooks.com/characters/cybernarc/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Cybernarc-by-Robert-Cain-William-H-Keith-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Cain William",
+      "slug": "robert-cain-william"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cybernarc",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gold Dragon",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Island Kill",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Capo's Revenge",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shark Bait",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "End Game",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

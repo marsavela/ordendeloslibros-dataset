@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Wells And Wong Mystery",
+  "slug": "wells-and-wong-mystery",
+  "source": "https://www.orderofbooks.com/characters/wells-and-wong-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/wells-and-wong-mystery-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robin Stevens. Stevens",
+      "slug": "robin-stevens-stevens"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder Most Unladylike / Murder is Bad Manners",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Arsenic for Tea / Poison is Not Polite",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "First Class Murder",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Jolly Foul Play",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mistletoe and Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cream Buns and Crime",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Spoonful of Murder",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death in the Spotlight",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Top Marks for Murder",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Death Sets Sail",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

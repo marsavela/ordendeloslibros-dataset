@@ -1,0 +1,213 @@
+{
+  "type": "series",
+  "name": "Alpha and Omega",
+  "slug": "alpha-and-omega",
+  "source": "https://www.orderofbooks.com/characters/alpha-and-omega/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Alpha-and-Omega-by-Patricia-Briggs.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alpha and Omega Books",
+      "books": [
+        {
+          "title": "Cry Wolf",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Alpha and Omega / On the Prowl",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Hunting Ground",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Fair Game",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Dead Heat",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Burn Bright",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Wild Sign",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "chronological": {
+      "heading": "Chronological Order of Alpha and Omega Books",
+      "books": [
+        {
+          "title": "Alpha and Omega / On the Prowl",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Cry Wolf",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Hunting Ground",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Fair Game",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Dead Heat",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Burn Bright",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Wild Sign",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Alpha and Omega Collections",
+      "books": [
+        {
+          "title": "Blind Date with a Werewolf",
+          "year": 2025,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        }
+      ]
+    },
+    "publication_3": {
+      "heading": "Publication Order of Alpha and Omega: Cry Wolf Graphic Novels",
+      "books": [
+        {
+          "title": "Alpha & Omega: Cry Wolf #1",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Alpha & Omega: Cry Wolf #2",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Alpha & Omega: Cry Wolf #3",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Alpha & Omega: Cry Wolf #4",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Alpha & Omega: Cry Wolf #5",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Alpha & Omega: Cry Wolf #6",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Alpha & Omega: Cry Wolf #7",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Alpha & Omega: Cry Wolf #8",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        }
+      ]
+    }
+  }
+}

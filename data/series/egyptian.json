@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Egyptian",
+  "slug": "egyptian",
+  "source": "https://www.orderofbooks.com/characters/egyptian/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Egyptian-Series-by-Wilbur-Smith.jpg",
+  "books": [
+    {
+      "title": "River God",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Seventh Scroll",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Warlock",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Quest",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Desert God",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pharaoh",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The New Kingdom",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Titans of War",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Testament",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "House of Two Pharaohs",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

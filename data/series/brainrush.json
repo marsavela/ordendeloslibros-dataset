@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Brainrush",
+  "slug": "brainrush",
+  "source": "https://www.orderofbooks.com/characters/brainrush/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/11/Brainrush-by-Richard-Bard.jpg",
+  "books": [
+    {
+      "title": "Brainrush",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Enemy of My Enemy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beyond Judgment",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Brainchild",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Smoke & Mirrors",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gifted",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "No Refuge",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Against All Odds",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

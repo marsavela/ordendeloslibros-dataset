@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Cartel Trilogy",
+  "slug": "cartel-trilogy",
+  "source": "https://www.orderofbooks.com/characters/cartel-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/cartel-trilogy-500x200.jpg",
+  "books": [
+    {
+      "title": "Cartel",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kingpin",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Empire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

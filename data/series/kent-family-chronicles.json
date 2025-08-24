@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Kent Family Chronicles",
+  "slug": "kent-family-chronicles",
+  "source": "https://www.orderofbooks.com/characters/kent-family-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Kent-Family-Chronicles-by-John-Jakes.jpg",
+  "books": [
+    {
+      "title": "The Bastard",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Rebels",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Seekers",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Furies",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Titans",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Warriors",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Lawless",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Americans",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

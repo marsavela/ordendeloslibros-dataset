@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Psychotechnic League",
+  "slug": "psychotechnic-league",
+  "source": "https://www.orderofbooks.com/characters/psychotechnic-league/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Psychotechnic-League-by-Poul-Anderson.jpg",
+  "books": [
+    {
+      "title": "The Peregrine / Star Ways",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Snows of Ganymede",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Virgin Planet",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Psycho-technic League",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cold Victory",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Starship",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

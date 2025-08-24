@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Shirley McClintock",
+  "slug": "shirley-mcclintock",
+  "source": "https://www.orderofbooks.com/characters/shirley-mcclintock/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Shirley-McClintock-by-BJ-Oliphant-Sheri-S-Tepper-500x200.jpg",
+  "authors": [
+    {
+      "name": "BJ Oliphant Sheri",
+      "slug": "bj-oliphant-sheri"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dead in the Scrub",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Unexpected Corpse",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deservedly Dead",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death and the Delinquent",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death Served Up Cold",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Ceremonial Death",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Here's to the Newly Dead",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

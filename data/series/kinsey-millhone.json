@@ -1,0 +1,209 @@
+{
+  "type": "series",
+  "name": "Kinsey Millhone",
+  "slug": "kinsey-millhone",
+  "source": "https://www.orderofbooks.com/characters/kinsey-millhone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/kinsey-mollhone.jpg",
+  "books": [
+    {
+      "title": "A is for Alibi",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "B is for Burglar",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "C is for Corpse",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "D is for Deadbeat",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "E is for Evidence",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "F is for Fugitive",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "G is for Gumshoe",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "H is for Homicide",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "I is for Innocent",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "J is for Judgment",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "K is for Killer",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "L is for Lawless",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "M is for Malice",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "N is for Noose",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "O is for Outlaw",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "P is for Peril",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Q is for Quarry",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "R is for Ricochet",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "S is for Silence",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "T is for Trespass",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "U is for Undertow",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "V is for Vengeance",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "W is for Wasted",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "X",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Y is for Yesterday",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

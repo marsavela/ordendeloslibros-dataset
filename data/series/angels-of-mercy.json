@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Angels Of Mercy",
+  "slug": "angels-of-mercy",
+  "source": "https://www.orderofbooks.com/characters/angels-of-mercy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Angels-of-Mercy-by-CJ-Lyons.jpg",
+  "books": [
+    {
+      "title": "Lifelines",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Warning Signs / Catalyst",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Urgent Care / Trauma",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Critical Condition / Isolation",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

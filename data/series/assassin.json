@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Assassin",
+  "slug": "assassin",
+  "source": "https://www.orderofbooks.com/characters/assassin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Assassin-by-Russell-Blake.jpg",
+  "books": [
+    {
+      "title": "King of Swords",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Revenge of the Assassin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Return of the Assassin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Night of the Assassin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood of the Assassin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Requiem for the Assassin",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rage of the Assassin",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

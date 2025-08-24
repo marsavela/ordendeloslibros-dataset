@@ -1,0 +1,145 @@
+{
+  "type": "series",
+  "name": "Jeeves",
+  "slug": "jeeves",
+  "source": "https://www.orderofbooks.com/characters/jeeves/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Jeeves-by-PG-Wodehouse.jpg",
+  "books": [
+    {
+      "title": "My Man Jeeves",
+      "year": 1919,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Inimitable Jeeves / Jeeves",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Carry On, Jeeves",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Very Good, Jeeves!",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Thank You, Jeeves",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Right Ho, Jeeves / Brinkley Manor",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Code of the Woosters",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Joy in the Morning / Jeeves in the Morning",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Mating Season",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ring for Jeeves / The Return of Jeeves",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Jeeves and the Feudal Spirit",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Jeeves in the Offing / How Right You Are, Jeeves",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Stiff Upper Lip, Jeeves",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The World of Jeeves",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Much Obliged, Jeeves / Jeeves and the Tie That Binds",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Aunts Aren't Gentlemen / The Cat-Nappers",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Jeeves and the Wedding Bells",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

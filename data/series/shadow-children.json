@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Shadow Children",
+  "slug": "shadow-children",
+  "source": "https://www.orderofbooks.com/characters/shadow-children/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Shadow-Children-by-Margaret-Peterson-Haddix.jpg",
+  "books": [
+    {
+      "title": "Among the Hidden",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Among the Impostors",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Among the Betrayed",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Among the Barons",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Among the Brave",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Among the Enemy",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Among the Free",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

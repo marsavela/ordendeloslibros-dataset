@@ -1,0 +1,209 @@
+{
+  "type": "series",
+  "name": "Dan Rhodes",
+  "slug": "dan-rhodes",
+  "source": "https://www.orderofbooks.com/characters/dan-rhodes/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Sheriff-Dan-Rhodes-by-Bill-Crider.jpg",
+  "books": [
+    {
+      "title": "Too Late to Die",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shotgun Saturday Night",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cursed to Death",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death on the Move",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Evil at the Root",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Booked for a Hanging",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder Most Fowl",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Winning Can Be Murder",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Death by Accident",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Ghost of a Chance",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Romantic Way to Die",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Red, White, and Blue Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Mammoth Murder",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Murder Among the OWLS",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Of All Sad Words",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Murder in Four Parts",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Murder in the Air",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Wild Hog Murders",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Murder of a Beauty Shop Queen",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Compound Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Half in Love with Artful Death",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Between the Living and the Dead",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Survivors Will Be Shot Again",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Dead, to Begin With",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "That Old Scoundrel Death",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

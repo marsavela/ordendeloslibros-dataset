@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Novel Idea Mysteries",
+  "slug": "novel-idea-mysteries",
+  "source": "https://www.orderofbooks.com/characters/novel-idea-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Novel-Idea-Mysteries-by-Lucy-Arlington-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lucy Arlington",
+      "slug": "lucy-arlington"
+    }
+  ],
+  "books": [
+    {
+      "title": "Buried in a Book",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Every Trick in the Book",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Books, Cooks, and Crooks",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Played by the Book",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Off the Books",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

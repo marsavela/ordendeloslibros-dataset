@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Night School",
+  "slug": "night-school",
+  "source": "https://www.orderofbooks.com/characters/night-school/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/night-school-500x200.jpg",
+  "books": [
+    {
+      "title": "Night School",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Legacy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fracture",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Resistance",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Endgame",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

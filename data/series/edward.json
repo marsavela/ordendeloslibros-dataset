@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Edward",
+  "slug": "edward",
+  "source": "https://www.orderofbooks.com/characters/edward/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/11/Edward-by-Craig-Lancaster-500x200.jpg",
+  "authors": [
+    {
+      "name": "Craig Lancaster",
+      "slug": "craig-lancaster"
+    }
+  ],
+  "books": [
+    {
+      "title": "600 Hours of Edward",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Edward Adrift",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Edward Unspooled",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

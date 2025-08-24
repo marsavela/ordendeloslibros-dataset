@@ -1,0 +1,247 @@
+{
+  "type": "series",
+  "name": "Lambert & Hook",
+  "slug": "lambert-hook",
+  "source": "https://www.orderofbooks.com/characters/lambert-and-hook/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/Lambert-and-Hook-by-JM-Gregson-500x200.jpg",
+  "authors": [
+    {
+      "name": "JM Gregson",
+      "slug": "jm-gregson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder at the Nineteenth",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Making a Killing / For Sale - With Corpse",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bring Forth Your Dead",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead on Course",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stranglehold",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Fox in the Forest",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Watermarked",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death of a Nobody",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Accident by Design",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Girl Gone Missing",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Malice Aforethought",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "An Unsuitable Death",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "An Academic Death",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Death on the Eleventh Hole",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Body Politic",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Mortal Taste",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Just Desserts",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Too Much of Water",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Close Call",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Something Is Rotten",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Good Walk Spoiled",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Darkness Visible",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "In Vino Veritas",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Die Happy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "More Than Meets The Eye",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Cry of The Children",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Rest Assured",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Skeleton Plot",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Final Act",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    }
+  ]
+}

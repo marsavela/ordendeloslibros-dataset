@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Daniel X",
+  "slug": "daniel-x",
+  "source": "https://www.orderofbooks.com/characters/daniel-x/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/06/daniel-x.jpg",
+  "authors": [
+    {
+      "name": "James Patterson",
+      "slug": "james-patterson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dangerous Days of Daniel X",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Watch the Skies",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Demons and Druids",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Game Over",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Armageddon",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lights Out",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Genesis",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

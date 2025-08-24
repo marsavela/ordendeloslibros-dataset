@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Dillman & Masefield",
+  "slug": "dillman-masefield",
+  "source": "https://www.orderofbooks.com/characters/dillman-masefield/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Dillman-and-Masefield-by-Conrad-Allen.jpg",
+  "authors": [
+    {
+      "name": "Conrad Allen",
+      "slug": "conrad-allen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder on the Lusitania",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder on the Mauretania",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder on the Minnesota",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder on the Caronia",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder on the Marmora",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder on the Salsette",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder on the Oceanic",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder on the Celtic",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

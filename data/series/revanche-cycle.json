@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Revanche Cycle",
+  "slug": "revanche-cycle",
+  "source": "https://www.orderofbooks.com/characters/revanche-cycle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/03/Revanche-Cycle-by-Craig-Schaefer.jpg",
+  "books": [
+    {
+      "title": "Winter's Reach",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Instruments of Control",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Terms of Surrender",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Queen of the Night",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

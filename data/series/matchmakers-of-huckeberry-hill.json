@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Matchmakers Of Huckeberry Hill",
+  "slug": "matchmakers-of-huckeberry-hill",
+  "source": "https://www.orderofbooks.com/characters/matchmakers-of-huckeberry-hill/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Matchmakers-of-Huckleberry-Hill-by-Jennifer-Beckstrand-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jennifer Beckstrand",
+      "slug": "jennifer-beckstrand"
+    }
+  ],
+  "books": [
+    {
+      "title": "Huckleberry Hill",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Huckleberry Summer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Huckleberry Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Huckleberry Spring",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Huckleberry Harvest",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Huckleberry Hearts",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Return to Huckleberry Hill",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Courtship on Huckleberry Hill",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Home on Huckleberry Hill",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "First Christmas on Huckleberry Hill",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Second Chances on Huckleberry Hill",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Happily Ever After on Huckleberry Hill",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

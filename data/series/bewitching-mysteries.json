@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Bewitching Mysteries",
+  "slug": "bewitching-mysteries",
+  "source": "https://www.orderofbooks.com/characters/bewitching-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Bewitching-Mysteries-by-Madelyn-Alt-500x200.jpg",
+  "authors": [
+    {
+      "name": "Madelyn Alt",
+      "slug": "madelyn-alt"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Trouble With Magic",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Charmed Death",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hex Marks the Spot",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Rest for the Wiccan",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Where There's a Witch",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Witch In Time",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Home for a Spell",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Brandon Fisher FBI",
+  "slug": "brandon-fisher-fbi",
+  "source": "https://www.orderofbooks.com/characters/brandon-fisher-fbi/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/Brandon-Fisher-FBI-by-Carolyn-Arnold.jpg",
+  "books": [
+    {
+      "title": "Silent Graves",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Defenseless",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blue Baby",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eleven",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Violated",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Remnants",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "On the Count of Three",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Past Deeds",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "One More Kill",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

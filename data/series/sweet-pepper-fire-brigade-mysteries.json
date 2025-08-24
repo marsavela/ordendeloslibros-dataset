@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Sweet Pepper Fire Brigade Mysteries",
+  "slug": "sweet-pepper-fire-brigade-mysteries",
+  "source": "https://www.orderofbooks.com/characters/sweet-pepper-fire-brigade-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Sweet-Fire-Pepper-Brigade-by-JJ-Cook-500x200.jpg",
+  "authors": [
+    {
+      "name": "J.J. Cook",
+      "slug": "j-j-cook"
+    }
+  ],
+  "books": [
+    {
+      "title": "That Old Flame of Mine",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hero's Journey",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Playing with Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "In Hot Water",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sweet Pepper Hero",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

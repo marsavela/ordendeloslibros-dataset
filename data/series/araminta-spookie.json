@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Araminta Spookie",
+  "slug": "araminta-spookie",
+  "source": "https://www.orderofbooks.com/characters/araminta-spookie/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Araminta-Spookie-by-Angie-Sage-500x200.jpg",
+  "authors": [
+    {
+      "name": "Angie Sage",
+      "slug": "angie-sage"
+    }
+  ],
+  "books": [
+    {
+      "title": "My Haunted House",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Amazing Mushroom Mix-Up",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sword in the Grotto",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Frognapped",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Vampire Brat",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ghostsitters",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gargoyle Hall",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Skeleton Island",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

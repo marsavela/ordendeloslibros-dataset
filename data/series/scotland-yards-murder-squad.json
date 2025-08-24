@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Scotland Yard’s Murder Squad",
+  "slug": "scotland-yards-murder-squad",
+  "source": "https://www.orderofbooks.com/characters/scotland-yards-murder-squad/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Scotland-Yards-Murder-Squad-by-Alex-Grecian.jpg",
+  "authors": [
+    {
+      "name": "Alex Grecian",
+      "slug": "alex-grecian"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Yard",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Black Country",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Blue Girl",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Devil's Workshop",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Harvest Man",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lost and Gone Forever",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

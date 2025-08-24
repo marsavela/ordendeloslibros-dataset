@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Moses Lake",
+  "slug": "moses-lake",
+  "source": "https://www.orderofbooks.com/characters/moses-lake/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Moses-Lake-by-Lisa-Wingate-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lisa Wingate",
+      "slug": "lisa-wingate"
+    }
+  ],
+  "books": [
+    {
+      "title": "Larkspur Cove",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blue Moon Bay",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Firefly Island",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wildwood Creek",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

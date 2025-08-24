@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Oathsworn",
+  "slug": "oathsworn",
+  "source": "https://www.orderofbooks.com/characters/oathsworn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Oathsworn-by-Robert-Low-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Low",
+      "slug": "robert-low"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Whale Road",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wolf Sea",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The White Raven",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Prow Beast",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Crowbone",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

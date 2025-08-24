@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Chrestomanci",
+  "slug": "chrestomanci",
+  "source": "https://www.orderofbooks.com/characters/chrestomanci/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Chrestomanci-by-Diana-Wynne-Jones-500x200.jpg",
+  "authors": [
+    {
+      "name": "Diana Wynne Jones",
+      "slug": "diana-wynne-jones"
+    }
+  ],
+  "books": [
+    {
+      "title": "Charmed Life",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Magicians of Caprona",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Witch Week",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lives of Christopher Chant",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Conrad's Fate",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Pinhoe Egg",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

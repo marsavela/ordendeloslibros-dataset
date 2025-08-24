@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Time Traders",
+  "slug": "time-traders",
+  "source": "https://www.orderofbooks.com/characters/time-traders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Time-Traders-by-Andre-Norton.jpg",
+  "books": [
+    {
+      "title": "The Time Traders",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Galactic Derelict",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Defiant Agents",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Key Out of Time",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Firehand",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Echoes in Time",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Atlantis Endgame",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

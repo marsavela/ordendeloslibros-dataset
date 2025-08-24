@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Jane Candiotti",
+  "slug": "jane-candiotti",
+  "source": "https://www.orderofbooks.com/characters/jane-candiotti/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Jane-Candiotti-by-Clyde-Phillips-500x200.jpg",
+  "authors": [
+    {
+      "name": "Clyde Phillips",
+      "slug": "clyde-phillips"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fall from Grace",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blindsided",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sacrifice",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Unthinkable",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

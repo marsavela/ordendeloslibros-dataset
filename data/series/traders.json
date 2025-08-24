@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Traders",
+  "slug": "traders",
+  "source": "https://www.orderofbooks.com/characters/traders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Trader-by-Anna-Jacobs-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anna Jacobs",
+      "slug": "anna-jacobs"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Trader's Wife",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Trader's Sister",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Trader's Dream",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Trader's Gift",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Trader's Reward",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

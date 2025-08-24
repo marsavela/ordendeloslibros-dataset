@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Forgotten Realms",
+  "slug": "forgotten-realms",
+  "source": "https://www.orderofbooks.com/characters/forgotten-realms/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Forgotten-Realms-by-RA-Salvatore.jpg",
+  "books": [
+    {
+      "title": "Darkwalker on Moonshae",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Black Wizards",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Darkwell",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

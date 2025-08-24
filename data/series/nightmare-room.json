@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Nightmare Room",
+  "slug": "nightmare-room",
+  "source": "https://www.orderofbooks.com/characters/nightmare-room/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Nightmare-Room-by-RL-Stine.jpg",
+  "books": [
+    {
+      "title": "Don't Forget Me",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Locker 13",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "My Name is Evil",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Liar Liar",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dear Diary, I'm Dead",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "They Call Me Creature",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Howler",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shadow Girl",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Camp Nowhere",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Full Moon Halloween",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Scare School",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Visitors",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

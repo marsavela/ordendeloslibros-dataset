@@ -1,0 +1,199 @@
+{
+  "type": "series",
+  "name": "Trash ‘N’ Treasures Mysteries",
+  "slug": "trash-n-treasures-mysteries",
+  "source": "https://www.orderofbooks.com/characters/trash-n-treasures-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/Trash-N-Treasures-Mysteries-by-Barbara-Allan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Barbara Allan",
+      "slug": "barbara-allan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Antiques Roadkill",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Antiques Maul",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Antiques Flee Market",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Antiques Bizarre",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Antiques Knock-Off",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Antiques Disposal",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Antiques Chop",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Antiques Slay Ride",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Antiques Con",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Antiques Fruitcake",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Antiques Swap",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Antiques St. Nicked",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Antiques Fate",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Antiques Frame",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Antiques Wanted",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Antiques Ho-Ho-Homicides",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Antiques Ravin'",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Antiques Fire Sale",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Antiques Carry on",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Antiques Liquidation",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Antiques Foe",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Antiques Slay Belles",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Antiques Round-Up",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    }
+  ]
+}

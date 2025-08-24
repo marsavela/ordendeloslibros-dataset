@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Harry Vicary",
+  "slug": "harry-vicary",
+  "source": "https://www.orderofbooks.com/characters/harry-vicary/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/04/Harry-Vicary-by-Peter-Turnbull.jpg",
+  "authors": [
+    {
+      "name": "Peter Turnbull",
+      "slug": "peter-turnbull"
+    }
+  ],
+  "books": [
+    {
+      "title": "Improving the Silence",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deep Cover",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Garden Party",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Denial of Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In Vino Veritas",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

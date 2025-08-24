@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Black Knights Inc.",
+  "slug": "black-knights-inc",
+  "source": "https://www.orderofbooks.com/characters/black-knights-inc/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/11/Black-Knights-Inc-by-Julie-Ann-Walker-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julie Ann Walker",
+      "slug": "julie-ann-walker"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hell on Wheels",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In Rides Trouble",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rev It Up",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thrill Ride",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Born Wild",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hell for Leather",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Full Throttle",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Too Hard to Handle",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wild Ride",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fuel for Fire",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Hot Pursuit",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Built to Last",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

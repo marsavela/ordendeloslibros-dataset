@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Righteous",
+  "slug": "righteous",
+  "source": "https://www.orderofbooks.com/characters/righteous/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Righteous-by-Michael-Wallace.jpg",
+  "authors": [
+    {
+      "name": "Michael Wallace",
+      "slug": "michael-wallace"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Righteous",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mighty and Strong",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Wicked",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trial by Fury",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Blessed and the Damned",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blood of Vipers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Destroying Angel",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Gates of Babylon",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hell's Fortress",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Blood of the Faithful",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

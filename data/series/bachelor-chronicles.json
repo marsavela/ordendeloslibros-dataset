@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Bachelor Chronicles",
+  "slug": "bachelor-chronicles",
+  "source": "https://www.orderofbooks.com/characters/bachelor-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Bachelor-Chronicles-by-Elizabeth-Boyle.jpg",
+  "books": [
+    {
+      "title": "Something About Emmaline",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "This Rake of Mine",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Love Letters From a Duke",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "How I Met My Countess",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Memoirs of a Scandalous Red Dress",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Confessions of a Little Black Gown",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mad about the Duke",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lord Langley Is Back in Town",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mad About the Major",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

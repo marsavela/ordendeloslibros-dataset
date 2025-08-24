@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Mercury",
+  "slug": "mercury",
+  "source": "https://www.orderofbooks.com/characters/mercury/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/04/Mercury-by-Robert-Kroese.jpg",
+  "books": [
+    {
+      "title": "Mercury Falls",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mercury Rises",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mercury Swings",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mercury Begins",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mercury Rests",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mercury Revolts",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mercury Shrugs",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Mercury Begins is a prequel.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

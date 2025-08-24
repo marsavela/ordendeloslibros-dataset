@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Marked",
+  "slug": "marked",
+  "source": "https://www.orderofbooks.com/characters/marked/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Marked-by-SJ-Day.jpg",
+  "books": [
+    {
+      "title": "Eve of Darkness",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Eve of Destruction",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Eve of Chaos",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eve of Sin City",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Eve of Warfare",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Warfare and Sin City",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

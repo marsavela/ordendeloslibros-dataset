@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Charlie Salter",
+  "slug": "charlie-salter",
+  "source": "https://www.orderofbooks.com/characters/charlie-salter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Charlie-Salter-by-Eric-Wright-500x200.jpg",
+  "authors": [
+    {
+      "name": "Eric Wright",
+      "slug": "eric-wright"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Night the Gods Smiled",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Smoke Detector",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death in the Old Country",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Single Death / The Man Who Changed His Name",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Body Surrounded by Water",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Question of Murder",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Sensitive Case",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Final Cut",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Fine Italian Hand",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Death by Degrees",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Last Hand",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

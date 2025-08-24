@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Bridal Bouquet Shop Mysteries",
+  "slug": "bridal-bouquet-shop-mysteries",
+  "source": "https://www.orderofbooks.com/characters/bridal-bouquet-shop-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/11/Bridal-Bouquet-Shop-Mysteries-by-Barbara-Allan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Beverly Allen",
+      "slug": "beverly-allen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bloom and Doom",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "For Whom the Bluebell Tolls",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Floral Depravity",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Troubletwisters",
+  "slug": "troubletwisters",
+  "source": "https://www.orderofbooks.com/characters/troubletwisters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Troubletwisters-by-Garth-Nix-Sean-Williams.jpg",
+  "authors": [
+    {
+      "name": "Garth Nix",
+      "slug": "garth-nix"
+    }
+  ],
+  "books": [
+    {
+      "title": "Troubletwisters",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Monster",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mystery",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Missing",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Jim Rook",
+  "slug": "jim-rook",
+  "source": "https://www.orderofbooks.com/characters/jim-rook/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Jim-Rook-by-Graham-Masterton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Graham Masterton",
+      "slug": "graham-masterton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rook",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tooth And Claw",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Terror",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Snowman",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Swimmer",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Darkroom",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Demon's Door",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Garden of Evil",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

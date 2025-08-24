@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Maggie MacGowen",
+  "slug": "maggie-macgowen",
+  "source": "https://www.orderofbooks.com/characters/maggie-macgowen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Maggie-MacGowen-by-Wendy-Hornsby-500x200.jpg",
+  "authors": [
+    {
+      "name": "Wendy Hornsby",
+      "slug": "wendy-hornsby"
+    }
+  ],
+  "books": [
+    {
+      "title": "Telling Lies",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Midnight Baby",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bad Intent",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "77th Street Requiem",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Hard Light",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "In the Guise of Mercy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Paramour's Daughter",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Hanging",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Color of Light",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Disturbing the Dark",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Number 7, Rue Jacob",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Bouquet of Rue",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

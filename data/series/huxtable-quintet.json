@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Huxtable Quintet",
+  "slug": "huxtable-quintet",
+  "source": "https://www.orderofbooks.com/characters/huxtable-quintet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Huxtable-Quintet-by-Mary-Balogh.jpg",
+  "authors": [
+    {
+      "name": "Mary Balogh",
+      "slug": "mary-balogh"
+    }
+  ],
+  "books": [
+    {
+      "title": "First Comes Marriage",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Then Comes Seduction",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "At Last Comes Love",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Seducing an Angel",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Secret Affair",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

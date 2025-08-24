@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Captain Daniel Rawson",
+  "slug": "captain-daniel-rawson",
+  "source": "https://www.orderofbooks.com/characters/captain-daniel-rawson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Captain-Rawson-by-Edward-Marston.jpg",
+  "authors": [
+    {
+      "name": "Edward Marston",
+      "slug": "edward-marston"
+    }
+  ],
+  "books": [
+    {
+      "title": "Soldier of Fortune",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Drums of War",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire and Sword",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Under Siege",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Very Murdering Battle",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

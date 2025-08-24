@@ -1,0 +1,223 @@
+{
+  "type": "series",
+  "name": "Myrtle Clover",
+  "slug": "myrtle-clover",
+  "source": "https://www.orderofbooks.com/characters/myrtle-clover/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Myrtle-Clover-Mysteries-by-Elizabeth-Spann-Craig.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Spann Craig",
+      "slug": "elizabeth-spann-craig"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Dyeing Shame",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pretty is as Pretty Dies",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Progressive Dinner Deadly",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Body in the Backyard",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death at a Drop-In",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Body at Book Club",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Death Pays a Visit",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Body at Bunco",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder on Opening Night",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Cruising for Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Cooking is Murder",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Body in the Trunk",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Cleaning is Murder",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Edit to Death",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Hushed Up",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "A Body in the Attic",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Murder on the Ballot",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Death of a Suitor",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "A Dash of Murder",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Death at a Diner",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Myrtle Clover Christmas",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Murder at a Yard Sale",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Doom and Bloom",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "A Toast to Murder",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Mystery Loves Company",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "A Murder Down Memory Lane",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    }
+  ]
+}

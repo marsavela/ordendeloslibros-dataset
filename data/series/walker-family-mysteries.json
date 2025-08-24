@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Walker Family Mysteries",
+  "slug": "walker-family-mysteries",
+  "source": "https://www.orderofbooks.com/characters/walker-family-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Walker-Family-Mysteries.jpg",
+  "books": [
+    {
+      "title": "Hour of the Hunter",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kiss of the Bees",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Day of the Dead",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Queen of the Night",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dance of the Bones",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blessing of the Lost Girls",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

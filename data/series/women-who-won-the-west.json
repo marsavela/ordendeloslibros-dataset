@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Women Who Won The West",
+  "slug": "women-who-won-the-west",
+  "source": "https://www.orderofbooks.com/characters/women-who-won-the-west/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Women-Who-Won-the-West-by-Lee-Davis-Willoughby.jpg",
+  "authors": [
+    {
+      "name": "Lee Davis Willoughby",
+      "slug": "lee-davis-willoughby"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tempest of Tombstone",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dodge City Darling",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Duchess of Denver",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lost Lady of Laramie",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Flame of Virginia City",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Angel of Hangtown",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Belle of Fort Smith",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Princess of Powder River",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

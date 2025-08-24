@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "On Dublin Street",
+  "slug": "on-dublin-street",
+  "source": "https://www.orderofbooks.com/characters/on-dublin-street/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Dublin-Street-by-Samantha-Young-500x200.jpg",
+  "authors": [
+    {
+      "name": "Samantha Young",
+      "slug": "samantha-young"
+    }
+  ],
+  "books": [
+    {
+      "title": "On Dublin Street",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Until Fountain Bridge",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Down London Road",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Castle Hill",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Before Jamaica Lane",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fall from India Place",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Echoes of Scotland Street",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Valentine",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Moonlight on Nightingale Way",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "One King's Way",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Stars Over Castle Hill",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "On Hart's Boardwalk",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

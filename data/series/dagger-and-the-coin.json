@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Dagger and The Coin",
+  "slug": "dagger-and-the-coin",
+  "source": "https://www.orderofbooks.com/characters/dagger-and-the-coin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/The-Dagger-and-The-Coin-by-Daniel-Abraham-500x200.jpg",
+  "authors": [
+    {
+      "name": "Daniel Abraham",
+      "slug": "daniel-abraham"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dragon's Path",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The King's Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Tyrant's Law",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Widow's House",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Spider's War",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

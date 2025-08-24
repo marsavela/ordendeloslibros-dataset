@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Ringworld",
+  "slug": "ringworld",
+  "source": "https://www.orderofbooks.com/characters/ringworld/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Ringworld-Known-Space-by-Larry-Niven.jpg",
+  "books": [
+    {
+      "title": "Ringworld",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Ringworld Engineers",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ringworld Throne",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ringworld's Children",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fate of Worlds",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

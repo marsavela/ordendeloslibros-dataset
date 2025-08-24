@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Alien Huntress",
+  "slug": "alien-huntress",
+  "source": "https://www.orderofbooks.com/characters/alien-huntress/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Alien-Huntress-by-Gena-Showalter.jpg",
+  "authors": [
+    {
+      "name": "Gena Showalter",
+      "slug": "gena-showalter"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alien Huntress Books",
+      "books": [
+        {
+          "title": "Awaken Me Darkly",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Enslave Me Sweetly",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Savor Me Slowly",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Seduce the Darkness",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Ecstasy in Darkness",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Dark Taste of Rapture",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Teen Alien Huntress Books",
+      "books": [
+        {
+          "title": "Red Handed",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Blacklisted",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Darkness Eternal",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        }
+      ]
+    }
+  }
+}

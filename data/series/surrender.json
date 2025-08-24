@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Surrender",
+  "slug": "surrender",
+  "source": "https://www.orderofbooks.com/characters/surrender/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Surrender-by-Melody-Anne.jpg",
+  "authors": [
+    {
+      "name": "Melody Anne",
+      "slug": "melody-anne"
+    }
+  ],
+  "books": [
+    {
+      "title": "Surrender",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Submit",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Seduced",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Scorched",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Saved",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

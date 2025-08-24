@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Buryin’ Barry Mysteries",
+  "slug": "buryin-barry-mysteries",
+  "source": "https://www.orderofbooks.com/characters/buryin-barry-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Burryin-Barry-Mysteries-by-Mark-de-Castrique-549x200.jpg",
+  "books": [
+    {
+      "title": "Dangerous Undertaking",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Grave Undertaking",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Foolish Undertaking",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Final Undertaking",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fatal Undertaking",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Risky Undertaking",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Secret Undertaking",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

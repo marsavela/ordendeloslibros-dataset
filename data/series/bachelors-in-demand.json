@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Bachelors In Demand",
+  "slug": "bachelors-in-demand",
+  "source": "https://www.orderofbooks.com/characters/bachelors-in-demand/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Bachelors-in-Demand-by-Brenda-Jackson.jpg",
+  "books": [
+    {
+      "title": "Bachelor Untamed",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bachelor Unleashed",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bachelor Undone",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bachelor Unclaimed",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bachelor Unforgiving",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bachelor Unbound",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

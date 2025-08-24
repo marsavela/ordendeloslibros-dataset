@@ -1,0 +1,148 @@
+{
+  "type": "series",
+  "name": "Alexander Hawke",
+  "slug": "alexander-hawke",
+  "source": "https://www.orderofbooks.com/characters/alexander-hawke/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/ted-bell-assassin.jpg",
+  "authors": [
+    {
+      "name": "Ted Bell",
+      "slug": "ted-bell"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alexander Hawke Books",
+      "books": [
+        {
+          "title": "Hawke",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Assassin",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Pirate",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Spy",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Tsar",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Warlord",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Crash Dive",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Phantom",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "What Comes Around",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Warriors",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "White Death",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Patriot",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Overkill",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Dragon Fire",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Sea Hawke",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Monarch",
+          "year": 2025,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        }
+      ]
+    }
+  }
+}

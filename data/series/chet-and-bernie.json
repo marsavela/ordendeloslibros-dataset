@@ -1,0 +1,137 @@
+{
+  "type": "series",
+  "name": "Chet and Bernie",
+  "slug": "chet-and-bernie",
+  "source": "https://www.orderofbooks.com/characters/chet-and-bernie/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Chet-and-Bernie-by-Spencer-Quinn-Peter-Abrahams.jpg",
+  "books": [
+    {
+      "title": "Dog On It",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thereby Hangs a Tail",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "To Fetch a Thief",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Dog Who Knew Too Much",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Fistful of Collars",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Sound and the Furry",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Paw and Order",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Scents and Sensibility",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Heart of Barkness",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Of Mutts and Men",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Tender is the Bite",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "It's a Wonderful Woof",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Bark to the Future",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Up on the Woof Top",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Farewell to Arfs",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Cat on a Hot Tin Woof",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

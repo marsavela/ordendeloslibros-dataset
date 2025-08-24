@@ -1,0 +1,241 @@
+{
+  "type": "series",
+  "name": "The Protectors",
+  "slug": "the-protectors",
+  "source": "https://www.orderofbooks.com/characters/the-protectors/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/The-Protectors.jpg",
+  "books": [
+    {
+      "title": "This Side of Heaven",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Paladin's Woman",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Outcast",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Defending His Own",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Guarding Jeannie",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blackwood's Woman",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Roarke's Wife",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Man Like Morgan Kane",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Gabriel Hawk's Lady",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Keeping Annie Safe",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Murdock's Last Stand",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Egan Cassidy's Kid",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Navajo's Woman",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Whitelaw's Wedding",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Sweet Caroline's Keeper",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Jack's Christmas Mission",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Princess's Bodyguard",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "On Her Guard",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Grace Under Fire",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Downright Dangerous",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Keeping Baby Secret",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Laying His Claim",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Worth Dying For",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Ramirez's Woman",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Penny Sue Got Lucky",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Dangerous Deception",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "His Only Obsession",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "A Time to Die",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Dying for You",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    }
+  ]
+}

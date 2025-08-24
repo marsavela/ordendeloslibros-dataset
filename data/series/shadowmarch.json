@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Shadowmarch",
+  "slug": "shadowmarch",
+  "source": "https://www.orderofbooks.com/characters/shadowmarch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Shadowmarch-by-Tad-Williams.jpg",
+  "books": [
+    {
+      "title": "Shadowmarch",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shadowplay",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shadowrise",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadowheart",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

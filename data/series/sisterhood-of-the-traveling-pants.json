@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Sisterhood of the Traveling Pants",
+  "slug": "sisterhood-of-the-traveling-pants",
+  "source": "https://www.orderofbooks.com/characters/sisterhood-of-the-traveling-pants/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/sisterhood.jpg",
+  "books": [
+    {
+      "title": "Sisterhood of the Traveling Pants",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Second Summer of the Sisterhood",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Girls in Pants",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Keep in Touch",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Forever in Blue",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "3 Willows",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sisterhood Everlasting",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

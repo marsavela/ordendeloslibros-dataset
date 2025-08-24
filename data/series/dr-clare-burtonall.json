@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Dr. Clare Burtonall",
+  "slug": "dr-clare-burtonall",
+  "source": "https://www.orderofbooks.com/characters/dr-clare-burtonall/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Dr-Clare-Burtonall-by-Jonathan-Gash.jpg",
+  "authors": [
+    {
+      "name": "Jonathan Gash",
+      "slug": "jonathan-gash"
+    }
+  ],
+  "books": [
+    {
+      "title": "Different Women Dancing",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Prey Dancing",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Die Dancing",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bone Dancing",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood Dancing",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

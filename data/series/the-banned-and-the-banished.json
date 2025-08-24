@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Banned and The Banished",
+  "slug": "the-banned-and-the-banished",
+  "source": "https://www.orderofbooks.com/characters/the-banned-and-the-banished/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/The-Banned-and-the-Banished.jpg",
+  "books": [
+    {
+      "title": "Wit'ch Fire",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wit'ch Storm",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wit'ch War",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wit'ch Gate",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wit'ch Star",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

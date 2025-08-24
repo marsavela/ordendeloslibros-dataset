@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Matt Kile",
+  "slug": "matt-kile",
+  "source": "https://www.orderofbooks.com/characters/matt-kile/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Matt-Kile-by-David-Bishop-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Bishop",
+      "slug": "david-bishop"
+    }
+  ],
+  "books": [
+    {
+      "title": "Who Murdered Garson Talmadge",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Original Alibi",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Money & Murder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Find My Little Sister",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Maltese Pigeon",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Judge Snider's Folly",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Year We Had Murder",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Scandalous Behavior",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

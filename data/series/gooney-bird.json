@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Gooney Bird",
+  "slug": "gooney-bird",
+  "source": "https://www.orderofbooks.com/characters/gooney-bird/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Gooney-Bird-by-Lois-Lowry.jpg",
+  "authors": [
+    {
+      "name": "Lois Lowry",
+      "slug": "lois-lowry"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gooney Bird Greene",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gooney Bird and the Room Mother",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gooney the Fabulous",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gooney Bird Is So Absurd",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gooney Bird on the Map",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gooney Bird and All Her Charms",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rania Matar",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

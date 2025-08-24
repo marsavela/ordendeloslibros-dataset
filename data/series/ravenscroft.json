@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Ravenscroft",
+  "slug": "ravenscroft",
+  "source": "https://www.orderofbooks.com/characters/ravenscroft/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Ravenscroft-by-Kerry-Tombs-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kerry Tombs",
+      "slug": "kerry-tombs"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Malvern Murders",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Worcester Whisperers",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ledbury Lamplighters",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Tewkesbury Tomb",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Droitwich Deceivers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Pershore Poisoners",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Upton Undertakers",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Herefordshire Hangmen",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Bromsgrove Bookseller",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ravenscroft's Last Case",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

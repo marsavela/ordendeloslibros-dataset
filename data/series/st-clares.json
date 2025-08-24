@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "St. Clare’s",
+  "slug": "st-clares",
+  "source": "https://www.orderofbooks.com/characters/st-clares/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Enid-Blyton-St-Clares.jpg",
+  "books": [
+    {
+      "title": "The Twins at St Clare's",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The O'Sullivan Twins",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Summer Term At St Clare's",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Second Form at St Clare's",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Claudine At St Clare's",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Third Form at St. Clare's",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fifth Formers Of St Clare's",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Kitty at St. Clare's",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Sixth Form at St. Clare's",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

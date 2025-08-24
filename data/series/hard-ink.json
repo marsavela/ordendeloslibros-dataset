@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Hard Ink",
+  "slug": "hard-ink",
+  "source": "https://www.orderofbooks.com/characters/hard-ink/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Hard-Ink-by-Laura-Kaye-500x200.jpg",
+  "authors": [
+    {
+      "name": "Laura Kaye",
+      "slug": "laura-kaye"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hard as It Gets",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hard as You Can",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hard to Hold on To",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hard to Come By",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hard to Be Good",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hard to Let Go",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hard as Steel",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hard Ever After",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

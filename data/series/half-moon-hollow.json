@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Half-Moon Hollow",
+  "slug": "half-moon-hollow",
+  "source": "https://www.orderofbooks.com/characters/half-moon-hollow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Half-Moon-Hollow-by-Molly-Harper-500x200.jpg",
+  "authors": [
+    {
+      "name": "Molly Harper",
+      "slug": "molly-harper"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Care and Feeding of Stray Vampires",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Driving Mr. Dead",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Witch's Handbook of Kisses and Curses",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Undead Sublet",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Special Valentine's Day Half-Moon Hollow Story",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "I'm Dreaming of an Undead Christmas",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Dangers of Dating a Rebound Vampire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Single Undead Moms Club",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fangs for the Memories",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Where the Wild Things Bite",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Big Vamp on Campus",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Accidental Sire",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Peace, Blood, and Understanding",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Nice Werewolves Don't Bite Vampires",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Chronological Order of Half-Moon Hollow Books Fangs for the Memories is a prequel story to the Half-Moon Hollow series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

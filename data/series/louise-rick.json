@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Louise Rick",
+  "slug": "louise-rick",
+  "source": "https://www.orderofbooks.com/characters/louise-rick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Louise-Rick-by-Sara-Blaedel-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sara Blaedel",
+      "slug": "sara-blaedel"
+    }
+  ],
+  "books": [
+    {
+      "title": "Call Me Princess / Blue Blood / The Silent Woman",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Only One Life / The Drowned Girl",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Night Women / Farewell to Freedom",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Forgotten Girls",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Killing Forest",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Lost Woman",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Running Girl",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Stolen Angel",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Midnight Witness / Green Dust",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Woman in the Hotel",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Harmless Lie",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Mother's Love",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

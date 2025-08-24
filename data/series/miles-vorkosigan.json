@@ -1,0 +1,201 @@
+{
+  "type": "series",
+  "name": "Miles Vorkosigan",
+  "slug": "miles-vorkosigan",
+  "source": "https://www.orderofbooks.com/characters/miles-vorkosigan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Miles-Vorkosigan-by-Lois-McMaster-Bujold.jpg",
+  "books": [
+    {
+      "title": "Aftermath (In the Cordelia's Honor Collection)",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shards of Honor",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Warrior's Apprentice",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ethan of Athos",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Falling Free",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Brothers in Arms",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Mountains of Mourning",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Labyrinth",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Borders of Infinity",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Weatherman",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Vor Game",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Barrayar",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Mirror Dance",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Cetaganda",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Dreamweaver's Dilemma",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Memory",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Komarr",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "A Civil Campaign",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Diplomatic Immunity",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Winterfair Gifts",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Cryoburn",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Captain Vorpatril's Alliance",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Gentleman Jole and the Red Queen",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Flowers of Vashnoi",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

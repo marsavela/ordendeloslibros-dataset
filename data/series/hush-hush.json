@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Hush, Hush",
+  "slug": "hush-hush",
+  "source": "https://www.orderofbooks.com/characters/hush-hush/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Hush-Hush-by-Becca-Fitzpatrick.jpg",
+  "books": [
+    {
+      "title": "Hush, Hush",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crescendo",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Silence",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Finale",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

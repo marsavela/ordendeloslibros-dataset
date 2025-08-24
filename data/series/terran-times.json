@@ -1,0 +1,639 @@
+{
+  "type": "series",
+  "name": "Terran Times",
+  "slug": "terran-times",
+  "source": "https://www.orderofbooks.com/characters/terran-times/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Terran-Times-by-Viola-Grace-500x200.jpg",
+  "authors": [
+    {
+      "name": "Viola Grace",
+      "slug": "viola-grace"
+    }
+  ],
+  "books": [
+    {
+      "title": "Flicker",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Scorcher",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Minder",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Healer",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Spinner",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Station 13",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Guardian Enjel",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Pan's Legacy",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Entranced",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Entwined",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Enchanted",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Enthralled",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Enraptured",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Impure",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Impatient",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Impulse",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Imperfect",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Impassioned",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Entropy",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Entrap",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Engage",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Enforce",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Encode",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Charm",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Chain",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Chaos",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Chase",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Chasm",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Intact",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Intensity",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Intercept",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Interface",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Interdict",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Astral",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Astonish",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Asteroid",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Ascent",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Askance",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Avenge",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Avert",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Avoid",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Await",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Awake",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Bait",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Badge",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Balm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Baffle",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Bane",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Core",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Calm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Catalyst",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Command",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Conflict",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Dancer",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Defender",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Defiance",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Determine",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Destined",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Fencer",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Finite",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Fade",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Factor",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Frisk",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Gadget",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Gamble",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "Garden",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Gaze",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Govern",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Helix",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Halo",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Halt",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "Harness",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "Honour",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "Jaded",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Jailed",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Join",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "Judged",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "Jury",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    }
+  ]
+}

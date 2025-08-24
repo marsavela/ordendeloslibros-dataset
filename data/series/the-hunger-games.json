@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Hunger Games",
+  "slug": "the-hunger-games",
+  "source": "https://www.orderofbooks.com/characters/the-hunger-games-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/The-Hunger-Games.jpg",
+  "books": [
+    {
+      "title": "The Hunger Games",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Catching Fire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mockingjay",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Ballad of Songbirds and Snakes",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sunrise on the Reaping",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

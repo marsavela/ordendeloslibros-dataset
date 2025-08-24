@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Hidden Cove Firefighters",
+  "slug": "hidden-cove-firefighters",
+  "source": "https://www.orderofbooks.com/characters/hidden-cove-firefighters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Hidden-Cove-by-Kathryn-Shay-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kathryn Shay",
+      "slug": "kathryn-shay"
+    }
+  ],
+  "books": [
+    {
+      "title": "After the Fire",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "On the Line",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nothing More to Lose",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "America's Bravest",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In Too Deep",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "It Had to Be You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chasing the Fire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Fire Inside",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Burning Passion",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Take Me Back",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Brotherhood of War",
+  "slug": "brotherhood-of-war",
+  "source": "https://www.orderofbooks.com/characters/brotherhood-of-war/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/The-Brotherhood-of-War.jpg",
+  "books": [
+    {
+      "title": "The Lieutenants",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Captains",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Majors",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Colonels",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Berets",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Generals",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The New Breed",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Aviators",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Special Ops",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

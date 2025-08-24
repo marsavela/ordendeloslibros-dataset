@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Mortality Doctrine",
+  "slug": "mortality-doctrine",
+  "source": "https://www.orderofbooks.com/characters/mortality-doctrine/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Mortality-Doctrine-by-James-Dashner-500x200.jpg",
+  "authors": [
+    {
+      "name": "James Dashner",
+      "slug": "james-dashner"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Eye of Minds",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gunner Skale",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Rule of Thoughts",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Game of Lives",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Dragons Of Wayward Crescent",
+  "slug": "dragons-of-wayward-crescent",
+  "source": "https://www.orderofbooks.com/characters/dragons-of-wayward-crescent/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Dragons-of-Wayward-Crescent-by-Chris-dLacey.jpg",
+  "books": [
+    {
+      "title": "Gauge",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gruffen",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Glade",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Grabber",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

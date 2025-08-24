@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Sgt. Major Crane",
+  "slug": "sgt-major-crane",
+  "source": "https://www.orderofbooks.com/characters/sgt-major-crane/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/12/Sgt-Major-Crane-by-Wendy-Cartmell.jpg",
+  "books": [
+    {
+      "title": "Steps to Heaven",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "40 Days 40 Nights",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "No Mercy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Violation / Honour Bound",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cordon of Lies",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Regenerate",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hijack",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Glass Cutter",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Solid Proof",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

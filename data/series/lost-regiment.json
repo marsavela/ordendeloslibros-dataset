@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Lost Regiment",
+  "slug": "lost-regiment",
+  "source": "https://www.orderofbooks.com/characters/lost-regiment/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Lost-Regiment-by-William-R-Forstchen-500x200.jpg",
+  "authors": [
+    {
+      "name": "William R Forstchen",
+      "slug": "william-r-forstchen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rally Cry",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Union Forever",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Terrible Swift Sword",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fateful Lightning",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Battle Hymn",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Never Sound Retreat",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Band of Brothers",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Men of War",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Down to the Sea",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Varg Veum",
+  "slug": "varg-veum",
+  "source": "https://www.orderofbooks.com/characters/varg-veum/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Varg-Veum-by-Gunnar-Staalesen.jpg",
+  "authors": [
+    {
+      "name": "Gunnar Staalesen",
+      "slug": "gunnar-staalesen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Yours Until Death",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "At Night All Wolves Are Grey",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fallen Angels",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Writing on the Wall",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Consorts of Death",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cold Hearts",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "We Shall Inherit the Wind",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Where Roses Never Die",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wolves in the Dark",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Big Sister",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Wolves at the Door",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Bitter Flowers",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Mirror Image",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Pursued by Death",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

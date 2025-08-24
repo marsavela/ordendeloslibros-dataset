@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "King Raven",
+  "slug": "king-raven",
+  "source": "https://www.orderofbooks.com/characters/king-raven/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/King-Raven-by-Stephen-R-Lawhead.jpg",
+  "books": [
+    {
+      "title": "Hood",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Scarlet",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tuck",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Realm Of The Elderlings",
+  "slug": "the-realm-of-the-elderlings",
+  "source": "https://www.orderofbooks.com/characters/the-realm-of-the-elderlings/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/The-Realm-of-the-Elderlings.jpg",
+  "books": [
+    {
+      "title": "Assassin's Apprentice",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Royal Assassin",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Assassin's Quest",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Words Like Coins",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Willful Princess and the Piebald Prince",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Time Between The Stars",
+  "slug": "time-between-the-stars",
+  "source": "https://www.orderofbooks.com/characters/time-between-the-stars/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Time-Between-The-Stars-by-Andrew-M-Greeley.jpg",
+  "books": [
+    {
+      "title": "Virgin and Martyr",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Angels of September",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Patience of a Saint",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rite of Spring",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Love Song",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "St. Valentine's Night",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wages of Sin",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

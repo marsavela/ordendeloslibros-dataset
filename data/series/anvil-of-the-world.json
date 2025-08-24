@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Anvil Of The World",
+  "slug": "anvil-of-the-world",
+  "source": "https://www.orderofbooks.com/characters/anvil-of-the-world/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Anvil-of-the-World-by-Kage-Baker.jpg",
+  "books": [
+    {
+      "title": "The Anvil of the World",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The House of the Stag",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bird of the River",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

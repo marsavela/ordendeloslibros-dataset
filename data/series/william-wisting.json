@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "William Wisting",
+  "slug": "william-wisting",
+  "source": "https://www.orderofbooks.com/characters/william-wisting/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/William-Wisting-by-Jorn-Lier-Horst.jpg",
+  "authors": [
+    {
+      "name": "Jorn Lier Horst",
+      "slug": "jorn-lier-horst"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dregs / Bunnfall",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Closed for Winter",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Hunting Dogs",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Caveman",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ordeal",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "When It Grows Dark",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Katharina Code",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Cabin",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Inner Darkness",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Question of Guilt",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Night Man",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Snow Fall",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Traitor",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

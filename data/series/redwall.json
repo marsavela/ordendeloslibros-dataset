@@ -1,0 +1,191 @@
+{
+  "type": "series",
+  "name": "Redwall",
+  "slug": "redwall",
+  "source": "https://www.orderofbooks.com/characters/redwall/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Redwall-by-Brian-Jacques-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brian Jacques",
+      "slug": "brian-jacques"
+    }
+  ],
+  "books": [
+    {
+      "title": "Redwall",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mossflower",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mattimeo",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mariel of Redwall",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Salamandastron",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Martin the Warrior",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Bellmaker",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Outcast of Redwall",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Pearls of Lutra",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Long Patrol",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Marlfox",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Legend of Luke",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Lord Brocktree",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Taggerung",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Triss",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Loamhedge",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Rakkety Tam",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "High Rhulain",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Eulalia!",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Doomwyte",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Sable Quean",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Rogue Crew",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

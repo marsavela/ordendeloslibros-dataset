@@ -1,0 +1,76 @@
+{
+  "type": "series",
+  "name": "Agent 21",
+  "slug": "agent-21",
+  "source": "https://www.orderofbooks.com/characters/agent-21/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Agent-21-by-Chris-Ryan.jpg",
+  "authors": [
+    {
+      "name": "Chris Ryan",
+      "slug": "chris-ryan"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Agent 21 Books",
+      "books": [
+        {
+          "title": "Agent 21",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Reloaded",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Codebreaker",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Wire",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Deadfall",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Under Cover",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Endgame",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    }
+  }
+}

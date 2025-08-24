@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Witcher",
+  "slug": "witcher",
+  "source": "https://www.orderofbooks.com/characters/witcher/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/05/The-Witcher-by-Andrzej-Sapkowski.jpg",
+  "books": [
+    {
+      "title": "Sword of Destiny",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Last Wish",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood of Elves",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Time of Contempt",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Baptism of Fire",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Tower of Swallows",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Season of Storms",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lady of the Lake",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Rozdroże kruków",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Crossroads of Ravens",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

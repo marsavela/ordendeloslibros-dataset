@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Nil",
+  "slug": "nil",
+  "source": "https://www.orderofbooks.com/characters/nil/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/nil-500x200.jpg",
+  "books": [
+    {
+      "title": "Nil",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Nil Unlocked",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nil on Fire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nil Remembered",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Wed In The West",
+  "slug": "wed-in-the-west",
+  "source": "https://www.orderofbooks.com/characters/wed-in-the-west/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Wed-in-the-West-by-Karen-Templeton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Karen Templeton",
+      "slug": "karen-templeton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Reining in the Rancher",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Mother's Wish",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Marriage-Minded Man",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Welcome Home, Cowboy",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Adding Up to Marriage",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Husband Under Construction",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Soldier's Promise",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Back in the Saddle",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Rancher's Expectant Christmas",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Falling for the Rebound Bride",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

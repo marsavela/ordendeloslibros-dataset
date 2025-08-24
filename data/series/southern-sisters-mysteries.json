@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Southern Sisters Mysteries",
+  "slug": "southern-sisters-mysteries",
+  "source": "https://www.orderofbooks.com/characters/southern-sisters-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Southern-Sisters-Mysteries-by-Anne-George-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anne George",
+      "slug": "anne-george"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder on a Girls' Night Out",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder on a Bad Hair Day",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder Runs in the Family",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder Makes Waves",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder Gets a Life",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder Shoots the Bull",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder Carries a Torch",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder Boogies with Elvis",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

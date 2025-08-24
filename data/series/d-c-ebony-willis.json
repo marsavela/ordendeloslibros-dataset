@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "D.C. Ebony Willis",
+  "slug": "d-c-ebony-willis",
+  "source": "https://www.orderofbooks.com/characters/dc-ebony-willis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/DC-Ebony-Willis-by-Lee-Weeks-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lee Weeks",
+      "slug": "lee-weeks"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dead of Winter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cold as Ice",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Frozen Grave",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cold Justice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cold Killers",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cold Revenge",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

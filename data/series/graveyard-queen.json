@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Graveyard Queen",
+  "slug": "graveyard-queen",
+  "source": "https://www.orderofbooks.com/characters/graveyard-queen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Graveyard-Queen-by-Amanda-Stevens.jpg",
+  "books": [
+    {
+      "title": "The Restorer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Kingdom",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Abandoned",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Prophet",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Visitor",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Sinner",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Awakening",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

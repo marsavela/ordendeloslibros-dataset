@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Coincidence",
+  "slug": "coincidence",
+  "source": "https://www.orderofbooks.com/characters/coincidence/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Coincidence-by-Jessica-Sorensen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jessica Sorensen",
+      "slug": "jessica-sorensen"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Coincidence of Callie & Kayden",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Resolution of Callie and Kayden",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Redemption of Callie & Kayden",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Destiny of Violet & Luke",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Probability of Violet and Luke",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Certainty of Violet and Luke",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Seth & Greyson",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Evermore of Callie & Kayden",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Promise of Callie & Kayden",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Truth of Violet & Luke",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

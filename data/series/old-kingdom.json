@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Old Kingdom",
+  "slug": "old-kingdom",
+  "source": "https://www.orderofbooks.com/characters/old-kingdom/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Old-Kingdom-Abhorsen-by-Garth-Nix.jpg",
+  "authors": [
+    {
+      "name": "Garth Nix",
+      "slug": "garth-nix"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sabriel",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lirael",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Abhorsen",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Creature in the Case",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Clairel",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "To Hold the Bridge",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Doctor Crake Crosses the Wall",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Goldenhand",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Terciel and Elinor",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

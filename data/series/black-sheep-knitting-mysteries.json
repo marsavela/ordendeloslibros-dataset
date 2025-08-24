@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Black Sheep Knitting Mysteries",
+  "slug": "black-sheep-knitting-mysteries",
+  "source": "https://www.orderofbooks.com/characters/black-sheep-knitting-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Black-Sheep-Knitting-Mysteries-by-Anne-Canadeo-Katherine-Spencer.jpg",
+  "authors": [
+    {
+      "name": "Anne Canadeo Katherine Spencer",
+      "slug": "anne-canadeo-katherine-spencer"
+    }
+  ],
+  "books": [
+    {
+      "title": "While My Pretty One Knits",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Knit, Purl, Die",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Stitch Before Dying",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Till Death Do Us Purl",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Silence of the Llamas",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Dark and Stormy Knit",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Postman Always Purls Twice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Murder in Mohair",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

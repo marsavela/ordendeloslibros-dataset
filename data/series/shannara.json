@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Shannara",
+  "slug": "shannara",
+  "source": "https://www.orderofbooks.com/characters/shannara/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Shannara-by-Terry-Brooks.jpg",
+  "books": [
+    {
+      "title": "The Sword of Shannara",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Elfstones of Shannara",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Wishsong of Shannara",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "First King of Shannara",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Indomitable",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

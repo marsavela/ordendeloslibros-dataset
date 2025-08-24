@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Jack Garrett & Laura McGanity",
+  "slug": "jack-garrett-laura-mcganity",
+  "source": "https://www.orderofbooks.com/characters/jack-garrett-and-laura-mcganity/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/DC-Laura-McGanity-by-Neil-White-500x200.jpg",
+  "authors": [
+    {
+      "name": "Neil White",
+      "slug": "neil-white"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fallen Idols",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lost Souls",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Last Rites",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead Silent",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cold Kill",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

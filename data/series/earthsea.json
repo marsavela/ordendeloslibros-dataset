@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Earthsea",
+  "slug": "earthsea",
+  "source": "https://www.orderofbooks.com/characters/earthsea/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Earthsea-by-Ursula-K-Le-Guin.jpg",
+  "books": [
+    {
+      "title": "A Wizard of Earthsea",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tombs of Atuan",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Farthest Shore",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tehanu",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Other Wind",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Daughter of Odren",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

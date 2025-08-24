@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Queen Bee Mysteries",
+  "slug": "queen-bee-mysteries",
+  "source": "https://www.orderofbooks.com/characters/queen-bee-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Queen-Bee-Mysteries-by-Hannah-Reed-Deb-Baker-500x200.jpg",
+  "authors": [
+    {
+      "name": "Hannah Reed",
+      "slug": "hannah-reed"
+    }
+  ],
+  "books": [
+    {
+      "title": "Buzz Off",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mind Your Own Beeswax",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Plan Bee",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Beeline to Trouble",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beewitched",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

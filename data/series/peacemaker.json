@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Peacemaker",
+  "slug": "peacemaker",
+  "source": "https://www.orderofbooks.com/characters/peacemaker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Peacemaker-by-William-S-Brady.jpg",
+  "authors": [
+    {
+      "name": "John Harvey",
+      "slug": "john-harvey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Comanche!",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Outlaws",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Whiplash",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lynch Law",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood Run",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "War Party",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "One Thousand Dollar Death",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Lost",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Shoot-out!",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

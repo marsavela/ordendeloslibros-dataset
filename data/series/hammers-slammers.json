@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Hammer’s Slammers",
+  "slug": "hammers-slammers",
+  "source": "https://www.orderofbooks.com/characters/hammers-slammers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Hammers-Slammers-Hammerverse-by-David-Drake.jpg",
+  "authors": [
+    {
+      "name": "David Drake",
+      "slug": "david-drake"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hammer's Slammers",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "At Any Price",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Counting the Cost",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rolling Hot",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Warrior",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Sharp End",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Tank Lords",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Paying the Piper",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

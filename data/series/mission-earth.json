@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Mission Earth",
+  "slug": "mission-earth",
+  "source": "https://www.orderofbooks.com/characters/mission-earth/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Mission-Earth-by-L-Ron-Hubbard-500x200.jpg",
+  "authors": [
+    {
+      "name": "L Ron Hubbard",
+      "slug": "l-ron-hubbard"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Invaders Plan",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Black Genesis",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Enemy Within",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "An Alien Affair",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fortune of Fear",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death Quest",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Voyage of Vengeance",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Disaster",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Villainy Victorious",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Doomed Planet",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "‘Burg",
+  "slug": "burg",
+  "source": "https://www.orderofbooks.com/characters/burg/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Burg-by-Kristen-Ashley-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kristen Ashley",
+      "slug": "kristen-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "For You",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "At Peace",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Golden Trail",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Games of the Heart",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Promise",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hold On",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

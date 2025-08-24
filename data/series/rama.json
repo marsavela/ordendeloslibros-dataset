@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Rama",
+  "slug": "rama",
+  "source": "https://www.orderofbooks.com/characters/rama/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Rama-by-Arthur-C-Clarke.jpg",
+  "books": [
+    {
+      "title": "Rendezvous with Rama",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rama II",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Garden of Rama",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rama Revealed",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bright Messengers",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Double Full Moon Night",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Tranquility Wars",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

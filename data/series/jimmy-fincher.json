@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Jimmy Fincher",
+  "slug": "jimmy-fincher",
+  "source": "https://www.orderofbooks.com/characters/jimmy-fincher/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Jimmy-Fincher-Saga-by-James-Dashner.jpg",
+  "books": [
+    {
+      "title": "A Door in the Woods",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Gift of Ice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Tower of Air",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "War of the Black Curtain",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

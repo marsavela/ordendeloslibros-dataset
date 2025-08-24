@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Ellie Stone",
+  "slug": "ellie-stone",
+  "source": "https://www.orderofbooks.com/characters/ellie-stone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/Ellie-Stone-by-James-W-Ziskin.jpg",
+  "books": [
+    {
+      "title": "Styx & Stone",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "No Stone Unturned",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stone Cold Dead",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Heart of Stone",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cast the First Stone",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Stone’s Throw",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Turn to Stone",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

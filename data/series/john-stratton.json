@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "John Stratton",
+  "slug": "john-stratton",
+  "source": "https://www.orderofbooks.com/characters/john-stratton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/John-Stratton-by-Duncan-Falconer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Duncan Falconer",
+      "slug": "duncan-falconer"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hostage/Stratton",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hijack",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bomb Surgeon/The Operative",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Undersea Prison",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mercenary",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Traitor",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Pirate",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Assassin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

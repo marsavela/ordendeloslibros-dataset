@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Keegan/Paxton",
+  "slug": "keegan-paxton",
+  "source": "https://www.orderofbooks.com/characters/keegan-paxton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Keegan-Paxton-by-Catherine-Anderson.jpg",
+  "authors": [
+    {
+      "name": "Catherine Anderson",
+      "slug": "catherine-anderson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Keegan's Lady",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Summer Breeze",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Early Dawn",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lucky Penny",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

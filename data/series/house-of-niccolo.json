@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "House Of Niccolo",
+  "slug": "house-of-niccolo",
+  "source": "https://www.orderofbooks.com/characters/house-of-niccolo/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/House-of-Niccolo-by-Dorothy-Dunnett.jpg",
+  "books": [
+    {
+      "title": "Niccolò Rising",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Spring of the Ram",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Race of Scorpions",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Scales of Gold",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Unicorn Hunt",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "To Lie with Lions",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Caprice and Rondo",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Gemini",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

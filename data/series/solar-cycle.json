@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Solar Cycle",
+  "slug": "solar-cycle",
+  "source": "https://www.orderofbooks.com/characters/solar-cycle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Solar-Cycle-Urth-by-Gene-Wolfe.jpg",
+  "authors": [
+    {
+      "name": "Gene Wolfe",
+      "slug": "gene-wolfe"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Shadow of the Torturer",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Claw of the Conciliator",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sword of the Lictor",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Citadel of the Autarch",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Urth of the New Sun",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

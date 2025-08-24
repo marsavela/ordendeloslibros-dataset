@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Raines Of Wind Canyon",
+  "slug": "raines-of-wind-canyon",
+  "source": "https://www.orderofbooks.com/characters/raines-of-wind-canyon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Raines-Of-Wind-Canyon-by-Kat-Martin.jpg",
+  "books": [
+    {
+      "title": "Against the Wind",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Against the Fire",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Against the Law",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Against the Storm",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Against the Night",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Against the Sun",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Against the Odds",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Against the Edge",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Against the Mark",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

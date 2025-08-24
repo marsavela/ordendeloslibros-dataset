@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Quadrail",
+  "slug": "quadrail",
+  "source": "https://www.orderofbooks.com/characters/quadrail/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/quadrail-500x200.jpg",
+  "books": [
+    {
+      "title": "Night Train to Rigel",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Third Lynx",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Odd Girl Out",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Domino Pattern",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Judgment at Proteus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

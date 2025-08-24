@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Professor Barrister’s Dinosaur Mysteries",
+  "slug": "professor-barristers-dinosaur-mysteries",
+  "source": "https://www.orderofbooks.com/characters/professor-barristers-dinosaur-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Professor-Barristers-Dinosaur-Mysteries-by-Stephen-Penner.jpg",
+  "authors": [
+    {
+      "name": "Stephen Penner",
+      "slug": "stephen-penner"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Case of the Truncated Troodon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Case of the Armored Allosaurus",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Case of the Enormous Eoraptor",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Case of the Colorful Caudipteryx",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Case of the Crested Cryptoclidus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Travis",
+  "slug": "travis",
+  "source": "https://www.orderofbooks.com/characters/travis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Travis-by-Lisa-Kleypas.jpg",
+  "books": [
+    {
+      "title": "Sugar Daddy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blue-Eyed Devil",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Smooth Talking Stranger",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Brown-Eyed Girl",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

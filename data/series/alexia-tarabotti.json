@@ -1,0 +1,137 @@
+{
+  "type": "series",
+  "name": "Alexia Tarabotti",
+  "slug": "alexia-tarabotti",
+  "source": "https://www.orderofbooks.com/characters/alexia-tarabotti/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Alexia-Tarabotti-by-Gail-Carriger.jpg",
+  "authors": [
+    {
+      "name": "Gail Carriger",
+      "slug": "gail-carriger"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alexia Tarabotti Books",
+      "books": [
+        {
+          "title": "Soulless",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Changeless",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Blameless",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Heartless",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Timeless",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Curious Case of the Werewolf That Wasn't",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Meat Cute",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "chronological": {
+      "heading": "Chronological Order of Alexia Tarabotti Books",
+      "books": [
+        {
+          "title": "The Curious Case of the Werewolf That Wasn't",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Meat Cute",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Soulless",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Changeless",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Blameless",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Heartless",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Timeless",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Mistborn",
+  "slug": "mistborn",
+  "source": "https://www.orderofbooks.com/characters/mistborn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Mistborn-by-Brandon-Sanderson.jpg",
+  "authors": [
+    {
+      "name": "Brandon Sanderson",
+      "slug": "brandon-sanderson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Final Empire",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Well of Ascension",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Hero of Ages",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Alloy of Law",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadows of Self",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bands of Mourning",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Secret History",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Lost Metal",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

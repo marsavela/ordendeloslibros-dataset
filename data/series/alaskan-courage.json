@@ -1,0 +1,62 @@
+{
+  "type": "series",
+  "name": "Alaskan Courage",
+  "slug": "alaskan-courage",
+  "source": "https://www.orderofbooks.com/characters/alaskan-courage/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/09/Alaskan-Courage-by-Dani-Pettrey.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alaskan Courage Books",
+      "books": [
+        {
+          "title": "Submerged",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Shattered",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Stranded",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Silenced",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Sabotaged",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Shadowed",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

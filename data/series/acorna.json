@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Acorna",
+  "slug": "acorna",
+  "source": "https://www.orderofbooks.com/characters/acorna/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Acorna-by-Anne-McCaffrey.jpg",
+  "authors": [
+    {
+      "name": "Anne McCaffrey",
+      "slug": "anne-mccaffrey"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Acorna Books",
+      "books": [
+        {
+          "title": "Acorna: The Unicorn Girl",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Acorna's Quest",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Acorna's People",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Acorna's World",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Acorna's Search",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Acorna's Rebels",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Acorna's Triumph",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "First Warning: Acorna's Children",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Second Wave: Acorna's Children",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Third Watch: Acorna's Children",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Acorna's Children Books",
+      "books": [
+        {
+          "title": "First Warning: Acorna's Children",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Second Wave: Acorna's Children",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Third Watch: Acorna's Children",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        }
+      ]
+    }
+  }
+}

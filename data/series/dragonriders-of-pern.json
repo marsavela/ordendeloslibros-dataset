@@ -1,0 +1,239 @@
+{
+  "type": "series",
+  "name": "Dragonriders Of Pern",
+  "slug": "dragonriders-of-pern",
+  "source": "https://www.orderofbooks.com/characters/dragonriders-of-pern/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Federated-Sentient-Planets-by-Anne-McCaffrey.jpg",
+  "authors": [
+    {
+      "name": "Anne McCaffrey",
+      "slug": "anne-mccaffrey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dragonflight",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dragonquest",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dragonsong",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dragonsinger",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Smallest Dragonboy",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The White Dragon",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dragondrums",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Moreta: Dragonlady of Pern",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Nerilka's Story",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dragonsdawn",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Renegades of Pern",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "All the Weyrs of Pern",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Chronicles of Pern: First Fall",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Dolphins of Pern",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Red Star Rising / Dragonseye",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Masterharper of Pern",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Skies of Pern",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "A Gift of Dragons",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Dragon's Kin",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Beyond Between",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Dragonsblood",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Dragon's Fire",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Dragon Harper",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Dragonheart",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Dragon Girl",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Dragon's Time",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Sky Dragons",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Dragon's Code",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    }
+  ]
+}

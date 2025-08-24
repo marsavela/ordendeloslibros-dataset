@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Fifth Millennium",
+  "slug": "fifth-millennium",
+  "source": "https://www.orderofbooks.com/characters/fifth-millennium/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Fifth-Millennium-by-SM-Stirling-and-Shirley-Meier.jpg",
+  "authors": [
+    {
+      "name": "SM Stirling",
+      "slug": "sm-stirling"
+    }
+  ],
+  "books": [
+    {
+      "title": "Snowbrother",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sharpest Edge",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cage",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadow's Son",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadow's Daughter",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lion's Heart",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Lion's Soul",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Saber and Shadow",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

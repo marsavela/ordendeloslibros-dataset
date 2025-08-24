@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Michael Vey",
+  "slug": "michael-vey",
+  "source": "https://www.orderofbooks.com/characters/michael-vey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Michael-Vey-by-Richard-Paul-Evans.jpg",
+  "authors": [
+    {
+      "name": "Richard Paul Evans",
+      "slug": "richard-paul-evans"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Prisoner of Cell 25",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Rise of the Elgen",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Battle of the Ampere",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hunt for Jade Dragon",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Storm of Lightning",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fall of Hades",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Final Spark",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Parasite",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Traitor",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Colony",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

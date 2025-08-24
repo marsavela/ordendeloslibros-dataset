@@ -1,0 +1,68 @@
+{
+  "type": "series",
+  "name": "Alcatraz",
+  "slug": "alcatraz",
+  "source": "https://www.orderofbooks.com/characters/alcatraz/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Alcatraz-by-Brandon-Sanderson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brandon Sanderson",
+      "slug": "brandon-sanderson"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alcatraz Books",
+      "books": [
+        {
+          "title": "Alcatraz Versus the Evil Librarians",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Alcatraz Versus the Scrivener's Bones",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Alcatraz Versus the Knights of Crystallia",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Alcatraz Versus the Shattered Lens",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Dark Talent",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Bastille vs. the Evil Librarians",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

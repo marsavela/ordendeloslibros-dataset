@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Fallen Star",
+  "slug": "fallen-star",
+  "source": "https://www.orderofbooks.com/characters/fallen-star/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Fallen-Star-by-Jessica-Sorensen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jessica Sorensen",
+      "slug": "jessica-sorensen"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fallen Star",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Underworld",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Vision",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Promise",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mist of Stars",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

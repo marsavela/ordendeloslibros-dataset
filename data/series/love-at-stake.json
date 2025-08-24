@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Love At Stake",
+  "slug": "love-at-stake",
+  "source": "https://www.orderofbooks.com/characters/love-at-stake/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Love-at-Stake-by-Kerrelyn-Sparks.jpg",
+  "authors": [
+    {
+      "name": "Kerrelyn Sparks",
+      "slug": "kerrelyn-sparks"
+    }
+  ],
+  "books": [
+    {
+      "title": "How to Marry a Millionaire Vampire",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Vamps and the City",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sugarplums and Scandal",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Be Still My Vampire Heart",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Undead Next Door",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "All I Want for Christmas is a Vampire",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Secret Life of a Vampire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Forbidden Nights with a Vampire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Vampire and the Virgin",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Eat Prey Love",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Vampire Mine",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Very Vampy Christmas",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Sexiest Vampire Alive",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Wanted: Undead or Alive",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Wild About You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Vampire with the Dragon Tattoo",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "How to Seduce a Vampire (Without Really Trying)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Crouching Tiger, Forbidden Vampire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

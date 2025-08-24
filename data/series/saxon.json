@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Saxon",
+  "slug": "saxon",
+  "source": "https://www.orderofbooks.com/characters/saxon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Saxon-by-Les-Roberts.jpg",
+  "books": [
+    {
+      "title": "An Infinite Number of Monkeys",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Not Enough Horses",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Carrot for the Donkey",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Snake Oil",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Seeing the Elephant",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Lemon Chicken Jones",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Joe Rush",
+  "slug": "joe-rush",
+  "source": "https://www.orderofbooks.com/characters/joe-rush/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/06/Joe-Rush-by-James-Abel-500x200.jpg",
+  "authors": [
+    {
+      "name": "James Abel",
+      "slug": "james-abel"
+    }
+  ],
+  "books": [
+    {
+      "title": "White Plague",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Protocol Zero",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cold Silence",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Vector",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

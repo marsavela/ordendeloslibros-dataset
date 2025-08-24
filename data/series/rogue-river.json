@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Rogue River",
+  "slug": "rogue-river",
+  "source": "https://www.orderofbooks.com/characters/rogue-river/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Rogue-River-by-Kendra-Elliot-Melinda-Leigh.jpg",
+  "authors": [
+    {
+      "name": "Kendra Elliot",
+      "slug": "kendra-elliot"
+    }
+  ],
+  "books": [
+    {
+      "title": "On Her Father's Grave",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gone to Her Grave",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Her Grave Secrets",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Walking on Her Grave",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

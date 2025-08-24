@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Castles Ever After",
+  "slug": "castles-ever-after",
+  "source": "https://www.orderofbooks.com/characters/castles-ever-after/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Castles-Ever-After-by-Tessa-Dare-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tessa Dare",
+      "slug": "tessa-dare"
+    }
+  ],
+  "books": [
+    {
+      "title": "Romancing the Duke",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Say Yes to the Marquess",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When a Scot Ties the Knot",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Do You Want to Start a Scandal",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

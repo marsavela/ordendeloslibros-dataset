@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Benni Harper",
+  "slug": "benni-harper",
+  "source": "https://www.orderofbooks.com/characters/benni-harper/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Benni-Harper-Mysteries-by-Earlene-Fowler-500x200.jpg",
+  "authors": [
+    {
+      "name": "Earlene Fowler",
+      "slug": "earlene-fowler"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fool's Puzzle",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Irish Chain",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kansas Troubles",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Goose in the Pond",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dove in the Window",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mariner's Compass",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Seven Sisters",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Arkansas Traveler",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Steps to the Altar",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sunshine and Shadow",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Broken Dishes",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Delectable Mountains",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Tumbling Blocks",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "State Fair",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Spider Web",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

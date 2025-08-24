@@ -1,0 +1,239 @@
+{
+  "type": "series",
+  "name": "Leaphorn and Chee",
+  "slug": "leaphorn-and-chee",
+  "source": "https://www.orderofbooks.com/characters/leaphorn-and-chee/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Leaphorn-Chee-by-Tony-Hillerman-Anne-Hillerman.jpg",
+  "authors": [
+    {
+      "name": "Tony Hillerman Anne Hillerman",
+      "slug": "tony-hillerman-anne-hillerman"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Blessing Way",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dance Hall of the Dead",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Listening Woman",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "People of Darkness",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dark Wind",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Ghostway",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Skinwalkers",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Thief of Time",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Talking God",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Coyote Waits",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Sacred Clowns",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Fallen Man",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The First Eagle",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Hunting Badger",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Wailing Wind",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Sinister Pig",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Skeleton Man",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Shape Shifter",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Spider Woman's Daughter",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Rock with Wings",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Song of the Lion",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Cave of Bones",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Tale Teller",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Stargazer",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Sacred Bridge",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Way of the Bear",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Lost Birds",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Shadow of the Solstice",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    }
+  ]
+}

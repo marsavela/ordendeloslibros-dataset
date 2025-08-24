@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Hilda Johansson",
+  "slug": "hilda-johansson",
+  "source": "https://www.orderofbooks.com/characters/hilda-johansson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Hilda-Johansson-by-Jeanne-M-Dams.jpg",
+  "books": [
+    {
+      "title": "Death in Lacquer Red",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Red, White, and Blue Murder",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Green Grow The Victims",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silence Is Golden",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Crimson Snow",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Indigo Christmas",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder in Burnt Orange",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

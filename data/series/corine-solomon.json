@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Corine Solomon",
+  "slug": "corine-solomon",
+  "source": "https://www.orderofbooks.com/characters/corine-solomon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Corine-Solomon-by-Ann-Aguirre.jpg",
+  "authors": [
+    {
+      "name": "Ann Aguirre",
+      "slug": "ann-aguirre"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blue Diablo",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hell Fire",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shady Lady",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Devil's Punch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Agave Kiss",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Forbidden Fruit",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

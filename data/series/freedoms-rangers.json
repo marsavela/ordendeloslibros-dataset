@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Freedom’s Rangers",
+  "slug": "freedoms-rangers",
+  "source": "https://www.orderofbooks.com/characters/freedoms-rangers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Freedoms-Rangers-by-Keith-William-Andrews.jpg",
+  "authors": [
+    {
+      "name": "Keith William Andrews",
+      "slug": "keith-william-andrews"
+    }
+  ],
+  "books": [
+    {
+      "title": "Freedom's Rangers",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Raiders of the Revolution",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Search and Destroy",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Treason in Time",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sink the Armada!",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Snow Kill",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

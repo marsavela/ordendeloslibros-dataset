@@ -1,0 +1,262 @@
+{
+  "type": "series",
+  "name": "Albert Campion",
+  "slug": "albert-campion",
+  "source": "https://www.orderofbooks.com/characters/albert-campion/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Albert-Campion-by-Margery-Allingham.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Albert Campion Books",
+      "books": [
+        {
+          "title": "The Crime at Black Dudley / The Black Dudley Murder",
+          "year": 1929,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Mystery Mile",
+          "year": 1930,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Look to the Lady / The Gyrth Chalice Mystery",
+          "year": 1931,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Police at the Funeral",
+          "year": 1931,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Sweet Danger / The Fear Sign",
+          "year": 1933,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Death of a Ghost",
+          "year": 1934,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Flowers for the Judge",
+          "year": 1936,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Case of the Late Pig",
+          "year": 1937,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Dancers in Mourning / Who Killed Chloe?",
+          "year": 1937,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Fashion in Shrouds",
+          "year": 1938,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Traitor's Purse",
+          "year": 1940,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Coroner's Pidgin / Pearls Before Swine",
+          "year": 1945,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "More Work for the Undertaker",
+          "year": 1948,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Tiger in the Smoke",
+          "year": 1952,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "The Beckoning Lady / The Estate of the Beckoning Lady",
+          "year": 1955,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Hide My Eyes / Tether's End",
+          "year": 1958,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "The China Governess",
+          "year": 1962,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "The Mind Readers",
+          "year": 1965,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Cargo of Eagles",
+          "year": 1968,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "Mr. Campion's Farthing",
+          "year": 1969,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Mr. Campion's Quarry / Falcon",
+          "year": 1970,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "Mr. Campion's Farewell",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        },
+        {
+          "title": "Mr. Campion's Fox",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 23
+        },
+        {
+          "title": "Mr. Campion's Fault",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 24
+        },
+        {
+          "title": "Mr. Campion's Abdication",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 25
+        },
+        {
+          "title": "Mr Campion's War",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 26
+        },
+        {
+          "title": "Mr Campion's Visit",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 27
+        },
+        {
+          "title": "Mr Campion's Seance",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 28
+        },
+        {
+          "title": "Mr Campion's Coven",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 29
+        },
+        {
+          "title": "Mr. Campion's Wings",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 30
+        },
+        {
+          "title": "Mr. Campion's Mosaic",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 31
+        }
+      ]
+    }
+  }
+}

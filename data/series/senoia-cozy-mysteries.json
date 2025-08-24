@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Senoia Cozy Mysteries",
+  "slug": "senoia-cozy-mysteries",
+  "source": "https://www.orderofbooks.com/characters/senoia-cozy-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/05/Senoia-Cozy-Mysteries-by-Susan-Harper.jpg",
+  "authors": [
+    {
+      "name": "Susan Harper",
+      "slug": "susan-harper"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dying for a Drive",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Fatal Fall",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder in the Morgue",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Horse Drawn Homicide",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Framed by Friends",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Victims of His Vengeance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Undercover with the Undead",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Homicide at the Hospital",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder Mystery Party",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Vacations and Victims",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Death Downtown",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Final Fatality",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

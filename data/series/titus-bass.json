@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Titus Bass",
+  "slug": "titus-bass",
+  "source": "https://www.orderofbooks.com/characters/titus-bass/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Titus-Bass-by-Terry-C-Johnston.jpg",
+  "books": [
+    {
+      "title": "Carry the Wind",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Borderlords",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "One-Eyed Dream",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dance on the Wind",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Buffalo Palace",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Crack in the Sky",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ride the Moon Down",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death Rattle",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wind Walker",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

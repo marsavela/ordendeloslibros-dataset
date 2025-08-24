@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Pawsitively Organic Mysteries",
+  "slug": "pawsitively-organic-mysteries",
+  "source": "https://www.orderofbooks.com/characters/pawsitively-organic-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Pawsitively-Organic-Mysteries-by-Liz-Mugavero-500x200.jpg",
+  "authors": [
+    {
+      "name": "Liz Mugavero",
+      "slug": "liz-mugavero"
+    }
+  ],
+  "books": [
+    {
+      "title": "Kneading to Die",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Biscuit, a Casket",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Icing on the Corpse",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder Most Finicky",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Custom Baked Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Purring Around the Christmas Tree",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder, She Meowed",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

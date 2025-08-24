@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Devlin Dynasty",
+  "slug": "devlin-dynasty",
+  "source": "https://www.orderofbooks.com/characters/devlin-dynasty/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Devlin-Dynasty-by-Jaci-Burton.jpg",
+  "authors": [
+    {
+      "name": "Jaci Burton",
+      "slug": "jaci-burton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Running Mate",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mountain Moonlight",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Legend's Passion",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

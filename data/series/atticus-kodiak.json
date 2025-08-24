@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Atticus Kodiak",
+  "slug": "atticus-kodiak",
+  "source": "https://www.orderofbooks.com/characters/atticus-kodiak/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Atticus-Kodiak-by-Greg-Rucka.jpg",
+  "authors": [
+    {
+      "name": "Greg Rucka",
+      "slug": "greg-rucka"
+    }
+  ],
+  "books": [
+    {
+      "title": "Keeper",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Finder",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Smoker",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shooting at Midnight",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Critical Space",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Patriot Acts",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Walking Dead",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "name": "Alpha",
+  "slug": "alpha",
+  "source": "https://www.orderofbooks.com/characters/alpha/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Alpha-by-Carole-Mortimer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Carole Mortimer",
+      "slug": "carole-mortimer"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alpha Books",
+      "books": [
+        {
+          "title": "Christmas Alpha",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Dark Alpha",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Shadow Alpha",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Midnight Alpha",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Renegade Alpha",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Warrior Alpha",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Rogue Alpha",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Savage Alpha",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        }
+      ]
+    }
+  }
+}

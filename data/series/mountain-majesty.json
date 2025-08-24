@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Mountain Majesty",
+  "slug": "mountain-majesty",
+  "source": "https://www.orderofbooks.com/characters/mountain-majesty/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Mountain-Majesty-by-John-Killdeer.jpg",
+  "authors": [
+    {
+      "name": "David Robbins",
+      "slug": "david-robbins"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wild Country",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Untamed",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wilderness Rendezvous",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blood Kin",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Passage West",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Far Horizon",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fire on the Prairie",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Savage Land",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

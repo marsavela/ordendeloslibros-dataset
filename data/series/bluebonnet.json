@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Bluebonnet",
+  "slug": "bluebonnet",
+  "source": "https://www.orderofbooks.com/characters/bluebonnet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/bluebonnet-500x200.jpg",
+  "books": [
+    {
+      "title": "The Girl's Guide to (Man) Hunting",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Billionaire of Bluebonnet",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Care and Feeding of an Alpha Male",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Expert's Guide to Driving a Man Wild",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Virgin's Guide to Misbehaving",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bad Boy of Bluebonnet",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

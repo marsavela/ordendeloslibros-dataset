@@ -1,0 +1,153 @@
+{
+  "type": "series",
+  "name": "Homer Kelly",
+  "slug": "homer-kelly",
+  "source": "https://www.orderofbooks.com/characters/homer-kelly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/06/Homer-Kelly-by-Jane-Langton.jpg",
+  "books": [
+    {
+      "title": "The Transcendental Murder / The Minuteman Murder",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dark Nantucket Noon",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Memorial Hall Murder",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Natural Enemy",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Emily Dickinson is Dead",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Good and Dead",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder at the Gardner",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Dante Game",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "God in Concord",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Divine Inspiration",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Shortest Day",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Dead as a Dodo",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Face on the Wall",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Thief of Venice",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Murder at Monticello",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Escher Twist",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Deserter",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Steeplechase",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

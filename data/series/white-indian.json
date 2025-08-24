@@ -1,0 +1,239 @@
+{
+  "type": "series",
+  "name": "White Indian",
+  "slug": "white-indian",
+  "source": "https://www.orderofbooks.com/characters/white-indian/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/White-Indian-by-Donald-Clayton-Porter.jpg",
+  "authors": [
+    {
+      "name": "Book Creations",
+      "slug": "book-creations"
+    }
+  ],
+  "books": [
+    {
+      "title": "White Indian",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Renegade",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "War Chief",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Sachem",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Renno",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tomahawk",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "War Cry",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ambush",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Seneca",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Cherokee",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Choctaw",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Seminole",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "War Drums",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Apache",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Spirit Knife",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Manitou",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Seneca Warrior",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Father of Waters",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Fallen Timbers",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Sachem's Son",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Sachem's Daughter",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Seneca Patriots",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Hawk's Journey",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Father and Son",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "War Clouds",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Red Stick",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Creek Thunder",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Medicine Shield",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "John Rain",
+  "slug": "john-rain",
+  "source": "https://www.orderofbooks.com/characters/john-rain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/John-Rain-by-Barry-Eisler.jpg",
+  "authors": [
+    {
+      "name": "Barry Eisler",
+      "slug": "barry-eisler"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rain Fall / A Clean Kill in Tokyo",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hard Rain / Blood from Blood / A Lonely Resurrection",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rain Storm / Choke Point / Winner Take All",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Killing Rain / One Last Kill / Redemption Games",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Last Assassin / Extremis",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Requiem For an Assassin / The Killer Ascendant",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Paris is a Bitch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Detachment",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Graveyard of Memories",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Zero Sum",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Killer Collective",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Chaos Kind",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

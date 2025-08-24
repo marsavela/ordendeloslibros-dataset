@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Mediator",
+  "slug": "mediator",
+  "source": "https://www.orderofbooks.com/characters/mediator/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/The-Mediator-by-Meg-Cabot-500x200.jpg",
+  "authors": [
+    {
+      "name": "Meg Cabot",
+      "slug": "meg-cabot"
+    }
+  ],
+  "books": [
+    {
+      "title": "Shadowland / Love You To Death",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ninth Key / High Stakes",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Reunion / Mean Spirits",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darkest Hour / Young Blood",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Haunted / Grave Doubts",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Every Girl's Dream",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Twilight / Heaven Sent",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Young Blood",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Proposal",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Remembrance",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

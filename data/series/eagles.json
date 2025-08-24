@@ -1,0 +1,153 @@
+{
+  "type": "series",
+  "name": "Eagles",
+  "slug": "eagles",
+  "source": "https://www.orderofbooks.com/characters/eagles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Eagles-MacCallister-by-William-W-Johnstone-JA-Johnstone.jpg",
+  "books": [
+    {
+      "title": "Eyes of Eagles",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dreams of Eagles",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Talons of Eagles",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Scream of Eagles",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rage of Eagles",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Song of Eagles",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cry of Eagles",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Blood of Eagles",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Destiny of Eagles",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Revenge of Eagles",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Pride of Eagles",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Crusade of Eagles",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Thunder of Eagles",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Bloodshed of Eagles",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Slaughter of Eagles",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Massacre of Eagles",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Carnage of Eagles",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Defiance of Eagles",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

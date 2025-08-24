@@ -1,0 +1,70 @@
+{
+  "type": "series",
+  "name": "Alex Craft",
+  "slug": "alex-craft",
+  "source": "https://www.orderofbooks.com/characters/alex-craft/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/04/Alex-Craft-by-Kalayna-Price.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alex Craft Books",
+      "books": [
+        {
+          "title": "Grave Witch",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Grave Dance",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Grave Memory",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Grave Visions",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Grave Ransom",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Grave Destiny",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Grave War",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    }
+  }
+}

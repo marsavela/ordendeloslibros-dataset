@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Haunted Bookshop Mysteries",
+  "slug": "haunted-bookshop-mysteries",
+  "source": "https://www.orderofbooks.com/characters/haunted-bookshop-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Haunted-Bookshop-Mysteries-by-Alice-Kimberly-Cleo-Coyle-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alice Kimberly",
+      "slug": "alice-kimberly"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Ghost and Mrs. McClure",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Ghost and the Dead Deb",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ghost and the Dead Man's Library",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Ghost and the Femme Fatale",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Ghost and the Haunted Mansion",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Ghost and the Bogus Bestseller",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Ghost and the Haunted Portrait",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Ghost and the Stolen Tears",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Ghost Goes to the Dogs",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

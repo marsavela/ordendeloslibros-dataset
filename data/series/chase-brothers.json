@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Chase Brothers",
+  "slug": "chase-brothers",
+  "source": "https://www.orderofbooks.com/characters/chase-brothers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Chase-Brothers-by-Lauren-Dane.jpg",
+  "books": [
+    {
+      "title": "Giving Chase",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Taking Chase",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Chased",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Making Chase",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

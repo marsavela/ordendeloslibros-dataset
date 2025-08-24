@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Pacific Northwest Mysteries",
+  "slug": "pacific-northwest-mysteries",
+  "source": "https://www.orderofbooks.com/characters/pacific-northwest-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Pacific-Northwest-Mysteries-by-Kate-Dyer-Seeley-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kate Dyer-Seeley",
+      "slug": "kate-dyer-seeley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Scene of the Climb",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Slayed on the Slopes",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Silenced in the Surf",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "First Degree Mudder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In Cave Danger",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

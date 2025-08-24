@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Indigo Court",
+  "slug": "indigo-court",
+  "source": "https://www.orderofbooks.com/characters/indigo-court/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Indigo-Spell-by-Yasmine-Galenorn-500x200.jpg",
+  "authors": [
+    {
+      "name": "Yasmine Galenorn",
+      "slug": "yasmine-galenorn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Night Myst",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Night Veil",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Night Seeker",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Night Vision",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Night's End",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Night Shivers",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

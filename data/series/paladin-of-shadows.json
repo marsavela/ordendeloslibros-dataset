@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Paladin Of Shadows",
+  "slug": "paladin-of-shadows",
+  "source": "https://www.orderofbooks.com/characters/paladin-of-shadows/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Paladin-of-Shadows-by-John-Ringo-500x200.jpg",
+  "authors": [
+    {
+      "name": "John Ringo",
+      "slug": "john-ringo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ghost",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kildar",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Choosers of the Slain",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Unto the Breach",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Deeper Blue",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tiger by the Tail",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

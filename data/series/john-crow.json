@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "John Crow",
+  "slug": "john-crow",
+  "source": "https://www.orderofbooks.com/characters/john-crow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/John-Crow-by-Roy-Lewis.jpg",
+  "books": [
+    {
+      "title": "A Lover Too Many",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Error of Judgment",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Secret Singing / The Woods Murder",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blood Money / Murder for Money",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Question of Degree / Murder in the Mine",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Part of Virtue / A Cotswolds Murder / A Dartmoor Murder",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Nothing But Foxes / A Fox Hunting Murder",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

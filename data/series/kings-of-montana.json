@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Kings Of Montana",
+  "slug": "kings-of-montana",
+  "source": "https://www.orderofbooks.com/characters/kings-of-montana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Kings-of-Montana-by-Vanessa-Gray-Bartal.jpg",
+  "authors": [
+    {
+      "name": "Vanessa Gray Bartal",
+      "slug": "vanessa-gray-bartal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cowboy Down",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cowboy Lost",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cowboy Found",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cowboy Proud",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Christmas With The Kings",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

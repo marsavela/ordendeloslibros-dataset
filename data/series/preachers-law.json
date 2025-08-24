@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Preacher’s Law",
+  "slug": "preachers-law",
+  "source": "https://www.orderofbooks.com/characters/preachers-law/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Preachers-Law-by-Dean-L-McElwain.jpg",
+  "authors": [
+    {
+      "name": "Dean L. McElwain",
+      "slug": "dean-l-mcelwain"
+    }
+  ],
+  "books": [
+    {
+      "title": "Widow Maker",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Trail of Death",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Gavel and the Gun",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Gunfight",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Slaughter at Ten Sleep",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rebel",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Raiders",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

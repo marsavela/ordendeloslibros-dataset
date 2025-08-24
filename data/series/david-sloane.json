@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "David Sloane",
+  "slug": "david-sloane",
+  "source": "https://www.orderofbooks.com/characters/david-sloane/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/David-Sloane-by-Robert-Dugoni.jpg",
+  "books": [
+    {
+      "title": "The Jury Master",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wrongful Death",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bodily Harm",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder One",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Conviction",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

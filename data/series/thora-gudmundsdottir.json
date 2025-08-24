@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Thora Gudmundsdottir",
+  "slug": "thora-gudmundsdottir",
+  "source": "https://www.orderofbooks.com/characters/thora-gudmundsdottir/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Thora-Gudmundsdottir-by-Yrsa-Sigurdardottir-500x200.jpg",
+  "authors": [
+    {
+      "name": "Yrsa Sigurdardottir",
+      "slug": "yrsa-sigurdardottir"
+    }
+  ],
+  "books": [
+    {
+      "title": "Last Rituals",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "My Soul to Take",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ashes to Dust",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Day is Dark",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Someone to Watch Over Me",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Silence of the Sea",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

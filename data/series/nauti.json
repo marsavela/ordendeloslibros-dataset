@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Nauti",
+  "slug": "nauti",
+  "source": "https://www.orderofbooks.com/characters/nauti/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Nauti-by-Lora-Leigh.jpg",
+  "books": [
+    {
+      "title": "Nauti Boy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Nauti Nights",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nauti Intentions",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nauti Dreams",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nauti Deceptions",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

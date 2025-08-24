@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Jack Carpenter",
+  "slug": "jack-carpenter",
+  "source": "https://www.orderofbooks.com/characters/jack-carpenter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Jack-Carpenter-by-James-Swain.jpg",
+  "books": [
+    {
+      "title": "Midnight Rambler",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Night Stalker",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Night Monster",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Program",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

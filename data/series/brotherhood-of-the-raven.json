@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Brotherhood Of The Raven",
+  "slug": "brotherhood-of-the-raven",
+  "source": "https://www.orderofbooks.com/characters/brotherhood-of-the-raven/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Brotherhood-of-the-Raven-by-Marta-Perry.jpg",
+  "authors": [
+    {
+      "name": "Marta Perry",
+      "slug": "marta-perry"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder in Plain Sight",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Vanish in Plain Sight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lost in Plain Sight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Danger in Plain Sight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fallen in Plain Sight",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

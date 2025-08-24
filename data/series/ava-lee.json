@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Ava Lee",
+  "slug": "ava-lee",
+  "source": "https://www.orderofbooks.com/characters/ava-lee/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Ava-Lee-by-Ian-Hamilton.jpg",
+  "authors": [
+    {
+      "name": "Ian Hamilton",
+      "slug": "ian-hamilton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Water Rat of Wanchai / The Deadly Touch of the Tigress",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Disciple of Las Vegas / The Fiery Gaze of the Tigress",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Wild Beasts of Wuhan",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Red Pole of Macau",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Scottish Banker of Surabaya",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dragon Head of Hong Kong",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Two Sisters of Borneo",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The King of Shanghai",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Princeling of Nanjing",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Couturier of Milan",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Imam of Tawi-Tawi",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Goddess of Yantai",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Mountain Master of Sha Tin",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Diamond Queen of Singapore",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Sultan of Sarawak",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The General of Tiananmen Square",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Fury of Beijing",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Chronological Order of Ava Lee Books The Dragon Head of Hong Kong is a prequel story to the Ava Lee series. It is currently only available in some editions of The Water Rat of Wanchai or on Amazon.ca.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

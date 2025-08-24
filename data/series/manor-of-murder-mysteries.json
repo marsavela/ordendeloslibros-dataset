@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Manor Of Murder Mysteries",
+  "slug": "manor-of-murder-mysteries",
+  "source": "https://www.orderofbooks.com/characters/manor-of-murder-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Manor-of-Murder-Mysteries-by-Julie-Hyzy-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julie Hyzy",
+      "slug": "julie-hyzy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Grace Under Pressure",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Grace Interrupted",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Grace Among Thieves",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Grace Takes Off",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Grace Against the Clock",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Grace Cries Uncle",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Grace Sees Red",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Grace to the Finish",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

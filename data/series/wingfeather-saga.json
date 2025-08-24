@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Wingfeather Saga",
+  "slug": "wingfeather-saga",
+  "source": "https://www.orderofbooks.com/characters/wingfeather-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Wingfeather-Saga-by-Andrew-Peterson.jpg",
+  "authors": [
+    {
+      "name": "Andrew Peterson",
+      "slug": "andrew-peterson"
+    }
+  ],
+  "books": [
+    {
+      "title": "On the Edge of the Dark Sea of Darkness",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "North! or Be Eaten",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Monster in the Hollows",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pembrick's Creaturepedia (Companion Novel)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Warden and the Wolf King",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wingfeather Tales 1",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wingfeather Tales 2",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Ranger's Guide to Glipwood Forest",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

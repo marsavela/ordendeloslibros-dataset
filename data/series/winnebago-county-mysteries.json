@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Winnebago County Mysteries",
+  "slug": "winnebago-county-mysteries",
+  "source": "https://www.orderofbooks.com/characters/winnebago-county-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Winnebago-County-Mysteries-by-Christine-Husom-500x200.jpg",
+  "authors": [
+    {
+      "name": "Christine Husom",
+      "slug": "christine-husom"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder in Winnebago County",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Buried in Wolf Lake",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Altar by the River",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Noding Field Mystery",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Death in Lionel's Woods",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Secret in Whitetail Lake",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Firesetter in Blackwood Township",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Remains In Coyote Bog",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Death to the Dealers",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

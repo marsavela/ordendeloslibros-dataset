@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Liam Mulligan",
+  "slug": "liam-mulligan",
+  "source": "https://www.orderofbooks.com/characters/liam-mulligan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/Liam-Mulligan-by-Bruce-DeSilva-500x200.jpg",
+  "authors": [
+    {
+      "name": "Bruce DeSilva",
+      "slug": "bruce-desilva"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rogue Island",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cliff Walk",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Providence Rag",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Scourge of Vipers",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dread Line",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

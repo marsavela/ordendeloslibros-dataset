@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Wolves Of Mercy Falls",
+  "slug": "wolves-of-mercy-falls",
+  "source": "https://www.orderofbooks.com/characters/wolves-of-mercy-falls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Wolves-of-Mercy-Falls-by-Maggie-Stiefvater.jpg",
+  "authors": [
+    {
+      "name": "Maggie Stiefvater",
+      "slug": "maggie-stiefvater"
+    }
+  ],
+  "books": [
+    {
+      "title": "Shiver",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Linger",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Forever",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sinner",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

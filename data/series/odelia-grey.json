@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Odelia Grey",
+  "slug": "odelia-grey",
+  "source": "https://www.orderofbooks.com/characters/odelia-grey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Odelia-Grey-by-Sue-Ann-Jaffarian.jpg",
+  "authors": [
+    {
+      "name": "Sue Ann Jaffarian",
+      "slug": "sue-ann-jaffarian"
+    }
+  ],
+  "books": [
+    {
+      "title": "Too Big to Miss",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Curse of the Holy Pail",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Thugs and Kisses",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Booby Trap",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Corpse on the Cob",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Twice As Dead",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hide & Snoop",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Secondhand Stiff",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hell on Wheels",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Body to Spare",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Rhythm & Clues",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Too Big to Die",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

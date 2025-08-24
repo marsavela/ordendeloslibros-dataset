@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Josie Marcus: Mystery Shopper",
+  "slug": "josie-marcus-mystery-shopper",
+  "source": "https://www.orderofbooks.com/characters/josie-marcus-mystery-shopper/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Josie-Marcus-Mystery-Shopper-by-Elaine-Viets-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elaine Viets",
+      "slug": "elaine-viets"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dying in Style",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "High Heels are Murder",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Accessory to Murder",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder with All the Trimmings",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fashion Hound Murders",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "An Uplifting Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Death on a Platter",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder is a Piece of Cake",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fixing to Die",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Dog Gone Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

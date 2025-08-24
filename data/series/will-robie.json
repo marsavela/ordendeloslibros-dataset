@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Will Robie",
+  "slug": "will-robie",
+  "source": "https://www.orderofbooks.com/characters/will-robie/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Will-Robie-by-David-Baldacci-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Baldacci",
+      "slug": "david-baldacci"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Innocent",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hit",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bullseye",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Target",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Guilty",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "End Game",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Prominent characters from the Will Robie series appear in the book Walk the Wire , part of the Amos Decker series, and should be read after End Game .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

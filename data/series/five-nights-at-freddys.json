@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Five Nights at Freddy’s",
+  "slug": "five-nights-at-freddys",
+  "source": "https://www.orderofbooks.com/characters/five-nights-at-freddys/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/03/fivenights-at-freddys.jpg",
+  "authors": [
+    {
+      "name": "Scott Cawthon",
+      "slug": "scott-cawthon"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Silver Eyes",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Twisted Ones",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fourth Closet",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Security Breach Files",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Five Nights at Freddy's: The Official Movie Novel",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Five Nights at Freddy's: Movie #2 Novel",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

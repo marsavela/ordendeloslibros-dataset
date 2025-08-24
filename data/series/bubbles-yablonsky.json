@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Bubbles Yablonsky",
+  "slug": "bubbles-yablonsky",
+  "source": "https://www.orderofbooks.com/characters/bubbles-yablonsky/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Bubbles-Yablonsky-by-Sarah-Strohmeyer.jpg",
+  "authors": [
+    {
+      "name": "Sarah Strohmeyer",
+      "slug": "sarah-strohmeyer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bubbles Unbound",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bubbles In Trouble",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bubbles Ablaze",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bubbles A Broad",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bubbles Betrothed",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bubbles All The Way",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bubbles Reboots",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Galaxy Unknown",
+  "slug": "galaxy-unknown",
+  "source": "https://www.orderofbooks.com/characters/galaxy-unknown/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/A-Galaxy-Unknown-by-Thomas-DePrima-500x200.jpg",
+  "authors": [
+    {
+      "name": "Thomas DePrima",
+      "slug": "thomas-deprima"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Galaxy Unknown",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Milor!",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Clones of Mawcett",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Valor at Vauzlee",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Trader Vyx",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Castle Vroman",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Against All Odds",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Return to Dakistee",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Retreat And Adapt",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Azula Carver",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Changing of the Guard",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Invasion Begins",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

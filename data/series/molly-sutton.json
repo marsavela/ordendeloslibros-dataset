@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "Molly Sutton",
+  "slug": "molly-sutton",
+  "source": "https://www.orderofbooks.com/characters/molly-sutton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/05/Molly-Sutton-by-Nell-Goddin.jpg",
+  "books": [
+    {
+      "title": "The Third Girl",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Luckiest Woman Ever",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Prisoner of Castillac",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder for Love / Red for Love",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Chateau Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder on Vacation",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "An Official Killing",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death in Darkness",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "No Honor Among Thieves",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Eye for an Eye",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bittersweet Oblivion",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Seven Corpses All in a Row",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Madame Tessier Knows All",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

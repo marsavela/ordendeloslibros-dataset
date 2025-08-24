@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Raven’s Shadow",
+  "slug": "ravens-shadow",
+  "source": "https://www.orderofbooks.com/characters/ravens-shadow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/ravens-shadow-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anthony Ryan",
+      "slug": "anthony-ryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blood Song",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tower Lord",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Queen of Fire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lord Collector",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Lady of Crows",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Duel of Evils",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Many Are the Dead",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Book Burner's Fall",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

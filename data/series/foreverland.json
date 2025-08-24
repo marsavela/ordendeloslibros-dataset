@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Foreverland",
+  "slug": "foreverland",
+  "source": "https://www.orderofbooks.com/characters/foreverland/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Foreverland-by-Tony-Bertauski-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tony Bertauski",
+      "slug": "tony-bertauski"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Annihilation of Foreverland",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Foreverland is Dead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ashes of Foreverland",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Seeds of Foreverland",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Old Bastards",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

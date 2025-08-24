@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Nick Heller",
+  "slug": "nick-heller",
+  "source": "https://www.orderofbooks.com/characters/nick-heller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/06/nick-heller.png",
+  "books": [
+    {
+      "title": "Vanished",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Buried Secrets",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Guilty Minds",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "House on Fire",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

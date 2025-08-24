@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Wakefield Dynasty",
+  "slug": "wakefield-dynasty",
+  "source": "https://www.orderofbooks.com/characters/wakefield-dynasty/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Wakefield-Dynasty-by-Gilbert-Morris.jpg",
+  "authors": [
+    {
+      "name": "Gilbert Morris",
+      "slug": "gilbert-morris"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Sword of Truth",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Winds of God",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Shield of Honor",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fields of Glory",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Ramparts of Heaven",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Song of Princes",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Gathering of Eagles",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

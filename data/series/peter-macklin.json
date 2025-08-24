@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Peter Macklin",
+  "slug": "peter-macklin",
+  "source": "https://www.orderofbooks.com/characters/peter-macklin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Peter-Macklin-by-Loren-D-Estleman.jpg",
+  "books": [
+    {
+      "title": "Kill Zone",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Roses are Dead",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Any Man's Death",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Something Borrowed, Something Black",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Little Black Dress",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

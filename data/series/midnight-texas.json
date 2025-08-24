@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Midnight, Texas",
+  "slug": "midnight-texas",
+  "source": "https://www.orderofbooks.com/characters/midnight-texas/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Midnight-Texas-by-Charlaine-Harris-500x200.jpg",
+  "authors": [
+    {
+      "name": "Charlaine Harris",
+      "slug": "charlaine-harris"
+    }
+  ],
+  "books": [
+    {
+      "title": "Midnight Crossroad",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Day Shift",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Night Shift",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

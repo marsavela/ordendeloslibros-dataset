@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Mac Fontana",
+  "slug": "mac-fontana",
+  "source": "https://www.orderofbooks.com/characters/mac-fontana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Mac-Fontana-by-Earl-W-Emerson-500x200.jpg",
+  "books": [
+    {
+      "title": "Black Hearts And Slow Dancing",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Help Wanted: Orphans Preferred",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Morons and Madmen",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Going Crazy In Public",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dead Horse Paint Company",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

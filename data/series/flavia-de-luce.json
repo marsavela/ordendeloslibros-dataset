@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Flavia De Luce",
+  "slug": "flavia-de-luce",
+  "source": "https://www.orderofbooks.com/characters/flavia-de-luce/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Flavia-De-Luce-Mystery-by-Alan-Bradley.jpg",
+  "books": [
+    {
+      "title": "The Sweetness at the Bottom of the Pie",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Weed That Strings the Hangman's Bag",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Red Herring Without Mustard",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "I Am Half-Sick of Shadows",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Speaking from Among the Bones",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dead in Their Vaulted Arches",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Curious Case of the Copper Corpse",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "As Chimney Sweepers Come to Dust",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Thrice the Brinded Cat Hath Mew'd",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Grave's a Fine and Private Place",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Golden Tresses of the Dead",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "What Time the Sexton's Spade Doth Rust",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

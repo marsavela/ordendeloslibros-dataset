@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Throne Of Glass",
+  "slug": "throne-of-glass",
+  "source": "https://www.orderofbooks.com/characters/throne-of-glass/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Throne-of-Glass-by-Sarah-J-Maas-500x200.jpg",
+  "books": [
+    {
+      "title": "Throne of Glass",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crown of Midnight",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Heir of Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Queen of Shadows",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Empire of Storms",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tower of Dawn",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Kingdom of Ash",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "type": "series",
+  "name": "She Persisted",
+  "slug": "she-persisted",
+  "source": "https://www.orderofbooks.com/characters/she-persisted/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/12/she-persisted.jpg",
+  "authors": [
+    {
+      "name": "Chelsea Clinton",
+      "slug": "chelsea-clinton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ella Fitzgerald (By: Andrea Davis Pinkney)",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "13 American Women Who Changed the World (By: Chelsea Clinton)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "She Persisted Around the World (By: Chelsea Clinton)",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "American Olympians Who Changed the Game (By: Chelsea Clinton)",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Harriet Tubman (By: Andrea Davis Pinkney)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Claudette Colvin (By: Lesa Cline-Ransome)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sally Ride (By: Atia Abawi)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Virginia Apgar (By: Sayantani DasGupta)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Nellie Bly (By: Michelle Knudsen)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sonia Sotomayor (By: Meg Medina)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Florence Griffith Joyner (By: Rita Williams-Garcia)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Ruby Bridges (By: Kekla Magoon)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Clara Lemlich (By: Deborah Heiligman)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Margaret Chase Smith (By: Ruby Shamir)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Maria Tallchief (By: Christine Day)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Helen Keller (By: Courtney Sheinmel)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Oprah Winfrey (By: Renée Watson)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Wangari Maathai (By: Eucabeth A. Odhiambo)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Brilliant Women Who Made a Difference (By: Chelsea Clinton)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Temple Grandin (By: Lyn Miller-Lachmann)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Patsy Mink (By: Tae Keller)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Marian Anderson (By: Katheryn Russell-Brown)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Malala Yousafzai (By: Aisha Saeed)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Diana Taurasi (By: Monica Brown)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Wilma Mankiller (By: Traci Sorell)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Maya Lin (By: Grace Lin)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Rosalind Franklin (By: Kimberly Brubaker Bradley)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Dorothy Height (By: Kelly Starling Lyons)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Florence Nightingale (By: Chelsea Clinton,Shelli R. Johannes)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Pura Belpré (By: Meg Medina,Marilisa Jimenez Garcia)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Simone Biles (By: Kekla Magoon)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    }
+  ]
+}

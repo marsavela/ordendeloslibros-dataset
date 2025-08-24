@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Ashton Ford",
+  "slug": "ashton-ford",
+  "source": "https://www.orderofbooks.com/characters/ashton-ford/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Ashton-Ford-by-Don-Pendleton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Don Pendleton",
+      "slug": "don-pendleton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ashes to Ashes",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Life to Life",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Time to Time",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mind to Mind",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Heart to Heart",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Eye To Eye",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

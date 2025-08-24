@@ -1,0 +1,257 @@
+{
+  "type": "series",
+  "name": "Stephanie Plum",
+  "slug": "stephanie-plum",
+  "source": "https://www.orderofbooks.com/characters/stephanie-plum/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Stephanie-Plum.jpg",
+  "books": [
+    {
+      "title": "One for the Money",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Two for the Dough",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Three to Get Deadly",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Four to Score",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "High Five",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hot Six",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Seven Up",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hard Eight",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "To the Nines",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ten Big Ones",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Eleven on Top",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Twelve Sharp",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Lean Mean Thirteen",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Fearless Fourteen",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Finger Lickin' Fifteen",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Sizzling Sixteen",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Smokin' Seventeen",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Explosive Eighteen",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Notorious Nineteen",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Takedown Twenty",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Top Secret Twenty-One",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Tricky Twenty-Two",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Turbo Twenty-Three",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Hardcore Twenty-Four",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Look Alive Twenty-Five",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Twisted Twenty-Six",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Fortune and Glory",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Game On",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Going Rogue",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Dirty Thirty",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Now or Never",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    }
+  ]
+}

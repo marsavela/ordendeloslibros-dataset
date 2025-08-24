@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Daughter Of Smoke & Bone",
+  "slug": "daughter-of-smoke-bone",
+  "source": "https://www.orderofbooks.com/characters/daughter-of-smoke-and-bone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Daughter-of-Smoke-and-Bone-by-Laini-Taylor.jpg",
+  "authors": [
+    {
+      "name": "Laini Taylor",
+      "slug": "laini-taylor"
+    }
+  ],
+  "books": [
+    {
+      "title": "Daughter of Smoke and Bone",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Days of Blood and Starlight",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Night of Cake & Puppets",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dreams of Gods and Monsters",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Daniel Vartanian",
+  "slug": "daniel-vartanian",
+  "source": "https://www.orderofbooks.com/characters/daniel-vartanian/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Daniel-Vartanian-by-Karen-Rose.jpg",
+  "books": [
+    {
+      "title": "Die For Me",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Scream For Me",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kill For Me",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

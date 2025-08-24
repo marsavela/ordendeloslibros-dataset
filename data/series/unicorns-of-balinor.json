@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Unicorns Of Balinor",
+  "slug": "unicorns-of-balinor",
+  "source": "https://www.orderofbooks.com/characters/unicorns-of-balinor/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Unicorns-of-Balinor-by-Mary-Stanton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mary Stanton",
+      "slug": "mary-stanton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Road to Balinor",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sunchaser's Quest",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Valley of Fear",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "By Fire, By Moonlight",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Search for the Star",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Secrets of the Scepter",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Night of the Shifter's Moon",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shadows Over Balinor",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Unicorns of Balinor",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

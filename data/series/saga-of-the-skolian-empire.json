@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Saga Of The Skolian Empire",
+  "slug": "saga-of-the-skolian-empire",
+  "source": "https://www.orderofbooks.com/characters/saga-of-the-skolian-empire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Saga-of-the-Skolian-Empire-by-Catherine-Asaro-500x200.jpg",
+  "authors": [
+    {
+      "name": "Catherine Asaro",
+      "slug": "catherine-asaro"
+    }
+  ],
+  "books": [
+    {
+      "title": "Primary Inversion",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Catch the Lightning",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Last Hawk",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Radiant Seas",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ascendant Sun",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Quantum Rose",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Spherical Harmonic",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Sextopia",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Moon's Shadow",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Skyfall",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Schism",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Final Key",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Ruby Dice",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Diamond Star",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Carnelians",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Starbridge",
+  "slug": "starbridge",
+  "source": "https://www.orderofbooks.com/characters/starbridge/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Starbridge-Church-of-England-by-Susan-Howatch.jpg",
+  "authors": [
+    {
+      "name": "Susan Howatch",
+      "slug": "susan-howatch"
+    }
+  ],
+  "books": [
+    {
+      "title": "Glittering Images",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Glamorous Powers",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ultimate Prizes",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Scandalous Risks",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mystical Paths",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Absolute Truths",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

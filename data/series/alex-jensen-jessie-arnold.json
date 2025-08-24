@@ -1,0 +1,116 @@
+{
+  "type": "series",
+  "name": "Alex Jensen & Jessie Arnold",
+  "slug": "alex-jensen-jessie-arnold",
+  "source": "https://www.orderofbooks.com/characters/alex-jensen-and-jessie-arnold/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Alex-Jensen-Jessie-Arnold-Alaska-Mysteries-by-Sue-Henry.jpg",
+  "authors": [
+    {
+      "name": "Sue Henry",
+      "slug": "sue-henry"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Jessie Arnold & Alex Jensen Books",
+      "books": [
+        {
+          "title": "Murder on the Iditarod Trail",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Termination Dust",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Sleeping Lady",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Death Takes Passage",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Deadfall",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Murder on the Yukon Quest",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Beneath the Ashes",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Dead North",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Cold Company",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Death Trap",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Murder at Five Finger Light",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Degrees of Separation",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        }
+      ]
+    }
+  }
+}

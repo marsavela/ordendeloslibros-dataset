@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Queens Of Montana",
+  "slug": "queens-of-montana",
+  "source": "https://www.orderofbooks.com/characters/queens-of-montana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Queens-of-Montana-by-Vanessa-Gray-Bartal-500x200.jpg",
+  "authors": [
+    {
+      "name": "Vanessa Gray Bartal",
+      "slug": "vanessa-gray-bartal"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Cowgirl Code",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "One Classy Cowgirl",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cowgirl Undercover",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cowgirl on the Run",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Cowgirl Who Loved Horses",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

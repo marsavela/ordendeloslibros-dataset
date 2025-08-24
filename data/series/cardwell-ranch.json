@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Cardwell Ranch",
+  "slug": "cardwell-ranch",
+  "source": "https://www.orderofbooks.com/characters/cardwell-ranch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Cardwell-Ranch-by-BJ-Daniels-500x200.jpg",
+  "authors": [
+    {
+      "name": "BJ Daniels",
+      "slug": "bj-daniels"
+    }
+  ],
+  "books": [
+    {
+      "title": "Crime Scene at Cardwell Ranch",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Justice at Cardwell Ranch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cardwell Ranch Trespasser",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cardwell Christmas Crime Scene",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

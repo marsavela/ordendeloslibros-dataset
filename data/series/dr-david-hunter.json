@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Dr. David Hunter",
+  "slug": "dr-david-hunter",
+  "source": "https://www.orderofbooks.com/characters/dr-david-hunter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Dr-David-Hunter-by-Simon-Beckett.jpg",
+  "books": [
+    {
+      "title": "The Chemistry of Death",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Written in Bone",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Whispers of the Dead",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Calling of the Grave",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Restless Dead",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Scent of Death",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Bone Garden",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

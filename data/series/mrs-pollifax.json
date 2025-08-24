@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Mrs. Pollifax",
+  "slug": "mrs-pollifax",
+  "source": "https://www.orderofbooks.com/characters/mrs-pollifax/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Mrs-Pollifax-by-Dorothy-Gilman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dorothy Gilman",
+      "slug": "dorothy-gilman"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Unexpected Mrs. Pollifax",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Amazing Mrs. Pollifax",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Elusive Mrs. Pollifax",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Palm for Mrs. Pollifax",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mrs. Pollifax on Safari",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mrs. Pollifax on the China Station",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mrs. Pollifax and the Hong Kong Buddha",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Mrs. Pollifax and the Golden Triangle",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mrs. Pollifax and the Whirling Dervish",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mrs. Pollifax and the Second Thief",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Mrs. Pollifax Pursued",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Mrs. Pollifax and the Lion Killer",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Mrs. Pollifax, Innocent Tourist",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Mrs. Pollifax Unveiled",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

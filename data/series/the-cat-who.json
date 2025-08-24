@@ -1,0 +1,249 @@
+{
+  "type": "series",
+  "name": "The Cat Who",
+  "slug": "the-cat-who",
+  "source": "https://www.orderofbooks.com/characters/the-cat-who/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/The-Cat-Who-by-Lilian-Jackson-Braun.jpg",
+  "books": [
+    {
+      "title": "The Cat Who Could Read Backwards",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Cat Who Ate Danish Modern",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cat Who Turned On And Off",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Cat Who Saw Red",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Cat Who Played Brahms",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Cat Who Played Post Office",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Cat Who Knew Shakespeare",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Cat Who Sniffed Glue",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Cat Who Went Underground",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Cat Who Talked to Ghosts",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Cat Who Lived High",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Cat Who Knew a Cardinal",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Cat Who Moved a Mountain",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Cat Who Wasn't There",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Cat Who Went into the Closet",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Cat Who Came to Breakfast",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Cat Who Blew the Whistle",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Cat Who Said Cheese",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Cat Who Tailed a Thief",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Cat Who Sang for the Birds",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Cat Who Saw Stars",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Cat Who Robbed a Bank",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Cat Who Smelled a Rat",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Cat Who Went Up the Creek",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Cat Who Brought Down the House",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Cat Who Talked Turkey",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Cat Who Went Bananas",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Cat Who Dropped a Bombshell",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Cat Who Had 60 Whiskers",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Cat Who Smelled Smoke is book #30 but has yet to be released.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

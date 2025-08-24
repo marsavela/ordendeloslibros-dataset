@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Corcoran Team",
+  "slug": "corcoran-team",
+  "source": "https://www.orderofbooks.com/characters/corcoran-team/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/corcoran-team-500x200.jpg",
+  "books": [
+    {
+      "title": "Fearless",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ruthless",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Relentless",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lawless",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Traceless",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Annie Raymond",
+  "slug": "annie-raymond",
+  "source": "https://www.orderofbooks.com/characters/annie-raymond/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Annie-Raymond-by-Penny-Grubb.jpg",
+  "books": [
+    {
+      "title": "Like False Money",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Jawbone Gang",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Doll Makers",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Where There's Smoke",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tiger Blood",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Syrup Trap City",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Boxed In",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

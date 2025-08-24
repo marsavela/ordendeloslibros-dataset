@@ -1,0 +1,76 @@
+{
+  "type": "series",
+  "name": "American’s Lady",
+  "slug": "americans-lady",
+  "source": "https://www.orderofbooks.com/characters/americans-lady/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Americans-Lady-by-Susan-Elizabeth-Phillips-500x200.jpg",
+  "authors": [
+    {
+      "name": "Susan Elizabeth Phillips",
+      "slug": "susan-elizabeth-phillips"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Wynette, Texas Books",
+      "books": [
+        {
+          "title": "Glitter Baby",
+          "year": 1987,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Fancy Pants",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Lady Be Good",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "First Lady",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "What I Did for Love",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Call Me Irresistible",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Great Escape",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    }
+  }
+}

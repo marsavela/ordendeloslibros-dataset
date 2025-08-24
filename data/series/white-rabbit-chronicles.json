@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "White Rabbit Chronicles",
+  "slug": "white-rabbit-chronicles",
+  "source": "https://www.orderofbooks.com/characters/white-rabbit-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/White-Rabbit-Chronicles-by-Gena-Showalter-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gena Showalter",
+      "slug": "gena-showalter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Alice in Zombieland",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Through the Zombie Glass",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Queen of Zombie Hearts",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cole… Meet Ali",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Mad Zombie Party",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kat in Zombieland",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The White Rabbit Chronicles",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Fatal (Moats)",
+  "slug": "fatal-moats",
+  "source": "https://www.orderofbooks.com/characters/fatal-series/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Fatal-Series-by-Bob-Moats-500x200.jpg",
+  "authors": [
+    {
+      "name": "Bob Moats",
+      "slug": "bob-moats"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fatal Rejection",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fatal Departure",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fatal Romance",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fatal Outbreak",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fatal Abductions",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fatal Seance",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

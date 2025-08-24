@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Privateersman",
+  "slug": "privateersman",
+  "source": "https://www.orderofbooks.com/characters/privateersman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Privateersman-Mysteries-by-David-Donachie.jpg",
+  "books": [
+    {
+      "title": "The Devil's Own Luck",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dying Trade",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Hanging Matter",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "An Element of Chance",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Scent of Betrayal",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Game of Bones",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

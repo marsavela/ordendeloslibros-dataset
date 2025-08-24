@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Horatio Hornblower",
+  "slug": "horatio-hornblower",
+  "source": "https://www.orderofbooks.com/characters/horatio-hornblower/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Horatio-Hornblower-by-CS-Forester.jpg",
+  "books": [
+    {
+      "title": "The Happy Return / Beat to Quarters",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ship of the Line",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flying Colours",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Commodore / Commodore Hornblower",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lord Hornblower",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mr. Midshipman Hornblower",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Lieutenant Hornblower",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hornblower and the Atropos",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Admiral Hornblower in the West Indies / Hornblower in the West Indies",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Hornblower and the Hotspur",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Hornblower During the Crisis / Hornblower and the Crisis",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

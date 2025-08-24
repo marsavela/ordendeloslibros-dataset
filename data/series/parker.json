@@ -1,0 +1,201 @@
+{
+  "type": "series",
+  "name": "Parker",
+  "slug": "parker",
+  "source": "https://www.orderofbooks.com/characters/parker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Parker-by-Richard-Stark-Donald-Westlake.jpg",
+  "books": [
+    {
+      "title": "Payback / Point Blank / The Hunter",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Steel Hit / The Man With The Getaway Face",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Outfit",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Mourner",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Score / Killtown",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Jugger",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Seventh / The Split",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Handle / Run Lethal",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Rare Coin Score",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Green Eagle Score",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Black Ice Score",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Sour Lemon Score",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Slayground",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Deadly Edge",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Plunder Squad",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Butcher's Moon",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Comeback",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Backflash",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Flashfire / Parker",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Firebreak",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Breakout",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Nobody Runs Forever",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Ask The Parrot",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Dirty Money",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

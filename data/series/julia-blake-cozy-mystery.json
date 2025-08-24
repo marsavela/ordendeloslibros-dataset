@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Julia Blake Cozy Mystery",
+  "slug": "julia-blake-cozy-mystery",
+  "source": "https://www.orderofbooks.com/characters/julia-blake-cozy-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/julia-blake-cozy.jpg",
+  "authors": [
+    {
+      "name": "Gillian Larkin.",
+      "slug": "gillian-larkin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Virtually Scared To Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Party To Die For",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Secret Killer",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death Takes A Trip",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Fair Murder",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death Shows Up",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder Makes A Claim",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Knitting And Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Death At The Spa",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Exercising The Past",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

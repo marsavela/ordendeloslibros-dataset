@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Quantum Logic",
+  "slug": "quantum-logic",
+  "source": "https://www.orderofbooks.com/characters/quantum-logic/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Quantum-Logic-by-Greg-Bear.jpg",
+  "books": [
+    {
+      "title": "Quantico",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mariposa",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

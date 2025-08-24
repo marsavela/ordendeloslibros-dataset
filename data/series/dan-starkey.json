@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Dan Starkey",
+  "slug": "dan-starkey",
+  "source": "https://www.orderofbooks.com/characters/dan-starkey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Dan-Starkey-by-Colin-Bateman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Northern Irish",
+      "slug": "northern-irish"
+    }
+  ],
+  "books": [
+    {
+      "title": "Divorcing Jack",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Of Wee Sweetie Mice & Men",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Turbulent Priests",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shooting Sean",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Horse with My Name",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Driving Big Davie",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Belfast Confidential",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Nine Inches",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fire and Brimstone",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Dead Pass",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

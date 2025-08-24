@@ -1,0 +1,193 @@
+{
+  "type": "series",
+  "name": "Brother Cadfael",
+  "slug": "brother-cadfael",
+  "source": "https://www.orderofbooks.com/characters/brother-cadfael/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Brother-Cadfael-by-Ellis-Peters.jpg",
+  "books": [
+    {
+      "title": "A Morbid Taste for Bones",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "One Corpse Too Many",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Monk's Hood",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Saint Peter's Fair",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Leper Of St. Giles",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Virgin in the Ice",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Sanctuary Sparrow",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Devil's Novice",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dead Man's Ransom",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Pilgrim of Hate",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "An Excellent Mystery",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Raven in the Foregate",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Rose Rent",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Hermit of Eyton Forest",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Confession of Brother Haluin",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "A Rare Benedictine",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Heretic's Apprentice",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Potter's Field",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Summer of the Danes",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Holy Thief",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Eye Witness",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Price of Light",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Brother Cadfael's Penance",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    }
+  ]
+}

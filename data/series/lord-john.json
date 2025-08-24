@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Lord John",
+  "slug": "lord-john",
+  "source": "https://www.orderofbooks.com/characters/lord-john/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Lord-John.jpg",
+  "books": [
+    {
+      "title": "Lord John and the Private Matter",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lord John and the Brotherhood of the Blade",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lord John and the Hand of Devils",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Scottish Prisoner",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

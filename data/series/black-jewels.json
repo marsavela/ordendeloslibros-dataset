@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Black Jewels",
+  "slug": "black-jewels",
+  "source": "https://www.orderofbooks.com/characters/black-jewels/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Black-Jewels-by-Anne-Bishop-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anne Bishop",
+      "slug": "anne-bishop"
+    }
+  ],
+  "books": [
+    {
+      "title": "Daughter of the Blood",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Heir to the Shadows",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Queen of the Darkness",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Invisible Ring",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dreams Made Flesh",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tangled Webs",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Shadow Queen",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shalador's Lady",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Twilight's Dawn",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Queen's Bargain",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Queen's Weapons",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Queen’s Price",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Chronological Order of the Black Jewels Books Collected within the book \"In Dreams Made Flesh\" you can find the stories Weaver of Dreams, Zuulaman,The Prince of Ebon Rih and Kaeleer's Heart. Twilight's Dawn also has a set of stories including Winsol Gifts, Shades of Honor, Family and The High Lord's Daughter. Weaver of Dreams (in Dreams Made Flesh) Zuulaman (in Dreams Made Flesh) The Invisible Ring Daughter of the Blood Heir to the Shadows The Prince of Ebon Rih (in Dreams Made Flesh) Queen of the Darkness Kaeleer's Heart (in Dreams Made Flesh) Tangled Webs Winsol Gifts (in Twilight's Dawn) Shades of Honor (in Twilight's Dawn) The Shadow Queen Shalador's Lady Family (in Twilight's Dawn) The High Lord's Daughter (in Twilight's Dawn)",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

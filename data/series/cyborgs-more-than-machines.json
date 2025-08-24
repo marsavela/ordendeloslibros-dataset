@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Cyborgs: More Than Machines",
+  "slug": "cyborgs-more-than-machines",
+  "source": "https://www.orderofbooks.com/characters/cyborgs-more-than-machines/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Cyborgs-by-Eve-Langlais-500x200.jpg",
+  "authors": [
+    {
+      "name": "Eve Langlais",
+      "slug": "eve-langlais"
+    }
+  ],
+  "books": [
+    {
+      "title": "C791",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "F814",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "B785",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Aramus",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Seth",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Adam",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Avion",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

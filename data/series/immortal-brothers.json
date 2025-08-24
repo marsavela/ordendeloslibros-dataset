@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Immortal Brothers",
+  "slug": "immortal-brothers",
+  "source": "https://www.orderofbooks.com/characters/immortal-brothers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Immortal-Brothers-by-Jacquelyn-Frank-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jacquelyn Frank",
+      "slug": "jacquelyn-frank"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cursed by Fire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cursed by Ice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bound by Sin",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bound in Darkness",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

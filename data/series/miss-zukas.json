@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Miss Zukas",
+  "slug": "miss-zukas",
+  "source": "https://www.orderofbooks.com/characters/miss-zukas/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/04/Miss-Zukas-by-Jo-Dereske.jpg",
+  "books": [
+    {
+      "title": "Miss Zukas and the Library Murders",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Miss Zukas and the Stroke of Death",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Miss Zukas and the Island Murders",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Miss Zukas and the Raven's Dance",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Out of Circulation",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Final Notice",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Miss Zukas in Death's Shadow",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Miss Zukas Shelves the Evidence",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bookmarked to Die",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Catalogue of Death",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Index to Murder",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Farewell, Miss Zukas",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

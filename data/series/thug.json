@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Thug",
+  "slug": "thug",
+  "source": "https://www.orderofbooks.com/characters/thug/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Thug-by-Wahida-Clark-500x200.jpg",
+  "authors": [
+    {
+      "name": "Wahida Clark",
+      "slug": "wahida-clark"
+    }
+  ],
+  "books": [
+    {
+      "title": "Thugs and the Women Who Love Them",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Every Thug Needs a Lady",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Thug Matrimony",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thug Lovin'",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Justify My Thug",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Honor Thy Thug",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Private Sessions Tape 1",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Thug Shorts",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Thugs 7",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "type": "series",
+  "name": "A Series Of Unfortunate Events",
+  "slug": "a-series-of-unfortunate-events",
+  "source": "https://www.orderofbooks.com/characters/a-series-of-unfortunate-events/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/A-Series-of-Unfortunate-Events-by-Lemony-Snicket.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of A Series Of Unfortunate Events Books",
+      "books": [
+        {
+          "title": "The Bad Beginning",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Reptile Room",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Wide Window",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Miserable Mill",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Austere Academy",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Ersatz Elevator",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Vile Village",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Hostile Hospital",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Carnivorous Carnival",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Slippery Slope",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "The Grim Grotto",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "The Penultimate Peril",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The End",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of A Series Of Unfortunate Events Companion Books",
+      "books": [
+        {
+          "title": "Lemony Snicket: The Unauthorized Autobiography",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Blank Book",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Behind the Scenes with Count Olaf",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Notorious Notations",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Beatrice Letters",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Horseradish",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

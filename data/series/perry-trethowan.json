@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Perry Trethowan",
+  "slug": "perry-trethowan",
+  "source": "https://www.orderofbooks.com/characters/perry-trethowan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Perry-Trethowan-by-Robert-Barnard-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Barnard",
+      "slug": "robert-barnard"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death by Sheer Torture / Sheer Torture",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death and the Princess",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Case of the Missing Brontë / The Missing Brontë",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bodies",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death In Purple Prose / The Cherry Blossom Corpse",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

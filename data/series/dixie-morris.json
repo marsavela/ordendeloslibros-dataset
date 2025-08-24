@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Dixie Morris",
+  "slug": "dixie-morris",
+  "source": "https://www.orderofbooks.com/characters/dixie-morris/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Dixie-Morris-Animal-Adventures-by-Gilbert-Morris.jpg",
+  "authors": [
+    {
+      "name": "Gilbert Morris",
+      "slug": "gilbert-morris"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dixie & Jumbo",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dixie & Stripes",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dixie & Dolly",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dixie & Sandy",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dixie & Ivan",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dixie & Bandit",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dixie & Champ",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dixie & Perry",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dixie & Blizzard",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dixie & Flash",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

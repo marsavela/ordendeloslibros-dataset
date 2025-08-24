@@ -1,0 +1,108 @@
+{
+  "type": "series",
+  "name": "Amish-Country Mysteries",
+  "slug": "amish-country-mysteries",
+  "source": "https://www.orderofbooks.com/characters/amish-country-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Amish-Country-Mysteries-by-PL-Gaus-500x200.jpg",
+  "authors": [
+    {
+      "name": "PL Gaus",
+      "slug": "pl-gaus"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amish-Country Mysteries Books",
+      "books": [
+        {
+          "title": "Blood of the Prodigal",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Broken English",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Clouds Without Rain",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Cast a Blue Shadow",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "A Prayer for the Night",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Separate from the World",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Harmless as Doves",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Names of Our Tears",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Whiskers of the Lion",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Stars for Lydia",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "English Shade",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        }
+      ]
+    }
+  }
+}

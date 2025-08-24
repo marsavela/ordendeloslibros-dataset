@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Dr. Samantha Owens",
+  "slug": "dr-samantha-owens",
+  "source": "https://www.orderofbooks.com/characters/dr-samantha-owens/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Dr-Samantha-Owens-by-JT-Ellison-500x200.jpg",
+  "authors": [
+    {
+      "name": "JT Ellison",
+      "slug": "jt-ellison"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Deeper Darkness",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Edge of Black",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Shadows Fall",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "What Lies Behind",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

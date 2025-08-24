@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Shopaholic",
+  "slug": "shopaholic",
+  "source": "https://www.orderofbooks.com/characters/shopaholic/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Shopaholic-by-Sophie-Kinsella.jpg",
+  "books": [
+    {
+      "title": "Confessions of a Shopaholic",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shopaholic Takes Manhattan / Shopaholic Abroad",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shopaholic Ties the Knot",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shopaholic & Sister",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shopaholic & Baby",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mini Shopaholic",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Shopaholic to the Stars",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shopaholic on Honeymoon",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Shopaholic to the Rescue",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Christmas Shopaholic",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

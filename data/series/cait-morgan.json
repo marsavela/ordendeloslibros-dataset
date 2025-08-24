@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Cait Morgan",
+  "slug": "cait-morgan",
+  "source": "https://www.orderofbooks.com/characters/cait-morgan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/Cait-Morgan-by-Cathy-Ace-500x200.jpg",
+  "authors": [
+    {
+      "name": "Cathy Ace",
+      "slug": "cathy-ace"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Corpse with the Silver Tongue",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Corpse with the Golden Nose",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Corpse with the Emerald Thumb",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Corpse with the Platinum Hair",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Corpse with the Sapphire Eyes",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Corpse with the Diamond Hand",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Corpse with the Garnet Face",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Corpse with the Ruby Lips",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Corpse with the Crystal Skull",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Corpse with the Iron Will",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Corpse with the Granite Heart",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Corpse with the Turquoise Toes",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Corpse with the Opal Fingers",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Corpse with the Pearly Smile",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Corpse with the Amber Neck",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

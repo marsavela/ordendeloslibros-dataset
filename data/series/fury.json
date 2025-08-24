@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Fury",
+  "slug": "fury",
+  "source": "https://www.orderofbooks.com/characters/fury/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Fury-by-Jim-Austin.jpg",
+  "authors": [
+    {
+      "name": "James Reasoner",
+      "slug": "james-reasoner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fury",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood Ransom",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "River War",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Last Chance Canyon",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nevada Guns",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

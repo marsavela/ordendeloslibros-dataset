@@ -1,0 +1,183 @@
+{
+  "type": "series",
+  "name": "Puzzle Lady Mysteries",
+  "slug": "puzzle-lady-mysteries",
+  "source": "https://www.orderofbooks.com/characters/puzzle-lady-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Puzzle-Lady-Mysteries-by-Parnell-Hall-500x200.jpg",
+  "authors": [
+    {
+      "name": "Parnell Hall",
+      "slug": "parnell-hall"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Clue for the Puzzle Lady",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Last Puzzle & Testament",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Puzzled to Death",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Puzzle in a Pear Tree",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "With this Puzzle, I Thee Kill",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "And a Puzzle to Die On",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Stalking the Puzzle Lady",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "You Have the Right to Remain Puzzled",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Sudoku Puzzle Murders",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dead Man's Puzzle",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Puzzle Lady vs. The Sudoku Lady",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The KenKen Killings",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "$10,000 in Small, Unmarked Puzzles",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Arsenic and Old Puzzles",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Lethal Luncheon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "NYPD Puzzle",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Puzzled Indemnity",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Presumed Puzzled",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "A Puzzle to be Named Later",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Purloined Puzzle",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Lights! Camera! Puzzles!",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    }
+  ]
+}

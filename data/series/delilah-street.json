@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Delilah Street",
+  "slug": "delilah-street",
+  "source": "https://www.orderofbooks.com/characters/delilah-street/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Delilah-Street-Paranormal-Investigator-by-Carole-Nelson-Douglas.jpg",
+  "authors": [
+    {
+      "name": "Carole Nelson Douglas",
+      "slug": "carole-nelson-douglas"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dancing With Werewolves",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Brimstone Kiss",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vampire Sunrise",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silver Zombie",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Virtual Virgin",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Monster Mash",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

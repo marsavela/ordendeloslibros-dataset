@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Paksenarrion",
+  "slug": "paksenarrion",
+  "source": "https://www.orderofbooks.com/characters/paksenarrion/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Paksenarrion-by-Elizabeth-Moon.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Moon",
+      "slug": "elizabeth-moon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sheepfarmer's Daughter",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Divided Allegiance",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Oath of Gold",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

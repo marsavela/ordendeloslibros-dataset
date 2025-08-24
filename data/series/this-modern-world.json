@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "This Modern World",
+  "slug": "this-modern-world",
+  "source": "https://www.orderofbooks.com/characters/this-modern-world/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/This-Modern-World-by-Tom-Tomorrow-Dan-Perkins.jpg",
+  "books": [
+    {
+      "title": "Greetings From This Modern World",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tune In Tomorrow",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Wrath of Sparky",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Penguin Soup for the Soul",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "When Penguins Attack!",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Great Big Book of Tomorrow",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hell in a Handbasket",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Future's So Bright I Can't Bear to Look",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Very Silly Mayor",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Too Much Crazy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Crazy Is the New Normal",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Tom Tomorrow: 25 Years of Tomorrow",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Life in the Stupidverse",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

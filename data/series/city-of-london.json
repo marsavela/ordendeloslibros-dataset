@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "City Of London",
+  "slug": "city-of-london",
+  "source": "https://www.orderofbooks.com/characters/city-of-london/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/City-of-London-by-J-Jackson-Bentley-500x200.jpg",
+  "authors": [
+    {
+      "name": "J Jackson Bentley",
+      "slug": "j-jackson-bentley"
+    }
+  ],
+  "books": [
+    {
+      "title": "48 Hours",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Chameleon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fogarty",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ring Ring",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Remnants of Deceit",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

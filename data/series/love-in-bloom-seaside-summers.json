@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Love In Bloom: Seaside Summers",
+  "slug": "love-in-bloom-seaside-summers",
+  "source": "https://www.orderofbooks.com/characters/love-in-bloom-seaside-summers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/07/Love-In-Bloom-Seaside-Summers-by-Melissa-Foster.jpg",
+  "books": [
+    {
+      "title": "Seaside Dreams",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Seaside Hearts",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Seaside Sunsets",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Seaside Secrets",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Seaside Nights",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Seaside Embrace",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Seaside Lovers",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Seaside Whispers",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Seaside Serenade",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

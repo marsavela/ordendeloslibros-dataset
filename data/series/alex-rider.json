@@ -1,0 +1,229 @@
+{
+  "type": "series",
+  "name": "Alex Rider",
+  "slug": "alex-rider",
+  "source": "https://www.orderofbooks.com/characters/alex-rider/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/Alex-Rider.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alex Rider Books",
+      "books": [
+        {
+          "title": "Stormbreaker",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Point Blank",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Skeleton Key",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Eagle Strike",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Scorpia",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Ark Angel",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Snakehead",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Crocodile Tears",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Quite a Ride",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Scorpia Rising",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Russian Roulette",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Never Say Die",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Secret Weapon",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Nightshade",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Nightshade Revenge",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Alex Rider: The Graphic Novel Books",
+      "books": [
+        {
+          "title": "Stormbreaker",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Point Blank",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Skeleton Key",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Eagle Strike",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Scorpia",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Ark Angel",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    },
+    "publication_3": {
+      "heading": "Publication Order of Alex Rider Non-Fiction Books",
+      "books": [
+        {
+          "title": "The Gadget",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Alex Rider, Mission Files",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        }
+      ]
+    },
+    "publication_4": {
+      "heading": "Publication Order of Alex Rider Collections",
+      "books": [
+        {
+          "title": "Alex Rider: Secret Weapon",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Alex Rider Undercover",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        }
+      ]
+    }
+  }
+}

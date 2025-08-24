@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Magic Potion Mysteries",
+  "slug": "magic-potion-mysteries",
+  "source": "https://www.orderofbooks.com/characters/magic-potion-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/09/Magic-Potion-Mysteries-by-Heather-Blake-500x200.jpg",
+  "authors": [
+    {
+      "name": "Heather Blake",
+      "slug": "heather-blake"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Potion to Die For",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "One Potion in the Grave",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ghost of a Potion",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

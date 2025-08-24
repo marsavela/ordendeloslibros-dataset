@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Kenzie/Gennaro",
+  "slug": "kenzie-gennaro",
+  "source": "https://www.orderofbooks.com/characters/kenzie-gennaro/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Kenzie-Gennaro-by-Dennis-Lehane.jpg",
+  "books": [
+    {
+      "title": "A Drink Before the War",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Darkness, Take My Hand",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sacred",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gone, Baby, Gone",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Prayers for Rain",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Moonlight Mile",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

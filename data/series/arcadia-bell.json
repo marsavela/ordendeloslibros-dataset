@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Arcadia Bell",
+  "slug": "arcadia-bell",
+  "source": "https://www.orderofbooks.com/characters/arcadia-bell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/arcadia-bell-500x200.jpg",
+  "books": [
+    {
+      "title": "Kindling the Moon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Summoning the Night",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Leashing the Tempest",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Binding the Shadows",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Banishing the Dark",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

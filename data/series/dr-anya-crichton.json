@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Dr. Anya Crichton",
+  "slug": "dr-anya-crichton",
+  "source": "https://www.orderofbooks.com/characters/dr-anya-crichton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Dr-Anya-Crichton.jpg",
+  "books": [
+    {
+      "title": "Malicious Intent",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Without Consent",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bloodborn",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death Mask",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cold Grave",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fatal Impact",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Stanley Bentworth",
+  "slug": "stanley-bentworth",
+  "source": "https://www.orderofbooks.com/characters/stanley-bentworth/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Stanley-Bentworth-by-Al-Stevens-500x200.jpg",
+  "authors": [
+    {
+      "name": "Al Stevens",
+      "slug": "al-stevens"
+    }
+  ],
+  "books": [
+    {
+      "title": "On the Street Where You Die",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Dead Ringer",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Clueless",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Rat Squad",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "White Collar Murders",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fugitive Warrant",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hooker Stalker Killer Pimp",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder in the Bermuda Triangle",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Assisted Homicide",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Corpsicles' Cremains",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

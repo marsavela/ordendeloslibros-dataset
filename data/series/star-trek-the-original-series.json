@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Star Trek: The Original Series",
+  "slug": "star-trek-the-original-series",
+  "source": "https://www.orderofbooks.com/characters/star-trek-the-original-series/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Star-Trek-The-Original-Series-by-Gene-Roddenberry.jpg",
+  "authors": [
+    {
+      "name": "Gene Roddenberry. The",
+      "slug": "gene-roddenberry-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "My Enemy, My Ally",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Romulan Way",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Swordhunt",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Honor Blade",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Empty Chair",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

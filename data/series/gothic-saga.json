@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Gothic Saga",
+  "slug": "gothic-saga",
+  "source": "https://www.orderofbooks.com/characters/gothic-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Gothic-Saga-by-Joyce-Carol-Oates.jpg",
+  "authors": [
+    {
+      "name": "Joyce Carol Oates",
+      "slug": "joyce-carol-oates"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bellefleur",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "My Heart Laid Bare",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Accursed",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

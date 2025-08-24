@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Eskkar Saga",
+  "slug": "eskkar-saga",
+  "source": "https://www.orderofbooks.com/characters/eskkar-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Eskkar-Saga-by-Sam-Barone.jpg",
+  "books": [
+    {
+      "title": "Dawn of Empire",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Empire Rising",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Quest for Honour / Conflict of Empires",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eskkar & Trella - The Beginning",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Battle for Empire",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Clash of Empires",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

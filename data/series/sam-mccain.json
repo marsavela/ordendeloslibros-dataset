@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Sam McCain",
+  "slug": "sam-mccain",
+  "source": "https://www.orderofbooks.com/characters/sam-mccain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/06/Sam-McCain-by-Ed-Gorman.jpg",
+  "books": [
+    {
+      "title": "The Day The Music Died",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wake Up Little Susie",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Will You Still Love Me Tomorrow?",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Save the Last Dance for Me",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Everybody's Somebody's Fool",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Breaking Up Is Hard to Do",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fools Rush In",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ticket to Ride",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bad Moon Rising",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Riders on the Storm",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

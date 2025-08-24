@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Kate Connor: Demon Hunter",
+  "slug": "kate-connor-demon-hunter",
+  "source": "https://www.orderofbooks.com/characters/kate-connor-demon-hunter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Demon-Hunting-Soccer-Mom-by-Julie-Kenner-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julie Kenner",
+      "slug": "julie-kenner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Carpe Demon",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "California Demon",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Demons Are Forever",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deja Demon",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Demon Ex Machina",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Demon You Know...",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Pax Demonica",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Trouble with Demons",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Day of the Demon",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "How to Train Your Demon",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Naughtiest Girl",
+  "slug": "naughtiest-girl",
+  "source": "https://www.orderofbooks.com/characters/naughtiest-girl/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Enid-Blyton-Naughtiest-Girl.jpg",
+  "books": [
+    {
+      "title": "The Naughtiest Girl in the School",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Naughtiest Girl Again",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Naughtiest Girl Is a Monitor",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Here's the Naughtiest Girl!",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Naughtiest Girl Keeps a Secret",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Naughtiest Girl Helps a Friend",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Naughtiest Girl Saves the Day",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Well Done, The Naughtiest Girl!",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Naughtiest Girl Wants to Win",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Naughtiest Girl Marches On",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

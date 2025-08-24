@@ -1,0 +1,1431 @@
+{
+  "type": "series",
+  "name": "Nancy Drew",
+  "slug": "nancy-drew",
+  "source": "https://www.orderofbooks.com/characters/nancy-drew/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Nancy-Drew-by-Carolyn-Keene-500x200.jpg",
+  "authors": [
+    {
+      "name": "Edward Stratemeyer",
+      "slug": "edward-stratemeyer"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Secret of the Old Clock",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hidden Staircase",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bungalow Mystery",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Mystery at Lilac Inn",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Secret of Shadow Ranch",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Secret of Red Gate Farm",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Clue in the Diary",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Nancy's Mysterious Letter",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Sign of the Twisted Candles",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Password to Larkspur Lane",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Clue of the Broken Locket",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Message in the Hollow Oak",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Mystery of the Ivory Charm",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Whispering Statue",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Haunted Bridge",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Clue of the Tapping Heels",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Mystery of the Brass-Bound Trunk",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Mystery of the Moss-Covered Mansion",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Quest of the Missing Map",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Clue in the Jewel Box",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Secret in the Old Attic",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Clue in the Crumbling Wall",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Mystery of the Tolling Bell",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Clue in the Old Album",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Ghost of Blackwood Hall",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Clue of the Leaning Chimney",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Secret of the Wooden Lady",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Clue of the Black Keys",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Mystery at the Ski Jump",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Clue of the Velvet Mask",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Ringmaster's Secret",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Scarlet Slipper Mystery",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Witch Tree Symbol",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Hidden Window Mystery",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Haunted Showboat",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Secret of the Golden Pavilion",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Clue in the Old Stagecoach",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Mystery of the Fire Dragon",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Clue of the Dancing Puppet",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Moonstone Castle Mystery",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Clue of the Whistling Bagpipes",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Phantom of Pine Hill",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "The Mystery of the 99 Steps",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The Clue in the Crossword Cipher",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "The Spider Sapphire Mystery",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Invisible Intruder",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "The Mysterious Mannequin",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "The Crooked Banister",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Secret of Mirror Bay",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "The Nancy Drew Cookbook: Clues to Good Cooking",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "The Double Jinx Mystery",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Mystery of the Glowing Eye",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "The Secret of the Forgotten City",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "The Sky Phantom",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "The Strange Message in the Parchment",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Mystery of Crocodile Island",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "The Thirteenth Pearl",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "The Triple Hoax",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "The Flying Saucer Mystery",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "The Secret in the Old Lace",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "The Greek Symbol Mystery",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "The Swami's Ring",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "The Kachina Doll Mystery",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "The Twin Dilemma",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Captive Witness",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "Mystery of the Winged Lion",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Race Against Time",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "The Sinister Omen",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "The Elusive Heiress",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Clue in the Ancient Disguise",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "The Broken Anchor",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "The Silver Cobweb",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "The Haunted Carousel",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "Enemy Match",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "The Mysterious Image",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "The Emerald-Eyed Cat Mystery",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "The Eskimo's Secret",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "The Bluebeard Room",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "The Phantom of Venice",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "The Double Horror of Fenley Place",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "The Case of the Disappearing Diamonds",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "The Mardi Gras Mystery",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "The Clue in the Camera",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "The Case of the Vanishing Veil",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "The Joker's Revenge",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "The Secret of Shady Glen",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "The Mystery of Misty Canyon",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "The Case of the Rising Star",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "The Search for Cindy Austin",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "The Case of the Disappearing Deejay",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "The Puzzle at Pineview School",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "The Girl Who Couldn't Remember",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "The Ghost of Craven Cove",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    },
+    {
+      "title": "The Case of the Safecracker's Secret",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 94
+    },
+    {
+      "title": "The Picture Perfect Mystery",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 95
+    },
+    {
+      "title": "The Silent Suspect",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 96
+    },
+    {
+      "title": "The Case of the Photo Finish",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 97
+    },
+    {
+      "title": "The Mystery at Magnolia Mansion",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 98
+    },
+    {
+      "title": "The Haunting of Horse Island",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 99
+    },
+    {
+      "title": "The Secret at Seven Rocks",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 100
+    },
+    {
+      "title": "A Secret in Time",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 101
+    },
+    {
+      "title": "The Mystery of the Missing Millionairess",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 102
+    },
+    {
+      "title": "The Secret in the Dark",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 103
+    },
+    {
+      "title": "The Stranger in the Shadows",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 104
+    },
+    {
+      "title": "The Mystery of the Jade Tiger",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 105
+    },
+    {
+      "title": "The Clue in the Antique Trunk",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 106
+    },
+    {
+      "title": "The Case of the Artful Crime",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 107
+    },
+    {
+      "title": "The Legend of Miner's Creek",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 108
+    },
+    {
+      "title": "The Secret of the Tibetan Treasure",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 109
+    },
+    {
+      "title": "The Mystery of the Masked Rider",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 110
+    },
+    {
+      "title": "The Nutcracker Ballet Mystery",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 111
+    },
+    {
+      "title": "The Secret at Solaire",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 112
+    },
+    {
+      "title": "Crime in the Queen's Court",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 113
+    },
+    {
+      "title": "The Secret Lost at Sea",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 114
+    },
+    {
+      "title": "The Search for the Silver Persian",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 115
+    },
+    {
+      "title": "The Suspect in the Smoke",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 116
+    },
+    {
+      "title": "The Case of the Twin Teddy Bears",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 117
+    },
+    {
+      "title": "Mystery on the Menu",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 118
+    },
+    {
+      "title": "Trouble at Lake Tahoe",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 119
+    },
+    {
+      "title": "The Mystery of the Missing Mascot",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 120
+    },
+    {
+      "title": "The Case of the Floating Crime",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 121
+    },
+    {
+      "title": "The Fortune Teller's Secret",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 122
+    },
+    {
+      "title": "The Message in the Haunted Mansion",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 123
+    },
+    {
+      "title": "The Clue on the Silver Screen",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 124
+    },
+    {
+      "title": "The Secret of the Scarlet Hand",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 125
+    },
+    {
+      "title": "The Teen Model Mystery",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 126
+    },
+    {
+      "title": "The Riddle in the Rare Book",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 127
+    },
+    {
+      "title": "The Case of the Dangerous Solution",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 128
+    },
+    {
+      "title": "The Treasure in the Royal Tower",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 129
+    },
+    {
+      "title": "The Baby-Sitter Burglaries",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 130
+    },
+    {
+      "title": "The Sign of the Falcon",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 131
+    },
+    {
+      "title": "The Hidden Inheritance",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 132
+    },
+    {
+      "title": "The Fox Hunt Mystery",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 133
+    },
+    {
+      "title": "The Mystery at the Crystal Palace",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 134
+    },
+    {
+      "title": "The Secret of the Forgotten Cave",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 135
+    },
+    {
+      "title": "The Riddle of the Ruby Gazelle",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 136
+    },
+    {
+      "title": "The Wedding Day Mystery",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 137
+    },
+    {
+      "title": "In Search of the Black Rose",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 138
+    },
+    {
+      "title": "The Legend of the Lost Gold",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 139
+    },
+    {
+      "title": "The Secret of Candlelight Inn",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 140
+    },
+    {
+      "title": "The Door-to-Door Deception",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 141
+    },
+    {
+      "title": "The Wild Cat Crime",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 142
+    },
+    {
+      "title": "The Case of Capital Intrigue",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 143
+    },
+    {
+      "title": "Mystery on Maui",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 144
+    },
+    {
+      "title": "The E-Mail Mystery",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 145
+    },
+    {
+      "title": "The Missing Horse Mystery",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 146
+    },
+    {
+      "title": "The Ghost of the Lantern Lady",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 147
+    },
+    {
+      "title": "The Case of the Captured Queen",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 148
+    },
+    {
+      "title": "On the Trail of Trouble",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 149
+    },
+    {
+      "title": "The Clue of the Gold Doubloons",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 150
+    },
+    {
+      "title": "Mystery at Moorsea Manor",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 151
+    },
+    {
+      "title": "The Chocolate-Covered Contest",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 152
+    },
+    {
+      "title": "The Key in the Satin Pocket",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 153
+    },
+    {
+      "title": "Whispers in the Fog",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 154
+    },
+    {
+      "title": "The Legend of the Emerald Lady",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 155
+    },
+    {
+      "title": "The Mystery in Tornado Alley",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 156
+    },
+    {
+      "title": "The Secret in the Stars",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 157
+    },
+    {
+      "title": "The Music Festival Mystery",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 158
+    },
+    {
+      "title": "The Curse of the Black Cat",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 159
+    },
+    {
+      "title": "The Secret of the Fiery Chamber",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 160
+    },
+    {
+      "title": "The Clue on the Crystal Dove",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 161
+    },
+    {
+      "title": "Lost in the Everglades",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 162
+    },
+    {
+      "title": "The Case of the Lost Song",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 163
+    },
+    {
+      "title": "The Clues Challenge",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 164
+    },
+    {
+      "title": "The Mystery of the Mother Wolf",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 165
+    },
+    {
+      "title": "The Crime Lab Case",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 166
+    },
+    {
+      "title": "The Case of the Creative Crime",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 167
+    },
+    {
+      "title": "Mystery by Moonlight",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 168
+    },
+    {
+      "title": "The Bike Tour Mystery",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 169
+    },
+    {
+      "title": "The Mistletoe Mystery",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 170
+    },
+    {
+      "title": "No Strings Attached",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 171
+    },
+    {
+      "title": "Intrigue at the Grand Opera",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 172
+    },
+    {
+      "title": "The Riding Club Crime",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 173
+    },
+    {
+      "title": "Danger on the Great Lakes",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 174
+    },
+    {
+      "title": "A Taste of Danger",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 175
+    },
+    {
+      "title": "Werewolf in a Winter Wonderland",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 176
+    },
+    {
+      "title": "The Lost Files of Nancy Drew",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 177
+    }
+  ]
+}

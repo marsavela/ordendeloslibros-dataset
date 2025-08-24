@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Splintered",
+  "slug": "splintered",
+  "source": "https://www.orderofbooks.com/characters/splintered/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Splintered-by-AG-Howard-500x200.jpg",
+  "authors": [
+    {
+      "name": "AG Howard",
+      "slug": "ag-howard"
+    }
+  ],
+  "books": [
+    {
+      "title": "Splintered",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Moth in the Mirror",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Unhinged",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ensnared",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Untamed",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

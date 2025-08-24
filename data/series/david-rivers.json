@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "David Rivers",
+  "slug": "david-rivers",
+  "source": "https://www.orderofbooks.com/characters/david-rivers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/03/american-mercenary.jpg",
+  "authors": [
+    {
+      "name": "Jason Kasper",
+      "slug": "jason-kasper"
+    }
+  ],
+  "books": [
+    {
+      "title": "Greatest Enemy / Jais",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Offer of Revenge",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dark Redemption",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Vengeance Calling",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Ranger Objective",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Suicide Cartel",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Terminal Objective",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Final Strike",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

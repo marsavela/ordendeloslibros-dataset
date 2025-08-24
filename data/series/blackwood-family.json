@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Blackwood Family",
+  "slug": "blackwood-family",
+  "source": "https://www.orderofbooks.com/characters/blackwood-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Blackwood-Family-by-Douglas-Reeman.jpg",
+  "books": [
+    {
+      "title": "Badge of Glory",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The First to Land",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Horizon",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dust on the Sea",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Knife Edge",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

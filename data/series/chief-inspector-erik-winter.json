@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Chief Inspector Erik Winter",
+  "slug": "chief-inspector-erik-winter",
+  "source": "https://www.orderofbooks.com/characters/chief-inspector-erik-winter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Chief-Inspector-Erik-Winter-by-Ake-Edwardson.jpg",
+  "authors": [
+    {
+      "name": "Ake Edwardson",
+      "slug": "ake-edwardson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death Angels",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Shadow Woman",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sun and Shadow",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Never End",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Frozen Tracks",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sail of Stone",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Room No. 10",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

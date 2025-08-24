@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "name": "Alan Craik",
+  "slug": "alan-craik",
+  "source": "https://www.orderofbooks.com/characters/alan-craik/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Alan-Craik-by-Gordon-Kent.jpg",
+  "authors": [
+    {
+      "name": "Gordon Kent",
+      "slug": "gordon-kent"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alan Craik Books",
+      "books": [
+        {
+          "title": "Night Trap / Rules of Engagement",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Peace Maker",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Top Hook",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Hostile Contact",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Force Protection",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Damage Control",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Falconer's Tale",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Spoils of War",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        }
+      ]
+    }
+  }
+}

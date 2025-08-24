@@ -1,0 +1,201 @@
+{
+  "type": "series",
+  "name": "Toby Peters",
+  "slug": "toby-peters",
+  "source": "https://www.orderofbooks.com/characters/toby-peters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Toby-Peters-by-Stuart-M-Kaminsky.jpg",
+  "books": [
+    {
+      "title": "Bullet for a Star",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder on the Yellow Brick Road",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "You Bet Your Life",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Howard Hughes Affair",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Never Cross a Vampire",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "High Midnight",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Catch a Falling Clown",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "He Done Her Wrong",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Fala Factor",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Down for the Count",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Man Who Shot Lewis Vance",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Smart Moves",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Think Fast, Mr. Peters",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Buried Caesars",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Poor Butterfly",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Melting Clock",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Devil Met a Lady",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Tomorrow is Another Day",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Dancing in the Dark",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Fatal Glass of Beer",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Few Minutes Past Midnight",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "To Catch A Spy",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Mildred Pierced",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Now You See It",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

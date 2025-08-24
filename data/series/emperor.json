@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Emperor",
+  "slug": "emperor",
+  "source": "https://www.orderofbooks.com/characters/emperor/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Emperor-by-Conn-Iggulden.jpg",
+  "books": [
+    {
+      "title": "The Gates of Rome",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Death of Kings",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Field of Swords",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Gods of War",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Blood of Gods",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

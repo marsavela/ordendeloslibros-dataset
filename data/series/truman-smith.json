@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Truman Smith",
+  "slug": "truman-smith",
+  "source": "https://www.orderofbooks.com/characters/truman-smith/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Truman-Smith-by-Bill-Crider.jpg",
+  "books": [
+    {
+      "title": "Dead on the Island",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gator Kill",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Old Men Die",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Prairie Chicken Kill",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder Takes a Break",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

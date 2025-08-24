@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Spice Shop Mysteries",
+  "slug": "spice-shop-mysteries",
+  "source": "https://www.orderofbooks.com/characters/spice-shop-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Spice-Shop-Mysteries-by-Gail-Oust-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gail Oust",
+      "slug": "gail-oust"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rosemary and Crime",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kill 'Em with Cayenne",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cinnamon Toasted",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Curried Away",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ginger Snapped",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

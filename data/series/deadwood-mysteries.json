@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Deadwood Mysteries",
+  "slug": "deadwood-mysteries",
+  "source": "https://www.orderofbooks.com/characters/deadwood-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Deadwood-Mysteries-by-Ann-Charles-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ann Charles",
+      "slug": "ann-charles"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nearly Departed in Deadwood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Optical Delusions in Deadwood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Case in Deadwood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Better Off Dead in Deadwood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "An Ex to Grind in Deadwood",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Meanwhile, Back in Deadwood",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Wild Fright in Deadwood",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Rattling the Heat in Deadwood",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Gone Haunting in Deadwood",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Don't Let It Snow in Deadwood",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Devil Days in Deadwood",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Never Say Sever in Deadwood",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "TimeReaping in Deadwood",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Cops and Clobbers in Deadwood",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

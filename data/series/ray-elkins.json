@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Ray Elkins",
+  "slug": "ray-elkins",
+  "source": "https://www.orderofbooks.com/characters/ray-elkins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Ray-Elkins-by-Aaron-Stander-500x200.jpg",
+  "authors": [
+    {
+      "name": "Aaron Stander",
+      "slug": "aaron-stander"
+    }
+  ],
+  "books": [
+    {
+      "title": "Summer People",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Color Tour",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deer Season",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shelf Ice",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Medieval Murders",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cruelest Month",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Death in a Summer Colony",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder in the Merlot",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Gales of November",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Center Cannot Hold",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Destination Wedding",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Smoke and Mirrors",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Jane Austen Mysteries",
+  "slug": "jane-austen-mysteries",
+  "source": "https://www.orderofbooks.com/characters/jane-austen-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Being-A-Jane-Austen-Mysteries-by-Stephanie-Barron.jpg",
+  "authors": [
+    {
+      "name": "Stephanie Barron",
+      "slug": "stephanie-barron"
+    }
+  ],
+  "books": [
+    {
+      "title": "Jane and the Unpleasantness at Scargrave Manor",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Jane and the Man of the Cloth",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jane and the Wandering Eye",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Jane and the Genius of the Place",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Jane and the Stillroom Maid",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Jane and the Prisoner of Wool House",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Jane and the Ghosts of Netley",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Jane and His Lordship's Legacy",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Jane and the Barque of Frailty",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Jane and the Madness of Lord Byron",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Jane and the Canterbury Tale",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Jane and the Twelve Days of Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Jane and the Waterloo Map",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Jane and the Year Without a Summer",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Jane and the Final Mystery",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

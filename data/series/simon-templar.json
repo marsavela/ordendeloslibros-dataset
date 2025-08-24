@@ -1,0 +1,431 @@
+{
+  "type": "series",
+  "name": "Simon Templar",
+  "slug": "simon-templar",
+  "source": "https://www.orderofbooks.com/characters/simon-templar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/The-Saint-Simon-Templar-by-Leslie-Charteris-500x200.jpg",
+  "authors": [
+    {
+      "name": "Leslie Charteris",
+      "slug": "leslie-charteris"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Saint Meets the Tiger / Meet the Tiger!",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Enter the Saint",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Saint Closes the Case / The Last Hero",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Avenging Saint / Knight Templar",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Saint Meets his Match",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Featuring the Saint",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Alias the Saint",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Saint Meets His Match / She Was a Lady / Angels of Doom",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Saint versus Scotland Yard / The Holy Terror",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Saint's Getaway / The Getaway",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Saint and Mr. Teal / Once More the Saint",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Brighter Buccaneer",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Saint in London / The Misfortunes of Mr. Teal",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Saint Intervenes / Boodle",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Saint Goes On",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Saint in New York",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Saint Overboard",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Saint in Action / Ace of Knaves",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Saint Bids Diamonds / The Saint at the Thieves' Picnic / Thieves' Picnic",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Saint Plays with Fire / Prelude for War",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Follow the Saint",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Happy Highwayman",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Saint in Miami",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Saint Goes West",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Saint Steps In",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Saint on Guard",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Saint and the Sizzling Saboteur",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Saint Sees it Through",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Call for the Saint",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Saint Errant",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Saint in Europe",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Saint on the Spanish Main",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Saint Around the World",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Thanks to the Saint",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Señor Saint",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Saint to the Rescue",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Trust the Saint",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Saint in the Sun",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Vendetta for the Saint",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Saint on TV",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Saint Returns",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Saint and the Fiction Makers",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "The Saint Abroad",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The Saint in Pursuit",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "The Saint and the People Importers",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Catch the Saint",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "The Saint and the Hapsburg Necklace",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Send for the Saint",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Saint in Trouble",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "The Saint and the Templar Treasure",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Count on the Saint",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Salvage for the Saint",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    }
+  ]
+}

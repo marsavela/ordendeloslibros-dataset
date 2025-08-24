@@ -1,0 +1,31 @@
+{
+  "type": "series",
+  "name": "Legacy Of The Stone Harp",
+  "slug": "legacy-of-the-stone-harp",
+  "source": "https://www.orderofbooks.com/characters/legacy-of-the-stone-harp/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Legacy-Of-The-Stone-Harp-by-James-G-Anderson-Mark-Sebanc.jpg",
+  "authors": [
+    {
+      "name": "James G. Anderson",
+      "slug": "james-g-anderson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Stoneholding",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Darkling Fields of Arvon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

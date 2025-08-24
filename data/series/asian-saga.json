@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Asian Saga",
+  "slug": "asian-saga",
+  "source": "https://www.orderofbooks.com/characters/asian-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Asian-Saga-by-James-Clavell.jpg",
+  "books": [
+    {
+      "title": "King Rat",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tai-Pan",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shogun",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Noble House",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Whirlwind",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gai-Jin",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Escape",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

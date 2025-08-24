@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Sam Acquillo",
+  "slug": "sam-acquillo",
+  "source": "https://www.orderofbooks.com/characters/sam-acquillo/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Sam-Acquillo-Hamptons-Mysteries-by-Chris-Knopf-500x200.jpg",
+  "authors": [
+    {
+      "name": "Chris Knopf",
+      "slug": "chris-knopf"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Last Refuge",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Two Time",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Head Wounds",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hard Stop",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Black Swan",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cop Job",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Back Lash",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tango Down",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Deep Dive",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Blood Bank",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Mark Treasure",
+  "slug": "mark-treasure",
+  "source": "https://www.orderofbooks.com/characters/mark-treasure/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Mark-Treasure-by-David-Williams-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Williams",
+      "slug": "david-williams"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unholy Writ",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Treasure by Degrees",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Treasure Up in Smoke",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder for Treasure",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Copper, Gold and Treasure",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Treasure Preserved",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Advertise for Treasure",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder in Advent",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wedding Treasure",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Treasure in Roubles",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Divided Treasure",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Treasure in Oxford",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Holy Treasure!",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Prescription for Murder",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Treasure by Post",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Planning On Murder",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Banking on Murder",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

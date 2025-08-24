@@ -1,0 +1,888 @@
+{
+  "type": "series",
+  "name": "Americana",
+  "slug": "americana",
+  "source": "https://www.orderofbooks.com/characters/americana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Americana-by-Janet-Dailey.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Americana Books",
+      "books": [
+        {
+          "title": "Savage Land: Texas",
+          "year": 1974,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Fire and Ice: California",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Darling Jenny: Wyoming",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Land of Enchantment: New Mexico",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "After the Storm: Colorado",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Boss Man From Ogallala: Nebraska",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Show Me: Missouri",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Homeplace: Iowa",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Dangerous Masquerade: Alabama",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Night of the Cotillion: Georgia",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Valley of the Vapours: Arkansas",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "A Lyon's Share: Illinois",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Big Sky Country: Montana",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Matchmakers: Delaware",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Reilly's Woman: Nevada",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "The Indy Man: Indiana",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Six White Horses: Oklahoma",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "The Widow and the Wastrel: Ohio",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Bluegrass King: Kentucky",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "To Tell the Truth: Oregon",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Sonora Sundown: Arizona",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "Summer Mahogany: Maine",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        },
+        {
+          "title": "The Bride of the Delta Queen: Louisiana",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 23
+        },
+        {
+          "title": "Green Mountain Man: Vermont",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 24
+        },
+        {
+          "title": "Beware of the Stranger: New York",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 25
+        },
+        {
+          "title": "Giant of Mesabi: Minnesota",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 26
+        },
+        {
+          "title": "Tidewater Lover: Virginia",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 27
+        },
+        {
+          "title": "Bed of Grass: Maryland",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 28
+        },
+        {
+          "title": "Low Country Liar: South Carolina",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 29
+        },
+        {
+          "title": "Kona Winds: Hawaii",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 30
+        },
+        {
+          "title": "That Boston Man: Massachusetts",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 31
+        },
+        {
+          "title": "Strange Bedfellow: Rhode Island",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 32
+        },
+        {
+          "title": "Sentimental Journey: Tennessee",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 33
+        },
+        {
+          "title": "A Land Called Deseret: Utah",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 34
+        },
+        {
+          "title": "For Mike's Sake: Washington",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 35
+        },
+        {
+          "title": "Lord of the High Lonesome: North Dakota",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 36
+        },
+        {
+          "title": "Heart of Stone: New Hampshire",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 37
+        },
+        {
+          "title": "Wild and Wonderful: West Virginia",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 38
+        },
+        {
+          "title": "Enemy in Camp: Michigan",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 39
+        },
+        {
+          "title": "Southern Nights: Florida",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 40
+        },
+        {
+          "title": "The Thawing of a Mara: Pennsylvania",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 41
+        },
+        {
+          "title": "The Mating Season: Kansas",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 42
+        },
+        {
+          "title": "Difficult Decision: Connecticut",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 43
+        },
+        {
+          "title": "One of the Boys: New Jersey",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 44
+        },
+        {
+          "title": "A Tradition of Pride: Mississippi",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 45
+        },
+        {
+          "title": "Dakota Dreamin': South Dakota",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 46
+        },
+        {
+          "title": "With a Little Luck: Wisconsin",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 47
+        },
+        {
+          "title": "That Carolina Summer: North Carolina",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 48
+        },
+        {
+          "title": "The Travelling Kind: Idaho",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 49
+        },
+        {
+          "title": "Northern Magic: Alaska",
+          "year": 1982,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 50
+        }
+      ]
+    },
+    "chronological": {
+      "heading": "Chronological Order of Americana Books",
+      "books": [
+        {
+          "title": "Dangerous Masquerade: Alabama",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Northern Magic: Alaska",
+          "year": 1982,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Sonora Sundown: Arizona",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Valley of the Vapours: Arkansas",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Fire and Ice: California",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "After the Storm: Colorado",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Difficult Decision: Connecticut",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Matchmakers: Delaware",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Southern Nights: Florida",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Night of the Cotillion: Georgia",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Kona Winds: Hawaii",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "The Travelling Kind: Idaho",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "A Lyon's Share: Illinois",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Indy Man: Indiana",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "The Homeplace: Iowa",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "The Mating Season: Kansas",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Bluegrass King: Kentucky",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "The Bride of the Delta Queen: Louisiana",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Summer Mahogany: Maine",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "Bed of Grass: Maryland",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "That Boston Man: Massachusetts",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "Enemy in Camp: Michigan",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        },
+        {
+          "title": "Giant of Mesabi: Minnesota",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 23
+        },
+        {
+          "title": "A Tradition of Pride: Mississippi",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 24
+        },
+        {
+          "title": "Show Me: Missouri",
+          "year": 1976,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 25
+        },
+        {
+          "title": "Big Sky Country: Montana",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 26
+        },
+        {
+          "title": "Boss Man From Ogallala: Nebraska",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 27
+        },
+        {
+          "title": "Reilly's Woman: Nevada",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 28
+        },
+        {
+          "title": "Heart of Stone: New Hampshire",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 29
+        },
+        {
+          "title": "One of the Boys: New Jersey",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 30
+        },
+        {
+          "title": "Land of Enchantment: New Mexico",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 31
+        },
+        {
+          "title": "Beware of the Stranger: New York",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 32
+        },
+        {
+          "title": "That Carolina Summer: North Carolina",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 33
+        },
+        {
+          "title": "Lord of the High Lonesome: North Dakota",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 34
+        },
+        {
+          "title": "The Widow and the Wastrel: Ohio",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 35
+        },
+        {
+          "title": "Six White Horses: Oklahoma",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 36
+        },
+        {
+          "title": "To Tell the Truth: Oregon",
+          "year": 1977,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 37
+        },
+        {
+          "title": "The Thawing of a Mara: Pennsylvania",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 38
+        },
+        {
+          "title": "Strange Bedfellow: Rhode Island",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 39
+        },
+        {
+          "title": "Low Country Liar: South Carolina",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 40
+        },
+        {
+          "title": "Dakota Dreamin': South Dakota",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 41
+        },
+        {
+          "title": "Sentimental Journey: Tennessee",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 42
+        },
+        {
+          "title": "Savage Land: Texas",
+          "year": 1974,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 43
+        },
+        {
+          "title": "A Land Called Deseret: Utah",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 44
+        },
+        {
+          "title": "Green Mountain Man: Vermont",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 45
+        },
+        {
+          "title": "Tidewater Lover: Virginia",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 46
+        },
+        {
+          "title": "For Mike's Sake: Washington",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 47
+        },
+        {
+          "title": "Wild and Wonderful: West Virginia",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 48
+        },
+        {
+          "title": "With a Little Luck: Wisconsin",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 49
+        },
+        {
+          "title": "Darling Jenny: Wyoming",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 50
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of New Americana Books",
+      "books": [
+        {
+          "title": "Sunrise Canyon",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Refuge Cove",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Letters from Peaceful Lane",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Hart's Hollow Farm",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Paradise Peak",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Hope Creek",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Blue Moon Haven",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Lone Oaks Crossing",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        }
+      ]
+    }
+  }
+}

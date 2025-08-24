@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Hawk’s Way",
+  "slug": "hawks-way",
+  "source": "https://www.orderofbooks.com/characters/hawks-way/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Hawks-Way-by-Joan-Johnston.jpg",
+  "authors": [
+    {
+      "name": "Joan Johnston",
+      "slug": "joan-johnston"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Little Time in Texas / Dallas",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Honey and the Hired Hand / Jesse",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Rancher and the Runaway Bride / Adam",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Cowboy and the Princess / Faron",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Wrangler and the Rich Girl / Garth",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Cowboy Takes a Wife / Carter",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Unforgiving Bride / Falcon",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Headstrong Bride / Callen",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Disobedient Bride / Zach",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Temporary Groom / Billy",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Virgin Groom / Mac",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Substitute Groom / Colt",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Sisters Found / Sisters / Breathless Seduction",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

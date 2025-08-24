@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Vanessa Michael Munroe",
+  "slug": "vanessa-michael-munroe",
+  "source": "https://www.orderofbooks.com/characters/vanessa-michael-munroe/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Vanessa-Michael-Munroe-by-Taylor-Stevens-500x200.jpg",
+  "authors": [
+    {
+      "name": "Taylor Stevens",
+      "slug": "taylor-stevens"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Informationist",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Innocent",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Doll",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Catch",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Vessel",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Mask",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

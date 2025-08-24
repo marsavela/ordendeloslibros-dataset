@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Voyagers",
+  "slug": "voyagers",
+  "source": "https://www.orderofbooks.com/characters/voyagers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Voyagers-by-Ben-Bova-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ben Bova",
+      "slug": "ben-bova"
+    }
+  ],
+  "books": [
+    {
+      "title": "Voyagers",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Alien Within",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Star Brothers",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Return",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

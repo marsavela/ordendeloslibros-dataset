@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Garrett P.I.",
+  "slug": "garrett-p-i",
+  "source": "https://www.orderofbooks.com/characters/garrett-p-i/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Garrett-PI-by-Glen-Cook.jpg",
+  "books": [
+    {
+      "title": "Introducing Garrett, P.I.",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sweet Silver Blues",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bitter Gold Hearts",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cold Copper Tears",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Old Tin Sorrows",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dread Brass Shadows",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Red Iron Nights",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Deadly Quicksilver Lies",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Petty Pewter Gods",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Faded Steel Heat",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Angry Lead Skies",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Whispering Nickel Idols",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Cruel Zinc Melodies",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Gilded Latten Bones",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Wicked Bronze Ambition",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

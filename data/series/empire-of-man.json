@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Empire Of Man",
+  "slug": "empire-of-man",
+  "source": "https://www.orderofbooks.com/characters/empire-of-man/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Empire-of-Man-by-David-Weber-John-Ringo.jpg",
+  "authors": [
+    {
+      "name": "David Weber",
+      "slug": "david-weber"
+    }
+  ],
+  "books": [
+    {
+      "title": "March Upcountry",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "March to the Sea",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "March to the Stars",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "We Few",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

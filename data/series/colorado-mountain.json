@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Colorado Mountain",
+  "slug": "colorado-mountain",
+  "source": "https://www.orderofbooks.com/characters/colorado-mountain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Colorado-Mountain-by-Kristen-Ashley.jpg",
+  "authors": [
+    {
+      "name": "Kristen Ashley",
+      "slug": "kristen-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Gamble",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sweet Dreams",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lady Luck",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Breathe",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Jagged",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kaleidoscope",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bounty",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

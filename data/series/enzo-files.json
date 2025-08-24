@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Enzo Files",
+  "slug": "enzo-files",
+  "source": "https://www.orderofbooks.com/characters/enzo-files/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Enzo-Files-by-Peter-May-500x200.jpg",
+  "authors": [
+    {
+      "name": "Peter May",
+      "slug": "peter-may"
+    }
+  ],
+  "books": [
+    {
+      "title": "Extraordinary People / Dry Bones",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Critic / A Vintage Corpse",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blacklight Blue",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Freeze Frame",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blowback",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cast Iron",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Night Gate",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

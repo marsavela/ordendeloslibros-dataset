@@ -1,0 +1,353 @@
+{
+  "type": "series",
+  "name": "Inspector West",
+  "slug": "inspector-west",
+  "source": "https://www.orderofbooks.com/characters/inspector-west/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/08/Inspector-West-by-John-Creasey.jpg",
+  "books": [
+    {
+      "title": "Inspector West Takes Charge",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Inspector West Leaves Town / Go Away To Murder",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Inspector West at Home / Apostle of Gloom",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Inspector West Regrets",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Holiday for Inspector West",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Battle for Inspector West",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Triumph for Inspector West / The Case Against Paul Raeburn",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Inspector West Kicks Off / Sport for Inspector West",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Inspector West Alone",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Inspector West Cries Wolf / The Creepers",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Case for Inspector West / The Figure in the Dusk",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Puzzle for Inspector West / The Dissemblers",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Inspector West at Bay / The Blind Spot",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Gun for Inspector West / Give a Man a Gun",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Send Superintendent West / Send Inspector West",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "A Beauty for Inspector West / The Beauty Queen Killer",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Inspector West Makes Haste / The Gelignite Gang",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Two for Inspector West / Murder: One, Two, Three",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Parcels for Inspector West / Death of a Postman",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Prince for Inspector West / Death of an Assassin",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Find Inspector West / Doorway to Death / The Trouble at Saxby's",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Accident for Inspector West / Hit and Run",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Murder, London - New York",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Strike for Death / The Killing Strike",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Death of a Racehorse",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Case of the Innocent Victims",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Murder on the Line",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Death in Cold Print",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Scene of the Crime",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Policeman's Dread",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Hang the Little Man",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Look Three Ways at Murder",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Murder, London - Australia",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Murder, London - South Africa",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "So Young to Burn",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Executioners",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Murder, London - Miami",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "A Part for a Policeman",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Alibi / Alibi for Inspector West",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "A Splinter of Glass",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Theft of Magna Carta",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Extortioners",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "A Sharp Rise in Crime",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Rachel Knight",
+  "slug": "rachel-knight",
+  "source": "https://www.orderofbooks.com/characters/rachel-knight/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Rachel-Knight-by-Marcia-Clark.jpg",
+  "authors": [
+    {
+      "name": "Marcia Clark",
+      "slug": "marcia-clark"
+    }
+  ],
+  "books": [
+    {
+      "title": "Guilt by Association",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "If I'm Dead",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Guilt by Degrees",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Killer Ambition",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Trouble in Paradise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Competition",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

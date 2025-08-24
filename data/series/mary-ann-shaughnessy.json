@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Mary Ann Shaughnessy",
+  "slug": "mary-ann-shaughnessy",
+  "source": "https://www.orderofbooks.com/characters/mary-ann-shaughnessy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Mary-Ann-Shaughnessy-by-Catherine-Cookson.jpg",
+  "authors": [
+    {
+      "name": "Catherine Cookson",
+      "slug": "catherine-cookson"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Grand Man",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Lord and Mary Ann",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil and Mary Ann",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Love and Mary Ann",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Life and Mary Ann",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Marriage and Mary Ann",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mary Ann's Angels",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Mary Ann and Bill",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bill and the Mary Ann Shaughnessy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

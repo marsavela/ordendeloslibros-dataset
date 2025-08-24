@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Ghost-In-Law",
+  "slug": "ghost-in-law",
+  "source": "https://www.orderofbooks.com/characters/ghost-in-law/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Ghost-in-Law-Mystery-Romance-by-Jana-DeLeon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jana DeLeon",
+      "slug": "jana-deleon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Trouble in Mudbug",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mischief in Mudbug",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Showdown in Mudbug",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Helena Diaries",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Resurrection in Mudbug",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Missing in Mudbug",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chaos in Mudbug",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Rose and Helena Save Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Helena Diaries is a companion novella to the novel Trouble in Mudbug and should be read after it.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

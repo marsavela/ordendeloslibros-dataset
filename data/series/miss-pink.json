@@ -1,0 +1,137 @@
+{
+  "type": "series",
+  "name": "Miss Pink",
+  "slug": "miss-pink",
+  "source": "https://www.orderofbooks.com/characters/miss-pink/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/09/Miss-Melinda-Pink-by-Gwen-Moffat.jpg",
+  "books": [
+    {
+      "title": "Lady with a Cool Eye",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Miss Pink at the Edge of the World",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Over the Sea to Death",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Short Time to Live",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Persons Unknown",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Die Like a Dog",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Last Chance Country",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Grizzly Trail",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Snare",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Stone Hawk",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Rage",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Raptor Zone",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Veronica's Sisters",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Lost Girls",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Private Sins",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Retribution",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

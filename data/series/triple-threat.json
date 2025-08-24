@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Triple Threat",
+  "slug": "triple-threat",
+  "source": "https://www.orderofbooks.com/characters/triple-threat/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Triple-Threat-by-Lis-Wiehl-and-April-Henry.jpg",
+  "authors": [
+    {
+      "name": "Lis Wiehl",
+      "slug": "lis-wiehl"
+    }
+  ],
+  "books": [
+    {
+      "title": "Face of Betrayal",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hand of Fate",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Heart of Ice",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eyes of Justice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

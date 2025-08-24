@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Pet Rescue Mystery",
+  "slug": "pet-rescue-mystery",
+  "source": "https://www.orderofbooks.com/characters/pet-rescue-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Pet-Rescue-Mystery-by-Linda-O-Johnston.jpg",
+  "books": [
+    {
+      "title": "Beaglemania",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The More the Terrier",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hounds Abound",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Oodles of Poodles",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nonstop Spaniels",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Teacup Turbulence",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chihuahua Chaos",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

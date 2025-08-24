@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Manny Williams",
+  "slug": "manny-williams",
+  "source": "https://www.orderofbooks.com/characters/manny-williams/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Manny-Williams-by-Rick-Murcer.jpg",
+  "authors": [
+    {
+      "name": "Rick Murcer",
+      "slug": "rick-murcer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Caribbean Moon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deceitful Moon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Emerald Moon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Caribbean Rain",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Carolina Rain",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Vegas Rain",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Caribbean Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Miami Fire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Manny and Sophie: The First One",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Cajun Fire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Manny and Sophie: The First One is a prequel short story in the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

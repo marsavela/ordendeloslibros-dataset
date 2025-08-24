@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Flight Risk Cozy Mysteries",
+  "slug": "flight-risk-cozy-mysteries",
+  "source": "https://www.orderofbooks.com/characters/flight-risk-cozy-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/05/Flight-Risk-Cozy-Mysteries-by-Susan-Harper.jpg",
+  "authors": [
+    {
+      "name": "Susan Harper",
+      "slug": "susan-harper"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder at Macbeth",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Killing in Kenya",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Homicide in Hawaii",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trouble in Texas",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder in Mississippi",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "An Artful Assassination",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "French Fatality",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Kangaroos and Killings",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Tailed in Tokyo",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Iced in Alaska",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Mayhem in Mexico",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Nabbed in New York",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

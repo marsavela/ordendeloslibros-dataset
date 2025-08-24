@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Game Of Thrones",
+  "slug": "game-of-thrones",
+  "source": "https://www.orderofbooks.com/characters/game-of-thrones/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/10/Game-of-Thrones.jpg",
+  "books": [
+    {
+      "title": "A Game of Thrones",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Clash of Kings",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Storm of Swords",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Feast for Crows",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Dance with Dragons",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

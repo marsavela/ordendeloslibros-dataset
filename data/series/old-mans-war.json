@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Old Man’s War",
+  "slug": "old-mans-war",
+  "source": "https://www.orderofbooks.com/characters/old-mans-war/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Old-Mans-War-by-John-Scalzi-500x200.jpg",
+  "authors": [
+    {
+      "name": "John Scalzi",
+      "slug": "john-scalzi"
+    }
+  ],
+  "books": [
+    {
+      "title": "Old Man's War",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Ghost Brigades",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Last Colony",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Zoe's Tale",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Human Division",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The End of All Things",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Shattering Peace",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

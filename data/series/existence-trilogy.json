@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Existence Trilogy",
+  "slug": "existence-trilogy",
+  "source": "https://www.orderofbooks.com/characters/existence-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Existence-Trilogy-by-Abbi-Glines-500x200.jpg",
+  "authors": [
+    {
+      "name": "Abbi Glines",
+      "slug": "abbi-glines"
+    }
+  ],
+  "books": [
+    {
+      "title": "Existence",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Predestined",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Leif",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ceaseless",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

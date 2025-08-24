@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Malory Towers",
+  "slug": "malory-towers",
+  "source": "https://www.orderofbooks.com/characters/malory-towers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Enid-Blyton-Malory-Towers.jpg",
+  "authors": [
+    {
+      "name": "Enid Blyton",
+      "slug": "enid-blyton"
+    }
+  ],
+  "books": [
+    {
+      "title": "First Term at Malory Towers",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Second Form at Malory Towers",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Third Year at Malory Towers",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Upper Fourth at Malory Towers",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In the Fifth at Malory Towers",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Last Term at Malory Towers",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "New Class at Malory Towers",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

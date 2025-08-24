@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Grisha",
+  "slug": "grisha",
+  "source": "https://www.orderofbooks.com/characters/grisha/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Grisha-by-Leigh-Bardugo-500x200.jpg",
+  "authors": [
+    {
+      "name": "Leigh Bardugo",
+      "slug": "leigh-bardugo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Shadow and Bone / The Gathering Dark",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Witch of Duva",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Too-Clever Fox",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Siege and Storm",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Little Knife",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ruin and Rising",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Tales To Tickle The Funnybone",
+  "slug": "tales-to-tickle-the-funnybone",
+  "source": "https://www.orderofbooks.com/characters/tales-to-tickle-the-funnybone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Tales-To-Tickle-The-Funnybone-by-Gary-Paulsen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gary Paulsen",
+      "slug": "gary-paulsen"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Boy Who Owned the School",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Harris and Me: A Summer Remembered",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Schernoff Discoveries",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Glass Cafe",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Molly McGinty Has a Really Good Day",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Amazing Life of Birds: The Twenty-Day Puberty Journal of Duane Homer Leech",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

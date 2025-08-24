@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Last Picture Show",
+  "slug": "last-picture-show",
+  "source": "https://www.orderofbooks.com/characters/last-picture-show/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Last-Picture-Show-by-Larry-McMurtry.jpg",
+  "books": [
+    {
+      "title": "The Last Picture Show",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Texasville",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Duane's Depressed",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "When the Light Goes",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rhino Ranch",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

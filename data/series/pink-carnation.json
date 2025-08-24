@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Pink Carnation",
+  "slug": "pink-carnation",
+  "source": "https://www.orderofbooks.com/characters/pink-carnation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Pink-Carnation-by-Lauren-Willig.jpg",
+  "authors": [
+    {
+      "name": "Lauren Willig",
+      "slug": "lauren-willig"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Secret History of the Pink Carnation",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Masque of the Black Tulip",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Deception of the Emerald Ring",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Seduction of the Crimson Rose",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ivy & Intrigue",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Temptation of the Night Jasmine",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Betrayal of the Blood Lily",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Mischief of the Mistletoe",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Orchid Affair",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Away in a Manger",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Garden Intrigue",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Passion of the Purple Plumeria",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Mark of the Midnight Manzanilla",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Lure of the Moonflower",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

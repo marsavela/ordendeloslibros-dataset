@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Jack Caffery",
+  "slug": "jack-caffery",
+  "source": "https://www.orderofbooks.com/characters/jack-caffery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Jack-Caffrey-by-Mo-Hayder.jpg",
+  "books": [
+    {
+      "title": "Birdman",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Treatment",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ritual",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Skin",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gone",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Poppet",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wolf",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

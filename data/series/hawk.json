@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Hawk",
+  "slug": "hawk",
+  "source": "https://www.orderofbooks.com/characters/hawk/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Hawk-by-William-S-Brady.jpg",
+  "authors": [
+    {
+      "name": "John Harvey",
+      "slug": "john-harvey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Sudden Guns",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood Money",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death's Bounty",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Killing Time",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fool's Gold",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blood Kin",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Gates of Death",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Desperadoes",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Widowmaker",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dead Man's Hand",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Sierra Gold",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Death and Jack Shade",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Killer's Breed",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Border War",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

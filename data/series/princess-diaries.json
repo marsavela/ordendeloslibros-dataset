@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Princess Diaries",
+  "slug": "princess-diaries",
+  "source": "https://www.orderofbooks.com/characters/princess-diaries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Princess-Diaries-by-Meg-Cabot.jpg",
+  "authors": [
+    {
+      "name": "Meg Cabot",
+      "slug": "meg-cabot"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Princess Diaries",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Princess in the Spotlight / Take Two / A Royal Disaster",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Princess in Love / Princess in the Middle",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Princess in Waiting / Royally Obsessed",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Project Princess",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Princess in Pink / Prom Princess / Give Me Five",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Princess in Training / Sixsational",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Princess Present",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Party Princess / Royal Rebel",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sweet Sixteen Princess",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Princess on the Brink / After Eight / Royal Scandal",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Princess Mia / To the Nines / Bad Heir Day",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Forever Princess / Ten Out of Ten / Crowning Glory",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Royal Wedding",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Quarantine Princess Diaries",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

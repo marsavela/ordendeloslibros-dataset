@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Merry Muffin Mysteries",
+  "slug": "merry-muffin-mysteries",
+  "source": "https://www.orderofbooks.com/characters/merry-muffin-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Merry-Muffin-Mysteries-by-Victoria-Hamilton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Victoria Hamilton",
+      "slug": "victoria-hamilton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bran New Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Muffin But Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death of an English Muffin",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Much Ado About Muffin",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Muffin to Fear",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Muffin But Trouble",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Double or Muffin",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

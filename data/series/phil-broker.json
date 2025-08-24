@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Phil Broker",
+  "slug": "phil-broker",
+  "source": "https://www.orderofbooks.com/characters/phil-broker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Phil-Broker-by-Chuck-Logan.jpg",
+  "authors": [
+    {
+      "name": "Chuck Logan",
+      "slug": "chuck-logan"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Price Of Blood",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Big Law",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Absolute Zero",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Vapor Trail",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "After The Rain",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Homefront",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Broker",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Darling Dahlias",
+  "slug": "darling-dahlias",
+  "source": "https://www.orderofbooks.com/characters/darling-dahlias/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Darling-Dahlias-by-Susan-Wittig-Albert.jpg",
+  "books": [
+    {
+      "title": "The Darling Dahlias and the Cucumber Tree",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Darling Dahlias and the Naked Ladies",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Darling Dahlias and the Confederate Rose",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Darling Dahlias and the Texas Star",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Darling Dahlias and the Silver Dollar Bush",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Darling Dahlias and the Eleven O'Clock Lady",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Darling Dahlias and the Unlucky Clover",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Darling Dahlias and the Poinsettia Puzzle",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Darling Dahlias And The Voodoo Lily",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Darling Dahlias and the Red Hot Poker",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

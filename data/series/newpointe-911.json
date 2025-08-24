@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Newpointe 911",
+  "slug": "newpointe-911",
+  "source": "https://www.orderofbooks.com/characters/newpointe-911/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Newpointe-911-by-Terri-Blackstock.jpg",
+  "books": [
+    {
+      "title": "Private Justice",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shadow of Doubt",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Word of Honor",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trial by Fire",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Line of Duty",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

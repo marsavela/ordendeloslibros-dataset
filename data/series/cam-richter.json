@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Cam Richter",
+  "slug": "cam-richter",
+  "source": "https://www.orderofbooks.com/characters/cam-richter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Cam-Richter-by-PT-Deutermann.jpg",
+  "books": [
+    {
+      "title": "The Cat Dancers",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Spider Mountain",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Moonpool",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nightwalkers",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

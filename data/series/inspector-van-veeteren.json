@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Inspector Van Veeteren",
+  "slug": "inspector-van-veeteren",
+  "source": "https://www.orderofbooks.com/characters/inspector-van-veeteren/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Inspector-Van-Veeteren-by-Hakan-Nesser-500x200.jpg",
+  "authors": [
+    {
+      "name": "Hakan Nesser",
+      "slug": "hakan-nesser"
+    }
+  ],
+  "books": [
+    {
+      "title": "Münsters Fall [German]",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Borkmann's Point",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Return",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Mind's Eye",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Woman with Birthmark",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Inspector and Silence",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Unlucky Lottery / Munster's Case",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hour of the Wolf",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The G File",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Weeping Girl",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Strangler's Honeymoon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

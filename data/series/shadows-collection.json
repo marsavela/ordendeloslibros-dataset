@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Shadows Collection",
+  "slug": "shadows-collection",
+  "source": "https://www.orderofbooks.com/characters/shadows-collection/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/12/Shadows-Collection-by-TL-Haddix-500x200.jpg",
+  "authors": [
+    {
+      "name": "T.L. Haddix",
+      "slug": "t-l-haddix"
+    }
+  ],
+  "books": [
+    {
+      "title": "Homecoming / Secrets in the Shadows",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hunted / Under the Moon's Shadow",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vanishing Point / Shadows from the Grave",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Injustice / Hidden in the Shadows",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deception in the Shadows / Proof of Deception",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Malice Murder / In the Heart's Shadow",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Watching / Seduction in the Shadows",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Redemption / Redemption in the Shadows",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

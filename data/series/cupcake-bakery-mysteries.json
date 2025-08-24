@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Cupcake Bakery Mysteries",
+  "slug": "cupcake-bakery-mysteries",
+  "source": "https://www.orderofbooks.com/characters/cupcake-bakery-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Cupcake-Bakery-Mysteries-by-Jenn-McKinlay-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jenn McKinlay",
+      "slug": "jenn-mckinlay"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sprinkle with Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Buttercream Bump Off",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death by the Dozen",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Red Velvet Revenge",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Going, Going, Ganache",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sugar and Iced",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dark Chocolate Demise",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Vanilla Beaned",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Caramel Crush",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Wedding Cake Crumble",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dying for Devil's Food",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Pumpkin Spice Peril",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "For Batter or Worse",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Strawberried Alive",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Sugar Plum Poisoned",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Fondant Fumble",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

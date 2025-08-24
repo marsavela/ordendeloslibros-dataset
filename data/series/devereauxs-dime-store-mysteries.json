@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Devereaux’s Dime Store Mysteries",
+  "slug": "devereauxs-dime-store-mysteries",
+  "source": "https://www.orderofbooks.com/characters/devereauxs-dime-store-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Devereauxs-Dime-Store-Mysteries-by-Denise-Swanson.jpg",
+  "authors": [
+    {
+      "name": "Denise Swanson",
+      "slug": "denise-swanson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Little Shop of Homicide",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Nickeled-and-Dimed to Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Between the Lines",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dying for a Cupcake",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Between a Book and a Hard Place",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lions and Tigers and Murder, Oh My",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fly Me to the Tomb",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

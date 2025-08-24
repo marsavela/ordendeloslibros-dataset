@@ -1,0 +1,215 @@
+{
+  "type": "series",
+  "name": "I Survived",
+  "slug": "i-survived",
+  "source": "https://www.orderofbooks.com/characters/i-survived/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/11/i-survived.jpg",
+  "authors": [
+    {
+      "name": "Scholastic Publishing",
+      "slug": "scholastic-publishing"
+    }
+  ],
+  "books": [
+    {
+      "title": "I Survived the Sinking of the Titanic, 1912",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I Survived the Shark Attacks of 1916",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "I Survived Hurricane Katrina, 2005",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "I Survived the Bombing of Pearl Harbor, 1941",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "I Survived the San Francisco Earthquake, 1906",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "I Survived the Attacks of September 11th, 2001",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "I Survived the Battle of Gettysburg, 1863",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "I Survived the Japanese Tsunami, 2011",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "I Survived the Nazi Invasion, 1944",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "I Survived the Destruction of Pompeii, AD 79",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Great Chicago Fire, 1871",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "I Survived the Joplin Tornado, 2011",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "I Survived the Hindenburg Disaster, 1937",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "I Survived the Eruption of Mount St. Helens, 1980",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "I Survived the American Revolution, 1776",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "I Survived the Children’s Blizzard, 1888",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "I Survived the Attack of the Grizzlies, 1967",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "I Survived the Battle of D-Day, 1944",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "I Survived The Great Molasses Flood, 1919",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "I Survived The California Wildfires, 2018",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "I Survived the Galveston Hurricane, 1900",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "I Survived the Wellington Avalanche, 1910",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "I Survived the Great Alaska Earthquake, 1964",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "I Survived the Black Death, 1348",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "I Survived the Dust Bowl, 1935",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

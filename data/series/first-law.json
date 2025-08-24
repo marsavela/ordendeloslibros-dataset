@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "First Law",
+  "slug": "first-law",
+  "source": "https://www.orderofbooks.com/characters/first-law/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/The-First-Law-by-Joe-Abercrombie.jpg",
+  "books": [
+    {
+      "title": "The Blade Itself",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Before They Are Hanged",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Last Argument of Kings",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tough Times All Over",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Two's Company",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Madison Avery",
+  "slug": "madison-avery",
+  "source": "https://www.orderofbooks.com/characters/madison-avery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Madison-Avery.jpg",
+  "books": [
+    {
+      "title": "Prom Nights From Hell",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Once Dead, Twice Shy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Early to Death, Early to Rise",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Something Deadly This Way Comes",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

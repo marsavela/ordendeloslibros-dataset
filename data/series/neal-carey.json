@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Neal Carey",
+  "slug": "neal-carey",
+  "source": "https://www.orderofbooks.com/characters/neal-carey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Neal-Carey-by-Don-Winslow-500x200.jpg",
+  "authors": [
+    {
+      "name": "Don Winslow",
+      "slug": "don-winslow"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Cool Breeze on the Underground",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Trail to Buddha's Mirror",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Way Down on the High Lonely",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Long Walk Up the Water Slide",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "While Drowning in the Desert",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

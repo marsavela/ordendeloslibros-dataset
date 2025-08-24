@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Charlie Bone",
+  "slug": "charlie-bone",
+  "source": "https://www.orderofbooks.com/characters/charlie-bone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Charlie-Bone-Children-of-the-Red-King-by-Jenny-Nimmo-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jenny Nimmo",
+      "slug": "jenny-nimmo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Midnight for Charlie Bone",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Charlie Bone and the Time Twister",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Charlie Bone and the Invisible Boy / Charlie Bone and the Blue Boa",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Charlie Bone and the Castle of Mirrors",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Charlie Bone and the Hidden King",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Charlie Bone and the Beast / Charlie Bone and the Wilderness Wolf",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Charlie Bone and the Shadow / Charlie Bone and the Shadow of Badlock",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Charlie Bone and the Red Knight",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Catherine Ling",
+  "slug": "catherine-ling",
+  "source": "https://www.orderofbooks.com/characters/catherine-ling/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Catherine-Ling-by-Iris-Johansen.jpg",
+  "authors": [
+    {
+      "name": "Iris Johansen",
+      "slug": "iris-johansen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Chasing the Night",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "What Doesn't Kill You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Live to See Tomorrow",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Your Next Breath",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Vendetta",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

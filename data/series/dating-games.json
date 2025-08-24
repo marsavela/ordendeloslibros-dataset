@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Dating Games",
+  "slug": "dating-games",
+  "source": "https://www.orderofbooks.com/characters/dating-games/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Dating-Games-by-Melody-Carlson.jpg",
+  "authors": [
+    {
+      "name": "Melody Carlson",
+      "slug": "melody-carlson"
+    }
+  ],
+  "books": [
+    {
+      "title": "First Date",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blind Date",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Double Date",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Prom Date",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

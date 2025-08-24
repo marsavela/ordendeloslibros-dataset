@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Rock Harbor Mysteries",
+  "slug": "rock-harbor-mysteries",
+  "source": "https://www.orderofbooks.com/characters/rock-harbor-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Rock-Harbor-Mysteries-by-Colleen-Coble.jpg",
+  "authors": [
+    {
+      "name": "Colleen Coble",
+      "slug": "colleen-coble"
+    }
+  ],
+  "books": [
+    {
+      "title": "Without a Trace",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Beyond a Doubt",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Into the Deep",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Abomination / Haven of Swans",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cry in the Night",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Silent Night",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Beneath Copper Falls",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

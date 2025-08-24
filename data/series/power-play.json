@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Power Play",
+  "slug": "power-play",
+  "source": "https://www.orderofbooks.com/characters/power-play/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/power-play-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lynda Aicher. Aicher",
+      "slug": "lynda-aicher-aicher"
+    }
+  ],
+  "books": [
+    {
+      "title": "Game Play",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Back in Play",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Penalty Play",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

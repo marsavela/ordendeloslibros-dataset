@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Lucky Starr",
+  "slug": "lucky-starr",
+  "source": "https://www.orderofbooks.com/characters/lucky-starr/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Lucky-Starr-by-Isaac-Asimov.jpg",
+  "books": [
+    {
+      "title": "David Starr, Space Ranger",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lucky Starr and the Pirates of the Asteroids",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lucky Starr and the Oceans of Venus",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lucky Starr and the Big Sun of Mercury",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lucky Starr and the Moons of Jupiter",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lucky Starr and the Rings of Saturn",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

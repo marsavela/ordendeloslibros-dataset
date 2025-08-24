@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Ellie Avery",
+  "slug": "ellie-avery",
+  "source": "https://www.orderofbooks.com/characters/ellie-avery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Ellie-Avery-by-Sara-Rosett-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sara Rosett",
+      "slug": "sara-rosett"
+    }
+  ],
+  "books": [
+    {
+      "title": "Moving is Murder",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Staying Home is a Killer",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Getting Away is Deadly",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Magnolias, Moonlight, and Murder",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mint Juleps, Mayhem, and Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mimosas, Mischief, and Murder",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mistletoe, Merriment, and Murder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Milkshakes, Mermaids, and Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Marriage, Monsters-In-Law, and Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mother's Day, Muffins, and Murder",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

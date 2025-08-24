@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Weezie & Bebe Mysteries",
+  "slug": "weezie-bebe-mysteries",
+  "source": "https://www.orderofbooks.com/characters/weezie-and-bebe-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Southern-by-Mary-Kay-Andrews.jpg",
+  "authors": [
+    {
+      "name": "Mary Kay Andrews",
+      "slug": "mary-kay-andrews"
+    }
+  ],
+  "books": [
+    {
+      "title": "Savannah Blues",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Savannah Breeze",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blue Christmas",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Christmas Bliss",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

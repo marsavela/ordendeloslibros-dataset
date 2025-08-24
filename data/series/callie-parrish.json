@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Callie Parrish",
+  "slug": "callie-parrish",
+  "source": "https://www.orderofbooks.com/characters/callie-parrish/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/03/Callie-Parrish-Mysteries-by-Fran-Rizer.jpg",
+  "books": [
+    {
+      "title": "A Tisket, A Tasket, A Fancy Stolen Casket",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Casket Case",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hey Diddle Diddle, the Corpse and the Fiddle",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Twinkle, Twinkle, Little Star, There's a Body in the Car",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mother Hubbard Has a Corpse in the Cupboard",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Corpse Under the Christmas Tree",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder is on the Clock",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Skull Full of Posies",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

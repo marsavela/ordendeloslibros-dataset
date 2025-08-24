@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Cutter Cay",
+  "slug": "cutter-cay",
+  "source": "https://www.orderofbooks.com/characters/cutter-cay/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Cutter-Cay-by-Cherry-Adair.jpg",
+  "authors": [
+    {
+      "name": "South African-American",
+      "slug": "south-african-american"
+    }
+  ],
+  "books": [
+    {
+      "title": "Undertow",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Riptide",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vortex",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Stormchaser",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hurricane",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Whirlpool",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

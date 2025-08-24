@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Inspector Brant",
+  "slug": "inspector-brant",
+  "source": "https://www.orderofbooks.com/characters/inspector-brant/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Inspector-Brant-by-Ken-Bruen.jpg",
+  "books": [
+    {
+      "title": "A White Arrest",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Taming The Alien",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The McDead",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blitz",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Vixen",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Calibre",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ammunition",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

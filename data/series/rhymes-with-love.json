@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Rhymes With Love",
+  "slug": "rhymes-with-love",
+  "source": "https://www.orderofbooks.com/characters/rhymes-with-love/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Rhymes-With-Love-by-Elizabeth-Boyle.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Boyle",
+      "slug": "elizabeth-boyle"
+    }
+  ],
+  "books": [
+    {
+      "title": "Along Came a Duke",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "And the Miss Ran Away with the Rake",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Have You Any Rogues?",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "If Wishes Were Earls",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Viscount Who Lived Down the Lane",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Knave of Hearts",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Six Impossible Things",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

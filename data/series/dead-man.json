@@ -1,0 +1,191 @@
+{
+  "type": "series",
+  "name": "Dead Man",
+  "slug": "dead-man",
+  "source": "https://www.orderofbooks.com/characters/dead-man/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Dead-Man-by-Lee-Goldberg-William-Rabkin-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lee Goldberg",
+      "slug": "lee-goldberg"
+    }
+  ],
+  "books": [
+    {
+      "title": "Face of Evil (By:Lee Goldberg,William Rabkin)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ring of Knives (By:James Daniels,Lee Goldberg,William Rabkin)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hell In Heaven (By:Lee Goldberg,William Rabkin)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Dead Woman (By:David McAfee,Lee Goldberg,William Rabkin)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Blood Mesa (By:James Reasoner,Lee Goldberg,William Rabkin)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kill Them All (By:Lee Goldberg,William Rabkin,Harry Shannon)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Beast Within (By:James Daniels,Lee Goldberg,William Rabkin)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fire and Ice (By:Lee Goldberg,William Rabkin,Jude Hardin)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Carnival of Death (By:Bill Crider,Lee Goldberg,William Rabkin)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Freaks Must Die (By:Lee Goldberg,William Rabkin,Joel Goldman)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Slaves to Evil (By:Lee Goldberg,William Rabkin,Lisa Klink)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Midnight Special (By:Phoef Sutton,Lee Goldberg,William Rabkin)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Death Match (By:Christa Faust,Lee Goldberg,William Rabkin)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Black Death (By:Lee Goldberg,William Rabkin,Aric Davis)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Killing Floor (By:Lee Goldberg,William Rabkin,David Tully)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Colder than Hell (By:Anthony Neil Smith,Lee Goldberg,William Rabkin)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Evil to Burn (By:Lee Goldberg,William Rabkin,Lisa Klink)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Streets of Blood (By:Lee Goldberg,William Rabkin,Barry Napier)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Crucible of Fire (By:Lee Goldberg,William Rabkin,Mel Odom)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Dark Need (By:Lee Goldberg,William Rabkin,Stant Litore)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Rising Dead (By:Lee Goldberg,William Rabkin,Stella Green)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Reborn (By:Phoef Sutton,Lee Goldberg,William Rabkin,Lisa Klink,Kate Danley)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

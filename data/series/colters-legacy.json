@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Colters’ Legacy",
+  "slug": "colters-legacy",
+  "source": "https://www.orderofbooks.com/characters/colters-legacy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Colters-Legacy-by-Maya-Banks.jpg",
+  "books": [
+    {
+      "title": "Colters' Woman",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Colters' Lady",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Colters' Daughter",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Colters' Promise",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Colters' Gift",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

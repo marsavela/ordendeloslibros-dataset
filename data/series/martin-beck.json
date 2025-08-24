@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Martin Beck",
+  "slug": "martin-beck",
+  "source": "https://www.orderofbooks.com/characters/martin-beck/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Martin-Beck-by-Maj-Sjowall-Per-Wahloo-500x200.jpg",
+  "authors": [
+    {
+      "name": "Maj Sjowall Per Wahloo",
+      "slug": "maj-sjowall-per-wahloo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Roseanna",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Man Who Went Up in Smoke",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Man on the Balcony",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Laughing Policeman / Investigation of Murder",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fire Engine that Disappeared",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder at the Savoy",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Abominable Man",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Locked Room",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Cop Killer",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Terrorists",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

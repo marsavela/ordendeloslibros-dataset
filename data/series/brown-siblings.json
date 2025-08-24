@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Brown Siblings",
+  "slug": "brown-siblings",
+  "source": "https://www.orderofbooks.com/characters/brown-siblings/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Brown-Siblings-by-Lauren-Dane.jpg",
+  "books": [
+    {
+      "title": "Laid Bare",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Coming Undone",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Inside Out",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Never Enough",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Laid Open",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Drawn Together",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

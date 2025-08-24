@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Jennifer Grey",
+  "slug": "jennifer-grey",
+  "source": "https://www.orderofbooks.com/characters/jennifer-grey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Jennifer-Grey-Mysteries-by-Jerry-B-Jenkins-500x200.jpg",
+  "books": [
+    {
+      "title": "Heartbeat",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Three Days in Winter",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Too Late To Tell",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gateway",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Calling",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Veiled Threat",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

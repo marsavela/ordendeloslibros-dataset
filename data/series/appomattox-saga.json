@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Appomattox Saga",
+  "slug": "appomattox-saga",
+  "source": "https://www.orderofbooks.com/characters/appomattox-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Appomattox-Saga-by-Gilbert-Morris.jpg",
+  "authors": [
+    {
+      "name": "Gilbert Morris",
+      "slug": "gilbert-morris"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Covenant of Love",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gate of His Enemies",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Where Honor Dwells",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Land of the Shadow",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Out of the Whirlwind",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Shadow of His Wings",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wall of Fire",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Stars in Their Courses",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chariots in the Smoke",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Witness in Heaven",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Church",
+  "slug": "church",
+  "source": "https://www.orderofbooks.com/characters/church/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Church-by-Carl-Weber-500x200.jpg",
+  "authors": [
+    {
+      "name": "Carl Weber",
+      "slug": "carl-weber"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Preacher's Son",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "So You Call Yourself A Man",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The First Lady",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Up to No Good",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Beijing",
+  "slug": "beijing",
+  "source": "https://www.orderofbooks.com/characters/beijing/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Beijing-China-Thrillers-by-Peter-May.jpg",
+  "authors": [
+    {
+      "name": "Peter May",
+      "slug": "peter-may"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Firemaker",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fourth Sacrifice",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Killing Room",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Snakehead",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Runner",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Chinese Whispers",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Ghost Marriage",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

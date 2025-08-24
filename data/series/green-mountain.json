@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Green Mountain",
+  "slug": "green-mountain",
+  "source": "https://www.orderofbooks.com/characters/green-mountain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Green-Mountain-by-Marie-Force.jpg",
+  "authors": [
+    {
+      "name": "Marie Force",
+      "slug": "marie-force"
+    }
+  ],
+  "books": [
+    {
+      "title": "All You Need is Love / Your Love Is All I Need",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "To Know Her Is to Love Her",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "I Want to Hold Your Hand / Let Me Hold Your Hand",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "I Saw Her Standing There / I Saw You Standing There",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "And I Love Her / And I Love You",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "You'll Be Mine",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "It's Only Love / It's Love, Only Love",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ain't She Sweet",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

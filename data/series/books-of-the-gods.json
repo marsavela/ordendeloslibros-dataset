@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Books Of The Gods",
+  "slug": "books-of-the-gods",
+  "source": "https://www.orderofbooks.com/characters/books-of-the-gods/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Books-Of-The-Gods-by-Fred-Saberhagen.jpg",
+  "books": [
+    {
+      "title": "The Face of Apollo",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ariadne's Web",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Arms of Hercules",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "God of the Golden Fleece",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gods of Fire and Thunder",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

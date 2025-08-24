@@ -1,0 +1,223 @@
+{
+  "type": "series",
+  "name": "Sloan and Crosby",
+  "slug": "sloan-and-crosby",
+  "source": "https://www.orderofbooks.com/characters/sloan-and-crosby/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Sloan-and-Crosby-by-Catherine-Aird-500x200.jpg",
+  "authors": [
+    {
+      "name": "Catherine Aird",
+      "slug": "catherine-aird"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Religious Body",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Henrietta Who?",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Stately Home Murder / The Complete Steel",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Late Phoenix",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "His Burial Too",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Slight Mourning",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Parting Breath",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Some Die Eloquent",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Passing Strange",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Last Respects",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Harm's Way",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Dead Liberty",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Body Politic",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Going Concern",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Injury Time",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "After Effects",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Stiff News",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Little Knell",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Amendment of Life",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Hole in One",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Losing Ground",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Past Tense",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Dead Heading",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Learning Curve",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Inheritance Tracks",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Constable Country",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    }
+  ]
+}

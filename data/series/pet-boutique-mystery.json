@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Pet Boutique Mystery",
+  "slug": "pet-boutique-mystery",
+  "source": "https://www.orderofbooks.com/characters/pet-boutique-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/pet-boutique-mystery-500x200.jpg",
+  "books": [
+    {
+      "title": "Paws for Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Groomed For Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Collared For Murder",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

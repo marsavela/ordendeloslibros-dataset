@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Bannerman",
+  "slug": "bannerman",
+  "source": "https://www.orderofbooks.com/characters/bannerman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Bannerman-by-John-R-Maxim.jpg",
+  "books": [
+    {
+      "title": "The Bannerman Solution",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bannerman Effect",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bannerman's Law",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bannerman's Promise / A Matter of Honor",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bannerman's Ghosts",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

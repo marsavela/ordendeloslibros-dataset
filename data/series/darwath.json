@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Darwath",
+  "slug": "darwath",
+  "source": "https://www.orderofbooks.com/characters/darwath/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Darwath-by-Barbara-Hambly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Barbara Hambly",
+      "slug": "barbara-hambly"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Time of the Dark",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Walls of Air",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Armies of Daylight",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mother of Winter",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Icefalcon's Quest",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pretty Polly",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Whisper",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Elsewhere",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

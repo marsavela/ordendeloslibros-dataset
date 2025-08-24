@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "PRIMAL",
+  "slug": "primal",
+  "source": "https://www.orderofbooks.com/characters/primal/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Primal-by-Jack-Silkstone.jpg",
+  "authors": [
+    {
+      "name": "Jack Silkstone",
+      "slug": "jack-silkstone"
+    }
+  ],
+  "books": [
+    {
+      "title": "Primal Origins",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Primal Unleashed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "PRIMAL Vengeance",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "PRIMAL Fury",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "PRIMAL Mirza",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "PRIMAL Inception",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "PRIMAL Reckoning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "PRIMAL Nemesis",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "PRIMAL Redemption",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "PRIMAL Renegade",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Primal Deception",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "PRIMAL Exodus",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

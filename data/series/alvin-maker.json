@@ -1,0 +1,62 @@
+{
+  "type": "series",
+  "name": "Alvin Maker",
+  "slug": "alvin-maker",
+  "source": "https://www.orderofbooks.com/characters/alvin-maker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Alvin-Maker.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Tales Of Alvin Maker Books",
+      "books": [
+        {
+          "title": "Seventh Son",
+          "year": 1987,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Red Prophet",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Prentice Alvin",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Alvin Journeyman",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Heartfire",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Crystal City",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

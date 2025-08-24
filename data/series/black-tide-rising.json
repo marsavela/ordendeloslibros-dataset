@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Black Tide Rising",
+  "slug": "black-tide-rising",
+  "source": "https://www.orderofbooks.com/characters/black-tide-rising/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Black-Tide-Rising-by-John-Ringo-500x200.jpg",
+  "authors": [
+    {
+      "name": "John Ringo",
+      "slug": "john-ringo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Under a Graveyard Sky",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "To Sail a Darkling Sea",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Islands of Rage & Hope",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Strands of Sorrow",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Black Tide Rising",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Valley of Shadows",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Voices of the Fall",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "River of Night",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "At the End of the World",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "At the End of the Journey",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "We Shall Rise",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "United We Stand",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Mountain of Fire",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Across an Ocean of Stars",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The King of FlorCubaTamp",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Perdition's Storm",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Soulmates Dissipate",
+  "slug": "soulmates-dissipate",
+  "source": "https://www.orderofbooks.com/characters/soulmates-dissipate/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Soulmates-Dissipate-by-Mary-B-Morrison-500x200.jpg",
+  "books": [
+    {
+      "title": "Soulmates Dissipate",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Never Again Once More",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "He's Just a Friend",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Somebody's Gotta Be on Top",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nothing Has Ever Felt Like This",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "When Somebody Loves You Back",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "She Ain't the One",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Darius Jones",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

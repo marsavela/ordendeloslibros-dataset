@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Underland Chronicles",
+  "slug": "the-underland-chronicles",
+  "source": "https://www.orderofbooks.com/characters/the-underland-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Underland-Chronicles.jpg",
+  "books": [
+    {
+      "title": "Gregor the Overlander",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gregor and the Prophecy of Bane",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gregor and the Curse of the Warmbloods",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gregor and the Marks of Secret",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gregor and the Code of Claw",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

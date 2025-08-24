@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Tales From The Odyssey",
+  "slug": "tales-from-the-odyssey",
+  "source": "https://www.orderofbooks.com/characters/tales-from-the-odyssey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Tales-from-the-Odyssey-by-Mary-Pope-Osborne-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mary Pope Osborne",
+      "slug": "mary-pope-osborne"
+    }
+  ],
+  "books": [
+    {
+      "title": "The One-Eyed Giant",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Land of the Dead",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sirens and Sea Monsters",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Gray-Eyed Goddess",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Return to Ithaca",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Final Battle",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

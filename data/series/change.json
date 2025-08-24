@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Change",
+  "slug": "change",
+  "source": "https://www.orderofbooks.com/characters/change/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/The-Change-by-SM-Stirling-500x200.jpg",
+  "authors": [
+    {
+      "name": "SM Stirling",
+      "slug": "sm-stirling"
+    }
+  ],
+  "books": [
+    {
+      "title": "Island in the Sea of Time",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Against the Tide of Years",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "On the Oceans of Eternity",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

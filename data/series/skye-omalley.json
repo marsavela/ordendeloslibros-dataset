@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Skye O’Malley",
+  "slug": "skye-omalley",
+  "source": "https://www.orderofbooks.com/characters/skye-omalley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Skye-OMalley-by-Bertrice-Small.jpg",
+  "authors": [
+    {
+      "name": "Bertrice Small",
+      "slug": "bertrice-small"
+    }
+  ],
+  "books": [
+    {
+      "title": "Skye O'Malley",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "All the Sweet Tomorrows",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "This Heart of Mine",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Love for All Time",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lost Love Found",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wild Jasmine",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

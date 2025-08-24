@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Hover Car Racer",
+  "slug": "hover-car-racer",
+  "source": "https://www.orderofbooks.com/characters/hover-car-racer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Hover-Car-Racer.jpg",
+  "books": [
+    {
+      "title": "Hover Car Racer (Compilation of below books)",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crash Course",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Full Throttle",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Photo Finish",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "type": "series",
+  "name": "Claire Malloy",
+  "slug": "claire-malloy",
+  "source": "https://www.orderofbooks.com/characters/claire-malloy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Claire-Malloy-by-Joan-Hess-500x200.jpg",
+  "authors": [
+    {
+      "name": "Joan Hess",
+      "slug": "joan-hess"
+    }
+  ],
+  "books": [
+    {
+      "title": "Strangled Prose",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Murder at the Murder at the Mimosa Inn",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dear Miss Demeanor",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Really Cute Corpse",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Diet to Die For",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Roll Over and Play Dead",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Death by the Light of the Moon",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Poisoned Pins",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "To Kill a Husband",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Tickled to Death",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Busy Bodies",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Closely Akin to Murder",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Holly, Jolly Murder",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Conventional Corpse",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Out on a Limb",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Goodbye Body",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Damsels in Distress",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Mummy Dearest",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Deader Homes and Gardens",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Murder as a Second Language",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Pride v. Prejudice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    }
+  ]
+}

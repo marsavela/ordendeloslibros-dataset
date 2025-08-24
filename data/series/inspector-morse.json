@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "Inspector Morse",
+  "slug": "inspector-morse",
+  "source": "https://www.orderofbooks.com/characters/inspector-morse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Inspector-Morse-by-Colin-Dexter.jpg",
+  "books": [
+    {
+      "title": "Last Bus to Woodstock",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Last Seen Wearing",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Silent World of Nicholas Quinn",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Service of All the Dead",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dead of Jericho",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Riddle of the Third Mile",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Secret of Annexe 3",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Wench Is Dead",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Jewel That Was Ours",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Way Through The Woods",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Daughters of Cain",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Death Is Now My Neighbor",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Remorseful Day",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

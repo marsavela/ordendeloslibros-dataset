@@ -1,0 +1,193 @@
+{
+  "type": "series",
+  "name": "Op-Center",
+  "slug": "op-center",
+  "source": "https://www.orderofbooks.com/characters/op-center/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/Tom-Clancys-Op-Center.jpg",
+  "books": [
+    {
+      "title": "Op-Center (By:Tom Clancy,Steve Pieczenik)",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mirror Image (By: Jeff Rovin)",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Games of State (By: Jeff Rovin)",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Acts of War (By: Jeff Rovin)",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Balance of Power (By: Jeff Rovin)",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "State of Siege (By: Jeff Rovin)",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Divide and Conquer (By: Jeff Rovin)",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Line of Control (By: Jeff Rovin)",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mission of Honor (By: Jeff Rovin)",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sea of Fire (By: Jeff Rovin)",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Call to Treason (By: Jeff Rovin)",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "War of Eagles (By: Jeff Rovin)",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Out of the Ashes (By: George Galdorisi)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Into the Fire (By: Dick Couch,George Galdorisi)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Scorched Earth (By: George Galdorisi)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Dark Zone (By: George Galdorisi)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "For Honor (By: Jeff Rovin)",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Tom Clancy's Op-Center: For Honor (By: Created by Tom Clancy)",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Sting of the Wasp (By: Jeff Rovin)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "God of War (By: Jeff Rovin)",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Black Order (By: Jeff Rovin)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Call of Duty (By: Jeff Rovin)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Fallout (By: Jeff Rovin)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    }
+  ]
+}

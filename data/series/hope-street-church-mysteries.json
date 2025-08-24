@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Hope Street Church Mysteries",
+  "slug": "hope-street-church-mysteries",
+  "source": "https://www.orderofbooks.com/characters/hope-street-church-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Hope-Street-Church-Mysteries-by-Ellery-Adams-Jennifer-Stanley-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ellery Adams Jennifer Stanley",
+      "slug": "ellery-adams-jennifer-stanley"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Path of the Crooked / Stirring Up Strife",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Way of the Wicked / Path of the Wicked",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Way of the Guilty / The Graves of the Guilty",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Root of All Evil",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fate of the Fallen",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Deeds of the Deceitful",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Way of the Wicked",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Methods of Malice",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Taste for Crime",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dying to Sell",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The first three novels were written under the Jennifer Stanley name, then re-issued with new titles and rewrites.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

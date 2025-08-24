@@ -1,0 +1,245 @@
+{
+  "type": "series",
+  "name": "Alliance-Union",
+  "slug": "alliance-union",
+  "source": "https://www.orderofbooks.com/characters/alliance-union/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Alliance-Union-Universe-by-CJ-Cherryh-500x200.jpg",
+  "authors": [
+    {
+      "name": "CJ Cherryh",
+      "slug": "cj-cherryh"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of The Faded Sun Books",
+      "books": [
+        {
+          "title": "Kesrith",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Shon'jir",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Kutath",
+          "year": 1979,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Alliance-Union Books",
+      "books": [
+        {
+          "title": "Serpent's Reach",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Forty Thousand in Gehenna",
+          "year": 1983,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        }
+      ]
+    },
+    "publication_3": {
+      "heading": "Publication Order of Alliance-Union: Company Wars Books",
+      "books": [
+        {
+          "title": "Downbelow Station",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Merchanter's Luck",
+          "year": 1982,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Rimrunners",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Heavy Time",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Hellburner",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Tripoint",
+          "year": 1994,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Finity's End",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "chronological": {
+      "heading": "Chronological Order of Alliance-Union: Company Wars Books",
+      "books": [
+        {
+          "title": "Heavy Time",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Hellburner",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Downbelow Station",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Merchanter's Luck",
+          "year": 1982,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Rimrunners",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Tripoint",
+          "year": 1994,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Finity's End",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "publication_4": {
+      "heading": "Publication Order of Alliance-Union: Cyteen Books",
+      "books": [
+        {
+          "title": "The Betrayal",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Rebirth",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Vindication",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Regenesis",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    },
+    "publication_5": {
+      "heading": "Publication Order of Hinder Stars Books",
+      "books": [
+        {
+          "title": "Alliance Rising",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Alliance Unbound",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        }
+      ]
+    }
+  }
+}

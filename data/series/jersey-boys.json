@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Jersey Boys",
+  "slug": "jersey-boys",
+  "source": "https://www.orderofbooks.com/characters/jersey-boys/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Jersey-Boys-by-Karen-Templeton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Karen Templeton",
+      "slug": "karen-templeton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Real Mr. Right",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "More Than She Expected",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Santa's Playbook",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Meant-to-Be Mom / Meant-to-Be Mum",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Eli Marks",
+  "slug": "eli-marks",
+  "source": "https://www.orderofbooks.com/characters/eli-marks/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/09/eli-marks.jpg",
+  "authors": [
+    {
+      "name": "John Gaspard. The",
+      "slug": "john-gaspard-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Ambitious Card",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bullet Catch",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Miser's Dream",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Invisible Assistant",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Linking Rings",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Floating Light Bulb",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Zombie Ball",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Last Customer",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

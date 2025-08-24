@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Wishcraft Mysteries",
+  "slug": "wishcraft-mysteries",
+  "source": "https://www.orderofbooks.com/characters/wishcraft-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/09/Wishcraft-Mysteries-by-Heather-Blake-500x200.jpg",
+  "authors": [
+    {
+      "name": "Heather Blake",
+      "slug": "heather-blake"
+    }
+  ],
+  "books": [
+    {
+      "title": "It Takes a Witch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Witch Before Dying",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Good, the Bad, and the Witchy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Goodbye Witch",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Some Like It Witchy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gone With the Witch",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Witch and the Dead",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "To Catch a Witch",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Witch to Remember",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

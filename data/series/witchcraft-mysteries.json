@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Witchcraft Mysteries",
+  "slug": "witchcraft-mysteries",
+  "source": "https://www.orderofbooks.com/characters/witchcraft-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Witchcraft-Mysteries-by-Juliet-Blackwell-500x200.jpg",
+  "authors": [
+    {
+      "name": "Juliet Blackwell",
+      "slug": "juliet-blackwell"
+    }
+  ],
+  "books": [
+    {
+      "title": "Secondhand Spirits",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Cast-Off Coven",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hexes and Hemlines",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "In a Witch's Wardrobe",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tarnished and Torn",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Vision in Velvet",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Spellcasting In Silk",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Toxic Trousseau",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Magical Match",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Bewitched and Betrothed",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Synchronized Sorcery",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

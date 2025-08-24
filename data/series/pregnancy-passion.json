@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Pregnancy & Passion",
+  "slug": "pregnancy-passion",
+  "source": "https://www.orderofbooks.com/characters/pregnancy-and-passion/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Pregnancy-and-Passion-by-Maya-Banks.jpg",
+  "books": [
+    {
+      "title": "Enticed by His Forgotten Lover / Enticed",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wanted by Her Lost Love / Wanted",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tempted by Her Innocent Kiss / Tempted",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Undone By Her Tender Touch / Undone",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

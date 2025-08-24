@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Demon Kissed",
+  "slug": "demon-kissed",
+  "source": "https://www.orderofbooks.com/characters/demon-kissed/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Demon-Kissed-by-HM-Ward.jpg",
+  "authors": [
+    {
+      "name": "HM Ward",
+      "slug": "hm-ward"
+    }
+  ],
+  "books": [
+    {
+      "title": "Demon Kissed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cursed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Torn",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Satan's Stone",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The 13th Prophecy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Assassin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

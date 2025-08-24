@@ -1,0 +1,62 @@
+{
+  "type": "series",
+  "name": "Andrew Z. Thomas",
+  "slug": "andrew-z-thomas",
+  "source": "https://www.orderofbooks.com/characters/andrew-z-thomas/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Andrew-Z-Thomas-by-Blake-Crouch.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Andrew Z. Thomas/Luther Kite Books",
+      "books": [
+        {
+          "title": "Desert Places",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Locked Doors",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Serial Uncut (Bad Girl)",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Break You",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Stirred",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Bad Girl is first in chronological order then it follows publication order.",
+          "year": null,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

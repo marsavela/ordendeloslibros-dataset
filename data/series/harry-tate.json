@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Harry Tate",
+  "slug": "harry-tate",
+  "source": "https://www.orderofbooks.com/characters/harry-tate/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Harry-Tate-by-Adrian-Magson.jpg",
+  "authors": [
+    {
+      "name": "Adrian Magson",
+      "slug": "adrian-magson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Red Station",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tracers",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deception",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Retribution",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Execution",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Terminal Black",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

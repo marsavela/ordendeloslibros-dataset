@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Francis Tucket",
+  "slug": "francis-tucket",
+  "source": "https://www.orderofbooks.com/characters/francis-tucket/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Francis-Tucket-by-Gary-Paulsen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gary Paulsen",
+      "slug": "gary-paulsen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mr. Tucket / Chance for Escape",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Call Me Francis Tucket",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tucket's Ride",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tucket's Home",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tucket's Gold",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "series",
+  "name": "The Chronicles Of Narnia",
+  "slug": "the-chronicles-of-narnia",
+  "source": "https://www.orderofbooks.com/characters/the-chronicles-of-narnia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Chronicles-of-Narnia.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of The Chronicles Of Narnia Books",
+      "books": [
+        {
+          "title": "The Lion, the Witch, and the Wardrobe",
+          "year": 1950,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Prince Caspian",
+          "year": 1951,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Voyage of the Dawn Treader",
+          "year": 1952,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Silver Chair",
+          "year": 1953,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Horse and His Boy",
+          "year": 1954,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Magician's Nephew",
+          "year": 1955,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Last Battle",
+          "year": 1956,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "chronological": {
+      "heading": "Chronological Order of The Chronicles Of Narnia Books",
+      "books": [
+        {
+          "title": "The Magician's Nephew",
+          "year": 1955,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Lion, the Witch, and the Wardrobe",
+          "year": 1950,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Horse and His Boy",
+          "year": 1954,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Prince Caspian",
+          "year": 1951,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Voyage of the Dawn Treader",
+          "year": 1952,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Silver Chair",
+          "year": 1953,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Last Battle",
+          "year": 1956,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of The World Of Narnia Books",
+      "books": [
+        {
+          "title": "Lucy Steps Through the Wardrobe",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Edmund and the White Witch",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Aslan",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Aslan's Triumph",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Uncle Andrew's Troubles",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Wood Between the Worlds",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    },
+    "publication_3": {
+      "heading": "Publication Order of The Chronicles Of Narnia Companion Books",
+      "books": [
+        {
+          "title": "A Book of Narnians",
+          "year": 1950,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        }
+      ]
+    }
+  }
+}

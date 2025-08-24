@@ -1,0 +1,215 @@
+{
+  "type": "series",
+  "name": "Daisy Dalrymple",
+  "slug": "daisy-dalrymple",
+  "source": "https://www.orderofbooks.com/characters/daisy-dalrymple/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Daisy-Dalrymple-by-Carola-Dunn.jpg",
+  "authors": [
+    {
+      "name": "Carola Dunn",
+      "slug": "carola-dunn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death at Wentwater Court",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Winter Garden Mystery",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Requiem for a Mezzo",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder on the Flying Scotsman",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Damsel in Distress",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dead in the Water",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Styx and Stones",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Rattle His Bones",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "To Davy Jones Below",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Case of the Murdered Muckraker",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Mistletoe and Murder",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Die Laughing",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Mourning Wedding",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Fall of a Philanderer",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Gunpowder Plot",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Bloody Tower",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Black Ship",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Sheer Folly",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Unhappy Medium",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Storm in a Tea Shoppe",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Anthem for Doomed Youth",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Gone West",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Heirs of the Body",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Superfluous Women",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Corpse at the Crystal Palace",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

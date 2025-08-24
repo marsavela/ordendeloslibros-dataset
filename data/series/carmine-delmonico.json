@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Carmine Delmonico",
+  "slug": "carmine-delmonico",
+  "source": "https://www.orderofbooks.com/characters/carmine-delmonico/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Carmine-Delmonico-by-Colleen-McCullough-500x200.jpg",
+  "authors": [
+    {
+      "name": "Colleen McCullough",
+      "slug": "colleen-mccullough"
+    }
+  ],
+  "books": [
+    {
+      "title": "On, Off",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Too Many Murders",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Naked Cruelty",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Prodigal Son",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sins of the Flesh",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

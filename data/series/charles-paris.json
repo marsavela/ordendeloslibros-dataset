@@ -1,0 +1,175 @@
+{
+  "type": "series",
+  "name": "Charles Paris",
+  "slug": "charles-paris",
+  "source": "https://www.orderofbooks.com/characters/charles-paris/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Charles-Paris-by-Simon-Brett.jpg",
+  "authors": [
+    {
+      "name": "Simon Brett",
+      "slug": "simon-brett"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cast in Order of Disappearance",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "So Much Blood",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Star Trap",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "An Amateur Corpse",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Comedian Dies",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dead Side Of The Mike / Mic",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Situation Tragedy",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder Unprompted",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder in the Title",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Not Dead, Only Resting",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "DeadGiveaway",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "What Bloody Man is That?",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Series of Murders",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Corporate Bodies",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Reconstructed Corpse",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Sicken and So Die",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Dead Room Farce",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "A Decent Interval",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Cinderella Killer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Deadly Habit",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    }
+  ]
+}

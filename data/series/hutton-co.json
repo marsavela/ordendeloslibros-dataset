@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Hutton & Co",
+  "slug": "hutton-co",
+  "source": "https://www.orderofbooks.com/characters/hutton-co/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Hutton-and-Co-by-Diana-Palmer.jpg",
+  "books": [
+    {
+      "title": "Once In Paris",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Paper Rose",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lord of the Desert",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Texas Ranger",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Desperado",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Desperado and The Texas Ranger also belong to the Long, Tall Texans series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

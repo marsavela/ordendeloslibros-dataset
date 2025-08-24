@@ -1,0 +1,207 @@
+{
+  "type": "series",
+  "name": "Pennsylvania Dutch Mysteries",
+  "slug": "pennsylvania-dutch-mysteries",
+  "source": "https://www.orderofbooks.com/characters/pennsylvania-dutch-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Pennsylvania-Dutch-Mysteries-by-Tamar-Mysteries-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tamar Mysteries",
+      "slug": "tamar-mysteries"
+    }
+  ],
+  "books": [
+    {
+      "title": "Too Many Crooks Spoil the Broth",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Parsley, Sage, Rosemary and Crime",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "No Use Dying Over Spilled Milk",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Just Plain Pickled to Death",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Between a Wok and a Hard Place",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Eat, Drink and Be Wary",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Play It Again, Spam",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Hand That Rocks the Ladle",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Crepes of Wrath",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Gruel and Unusual Punishment",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Custard's Last Stand",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Thou Shalt Not Grill",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Assault and Pepper",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Grape Expectations",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Hell Hath No Curry",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "As the World Churns",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Batter Off Dead",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Butter Safe Than Sorry",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Death of Pie",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Tea with Jam and Dread",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Puddin' on the Blitz",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Mean and Shellfish",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Death by Tart Attack",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Meat Thy Maker",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

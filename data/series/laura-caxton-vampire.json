@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Laura Caxton Vampire",
+  "slug": "laura-caxton-vampire",
+  "source": "https://www.orderofbooks.com/characters/laura-caxton-vampire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Laura-Caxton-Vampire-by-David-Wellington.jpg",
+  "authors": [
+    {
+      "name": "David Wellington",
+      "slug": "david-wellington"
+    }
+  ],
+  "books": [
+    {
+      "title": "13 Bullets",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "99 Coffins",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vampire Zero",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "23 Hours",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "32 Fangs",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

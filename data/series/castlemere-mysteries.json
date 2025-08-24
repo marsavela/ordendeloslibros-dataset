@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Castlemere Mysteries",
+  "slug": "castlemere-mysteries",
+  "source": "https://www.orderofbooks.com/characters/castlemere-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Castlemere-Mysteries-by-Jo-Bannister-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jo Bannister",
+      "slug": "jo-bannister"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Bleeding of Innocents",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Charisma / Sins of the Heart",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Burning Desires / A Taste for Burning",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Birds Sing",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Broken Lines",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Hireling's Tale",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Changelings",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

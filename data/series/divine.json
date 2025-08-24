@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Divine",
+  "slug": "divine",
+  "source": "https://www.orderofbooks.com/characters/divine/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Divine-by-PC-Cast.jpg",
+  "authors": [
+    {
+      "name": "P.C. Cast",
+      "slug": "p-c-cast"
+    }
+  ],
+  "books": [
+    {
+      "title": "Divine by Mistake / Goddess by Mistake",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Elphame's Choice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Brighid's Quest",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Divine by Choice",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Divine by Blood",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Divine Beginnings",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

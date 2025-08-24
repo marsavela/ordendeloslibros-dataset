@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Santa Fe Bobcats",
+  "slug": "santa-fe-bobcats",
+  "source": "https://www.orderofbooks.com/characters/santa-fe-bobcats/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Santa-Fe-Bobcats-by-Jeanette-Murray-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jeanette Murray",
+      "slug": "jeanette-murray"
+    }
+  ],
+  "books": [
+    {
+      "title": "One Night with a Quarterback",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Loving Him Off the Field",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Takes Two to Tackle",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Romancing the Running Back",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Completing the Pass",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Challenging the Center",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Changing Her Plans",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

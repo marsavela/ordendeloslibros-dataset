@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Jenny Cooper",
+  "slug": "jenny-cooper",
+  "source": "https://www.orderofbooks.com/characters/jenny-cooper/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Jenny-Cooper-by-MR-Hall.jpg",
+  "authors": [
+    {
+      "name": "MR Hall",
+      "slug": "mr-hall"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Coroner",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Disappeared",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Redeemed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Flight",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Innocent",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Chosen Dead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Burning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Life to Kill / The Last Post",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chronological note: The Innocent is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

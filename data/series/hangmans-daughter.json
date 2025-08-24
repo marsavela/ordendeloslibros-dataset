@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Hangman’s Daughter",
+  "slug": "hangmans-daughter",
+  "source": "https://www.orderofbooks.com/characters/hangmans-daughter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Hangmans-Daughter-by-Oliver-Potzsch.jpg",
+  "authors": [
+    {
+      "name": "Oliver Potzsch",
+      "slug": "oliver-potzsch"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hangman's Daughter",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dark Monk",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Beggar King",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Poisoned Pilgrim",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Werewolf of Bamberg",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Play of Death",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Council of Twelve",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Die Henkerstochter und der Fluch der Pest",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Die Henkerstochter und die schwarze Madonna",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

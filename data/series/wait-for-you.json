@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Wait For You",
+  "slug": "wait-for-you",
+  "source": "https://www.orderofbooks.com/characters/wait-for-you/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Wait-For-You-by-J-Lynn-500x200.jpg",
+  "authors": [
+    {
+      "name": "J Lynn",
+      "slug": "j-lynn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wait for You",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Trust in Me",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Proposal",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Be with Me",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stay with Me",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fall with Me",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dream of You",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Forever with You",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fire in You",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "type": "series",
+  "name": "John Putnam Thatcher",
+  "slug": "john-putnam-thatcher",
+  "source": "https://www.orderofbooks.com/characters/john-putnam-thatcher/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/John-Putnam-Thatcher-by-Emma-Lathen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Emma Lathen",
+      "slug": "emma-lathen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Banking on Death",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Place for Murder",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Accounting for Murder",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder Makes the Wheels Go 'Round",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death Shall Overcome",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder Against the Grain",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Stitch in Time",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Come to Dust",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "When in Greece",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Murder To Go",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Pick Up Sticks",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Ashes to Ashes",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Longer the Thread",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Murder Without Icing",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Sweet and Low",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "By Hook or by Crook",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Double, Double, Oil and Trouble",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Going for the Gold",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Green Grow the Dollars",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Something in the Air",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "East Is East",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Right on the Money",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Brewing Up a Storm",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "A Shark Out of Water",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Dark Sword",
+  "slug": "dark-sword",
+  "source": "https://www.orderofbooks.com/characters/dark-sword/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Dark-Sword-by-Donna-Grant-500x200.jpg",
+  "authors": [
+    {
+      "name": "Donna Grant",
+      "slug": "donna-grant"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dangerous Highlander",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Forbidden Highlander",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wicked Highlander",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Untamed Highlander",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadow Highlander",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Darkest Highlander",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Nightmare Academy",
+  "slug": "nightmare-academy",
+  "source": "https://www.orderofbooks.com/characters/nightmare-academy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Nightmare-Academy-by-Dean-Lorey.jpg",
+  "books": [
+    {
+      "title": "Monster Hunters/Nightmare Academy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Monster Madness/Monster Revenge",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Monster War",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

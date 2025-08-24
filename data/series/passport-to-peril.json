@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Passport To Peril",
+  "slug": "passport-to-peril",
+  "source": "https://www.orderofbooks.com/characters/passport-to-peril/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Passport-To-Peril-by-Maddy-Hunter-500x200.jpg",
+  "authors": [
+    {
+      "name": "Maddy Hunter",
+      "slug": "maddy-hunter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Alpine for You",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Top O' the Mournin'",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pasta Imperfect",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hula Done It?",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "G'Day to Die",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Norway to Hide",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dutch Me Deadly",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bonnie of Evidence",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fleur de Lies",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "From Bad to Wurst",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Say No Moor",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Catch Me If Yukon",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

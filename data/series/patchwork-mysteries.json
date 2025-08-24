@@ -1,0 +1,231 @@
+{
+  "type": "series",
+  "name": "Patchwork Mysteries",
+  "slug": "patchwork-mysteries",
+  "source": "https://www.orderofbooks.com/characters/patchwork-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Patchwork-Mysteries-Guideposts.jpg",
+  "authors": [
+    {
+      "name": "Guideposts. The",
+      "slug": "guideposts-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "Family Patterns (By: Kristin Eckhardt)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Time to Share (By: Jo Ann Brown)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Muslin Mystery (By:Vera Dodge)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Timeless Treasures (By: Cara C. Putman)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Homespun Holidays (By: Kelly Ann Riley)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pieces of the Past (By: Susan Page Davis)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Threads of Truth (By: Kristin Eckhardt)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Secret in the Stitches (By: Jo Ann Brown)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bound in Love (By: Camy Tang)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Yesterday's Secrets (By: Kelly Ann Riley)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Squared Away (By: Cara C. Putman)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Mystery on the Midway (By:Vera Dodge)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Quilt of Memories (By: Kristin Eckhardt)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The House on Lookout Mountain (By: Jo Ann Brown)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "To Have And To Hide (By: Camy Tang)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Nothing To Hide (By: Susan Page Davis)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Christmas Quilt (By: Kelly Ann Riley)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Torn in Two (By: Kristin Eckhardt)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Secrets in the Storm (By: Susan Page Davis)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Price of Truth (By: Camy Tang)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Mother's Love (By: Kelly Ann Riley)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Calico Trail (By: Kristin Eckhardt)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Thousand Stories Quilt (By: Jo Ann Brown)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "As Close As My Heart (By: Camy Tang)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "A Spot of Trouble (By: Kelly Ann Riley)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Threads of Love (By: Susan Page Davis)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Something Borrowed (By: Camy Tang)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    }
+  ]
+}

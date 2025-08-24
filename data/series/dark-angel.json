@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Dark Angel",
+  "slug": "dark-angel",
+  "source": "https://www.orderofbooks.com/characters/dark-angel/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Dark-Angel-by-Mary-Balogh.jpg",
+  "authors": [
+    {
+      "name": "Mary Balogh",
+      "slug": "mary-balogh"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Ideal Wife",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Precious Jewel",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dark Angel",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lord Carew's Bride",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Famous Heroine",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Plumed Bonnet",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Christmas Bride",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

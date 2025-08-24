@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Fu Manchu",
+  "slug": "fu-manchu",
+  "source": "https://www.orderofbooks.com/characters/fu-manchu/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Fu-Manchu-by-Sax-Rohmer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sax Rohmer",
+      "slug": "sax-rohmer"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Mystery of Dr. Fu-Manchu / The Insidious Dr. Fu-Manchu",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Return of Dr. Fu-Manchu / The Devil Doctor",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Hand of Fu-Manchu / The Si-Fan Mysteries",
+      "year": 1917,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Daughter of Fu-Manchu",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mask of Fu-Manchu",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bride of Fu-Manchu / Fu-Manchu's Bride",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Trail of Fu-Manchu",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "President Fu-Manchu",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Drums of Fu-Manchu",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Island of Fu-Manchu",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Shadow of Fu-Manchu",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Re-enter Fu-Manchu",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Emperor Fu-Manchu",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Wrath of Fu-Manchu",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

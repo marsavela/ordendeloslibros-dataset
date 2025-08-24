@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Junior Bender",
+  "slug": "junior-bender",
+  "source": "https://www.orderofbooks.com/characters/junior-bender/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Junior-Bender-by-Timothy-Hallinan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Timothy Hallinan",
+      "slug": "timothy-hallinan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Crashed",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Little Elvises",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fame Thief",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Herbie's Game",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "King Maybe",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fields Where They Lay",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Nighttown",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Rock of Ages",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

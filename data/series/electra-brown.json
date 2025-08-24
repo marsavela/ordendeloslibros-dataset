@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Electra Brown",
+  "slug": "electra-brown",
+  "source": "https://www.orderofbooks.com/characters/electra-brown/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/Electra-Brown-by-Helen-Bailey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Helen Bailey",
+      "slug": "helen-bailey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Life at the Shallow End",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Out of My Depth",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Swimming Against the Tide",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Taking the Plunge",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Falling Hook, Line and Sinker",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Vampire Diaries: Stefans Diaries",
+  "slug": "vampire-diaries-stefans-diaries",
+  "source": "https://www.orderofbooks.com/characters/the-vampire-diaries-stefans-diaries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/vampire-diaries-stefans-diaries-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julie Plec",
+      "slug": "julie-plec"
+    }
+  ],
+  "books": [
+    {
+      "title": "Origins",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bloodlust",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Craving",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Ripper",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Asylum",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Compelled",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

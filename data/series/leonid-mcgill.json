@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Leonid McGill",
+  "slug": "leonid-mcgill",
+  "source": "https://www.orderofbooks.com/characters/leonid-mcgill/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Leonid-McGill-by-Walter-Mosley.jpg",
+  "books": [
+    {
+      "title": "The Long Fall",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Known to Evil",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Karma",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "When the Thrill Is Gone",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "All I Did Was Shoot My Man",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "And Sometimes I Wonder About You",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Trouble Is What I Do",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Karma is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

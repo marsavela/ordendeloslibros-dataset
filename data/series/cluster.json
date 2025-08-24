@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Cluster",
+  "slug": "cluster",
+  "source": "https://www.orderofbooks.com/characters/cluster/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Cluster-by-Piers-Anthony.jpg",
+  "books": [
+    {
+      "title": "Cluster / Vicinity Cluster",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Chaining the Lady",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kirlian Quest",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thousandstar",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Viscous Circle",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

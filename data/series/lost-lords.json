@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Lost Lords",
+  "slug": "lost-lords",
+  "source": "https://www.orderofbooks.com/characters/lost-lords/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/lost-lords-500x200.jpg",
+  "books": [
+    {
+      "title": "Loving a Lost Lord",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Never Less Than a Lady",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nowhere Near Respectable",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Longer a Gentleman",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sometimes a Rogue",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Not Quite a Wife",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Not Always a Saint",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

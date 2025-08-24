@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Ministry Is Murder",
+  "slug": "ministry-is-murder",
+  "source": "https://www.orderofbooks.com/characters/ministry-is-murder/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Ministry-is-Murder-by-Emilie-Richards-500x200.jpg",
+  "authors": [
+    {
+      "name": "Emilie Richards",
+      "slug": "emilie-richards"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blessed Is The Busybody",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Let There Be Suspects",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beware False Profits",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Lie for a Lie",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Truth For a Truth",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

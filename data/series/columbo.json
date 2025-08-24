@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Columbo",
+  "slug": "columbo",
+  "source": "https://www.orderofbooks.com/characters/columbo/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/06/Columbo-by-William-Harrington.jpg",
+  "books": [
+    {
+      "title": "The Grassy Knoll",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Helter Skelter Murders",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Hoffa Connection",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Game Show Killer",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Glitter Murders",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Hoover Files",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

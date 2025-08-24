@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Code 11-KPD SWAT",
+  "slug": "code-11-kpd-swat",
+  "source": "https://www.orderofbooks.com/characters/code-11-kpd-swat/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Code-11-KPD-SWAT-by-Lani-Lynn-Vale-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lani Lynn Vale",
+      "slug": "lani-lynn-vale"
+    }
+  ],
+  "books": [
+    {
+      "title": "Center Mass",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Double Tap",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bang Switch",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Execution Style",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Charlie Foxtrot",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kill Shot",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Coup De Grâce",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A SWAT Call Before Christmas",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

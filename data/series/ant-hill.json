@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Ant Hill",
+  "slug": "ant-hill",
+  "source": "https://www.orderofbooks.com/characters/ant-hill/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Ant-Hill-by-Joan-Holub.jpg",
+  "books": [
+    {
+      "title": "More Snacks!",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Good Luck!",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Scaredy-Pants!",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Big Heart!",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Spring Is Here!",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Picnic!",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Snow Day!",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

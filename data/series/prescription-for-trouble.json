@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Prescription For Trouble",
+  "slug": "prescription-for-trouble",
+  "source": "https://www.orderofbooks.com/characters/prescription-for-trouble/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Prescription-For-Trouble-by-Richard-L-Mabry.jpg",
+  "books": [
+    {
+      "title": "Code Blue",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Medical Error",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Diagnosis Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lethal Remedy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stress Test",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Heart Failure",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

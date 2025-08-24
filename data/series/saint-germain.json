@@ -1,0 +1,231 @@
+{
+  "type": "series",
+  "name": "Saint-Germain",
+  "slug": "saint-germain",
+  "source": "https://www.orderofbooks.com/characters/saint-germain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/09/Saint-Germain-by-Chelsea-Quinn-Yarbro-500x200.jpg",
+  "authors": [
+    {
+      "name": "Chelsea Quinn Yarbro",
+      "slug": "chelsea-quinn-yarbro"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hôtel Transylvania",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Palace",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood Games",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Path of the Eclipse",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tempting Fate",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Saint-Germain Chronicles",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Darker Jewels",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Better in the Dark",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mansions of Darkness",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Writ in Blood",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Blood Roses",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Communion Blood",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Come Twilight",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Feast in Exile",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Night Blooming",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Midnight Harvest",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Dark of the Sun",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "States of Grace",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Roman Dusk",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Saint-Germain Memoirs",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Borne in Blood",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "A Dangerous Climate",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Burning Shadows",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "An Embarrassment of Riches",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Commedia della Morte",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Night Pilgrims",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Sustenance",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    }
+  ]
+}

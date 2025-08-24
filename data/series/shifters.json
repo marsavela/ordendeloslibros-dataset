@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Shifters",
+  "slug": "shifters",
+  "source": "https://www.orderofbooks.com/characters/shifters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/11/Shifters-by-Rachel-Vincent-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rachel Vincent",
+      "slug": "rachel-vincent"
+    }
+  ],
+  "books": [
+    {
+      "title": "Stray",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rogue",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pride",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Prey",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shift",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Alpha",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hunt",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fat Cat",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

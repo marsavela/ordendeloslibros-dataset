@@ -1,0 +1,153 @@
+{
+  "type": "series",
+  "name": "Heroes In Training",
+  "slug": "heroes-in-training",
+  "source": "https://www.orderofbooks.com/characters/heroes-in-training/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Heroes-in-Training-by-Joan-Holub-Suzanne-Williams.jpg",
+  "books": [
+    {
+      "title": "Zeus and the Thunderbolt of Doom (By:Suzanne Williams,Joan Holub)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Poseidon and the Sea of Fury (By:Suzanne Williams,Joan Holub)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hades and the Helm of Darkness (By:Suzanne Williams,Joan Holub)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hyperion and the Great Balls of Fire (By:Suzanne Williams,Joan Holub)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Typhon and the Winds of Destruction (By:Suzanne Williams,Joan Holub)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Apollo and the Battle of the Birds (By:Suzanne Williams,Joan Holub)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ares and the Spear of Fear (By:Suzanne Williams,Joan Holub)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Cronus and the Threads of Dread (By:Suzanne Williams,Joan Holub)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Crius and the Night of Fright (By:Suzanne Williams,Joan Holub)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Hephaestus and the Island of Terror (By:Suzanne Williams,Joan Holub)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Uranus and the Bubbles of Trouble (By:Suzanne Williams,Joan Holub)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Perseus and the Monstrous Medusa (By:Suzanne Williams,Joan Holub)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Hermes and the Horse with Wings (By:Suzanne Williams,Joan Holub,Tracey West)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Dionysus and the Land of Beasts (By: Tracey West)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Zeus and the Dreadful Dragon (By: Tracey West)",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Hercules and the Nine-Headed Hydra (By: Tracey West)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Alkyoneus and the Warrior Queen (By: Tracey West)",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Zeus and the Skeleton Army (By: Tracey West)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

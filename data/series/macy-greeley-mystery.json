@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Macy Greeley Mystery",
+  "slug": "macy-greeley-mystery",
+  "source": "https://www.orderofbooks.com/characters/macy-greeley-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/10/burnt-river.jpg",
+  "books": [
+    {
+      "title": "Bone Dust White",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Burnt River",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Walleye Junction",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silent Rain",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

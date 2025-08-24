@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Night Warriors",
+  "slug": "night-warriors",
+  "source": "https://www.orderofbooks.com/characters/night-warriors/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Night-Warriors-by-Graham-Masterton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Graham Masterton",
+      "slug": "graham-masterton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Night Warriors",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death Dream",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Night Plague",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Night Wars",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Ninth Nightmare",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Drew Farthering",
+  "slug": "drew-farthering",
+  "source": "https://www.orderofbooks.com/characters/drew-farthering/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/03/Drew-Farthering-Mysteries-by-Julianna-Deering.jpg",
+  "books": [
+    {
+      "title": "Rules of Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death by the Book",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder at the Mikado",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dressed for Death",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder on the Moor",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death at Thorburn Hall",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

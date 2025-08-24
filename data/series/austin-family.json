@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Austin Family",
+  "slug": "austin-family",
+  "source": "https://www.orderofbooks.com/characters/austin-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Austin-Family-by-Madeleine-LEngle-500x200.jpg",
+  "authors": [
+    {
+      "name": "Madeleine L'Engle",
+      "slug": "madeleine-l-engle"
+    }
+  ],
+  "books": [
+    {
+      "title": "Meet the Austins",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Moon by Night",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Twenty-Four Days Before Christmas",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Young Unicorns",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Ring of Endless Light",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Anti-Muffins",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Troubling a Star",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Full House",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "When reading this series in chronological order, Troubling a Star and The Anti-Muffins are reversed.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Blue Bloods",
+  "slug": "blue-bloods",
+  "source": "https://www.orderofbooks.com/characters/blue-bloods/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Blue-Bloods-by-Melissa-De-La-Cruz-500x200.jpg",
+  "authors": [
+    {
+      "name": "Melissa De La Cruz",
+      "slug": "melissa-de-la-cruz"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blue Bloods",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Masquerade",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Revelations",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Van Alen Legacy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bloody Valentine",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Misguided Angel",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Lost In Time",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wolf Pact",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Gates of Paradise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "After Life",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "After Death",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "type": "series",
+  "name": "Les Norton",
+  "slug": "les-norton",
+  "source": "https://www.orderofbooks.com/characters/les-norton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Les-Norton-by-Robert-G-Barrett.jpg",
+  "books": [
+    {
+      "title": "You Wouldn't Be Dead For Quids",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Real Thing",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Boys from Binjiwunyawunya",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Godson",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Between the Devlin and the Deep Blue Seas",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "White Shoes, White Lines and Blackie",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "And De Fun Don't Done",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Mele Kalikamaka Mr. Walker",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Day of the Gecko",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Rider on the Storm and Other Bits and Barrett",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Guns 'N' Rose",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Mud Crab Boogie",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Goodoo Goodoo",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Wind and the Monkey",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Leaving Bondi",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Mystery Bay Blues",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Rosa-Marie's Baby",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Crime Scene Cessnock",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Les Norton and the Case of the Talking Pie Crust",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "High Noon in Nimbin",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    }
+  ]
+}

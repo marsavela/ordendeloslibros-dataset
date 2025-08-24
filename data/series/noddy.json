@@ -1,0 +1,369 @@
+{
+  "type": "series",
+  "name": "Noddy",
+  "slug": "noddy",
+  "source": "https://www.orderofbooks.com/characters/noddy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Enid-Blyton-Noddy.jpg",
+  "books": [
+    {
+      "title": "Noddy Goes To Toyland",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hurrah For Little Noddy",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Noddy and His Car",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Here Comes Noddy Again",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Noddy Goes To School",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Well Done Noddy!",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Noddy At The Seaside",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Noddy and the Magic Rubber",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Noddy Gets Into Trouble",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "You Funny Little Noddy",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Noddy Meets Father Christmas",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Do Look Out Noddy!",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Noddy And Tessie Bear",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Be Brave Little Noddy!",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Noddy and the Bumpy Dog",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "You're A Good Friend, Noddy!",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Noddy Has an Adventure",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Noddy & the Bunkey",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Noddy Goes To Sea",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Noddy Goes To The Fair",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Cheer Up, Little Noddy!",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Mr. Plod and Little Noddy",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Noddy And The Tootles",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Noddy And The Aeroplane",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Noddy and His Passengers",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Noddy Goes to Market",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Noddy and the Magic Boots",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Noddy's Big Balloon",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Be Brave Little Noddy",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Noddy Storytime Book",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Noddy Gives A Tea Party",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Noddy Helps Out",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Noddy Treasury",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Noddy Cheers Up Big Ears",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Noddy Gets Dressed",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Noddy and the Roller Skates",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Noddy and the Treasure Trail",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Hide-And-Seek Fun.",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Short Tales Noddy And The Pouring Rain",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Short Tales Noddy And The Driving Lesson",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Short Tales Noddy Tells A Story",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Short Tales Noddy And Martha Monkey",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Short Tales Noddy And The Singing Bush",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Noddy the Stolen Bicycles",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Noddy and the little Lost Duck",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    }
+  ]
+}

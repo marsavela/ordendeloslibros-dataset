@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Corean Chronicles",
+  "slug": "corean-chronicles",
+  "source": "https://www.orderofbooks.com/characters/corean-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Corean-Chronicles-by-LE-Modesitt-Jr.jpg",
+  "books": [
+    {
+      "title": "Legacies",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Darknesses",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Scepters",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Alector's Choice",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cadmian's Choice",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Soarer's Choice",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Lord-Protector's Daughter",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lady-Protector",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

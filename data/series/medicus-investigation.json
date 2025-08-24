@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Medicus Investigation",
+  "slug": "medicus-investigation",
+  "source": "https://www.orderofbooks.com/characters/medicus-investigation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/12/Medicus-Investigation-by-Ruth-Downie.jpg",
+  "books": [
+    {
+      "title": "Medicus / Ruso and the Disappearing Dancing Girls",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Terra Incognita / Ruso and the Demented Doctor",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Persona Non Grata / Ruso and the Root of All Evils",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Caveat Emptor / Ruso and the River of Darkness",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Semper Fidelis",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tabula Rasa",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Vita Brevis",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Memento Mori",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Prima Facie",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

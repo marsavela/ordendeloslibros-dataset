@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Farmers’ Market Mysteries",
+  "slug": "farmers-market-mysteries",
+  "source": "https://www.orderofbooks.com/characters/farmers-market-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Farmers-Market-Mysteries-by-Paige-Shelton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Paige Shelton",
+      "slug": "paige-shelton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Farm Fresh Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fruit of All Evil",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Crops and Robbers",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Killer Maize",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Red Hot Deadly Peppers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Merry Market Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bushel Full of Murder / Wound Up in Murder",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

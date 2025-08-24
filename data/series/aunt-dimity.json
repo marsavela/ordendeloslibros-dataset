@@ -1,0 +1,223 @@
+{
+  "type": "series",
+  "name": "Aunt Dimity",
+  "slug": "aunt-dimity",
+  "source": "https://www.orderofbooks.com/characters/aunt-dimity/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Aunt-Dimity-by-Nancy-Atherton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Nancy Atherton",
+      "slug": "nancy-atherton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Aunt Dimity's Death",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Aunt Dimity and the Duke",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Aunt Dimity's Good Deed",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Aunt Dimity Digs In",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Aunt Dimity's Christmas",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Aunt Dimity Beats the Devil",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Aunt Dimity: Detective",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Aunt Dimity Takes a Holiday",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Aunt Dimity: Snowbound",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Aunt Dimity and the Next of Kin",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Aunt Dimity and the Deep Blue Sea",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Aunt Dimity Goes West",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Aunt Dimity: Vampire Hunter",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Aunt Dimity Slays the Dragon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Aunt Dimity Down Under",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Aunt Dimity and the Family Tree",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Aunt Dimity and the Village Witch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Aunt Dimity and the Lost Prince",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Aunt Dimity and the Wishing Well",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Aunt Dimity and the Summer King",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Aunt Dimity and the Buried Treasure",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Aunt Dimity and the Widow's Curse",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Aunt Dimity and the King's Ransom",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Aunt Dimity and the Heart of Gold",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Aunt Dimity and the Enchanted Cottage",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Chronological Order of Aunt Dimity Books Aunt Dimity and the Duke is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    }
+  ]
+}

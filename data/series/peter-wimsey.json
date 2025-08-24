@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Peter Wimsey",
+  "slug": "peter-wimsey",
+  "source": "https://www.orderofbooks.com/characters/peter-wimsey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Peter-Wimsey-by-Dorothy-L-Sayers1.jpg",
+  "books": [
+    {
+      "title": "Whose Body?",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Clouds of Witness",
+      "year": 1926,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Unnatural Death",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lord Peter Views the Body",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Unpleasantness at the Bellona Club",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Strong Poison",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Five Red Herrings",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Have His Carcase",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hangman's Holiday",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Murder Must Advertise",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Nine Tailors",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Gaudy Night",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Busman's Honeymoon",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "In the Teeth of the Evidence",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Striding Folly",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

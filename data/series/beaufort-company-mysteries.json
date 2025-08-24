@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Beaufort & Company Mysteries",
+  "slug": "beaufort-company-mysteries",
+  "source": "https://www.orderofbooks.com/characters/beaufort-and-company-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Beaufort-and-Company-Mysteries-by-Mary-Stanton-Claudia-Bishop-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mary Stanton Claudia Bishop",
+      "slug": "mary-stanton-claudia-bishop"
+    }
+  ],
+  "books": [
+    {
+      "title": "Defending Angels",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Angel's Advocate",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Avenging Angels",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Angel's Verdict",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Angel Condemned",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

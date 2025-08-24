@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Bauchelain and Korbal Broach",
+  "slug": "bauchelain-and-korbal-broach",
+  "source": "https://www.orderofbooks.com/characters/bauchelain-and-korbal-broach/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Bauchelain-and-Korbal-Broach-by-Steven-Erikson.jpg",
+  "authors": [
+    {
+      "name": "Steven Erikson",
+      "slug": "steven-erikson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blood Follows",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Healthy Dead",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Lees of Laughter's End",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Crack'd Pot Trail",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Wurms of Blearmouth",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Fiends of Nightmaria",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

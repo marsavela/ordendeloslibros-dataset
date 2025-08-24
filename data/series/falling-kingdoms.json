@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Falling Kingdoms",
+  "slug": "falling-kingdoms",
+  "source": "https://www.orderofbooks.com/characters/falling-kingdoms/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Falling-Kingdoms-by-Morgan-Rhodes-500x200.jpg",
+  "authors": [
+    {
+      "name": "Morgan Rhodes",
+      "slug": "morgan-rhodes"
+    }
+  ],
+  "books": [
+    {
+      "title": "Falling Kingdoms",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rebel Spring",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gathering Darkness",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Frozen Tides",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Crystal Storm",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Crimson Dagger",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Obsidian Blade",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Immortal Reign",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chronological Order of Falling Kingdoms Books Crimson Dagger is a prequel in the Falling Kingdoms series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

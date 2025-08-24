@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Naked",
+  "slug": "naked",
+  "source": "https://www.orderofbooks.com/characters/naked/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Naked-by-Kelly-Favor.jpg",
+  "authors": [
+    {
+      "name": "Kelly Favor",
+      "slug": "kelly-favor"
+    }
+  ],
+  "books": [
+    {
+      "title": "Naked",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bad",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wild",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wrong",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ache",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Raw",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Scar",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

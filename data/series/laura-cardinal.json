@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Laura Cardinal",
+  "slug": "laura-cardinal",
+  "source": "https://www.orderofbooks.com/characters/laura-cardinal/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Laura-Cardinal-by-J-Carson-Black.jpg",
+  "books": [
+    {
+      "title": "Darkness on the Edge of Town",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dark Side of the Moon",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Hour",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cry Wolf",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Flight 12",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Cobbled Court Quilts",
+  "slug": "cobbled-court-quilts",
+  "source": "https://www.orderofbooks.com/characters/cobbled-court-quilts/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Cobbled-Court-Quilts-by-Marie-Bostwick-500x200.jpg",
+  "authors": [
+    {
+      "name": "Marie Bostwick",
+      "slug": "marie-bostwick"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Single Thread",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Thread of Truth",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Thread So Thin",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Threading the Needle",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ties That Bind",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Between Heaven and Texas",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Apart at the Seams",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

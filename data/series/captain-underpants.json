@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Captain Underpants",
+  "slug": "captain-underpants",
+  "source": "https://www.orderofbooks.com/characters/captain-underpants/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Captain-Underpants-by-Dav-Pilkey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dav Pilkey",
+      "slug": "dav-pilkey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Adventures of Captain Underpants",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Captain Underpants and the Attack of the Talking Toilets",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Captain Underpants and the Invasion of the Incredibly Naughty Cafeteria Ladies from Outer Space",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Captain Underpants and the Perilous Plot of Professor Poopypants",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Captain Underpants and the Wrath of the Wicked Wedgie Woman",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Captain Underpants and the Big, Bad Battle of the Bionic Booger Boy, Part 1",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Captain Underpants and the Big Bad Battle of the Bionic Booger Boy, Part 2",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Captain Underpants and the Preposterous Plight of the Purple Potty People",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Captain Underpants and the Terrifying Return of Tippy Tinkletrousers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Captain Underpants and the Revolting Revenge of the Radioactive Robo-Boxers",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Captain Underpants and the Tyrannical Retaliation of the Turbo Toilet 2000",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Captain Underpants and the Sensational Saga of Sir Stinks-A-Lot",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

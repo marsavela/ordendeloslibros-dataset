@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Whisper Lake",
+  "slug": "whisper-lake",
+  "source": "https://www.orderofbooks.com/characters/whisper-lake/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Whisper-Lake-by-Linda-Hall.jpg",
+  "books": [
+    {
+      "title": "Storm Warning",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "On Thin Ice",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Critical Impact",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

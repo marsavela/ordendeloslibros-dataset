@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Nick Travers",
+  "slug": "nick-travers",
+  "source": "https://www.orderofbooks.com/characters/nick-travers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Nick-Travers-by-Ace-Atkins.jpg",
+  "books": [
+    {
+      "title": "Crossroad Blues",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Leavin' Trunk Blues",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dark End of the Street",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dirty South",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Last Fair Deal Gone Down",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "From Four Til Late",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

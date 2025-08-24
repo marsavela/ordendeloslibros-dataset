@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Theodore Boone",
+  "slug": "theodore-boone",
+  "source": "https://www.orderofbooks.com/characters/theodore-boone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Theodore-Boone-by-John-Grisham.jpg",
+  "books": [
+    {
+      "title": "Theodore Boone: Kid Lawyer / Young Lawyer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Abduction",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Accused",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Activist",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fugitive",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Scandal",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Accomplice",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Gertie Johnson",
+  "slug": "gertie-johnson",
+  "source": "https://www.orderofbooks.com/characters/gertie-johnson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Gertie-Johnson-by-Deb-Baker-500x200.jpg",
+  "authors": [
+    {
+      "name": "Deb Baker",
+      "slug": "deb-baker"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder Passes The Buck",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder Grins And Bears It",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder Talks Turkey",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder Bites the Bullet",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder Trims the Tree",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder Begins at Home",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder Decks the Halls",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder Goes To The Dogs",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Penn Cage",
+  "slug": "penn-cage",
+  "source": "https://www.orderofbooks.com/characters/penn-cage/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Penn-Cage-by-Greg-Iles.jpg",
+  "books": [
+    {
+      "title": "The Quiet Game",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Turning Angel",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Punchbowl",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Death Factory",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Natchez Burning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bone Tree",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mississippi Blood",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Southern Man",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

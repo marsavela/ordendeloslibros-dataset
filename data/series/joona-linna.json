@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Joona Linna",
+  "slug": "joona-linna",
+  "source": "https://www.orderofbooks.com/characters/joona-linna/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Joona-Linna-by-Lars-Kepler.jpg",
+  "authors": [
+    {
+      "name": "Lars Kepler",
+      "slug": "lars-kepler"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hypnotist",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Nightmare",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fire Witness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Sandman",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stalker",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Rabbit Hunter",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Lazarus",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Mirror Man",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Spider",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Sleepwalker",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

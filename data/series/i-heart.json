@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "I Heart",
+  "slug": "i-heart",
+  "source": "https://www.orderofbooks.com/characters/i-heart/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/I-Heart-by-Lindsey-Kelk.jpg",
+  "books": [
+    {
+      "title": "I Heart New York",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I Heart Hollywood",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "I Heart Paris",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "I Heart Vegas",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "I Heart London",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "I Heart Christmas",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "I Heart Forever",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "I Heart Hawaii",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

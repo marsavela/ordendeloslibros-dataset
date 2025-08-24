@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Dr. Charlotte Stone",
+  "slug": "dr-charlotte-stone",
+  "source": "https://www.orderofbooks.com/characters/dr-charlotte-stone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Dr-Charlotte-Stone-by-Karen-Robards.jpg",
+  "authors": [
+    {
+      "name": "Karen Robards",
+      "slug": "karen-robards"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Last Victim",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Last Kiss Goodbye",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Her Last Whisper",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Time I Saw Her",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Detroit Crime",
+  "slug": "detroit-crime",
+  "source": "https://www.orderofbooks.com/characters/detroit-crime/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Detroit-Crime-Mystery-by-Loren-D-Estleman.jpg",
+  "books": [
+    {
+      "title": "Whiskey River",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Motown",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "King of the Corner",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Edsel",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stress",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Jitterbug",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Thunder City",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

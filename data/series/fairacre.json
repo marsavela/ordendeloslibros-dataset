@@ -1,0 +1,169 @@
+{
+  "type": "series",
+  "name": "Fairacre",
+  "slug": "fairacre",
+  "source": "https://www.orderofbooks.com/characters/fairacre/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Fairacre-by-Miss-Read.jpg",
+  "books": [
+    {
+      "title": "Village School",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Village Diary",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Storm in the Village",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Miss Clare Remembers",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Over the Gate",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Village Christmas",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Fairacre Festival",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Emily Davis",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Christmas Mouse",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Tyler's Row",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Farther Afield",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "No Holly for Miss Quinn",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Village Affairs",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The White Robin",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Village Centenary",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Summer at Fairacre",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Mrs. Pringle of Fairacre",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Changes at Fairacre",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Farewell to Fairacre",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Peaceful Retirement",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    }
+  ]
+}

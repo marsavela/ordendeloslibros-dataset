@@ -1,0 +1,255 @@
+{
+  "type": "series",
+  "name": "Donald Lam & Bertha Cool",
+  "slug": "donald-lam-bertha-cool",
+  "source": "https://www.orderofbooks.com/characters/donald-lam-bertha-cool/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Lam-and-Cool-Mysteries-by-AA-Fair-Erle-Stanley-Gardner-500x200.jpg",
+  "authors": [
+    {
+      "name": "AA Fair Erle Stanley Gardner",
+      "slug": "aa-fair-erle-stanley-gardner"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Bigger They Come",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Knife Slipped",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Turn on the Heat",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gold Comes in Bricks",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Spill the Jackpot",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Double or Quits",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Owls Don't Blink",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bats Fly at Dusk",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Cats Prowl at Night",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Give 'em the Ax",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Crows Can't Count",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Fools Die on Friday",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Bedrooms Have Windows",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Top of the Heap",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Some Women Won't Wait",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Beware the Curves",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "You Can Die Laughing",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Some Slips Don't Show",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Count of 9",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Pass the Gravy",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Kept Women Can't Quit",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Bachelors Get Lonely",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Shills Can't Cash Chips",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Try Anything Once",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Fish or Cut Bait",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Up for Grabs",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Cut Thin to Win",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Widows Wear Weeds",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Traps Need Fresh Bait",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "All Grass Isn't Green",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

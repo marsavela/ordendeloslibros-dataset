@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Dragonbreath",
+  "slug": "dragonbreath",
+  "source": "https://www.orderofbooks.com/characters/dragonbreath/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Dragonbreath-by-Ursula-Vernon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ursula Vernon",
+      "slug": "ursula-vernon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dragonbreath",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Attack of the Ninja Frogs",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Curse of the Were-wiener",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lair of the Bat Monster",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "No Such Thing as Ghosts",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Revenge of the Horned Bunnies",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "When Fairies Go Bad",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Nightmare of the Iguana",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Case of the Toxic Mutants",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Knight-napped!",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Frozen Menace",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

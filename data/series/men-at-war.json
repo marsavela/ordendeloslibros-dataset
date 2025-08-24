@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Men At War",
+  "slug": "men-at-war",
+  "source": "https://www.orderofbooks.com/characters/men-at-war/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Men-At-War.jpg",
+  "books": [
+    {
+      "title": "The Last Heroes",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Secret Warriors",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Soldier Spies / Give Me Liberty",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fighting Agents /Into Enemy Hands",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Saboteurs",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Double Agents",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Spymasters",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Devil's Weapons",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Zero Option",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Children Of The Lamp",
+  "slug": "children-of-the-lamp",
+  "source": "https://www.orderofbooks.com/characters/children-of-the-lamp/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Children-of-the-Lamp-by-PB-Kerr.jpg",
+  "books": [
+    {
+      "title": "The Akhenaten Adventure",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Blue Djinn of Babylon",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cobra King of Kathmandu",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Day of the Djinn Warriors",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Eye of the Forest",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Five Fakirs of Faizabad",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Grave Robbers of Genghis Khan",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

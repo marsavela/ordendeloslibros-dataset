@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Titus Ray Thriller",
+  "slug": "titus-ray-thriller",
+  "source": "https://www.orderofbooks.com/characters/titus-ray-thriller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/02/Titus-Ray-by-Louise-Ehrlich.jpg",
+  "books": [
+    {
+      "title": "One Night in Tehran",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Two Days in Caracas",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Three Weeks in Washington",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Four Months in Cuba",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "One Step Back",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Five Years in Yemen",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Two Steps Forward",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Three Steps Away",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Four Steps Missed",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Five Steps Beyond",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "One Good Time",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Two Good Deeds",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

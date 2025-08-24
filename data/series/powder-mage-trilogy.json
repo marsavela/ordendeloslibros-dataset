@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Powder Mage Trilogy",
+  "slug": "powder-mage-trilogy",
+  "source": "https://www.orderofbooks.com/characters/powder-mage-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Powder-Mage-Trilogy-by-Brian-McClellan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brian McClellan",
+      "slug": "brian-mcclellan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Promise of Blood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Girl of Hrusch Avenue",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hope's End",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Crimson Campaign",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Forsworn",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Face in the Window",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Servant of the Crown",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder at the Kinnen Hotel",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Return to Honor",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Autumn Republic",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Ghosts of the Tristan Basin",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Mad Lancers",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Siege of Tilpur",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

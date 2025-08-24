@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Harte Family Saga",
+  "slug": "harte-family-saga",
+  "source": "https://www.orderofbooks.com/characters/harte-family-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Emma-Harte-by-Barbara-Taylor-Bradford.jpg",
+  "books": [
+    {
+      "title": "A Woman of Substance",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hold the Dream",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "To Be the Best",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Emma's Secret",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Unexpected Blessings",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Just Rewards",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Breaking the Rules",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Man of Honor",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Man of Honor is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

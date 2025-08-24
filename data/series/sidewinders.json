@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Sidewinders",
+  "slug": "sidewinders",
+  "source": "https://www.orderofbooks.com/characters/sidewinders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Sidewinders-by-William-and-JA-Johnstone.jpg",
+  "books": [
+    {
+      "title": "Sidewinders",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Massacre at Whiskey Flats",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cutthroat Canyon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mankiller, Colorado",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deadwood Gulch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Texas Bloodshed",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Butcher of Bear Creek",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bleeding Texas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

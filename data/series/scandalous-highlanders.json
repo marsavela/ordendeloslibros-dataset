@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Scandalous Highlanders",
+  "slug": "scandalous-highlanders",
+  "source": "https://www.orderofbooks.com/characters/scandalous-highlanders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Scandalous-Highlanders-by-Suzanne-Enoch-500x200.jpg",
+  "authors": [
+    {
+      "name": "Suzanne Enoch",
+      "slug": "suzanne-enoch"
+    }
+  ],
+  "books": [
+    {
+      "title": "One Hot Scot",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Devil Wears Kilts",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rogue with a Brogue",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mad, Bad, and Dangerous in Plaid",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Some Like It Scot",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

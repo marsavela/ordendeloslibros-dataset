@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Off",
+  "slug": "off",
+  "source": "https://www.orderofbooks.com/characters/off/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Off-by-Sawyer-Bennett-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sawyer Bennett",
+      "slug": "sawyer-bennett"
+    }
+  ],
+  "books": [
+    {
+      "title": "Off Sides",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Off Limits",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Off the Record",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Off Course",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Off Chance",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Off Season",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Off Duty",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

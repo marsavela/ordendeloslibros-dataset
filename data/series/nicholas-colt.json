@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Nicholas Colt",
+  "slug": "nicholas-colt",
+  "source": "https://www.orderofbooks.com/characters/nicholas-colt/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Nicholas-Colt-by-Jude-Hardin-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jude Hardin",
+      "slug": "jude-hardin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pocket-47",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crosscut",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Snuff Tag 9",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rattled",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Colt",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Key Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blood Tattoo",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Blood Notebooks",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Jonathan Argyll",
+  "slug": "jonathan-argyll",
+  "source": "https://www.orderofbooks.com/characters/jonathan-argyll/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Jonathan-Argyll-Art-History-Mysteries-by-Iain-Pears.jpg",
+  "authors": [
+    {
+      "name": "Iain Pears",
+      "slug": "iain-pears"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Raphael Affair",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Titian Committee",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bernini Bust",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Judgement",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Giotto's Hand",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death and Restoration",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Immaculate Deception",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

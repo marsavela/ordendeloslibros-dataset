@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "The Diamond Brothers",
+  "slug": "the-diamond-brothers",
+  "source": "https://www.orderofbooks.com/characters/the-diamond-brothers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/Diamond-Brothers.jpg",
+  "books": [
+    {
+      "title": "The Falcon's Malteser",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Public Enemy Number Two",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "South by Southeast",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Blurred Man",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The French Confection",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "I Know What You Did Last Wednesday",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Greek Who Stole Christmas",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Two of Diamonds",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Double Eagle Has Landed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Where Seagulls Dare",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

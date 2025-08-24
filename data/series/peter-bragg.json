@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Peter Bragg",
+  "slug": "peter-bragg",
+  "source": "https://www.orderofbooks.com/characters/peter-bragg/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/peter-bragg-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jack Lynch. Lynch",
+      "slug": "jack-lynch-lynch"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dead Never Forget",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Braggs Hunch",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pieces of Death",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wake Up and Die",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sausalito",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Speak for the Dead",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "San Quentin",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Truth or Die",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Monterey",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Yesterday is Dead",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Seattle",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Wolf House",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Missing and The Dead",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Die for Me",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

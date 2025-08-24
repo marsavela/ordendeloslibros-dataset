@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Jolie Wilkins",
+  "slug": "jolie-wilkins",
+  "source": "https://www.orderofbooks.com/characters/jolie-wilkins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Jolie-Wilkins-by-HP-Mallory-500x200.jpg",
+  "authors": [
+    {
+      "name": "HP Mallory",
+      "slug": "hp-mallory"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fire Burn and Cauldron Bubble",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Toil and Trouble",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Witchful Thinking",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Witch is Back",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Something Witchy This Way Comes",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Witch On A Star",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Boss Witch",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Rags To Witches",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Witching Hour",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Witch and Famous",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Be Witched",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

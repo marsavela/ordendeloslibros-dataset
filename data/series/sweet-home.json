@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Sweet Home",
+  "slug": "sweet-home",
+  "source": "https://www.orderofbooks.com/characters/sweet-home/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Sweet-Home-by-Tillie-Cole-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tillie Cole",
+      "slug": "tillie-cole"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sweet Home",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sweet Rome",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sweet Fall",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sweet Hope",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sweet Soul",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

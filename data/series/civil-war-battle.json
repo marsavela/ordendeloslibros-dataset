@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Civil War Battle",
+  "slug": "civil-war-battle",
+  "source": "https://www.orderofbooks.com/characters/civil-war-battle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Civil-War-Battle-by-James-Reasoner.jpg",
+  "authors": [
+    {
+      "name": "James Reasoner",
+      "slug": "james-reasoner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Manassas",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shiloh",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Antietam",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Chancellorsville",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Vicksburg",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gettysburg",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chickamauga",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shenandoah",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Savannah",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Appomattox",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

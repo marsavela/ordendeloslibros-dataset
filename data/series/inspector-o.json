@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Inspector O",
+  "slug": "inspector-o",
+  "source": "https://www.orderofbooks.com/characters/inspector-o/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Inspector-O-by-James-Church.jpg",
+  "authors": [
+    {
+      "name": "James Church",
+      "slug": "james-church"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Corpse in the Koryo",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hidden Moon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bamboo and Blood",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Man with the Baltic Stare",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Drop of Chinese Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Gentleman from Japan",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Rachel Alexander and Dash",
+  "slug": "rachel-alexander-and-dash",
+  "source": "https://www.orderofbooks.com/characters/rachel-alexander-and-dash/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/Rachel-Alexander-and-Dash-by-Carol-Lea-Benjamin.jpg",
+  "authors": [
+    {
+      "name": "Carol Lea Benjamin",
+      "slug": "carol-lea-benjamin"
+    }
+  ],
+  "books": [
+    {
+      "title": "This Dog for Hire",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dog Who Knew Too Much",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Hell of a Dog",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lady Vanishes",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Wrong Dog",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Long Good Boy",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fall Guy",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Without a Word",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Hard Way",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

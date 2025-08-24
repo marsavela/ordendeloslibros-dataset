@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Star Trek: The Next Generation",
+  "slug": "star-trek-the-next-generation",
+  "source": "https://www.orderofbooks.com/characters/star-trek-the-next-generation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Star-Trek-The-Next-Generation-by-Gene-Roddenberry.jpg",
+  "authors": [
+    {
+      "name": "Gene Roddenberry. The",
+      "slug": "gene-roddenberry-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "First Strike",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Soldiers of Fear",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Time's Enemy",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Final Fury",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "This series is a crossover between The Next Generation, Deep Space Nine, Voyager, and The Original Series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Night Stalkers",
+  "slug": "night-stalkers",
+  "source": "https://www.orderofbooks.com/characters/night-stalkers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Night-Stalkers-by-ML-Buchman-500x200.jpg",
+  "authors": [
+    {
+      "name": "ML Buchman",
+      "slug": "ml-buchman"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Night is Mine",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I Own the Dawn",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wait Until Dark",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Take Over at Midnight",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Light Up the Night",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bring on the Dusk",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "By Break of Day",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Flying Above the Hindu Kush",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Sweet Tooth",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Emily's First Flight",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Thomas Lourds",
+  "slug": "thomas-lourds",
+  "source": "https://www.orderofbooks.com/characters/thomas-lourds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Thomas-Lourds-by-Charles-Brokaw.jpg",
+  "authors": [
+    {
+      "name": "Charles Brokaw",
+      "slug": "charles-brokaw"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Atlantis Code",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Lucifer Code",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Temple Mount Code",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Oracle Code",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

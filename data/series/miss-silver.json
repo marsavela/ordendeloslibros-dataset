@@ -1,0 +1,271 @@
+{
+  "type": "series",
+  "name": "Miss Silver",
+  "slug": "miss-silver",
+  "source": "https://www.orderofbooks.com/characters/miss-silver/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Miss-Silver-by-Patricia-Wentworth-500x200.jpg",
+  "authors": [
+    {
+      "name": "Patricia Wentworth",
+      "slug": "patricia-wentworth"
+    }
+  ],
+  "books": [
+    {
+      "title": "Grey Mask",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Case is Closed",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lonesome Road",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Danger Point / In the Balance",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Chinese Shawl",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Miss Silver Deals with Death / Miss Silver Intervenes",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Clock Strikes Twelve",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Key",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "She Came Back / The Traveller Returns",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Pilgrim's Rest / Dark Threat",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Latter End",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Wicked Uncle / Spotlight",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Case of William Smith",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Eternity Ring",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Catherine Wheel",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Miss Silver Comes to Stay",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Bradling Collection / Mr Bradling's Collection",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Ivory Dagger",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Through The Wall",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "'Anna, Where Are You?' / Death at Deep End",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Watersplash",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Ladies' Bane",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Out of the Past",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Silent Pool",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Vanishing Point",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Benevent Treasure",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Gazebo / The Summerhouse",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Listening Eye",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Poison in the Pen",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Fingerprint",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Alington Inheritance",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Girl in the Cellar",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Jason Kolarich",
+  "slug": "jason-kolarich",
+  "source": "https://www.orderofbooks.com/characters/jason-kolarich/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Jason-Kolarich-by-David-Ellis.jpg",
+  "books": [
+    {
+      "title": "The Hidden Man",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Breach Of Trust",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Wrong Man",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Alibi",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

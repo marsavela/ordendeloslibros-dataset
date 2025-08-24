@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Ethan Warner",
+  "slug": "ethan-warner",
+  "source": "https://www.orderofbooks.com/characters/ethan-warner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Ethan-Warner-by-Dean-Crawford-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dean Crawford",
+      "slug": "dean-crawford"
+    }
+  ],
+  "books": [
+    {
+      "title": "Covenant",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Immortal",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Apocalypse",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Chimera Secret",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Eternity Project",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

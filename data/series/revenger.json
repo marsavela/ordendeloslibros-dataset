@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Revenger",
+  "slug": "revenger",
+  "source": "https://www.orderofbooks.com/characters/revenger/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/The-Revenger-by-Frank-Leslie.jpg",
+  "books": [
+    {
+      "title": "Revenger",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Six in the Wheel",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Books compiled into two above.Original listings: A Bullet for Sartain Death & The Saloon Girl The Bittersweet War Gold Dust Woman Savage Barranca San Juan Bushwhackers Silver City Wolfpack No Mercy Wild Night at the Sundance Saloon Fatal Woman",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

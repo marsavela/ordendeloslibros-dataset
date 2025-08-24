@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Dancers At The End Of Time",
+  "slug": "dancers-at-the-end-of-time",
+  "source": "https://www.orderofbooks.com/characters/dancers-at-the-end-of-time/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Dancers-at-the-End-of-Time-by-Michael-Moorcock.jpg",
+  "books": [
+    {
+      "title": "An Alien Heat",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hollow Lands",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Legends from the End of Time",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The End of All Songs",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Transformation of Miss Mavis Ming / A Messiah at the End of Time",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Elric at the End of Time",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

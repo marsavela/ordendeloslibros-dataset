@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Shadow Falls",
+  "slug": "shadow-falls",
+  "source": "https://www.orderofbooks.com/characters/shadow-falls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Shadow-Falls-by-CC-Hunter.jpg",
+  "authors": [
+    {
+      "name": "CC Hunter",
+      "slug": "cc-hunter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Turned at Dark",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Born at Midnight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Awake at Dawn",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Taken at Dusk",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Whispers at Moonrise",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Saved at Sunrise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chosen at Nightfall",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fighting Back",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

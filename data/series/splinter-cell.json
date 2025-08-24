@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Splinter Cell",
+  "slug": "splinter-cell",
+  "source": "https://www.orderofbooks.com/characters/splinter-cell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Splinter-Cell-by-Tom-Clancy-David-Michaels.jpg",
+  "authors": [
+    {
+      "name": "Tom Clancy David Michaels",
+      "slug": "tom-clancy-david-michaels"
+    }
+  ],
+  "books": [
+    {
+      "title": "Splinter Cell",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Operation Barracuda",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Checkmate",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fallout",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Conviction",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Endgame",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Aftermath",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Firewall",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dragonfire",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

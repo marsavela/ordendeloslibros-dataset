@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "ShadowLight Saga",
+  "slug": "shadowlight-saga",
+  "source": "https://www.orderofbooks.com/characters/shadowlight-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Shadowlight-Saga-by-Mande-Matthews-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mande Matthews",
+      "slug": "mande-matthews"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bonded",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Light Keepers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Broken",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadow Born",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

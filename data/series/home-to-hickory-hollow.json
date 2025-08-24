@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Home To Hickory Hollow",
+  "slug": "home-to-hickory-hollow",
+  "source": "https://www.orderofbooks.com/characters/home-to-hickory-hollow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Home-To-Hickory-Hollow-by-Beverly-Lewis.jpg",
+  "authors": [
+    {
+      "name": "Beverly Lewis",
+      "slug": "beverly-lewis"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fiddler",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bridesmaid",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Guardian",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Secret Keeper",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Last Bride",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

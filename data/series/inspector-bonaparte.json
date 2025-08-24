@@ -1,0 +1,247 @@
+{
+  "type": "series",
+  "name": "Inspector Bonaparte",
+  "slug": "inspector-bonaparte",
+  "source": "https://www.orderofbooks.com/characters/inspector-bonaparte/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Inspector-Bonaparte-by-Arthur-Upfield-500x200.jpg",
+  "authors": [
+    {
+      "name": "Arthur Upfield",
+      "slug": "arthur-upfield"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Barrakee Mystery / The Lure of the Bush",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sands of Windee",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wings Above the Diamantina / Wings Above the Claypan",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mr. Jelly's Business/Murder Down Under",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Winds of Evil",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bone is Pointed",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Mystery of Swordfish Reef",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bushranger of the Skies / No Footprints in the Bush",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Death of a Swagman",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Devil's Steps",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "An Author Bites the Dust",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Mountains Have a Secret",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Bachelors of Broken Hill",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Widows of Broome",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The New Shoe/The Clue of the New Shoe",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Venom House",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Murder Must Wait",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Death of a Lake",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Sinister Stones/Cake in the Hat Box",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Battling Prophet",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Man of Two Tribes",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Bony Buys a Woman / The Bushman Who Came Back",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Bony and the Mouse / Journey to the Hangman",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Bony and the Black Virgin / The Torn Branch",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Bony and the Kelly Gang / Valley of Smugglers",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Bony and the White Savage",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Will of the Tribe",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Madman's Bend / The Body at Madman's Bend",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Lake Frome Monster",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    }
+  ]
+}

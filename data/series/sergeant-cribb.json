@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Sergeant Cribb",
+  "slug": "sergeant-cribb",
+  "source": "https://www.orderofbooks.com/characters/sergeant-cribb/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Sergeant-Cribb-by-Peter-Lovesey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Peter Lovesey",
+      "slug": "peter-lovesey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wobble to Death",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Detective Wore Silk Drawers",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Abracadaver",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mad Hatter's Holiday",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Tick of Death / Invitation to a Dynamite Party",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Case of Spirits",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Swing, Swing Together",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Waxwork",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

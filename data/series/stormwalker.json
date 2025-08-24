@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Stormwalker",
+  "slug": "stormwalker",
+  "source": "https://www.orderofbooks.com/characters/stormwalker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Stormwalker-by-Allyson-James-Jennifer-Ashley-500x200.jpg",
+  "authors": [
+    {
+      "name": "Allyson James Jennifer Ashley",
+      "slug": "allyson-james-jennifer-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Little Night Magic",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Stormwalker",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Firewalker",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadow Walker",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nightwalker",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Double Hexed",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dreamwalker",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dragon Bites",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wing Dancer",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Little Night Magic is a prequel.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

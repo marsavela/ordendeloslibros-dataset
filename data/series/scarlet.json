@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Scarlet",
+  "slug": "scarlet",
+  "source": "https://www.orderofbooks.com/characters/scarlet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/scarlet-500x200.jpg",
+  "authors": [
+    {
+      "name": "A.C. Gaughen.",
+      "slug": "a-c-gaughen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Scarlet",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lady Thief",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lion Heart",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

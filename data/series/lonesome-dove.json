@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Lonesome Dove",
+  "slug": "lonesome-dove",
+  "source": "https://www.orderofbooks.com/characters/lonesome-dove/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Lonesome-Dove-by-Larry-McMurtry.jpg",
+  "books": [
+    {
+      "title": "Lonesome Dove",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Streets of Laredo",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Man's Walk",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Comanche Moon",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Unwind Dystology",
+  "slug": "unwind-dystology",
+  "source": "https://www.orderofbooks.com/characters/unwind-dystology/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/UnWind-Dystology-by-Neal-Shusterman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Neal Shusterman",
+      "slug": "neal-shusterman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unwind",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "UnStrung",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "UnWholly",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "UnSouled",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "UnDivided",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "UnBound",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

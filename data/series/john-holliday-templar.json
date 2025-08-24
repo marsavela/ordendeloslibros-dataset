@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "John Holliday/Templar",
+  "slug": "john-holliday-templar",
+  "source": "https://www.orderofbooks.com/characters/john-holliday-templar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/John-Holliday-Templar-by-Paul-Christopher-Hyde.jpg",
+  "books": [
+    {
+      "title": "The Sword of the Templars",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Templar Cross",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Templar Throne",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Templar Conspiracy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Templar Legion",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Red Templar",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Valley of the Templars",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lost City of the Templars",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Secret of the Templars",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

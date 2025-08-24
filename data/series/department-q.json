@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Department Q",
+  "slug": "department-q",
+  "source": "https://www.orderofbooks.com/characters/department-q/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Department-Q-by-Jussi-Adler-Olsen.jpg",
+  "books": [
+    {
+      "title": "The Keeper of Lost Causes / Mercy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Absent One / Disgrace",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Conspiracy of Faith / Redemption / Flaskepost fra P",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Purity of Vengeance / Guilt / Journal 64",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Marco Effect / Buried / Marco Effekten",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Hanging Girl",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Scarred Woman",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Victim 2117",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Shadow Murders",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Locked In",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

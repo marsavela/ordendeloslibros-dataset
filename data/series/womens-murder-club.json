@@ -1,0 +1,209 @@
+{
+  "type": "series",
+  "name": "Women’s Murder Club",
+  "slug": "womens-murder-club",
+  "source": "https://www.orderofbooks.com/characters/womens-murder-club/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/07/womens-murer-club.jpg",
+  "books": [
+    {
+      "title": "1st to Die (By: James Patterson)",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "2nd Chance (By:James Patterson,Andrew Gross)",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "3rd Degree (By:James Patterson,Andrew Gross)",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "4th of July (By:James Patterson,Maxine Paetro)",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The 5th Horseman (By:James Patterson,Maxine Paetro)",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The 6th Target (By:James Patterson,Maxine Paetro)",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "7th Heaven (By:James Patterson,Maxine Paetro)",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The 8th Confession (By:James Patterson,Maxine Paetro)",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The 9th Judgment (By:James Patterson,Maxine Paetro)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "10th Anniversary (By:James Patterson,Maxine Paetro)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "11th Hour (By:James Patterson,Maxine Paetro)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "12th of Never (By:James Patterson,Maxine Paetro)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Unlucky 13 (By:James Patterson,Maxine Paetro)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "14th Deadly Sin (By:James Patterson,Maxine Paetro)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "15th Affair (By:James Patterson,Maxine Paetro)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "16th Seduction (By:James Patterson,Maxine Paetro)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The 17th Suspect (By:James Patterson,Maxine Paetro)",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The 18th Abduction (By:James Patterson,Maxine Paetro)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The 19th Christmas (By:James Patterson,Maxine Paetro)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The 20th Victim (By:James Patterson,Maxine Paetro)",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "21st Birthday (By:James Patterson,Maxine Paetro)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "22 Seconds (By:James Patterson,Maxine Paetro)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The 23rd Midnight (By:James Patterson,Maxine Paetro)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The 24th Hour (By:James Patterson,Maxine Paetro)",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "25 Alive (By:James Patterson,Maxine Paetro)",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

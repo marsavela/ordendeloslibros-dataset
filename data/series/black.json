@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Black",
+  "slug": "black",
+  "source": "https://www.orderofbooks.com/characters/black/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Black-by-Russell-Blake.jpg",
+  "authors": [
+    {
+      "name": "Russell Blake",
+      "slug": "russell-blake"
+    }
+  ],
+  "books": [
+    {
+      "title": "Black",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Black is Back",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Black is the New Black",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Black to Reality",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Black in the Box",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

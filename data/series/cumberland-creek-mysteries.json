@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Cumberland Creek Mysteries",
+  "slug": "cumberland-creek-mysteries",
+  "source": "https://www.orderofbooks.com/characters/cumberland-creek-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/Cumberland-Creek-Mysteries-by-Mollie-Cox-Bryan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mollie Cox Bryan",
+      "slug": "mollie-cox-bryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Scrapbook of Secrets",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Scrapped",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death of an Irish Diva",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Crafty Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Scrappy Summer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Scrappily Ever After",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Scrapbook of the Dead",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

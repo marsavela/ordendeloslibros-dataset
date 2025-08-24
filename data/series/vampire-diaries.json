@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Vampire Diaries",
+  "slug": "vampire-diaries",
+  "source": "https://www.orderofbooks.com/characters/vampire-diaries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Vampire-Diaries-by-LJ-Smith.jpg",
+  "books": [
+    {
+      "title": "The Awakening",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Struggle",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fury",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dark Reunion",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

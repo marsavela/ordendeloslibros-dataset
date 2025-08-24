@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Genius Files",
+  "slug": "genius-files",
+  "source": "https://www.orderofbooks.com/characters/genius-files/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Genius-Files-by-Dan-Gutman.jpg",
+  "authors": [
+    {
+      "name": "Dan Gutman",
+      "slug": "dan-gutman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mission Unstoppable",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Never Say Genius",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "You Only Die Twice",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "From Texas with Love",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "License to Thrill",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

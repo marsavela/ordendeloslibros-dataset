@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Fire Spirits",
+  "slug": "fire-spirits",
+  "source": "https://www.orderofbooks.com/characters/fire-spirits/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Fire-Spirits-by-Samantha-Young-500x200.jpg",
+  "authors": [
+    {
+      "name": "Samantha Young",
+      "slug": "samantha-young"
+    }
+  ],
+  "books": [
+    {
+      "title": "Smokeless Fire",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Scorched Skies",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Borrowed Ember",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darkness, Kindled",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

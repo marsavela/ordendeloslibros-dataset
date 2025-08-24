@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Heart Of Texas",
+  "slug": "heart-of-texas",
+  "source": "https://www.orderofbooks.com/characters/heart-of-texas/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Heart-of-Texas-by-Debbie-Macomber.jpg",
+  "books": [
+    {
+      "title": "Lonesome Cowboy",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Texas Two-Step",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Caroline's Child",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dr. Texas",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nell's Cowboy",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lone Star Baby",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Promise, Texas / The Little Bookshop of Promises",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Return to Promise",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

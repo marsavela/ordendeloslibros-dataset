@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Demon Slayers",
+  "slug": "demon-slayers",
+  "source": "https://www.orderofbooks.com/characters/demon-slayers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/Demon-Slayer-by-Angie-Fox.jpg",
+  "books": [
+    {
+      "title": "The Accidental Demon Slayer",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dangerous Book for Demon Slayers",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Tale of Two Demon Slayers",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last of the Demon Slayers",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "My Big Fat Demon Slayer Wedding",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "I Brake for Biker Witches",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Beverly Hills Demon Slayer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Night of the Living Demon Slayer",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Date with a Demon Slayer",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Some Like It Hexed",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "What to Expect When Your Demon Slayer Is Expecting",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "What Slays in Vegas",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Hitchhiker’s Guide To The Galaxy",
+  "slug": "hitchhikers-guide-to-the-galaxy",
+  "source": "https://www.orderofbooks.com/characters/hitchhikers-guide-to-the-galaxy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Hitchhikers-Guide-to-the-Galaxy-by-Douglas-Adams.jpg",
+  "books": [
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Restaurant at the End of the Universe",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Life, the Universe and Everything",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Young Zaphod Plays It Safe",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mostly Harmless",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Live in Concert",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "And Another Thing...",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Frood",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Secondary Phase",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

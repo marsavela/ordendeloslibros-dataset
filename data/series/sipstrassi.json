@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Sipstrassi",
+  "slug": "sipstrassi",
+  "source": "https://www.orderofbooks.com/characters/sipstrassi/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Sipstrassi-Universe-by-David-Gemmell-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Gemmell",
+      "slug": "david-gemmell"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wolf in Shadow / The Jerusalem Man",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ghost King",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Last Sword of Power",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Guardian",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bloodstone",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

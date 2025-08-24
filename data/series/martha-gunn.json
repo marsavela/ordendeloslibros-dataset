@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Martha Gunn",
+  "slug": "martha-gunn",
+  "source": "https://www.orderofbooks.com/characters/martha-gunn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Martha-Gunn-by-Priscilla-Masters-500x200.jpg",
+  "authors": [
+    {
+      "name": "Priscilla Masters",
+      "slug": "priscilla-masters"
+    }
+  ],
+  "books": [
+    {
+      "title": "River Deep",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Slipknot",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Frozen Charlotte",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Smoke Alarm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Devil's Chair",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Recalled to Death",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bridge of Sighs",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Inspector Salgado",
+  "slug": "inspector-salgado",
+  "source": "https://www.orderofbooks.com/characters/inspector-salgado/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/01/inspector-salgado.jpg",
+  "authors": [
+    {
+      "name": "Antonio Hill.",
+      "slug": "antonio-hill"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Summer of Dead Toys",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Good Suicides",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Good Suicides",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

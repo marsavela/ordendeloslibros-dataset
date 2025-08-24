@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Detective Greene",
+  "slug": "detective-greene",
+  "source": "https://www.orderofbooks.com/characters/detective-greene/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Detective-Greene-by-Robert-Rotenberg-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Rotenberg",
+      "slug": "robert-rotenberg"
+    }
+  ],
+  "books": [
+    {
+      "title": "Old City Hall",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Guilty Plea",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stray Bullets",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Stranglehold",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Heart of the City",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Downfall",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "What We Buried",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

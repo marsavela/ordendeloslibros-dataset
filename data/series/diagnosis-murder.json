@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Diagnosis Murder",
+  "slug": "diagnosis-murder",
+  "source": "https://www.orderofbooks.com/characters/diagnosis-murder/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Diagnosis-Murder-by-Lee-Goldberg.jpg",
+  "authors": [
+    {
+      "name": "Lee Goldberg",
+      "slug": "lee-goldberg"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Silent Partner",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Death Merchant",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Shooting Script",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Waking Nightmare",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Past Tense",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dead Letter",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Double Life",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Last Word",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

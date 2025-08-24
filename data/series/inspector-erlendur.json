@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Inspector Erlendur",
+  "slug": "inspector-erlendur",
+  "source": "https://www.orderofbooks.com/characters/inspector-erlendur/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Inspector-Erlendur-by-Arnaldur-Indridason.jpg",
+  "authors": [
+    {
+      "name": "Arnaldur Indridason",
+      "slug": "arnaldur-indridason"
+    }
+  ],
+  "books": [
+    {
+      "title": "Synir duftsins",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dauðarósir",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jar City / Tainted Blood / Mýrin",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silence of the Grave / Grafarþögn",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Voices / Röddin",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Draining Lake / Kleifarvatn",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Arctic Chill / Vetrarborgin",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hypothermia / Harðskafi",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Outrage / Myrká",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Black Skies / Svörtuloft",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Strange Shores / Furðustrandir",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Einvígið",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Reykjavík Nights / Reykjavíkurnætur",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Into Oblivion / Kamp Knox",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "When SEALs Come Home",
+  "slug": "when-seals-come-home",
+  "source": "https://www.orderofbooks.com/characters/when-seals-come-home/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/When-SEALs-Come-Home-by-Anne-Marsh-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anne Marsh",
+      "slug": "anne-marsh"
+    }
+  ],
+  "books": [
+    {
+      "title": "Burns So Bad",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Smoking Hot",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sweet Burn",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Yours for Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "One Hot SEAL",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Heated",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Her Firefighter SEAL",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Benjamin Weaver",
+  "slug": "benjamin-weaver",
+  "source": "https://www.orderofbooks.com/characters/benjamin-weaver/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Benjamin-Weaver-by-David-Liss.jpg",
+  "books": [
+    {
+      "title": "A Conspiracy of Paper",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Spectacle of Corruption",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Company",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Double Dealer",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

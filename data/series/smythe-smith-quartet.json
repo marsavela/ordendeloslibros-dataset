@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Smythe-Smith Quartet",
+  "slug": "smythe-smith-quartet",
+  "source": "https://www.orderofbooks.com/characters/smythe-smith-quartet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Smythe-Smith-Quartet-by-Julia-Quinn.jpg",
+  "authors": [
+    {
+      "name": "Julia Quinn",
+      "slug": "julia-quinn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Just Like Heaven",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Night Like This",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sum of All Kisses",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Secrets of Sir Richard Kenworthy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

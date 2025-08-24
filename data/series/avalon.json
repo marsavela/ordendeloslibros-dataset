@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Avalon",
+  "slug": "avalon",
+  "source": "https://www.orderofbooks.com/characters/avalon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Avalon-by-Marion-Zimmer-Bradley.jpg",
+  "authors": [
+    {
+      "name": "Marion Zimmer Bradley",
+      "slug": "marion-zimmer-bradley"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Mists of Avalon",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Forest House / The Forests of Avalon",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lady of Avalon",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Priestess of Avalon",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ancestors of Avalon",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ravens of Avalon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sword of Avalon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

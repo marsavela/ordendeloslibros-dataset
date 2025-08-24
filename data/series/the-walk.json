@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Walk",
+  "slug": "the-walk",
+  "source": "https://www.orderofbooks.com/characters/the-walk/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/The-Walk.jpg",
+  "books": [
+    {
+      "title": "The Walk",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Miles to Go",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Road to Grace",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Step of Faith",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Walking on Water",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

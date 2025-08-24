@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Jack Gannon",
+  "slug": "jack-gannon",
+  "source": "https://www.orderofbooks.com/characters/jack-gannon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Jack-Gannon-by-Rick-Mofina.jpg",
+  "authors": [
+    {
+      "name": "Rick Mofina",
+      "slug": "rick-mofina"
+    }
+  ],
+  "books": [
+    {
+      "title": "Vengeance Road",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Panic Zone",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "In Desperation",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Burning Edge",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

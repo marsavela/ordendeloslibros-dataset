@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Joe Dillard",
+  "slug": "joe-dillard",
+  "source": "https://www.orderofbooks.com/characters/joe-dillard/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Joe-Dillard-by-Scott-Pratt-500x200.jpg",
+  "authors": [
+    {
+      "name": "Scott Pratt",
+      "slug": "scott-pratt"
+    }
+  ],
+  "books": [
+    {
+      "title": "An Innocent Client",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In Good Faith",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Injustice For All",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Reasonable Fear",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Conflict of Interest",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blood Money",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Crime of Passion",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Judgment Cometh",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Due Process",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Last Resort",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Vindicate",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Blood Money is an extensive rewrite of the standalone Russo's Gold .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

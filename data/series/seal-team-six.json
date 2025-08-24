@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "SEAL Team Six",
+  "slug": "seal-team-six",
+  "source": "https://www.orderofbooks.com/characters/seal-team-six/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/SEAL-Team-Six-by-Don-Mann-500x200.jpg",
+  "authors": [
+    {
+      "name": "Don Mann",
+      "slug": "don-mann"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hunt the Wolf",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hunt the Scorpion",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hunt the Falcon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hunt the Jackal",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hunt the Fox",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hunt the Dragon",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hunt the Viper",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hunt the Leopard",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

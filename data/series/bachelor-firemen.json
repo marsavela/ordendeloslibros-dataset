@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Bachelor Firemen",
+  "slug": "bachelor-firemen",
+  "source": "https://www.orderofbooks.com/characters/bachelor-firemen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/bachelor-fireman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jennifer Barnard. They",
+      "slug": "jennifer-barnard-they"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fireman Who Loved Me",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hot for Fireman",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "One Fine Fireman",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sex and the Single Fireman",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "How to Tame a Wild Fireman",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Desperately Seeking Fireman",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Four Weddings and a Fireman",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Night Belongs to Fireman",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "It's a Wonderful Fireman",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

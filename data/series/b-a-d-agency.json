@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "B.A.D. Agency",
+  "slug": "b-a-d-agency",
+  "source": "https://www.orderofbooks.com/characters/bad-agency/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Bad-Agency-by-Sherrilyn-Kenyon.jpg",
+  "books": [
+    {
+      "title": "Born to be Bad",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bad Attitude",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Phantom in the Night",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Whispered Lies",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Silent Truth",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Piece Of Cake Mysteries",
+  "slug": "piece-of-cake-mysteries",
+  "source": "https://www.orderofbooks.com/characters/piece-of-cake-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Piece-of-Cake-Mysteries-by-Jacklyn-Brady-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jacklyn Brady",
+      "slug": "jacklyn-brady"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Sheetcake Named Desire",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cake on a Hot Tin Roof",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Arsenic and Old Cake",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Cakes of Wrath",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rebel Without a Cake",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Cakes of Monte Cristo",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

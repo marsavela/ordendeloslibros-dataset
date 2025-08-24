@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Second Chance Cat Mystery",
+  "slug": "second-chance-cat-mystery",
+  "source": "https://www.orderofbooks.com/characters/second-chance-cat-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/04/2ndchancecat.jpg",
+  "authors": [
+    {
+      "name": "Sofie Ryan. The",
+      "slug": "sofie-ryan-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Whole Cat and Caboodle",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Buy a Whisker",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Whisker of Trouble",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No More Pussyfooting Around",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Telling Tails",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Fast and the Furriest",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "No Escape Claws",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Claw Enforcement",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Undercover Kitty",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Totally Pawstruck",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Scaredy Cat",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Fur Love or Money",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Cat Got Your Killer",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

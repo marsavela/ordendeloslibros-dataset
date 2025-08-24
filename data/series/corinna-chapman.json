@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Corinna Chapman",
+  "slug": "corinna-chapman",
+  "source": "https://www.orderofbooks.com/characters/corinna-chapman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Corinna-Chapman-by-Kerry-Greenwood-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kerry Greenwood",
+      "slug": "kerry-greenwood"
+    }
+  ],
+  "books": [
+    {
+      "title": "Earthly Delights",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Heavenly Pleasures",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Devil's Food",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trick or Treat",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Forbidden Fruit",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cooking the Books",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Spotted Dog",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

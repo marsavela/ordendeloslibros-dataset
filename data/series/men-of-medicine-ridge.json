@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Men Of Medicine Ridge",
+  "slug": "men-of-medicine-ridge",
+  "source": "https://www.orderofbooks.com/characters/men-of-medicine-ridge/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/The-Men-of-Medicine-Ridge-by-Diana-Palmer.jpg",
+  "books": [
+    {
+      "title": "Circle of Gold",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wedding in White",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Diamond In The Rough",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Will of Steel",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

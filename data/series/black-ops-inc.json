@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Black Ops Inc.",
+  "slug": "black-ops-inc",
+  "source": "https://www.orderofbooks.com/characters/black-ops-inc/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Black-Ops-Inc-by-Cindy-Gerard.jpg",
+  "authors": [
+    {
+      "name": "Cindy Gerard",
+      "slug": "cindy-gerard"
+    }
+  ],
+  "books": [
+    {
+      "title": "Show No Mercy",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Take No Prisoners",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Whisper No Lies",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Feel the Heat",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Risk No Secrets",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Leave No Trace",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "With No Remorse",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Last Man Standing",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dying to Score",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "SEALed With a Kiss",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

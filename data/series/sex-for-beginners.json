@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Sex For Beginners",
+  "slug": "sex-for-beginners",
+  "source": "https://www.orderofbooks.com/characters/sex-for-beginners/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Sex-For-Beginners-by-Stephanie-Bond.jpg",
+  "books": [
+    {
+      "title": "Watch and Learn",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In a Bind",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "No Peeking...",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

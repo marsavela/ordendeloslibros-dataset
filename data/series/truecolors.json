@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "TrueColors",
+  "slug": "truecolors",
+  "source": "https://www.orderofbooks.com/characters/truecolors/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/TrueColors-by-Melody-Carlson.jpg",
+  "authors": [
+    {
+      "name": "Melody Carlson",
+      "slug": "melody-carlson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dark Blue: Color Me Lonely",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deep Green: Color Me Jealous",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Torch Red: Color Me Torn",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pitch Black: Color Me Lost",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Burnt Orange: Color Me Wasted",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fool's Gold: Color Me Consumed",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blade Silver: Color Me Scarred",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bitter Rose: Color Me Crushed",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Faded Denim: Color Me Trapped",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Bright Purple: Color Me Confused",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Moon White: Color Me Enchanted",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Harsh Pink: Color Me Burned",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

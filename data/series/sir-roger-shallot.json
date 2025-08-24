@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Sir Roger Shallot",
+  "slug": "sir-roger-shallot",
+  "source": "https://www.orderofbooks.com/characters/sir-roger-shallot/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Sir-Roger-Shallot-by-Michael-Clynes-Paul-Doherty.jpg",
+  "authors": [
+    {
+      "name": "Michael Clynes Paul Doherty",
+      "slug": "michael-clynes-paul-doherty"
+    }
+  ],
+  "books": [
+    {
+      "title": "The White Rose Murders",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Poisoned Chalice",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Grail Murders",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Brood of Vipers",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Gallows Murders",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Relic Murders",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

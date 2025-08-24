@@ -1,0 +1,121 @@
+{
+  "type": "series",
+  "name": "James Bond",
+  "slug": "james-bond",
+  "source": "https://www.orderofbooks.com/characters/james-bond/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/James-Bond.jpg",
+  "books": [
+    {
+      "title": "Casino Royale (By: Ian Fleming)",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Live and Let Die (By: Ian Fleming)",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Moonraker (By: Ian Fleming)",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Diamonds Are Forever (By: Ian Fleming)",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "From Russia with Love (By: Ian Fleming)",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Doctor No / Dr. No (By:Ian Fleming)",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Goldfinger (By: Ian Fleming)",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Thunderball (By: Ian Fleming)",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Spy Who Loved Me (By: Ian Fleming)",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Living Daylights (By: Ian Fleming)",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "On Her Majesty's Secret Service (By: Ian Fleming)",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "You Only Live Twice (By: Ian Fleming)",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Man with the Golden Gun (By: Ian Fleming)",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Octopussy (By:Ian Fleming)",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

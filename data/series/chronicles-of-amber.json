@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Chronicles Of Amber",
+  "slug": "chronicles-of-amber",
+  "source": "https://www.orderofbooks.com/characters/chronicles-of-amber/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Chronicles-of-Amber-by-Roger-Zelazny.jpg",
+  "books": [
+    {
+      "title": "Nine Princes in Amber",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Guns of Avalon",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sign of the Unicorn",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hand of Oberon",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Courts of Chaos",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Trumps of Doom",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blood of Amber",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Sign of Chaos",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Knight of Shadows",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Prince of Chaos",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

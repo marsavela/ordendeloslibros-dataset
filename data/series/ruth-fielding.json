@@ -1,0 +1,255 @@
+{
+  "type": "series",
+  "name": "Ruth Fielding",
+  "slug": "ruth-fielding",
+  "source": "https://www.orderofbooks.com/characters/ruth-fielding/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Ruth-Fielding-by-Alice-B-Emerson-500x200.jpg",
+  "authors": [
+    {
+      "name": "W. Bert Foster",
+      "slug": "w-bert-foster"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ruth Fielding of the Red Mill",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ruth Fielding at Briarwood Hall",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ruth Fielding at Snow Camp",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ruth Fielding at Lighthouse Point",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ruth Fielding at Silver Ranch",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ruth Fielding at Sunrise Farm",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ruth Fielding on Cliff Island",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ruth Fielding and the Gypsies",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Ruth Fielding in Moving Pictures",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ruth Fielding Down in Dixie",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Ruth Fielding At College",
+      "year": 1917,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Ruth Fielding in the Saddle",
+      "year": 1917,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Ruth Fielding of the Red Cross",
+      "year": 1918,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Ruth Fielding At the War Front",
+      "year": 1918,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Ruth Fielding Homeward Bound",
+      "year": 1919,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Ruth Fielding Down East",
+      "year": 1920,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Ruth Fielding in the Great Northwest",
+      "year": 1921,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Ruth Fielding on the St. Lawrence",
+      "year": 1922,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Ruth Fielding Treasure Hunting",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Ruth Fielding In The Far North",
+      "year": 1924,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Ruth Fielding at Golden Pass",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Ruth Fielding in Alaska",
+      "year": 1926,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Ruth Fielding and Her Great Scenario",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Ruth Fielding at Cameron Hall",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Ruth Fielding Clearing Her Name",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Ruth Fielding in Talking Pictures",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Ruth Fielding and Baby June",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Ruth Fielding and Her Double",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Ruth Fielding and Her Greatest Triumph",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Ruth Fielding and Her Crowning Victory",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

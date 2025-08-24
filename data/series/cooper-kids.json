@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Cooper Kids",
+  "slug": "cooper-kids",
+  "source": "https://www.orderofbooks.com/characters/cooper-kids/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Cooper-Kids-by-Frank-Peretti.jpg",
+  "books": [
+    {
+      "title": "The Door in the Dragon's Throat",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Escape from the Island of Aquarius",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Tombs of Anak",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trapped at the Bottom of the Sea",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Secret of the Desert Stone",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Deadly Curse of Toco-Rey",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Legend of Annie Murphy",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Mayday at Two Thousand Five Hundred / Flying Blind",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

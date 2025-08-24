@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Doomsday Brethren",
+  "slug": "doomsday-brethren",
+  "source": "https://www.orderofbooks.com/characters/doomsday-brethren/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Doomsday-Brethren-by-Shayla-Black.jpg",
+  "books": [
+    {
+      "title": "Tempt Me with Darkness",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Seduce Me in Shadow",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Possess Me at Midnight",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Haunted by Your Touch",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Entice Me at Twilight",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Embrace Me at Dawn",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

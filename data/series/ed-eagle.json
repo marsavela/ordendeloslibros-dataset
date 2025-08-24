@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Ed Eagle",
+  "slug": "ed-eagle",
+  "source": "https://www.orderofbooks.com/characters/ed-eagle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Ed-Eagle.jpg",
+  "books": [
+    {
+      "title": "Santa Fe Rules",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Short Straw",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Santa Fe Dead",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Santa Fe Edge",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

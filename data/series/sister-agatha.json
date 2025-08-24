@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Sister Agatha",
+  "slug": "sister-agatha",
+  "source": "https://www.orderofbooks.com/characters/sister-agatha/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Sister-Agatha-by-Aimee-David-Thurlo-500x200.jpg",
+  "authors": [
+    {
+      "name": "Aimee David Thurlo",
+      "slug": "aimee-david-thurlo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bad Faith",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thief in Retreat",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Prey for a Miracle",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "False Witness",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Prodigal Nun",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bad Samaritan",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

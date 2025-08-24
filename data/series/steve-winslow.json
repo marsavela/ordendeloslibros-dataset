@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Steve Winslow",
+  "slug": "steve-winslow",
+  "source": "https://www.orderofbooks.com/characters/steve-winslow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Steve-Winslow-by-Parnell-Hall-500x200.jpg",
+  "authors": [
+    {
+      "name": "Parnell Hall",
+      "slug": "parnell-hall"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Baxter Trust",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Anonymous Client",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Naked Typist",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Underground Man",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Wrong Gun",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Innocent Woman",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Witness Cat",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

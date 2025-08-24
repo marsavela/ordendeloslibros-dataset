@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Heirs Of Acadia",
+  "slug": "heirs-of-acadia",
+  "source": "https://www.orderofbooks.com/characters/heirs-of-acadia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Heirs-of-Acadia-by-T-Davis-Bunn-Isabella-Bunn-500x200.jpg",
+  "authors": [
+    {
+      "name": "T. Davis Bunn",
+      "slug": "t-davis-bunn"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Solitary Envoy",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Innocent Libertine",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Noble Fugitive",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Night Angel",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Falconer's Quest",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

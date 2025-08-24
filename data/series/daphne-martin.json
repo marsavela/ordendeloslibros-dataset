@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Daphne Martin",
+  "slug": "daphne-martin",
+  "source": "https://www.orderofbooks.com/characters/daphne-martin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Daphne-Martin-Cake-Decorating-Mysteries-by-Gayle-Trent-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gayle Trent",
+      "slug": "gayle-trent"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder Takes the Cake",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Pan",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Killer Sweet Tooth",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Battered to Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Killer Wedding Cake",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

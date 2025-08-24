@@ -1,0 +1,1183 @@
+{
+  "type": "series",
+  "name": "Deathlands",
+  "slug": "deathlands",
+  "source": "https://www.orderofbooks.com/characters/deathlands/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Deathlands-by-James-Axler-500x200.jpg",
+  "authors": [
+    {
+      "name": "James Axler",
+      "slug": "james-axler"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pilgrimage to Hell",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Red Holocaust",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Neutron Solstice",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Crater Lake",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Homeward Bound",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pony Soldiers",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dectra Chain",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ice and Fire",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Red Equinox",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Northstar Rising",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Time Nomads",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Latitude Zero",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Seedling",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Dark Carnival",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Chill Factor",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Moon Fate",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Shockscape",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Fury's Pilgrims",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Deep Empire",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Cold Asylum",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Twilight Children",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Rider, Reaper",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Road Wars",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Trader Redux",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Genesis Echo",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Bloodlines",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Shadowfall",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Ground Zero",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Emerald Fire",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Eclipse at Noon",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Bitter Fruit",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Crossways",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Keepers of the Sun",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Circle Thrice",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Stoneface",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Skydark",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Demons of Eden",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Mars Arena",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Watersleep",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Nightmare Passage",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Crucible of Time",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Freedom Lost",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Way of the Wolf",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Dark Emblem",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Gaia's Demise",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Encounter",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Starfall",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Gemini Rising",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Dark Reckoning",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Rat King",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Shadow World",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Pandora's Redoubt",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Zero City",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Judas Strike",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Savage Armada",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Shadow Fortress",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Sunchild",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Salvation Road",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Breakthrough",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Amazon Gate",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Destiny's Truth",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Skydark Spawn",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Damnation Road Show",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Devil Riders",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Bloodfire",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "Hellbenders",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Separation",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Death Hunt",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Shaking Earth",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Black Harvest",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Vengeance Trail",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "Ritual Chill",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "Atlantis Reprise",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "Labyrinth",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Strontium Swamp",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Shatter Zone",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "Perdition Valley",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "Cannibal Moon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "Sky Raider",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "Remember Tomorrow",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "Apocalypse Unborn",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "Sunspot",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "Desert Kings",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "Thunder Road",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "Plague Lords",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "Alpha Wave",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "Time Castaways",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "Eden's Twilight",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "Desolation Crossing",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "Dark Resurrection",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "Prophecy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "Blood Harvest",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "Baptism of Rage",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    },
+    {
+      "title": "Arcadian's Asylum",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 94
+    },
+    {
+      "title": "Doom Helix",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 95
+    },
+    {
+      "title": "Moonfeast",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 96
+    },
+    {
+      "title": "Downrigger Drift",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 97
+    },
+    {
+      "title": "Lost Gates",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 98
+    },
+    {
+      "title": "Prodigal's Return",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 99
+    },
+    {
+      "title": "Perception Fault",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 100
+    },
+    {
+      "title": "Tainted Cascade",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 101
+    },
+    {
+      "title": "Playfair's Axiom",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 102
+    },
+    {
+      "title": "Hell Road Warriors",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 103
+    },
+    {
+      "title": "Wretched Earth",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 104
+    },
+    {
+      "title": "Palaces of Light",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 105
+    },
+    {
+      "title": "Haven's Blight",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 106
+    },
+    {
+      "title": "Crimson Waters",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 107
+    },
+    {
+      "title": "No Man's Land",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 108
+    },
+    {
+      "title": "Storm Breakers",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 109
+    },
+    {
+      "title": "Dark Fathoms",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 110
+    },
+    {
+      "title": "Sins of Honor",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 111
+    },
+    {
+      "title": "Motherlode",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 112
+    },
+    {
+      "title": "Nemesis",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 113
+    },
+    {
+      "title": "Chrono Spasm",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 114
+    },
+    {
+      "title": "Siren Song",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 115
+    },
+    {
+      "title": "Blood Red Tide",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 116
+    },
+    {
+      "title": "End Program",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 117
+    },
+    {
+      "title": "Polestar Omega",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 118
+    },
+    {
+      "title": "Hanging Judge",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 119
+    },
+    {
+      "title": "Desolation Angels",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 120
+    },
+    {
+      "title": "Hive Invasion",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 121
+    },
+    {
+      "title": "End Day",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 122
+    },
+    {
+      "title": "Forbidden Trespass",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 123
+    },
+    {
+      "title": "Iron Rage",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 124
+    },
+    {
+      "title": "Child of Slaughter",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 125
+    },
+    {
+      "title": "Devil's Vortex",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 126
+    },
+    {
+      "title": "Survival in Doubt",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 127
+    },
+    {
+      "title": "Gaia's Promise",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 128
+    },
+    {
+      "title": "Bad Blood",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 129
+    },
+    {
+      "title": "Angels Of Our Nature",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 130
+    },
+    {
+      "title": "City of Dark",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 131
+    },
+    {
+      "title": "Phreak Farm",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 132
+    },
+    {
+      "title": "Feeding Frenzy",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 133
+    },
+    {
+      "title": "Grim Choices",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 134
+    },
+    {
+      "title": "Glory's Stockpile",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 135
+    },
+    {
+      "title": "Killville",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 136
+    },
+    {
+      "title": "Trade War",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 137
+    },
+    {
+      "title": "Rift of the Magi",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 138
+    },
+    {
+      "title": "Who Lives and Who Dies",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 139
+    },
+    {
+      "title": "Exodus From Hell",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 140
+    },
+    {
+      "title": "Sea Hag",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 141
+    },
+    {
+      "title": "Hell Reclaimed",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 142
+    },
+    {
+      "title": "Into Delirium",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 143
+    },
+    {
+      "title": "Grave Capitol",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 144
+    },
+    {
+      "title": "Memory Box",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 145
+    },
+    {
+      "title": "Kraken",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 146
+    }
+  ]
+}

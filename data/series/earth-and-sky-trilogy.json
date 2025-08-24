@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Earth And Sky Trilogy",
+  "slug": "earth-and-sky-trilogy",
+  "source": "https://www.orderofbooks.com/characters/earth-and-sky-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/earth-sky-trilogy-500x200.jpg",
+  "books": [
+    {
+      "title": "Earth & Sky",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Clouded Sky",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Sky Unbroken",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

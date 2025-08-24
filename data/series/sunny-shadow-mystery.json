@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Sunny & Shadow Mystery",
+  "slug": "sunny-shadow-mystery",
+  "source": "https://www.orderofbooks.com/characters/of-sunny-shadow-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/sunny-shadow-mystery-500x200.jpg",
+  "authors": [
+    {
+      "name": "Claire Donally",
+      "slug": "claire-donally"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Big Kitty",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cat Nap",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Last Licks",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hiss and Tell",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Catch as Cat Can",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

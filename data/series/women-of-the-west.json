@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Women Of The West",
+  "slug": "women-of-the-west",
+  "source": "https://www.orderofbooks.com/characters/women-of-the-west/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Women-of-the-West-by-Janette-Oke.jpg",
+  "authors": [
+    {
+      "name": "Janette Oke",
+      "slug": "janette-oke"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Calling of Emily Evans",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Julia's Last Hope",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Roses for Mama",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Woman Named Damaris",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Measure of a Heart",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "They Called Her Mrs. Doc",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Bride for Donnigan",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Heart of the Wilderness",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Too Long a Stranger",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Bluebird and the Sparrow",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Gown of Spanish Lace",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Drums of Change",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

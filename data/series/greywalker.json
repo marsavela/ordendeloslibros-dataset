@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Greywalker",
+  "slug": "greywalker",
+  "source": "https://www.orderofbooks.com/characters/greywalker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Greywalker-by-Kat-Richardson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kat Richardson",
+      "slug": "kat-richardson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Greywalker",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Poltergeist",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Underground",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Vanished",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Labyrinth",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Downpour",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Seawitch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Possession",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Revenant",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

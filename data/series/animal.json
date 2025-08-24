@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Animal",
+  "slug": "animal",
+  "source": "https://www.orderofbooks.com/characters/animal/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Animal-by-Kwan-500x200.jpg",
+  "books": [
+    {
+      "title": "Animal",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Animal II: The Omen",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ghetto Bastard: The Beginning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Animal III: Revelations",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Animal IV: Last Rites",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Animal 4.5",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Animal V: Executioner's Song",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

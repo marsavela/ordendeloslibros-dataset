@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Remaining",
+  "slug": "remaining",
+  "source": "https://www.orderofbooks.com/characters/remaining/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Remaining-by-DJ-Molles.jpg",
+  "authors": [
+    {
+      "name": "DJ Molles",
+      "slug": "dj-molles"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Remaining",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Aftermath",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Refugees",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fractured",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Trust",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Faith",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Allegiance",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Extinction",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Abe",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

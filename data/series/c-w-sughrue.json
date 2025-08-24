@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "C.W. Sughrue",
+  "slug": "c-w-sughrue",
+  "source": "https://www.orderofbooks.com/characters/cw-sughrue/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/CW-Sughrue-by-James-Crumley.jpg",
+  "books": [
+    {
+      "title": "The Last Good Kiss",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mexican Tree Duck",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bordersnakes",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Right Madness",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

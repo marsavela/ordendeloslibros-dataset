@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "Dracula",
+  "slug": "dracula",
+  "source": "https://www.orderofbooks.com/characters/dracula/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Dracula-Series-by-Fred-Saberhagen.jpg",
+  "books": [
+    {
+      "title": "The Dracula Tape",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Holmes-Dracula File",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Old Friend of the Family",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thorn",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dominion",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Matter of Taste",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Question of Time",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Seance for a Vampire",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Sharpness on the Neck",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Coldness in the Blood",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

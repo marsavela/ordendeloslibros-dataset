@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Cottage Tales Of Beatrix Potter",
+  "slug": "cottage-tales-of-beatrix-potter",
+  "source": "https://www.orderofbooks.com/characters/cottage-tales-of-beatrix-potter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Cottage-Tales-Of-Beatrix-Potter-by-Susan-Wittig-Albert.jpg",
+  "books": [
+    {
+      "title": "The Tale of Hill Top Farm",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tale of Holly How",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Tale of Cuckoo Brow Wood",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Tale of Hawthorn House",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Tale of Briar Bank",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Tale of Applebeck Orchard",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Tale of Oat Cake Crag",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Tale of Castle Cottage",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

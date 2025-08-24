@@ -1,0 +1,537 @@
+{
+  "type": "series",
+  "name": "Mrs. Bradley",
+  "slug": "mrs-bradley",
+  "source": "https://www.orderofbooks.com/characters/mrs-bradley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/05/Mrs-Bradley-by-Gladys-Mitchell.jpg",
+  "books": [
+    {
+      "title": "A Speedy Death",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mystery of a Butcher's Shop",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Longer Bodies",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Saltmarsh Murders",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death at the Opera / Death in the Wet",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Devil at Saxon Wall",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dead Men's Morris / Death Comes at Christmas",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Come Away, Death",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "St Peter's Finger",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Printer's Error",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Brazen Tongue",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Hangman's Curfew",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "When Last I Died",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Laurels Are Poison",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Worsted Viper",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Sunset Over Soho",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "My Father Sleeps",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Rising of the Moon",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Here Comes a Chopper",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Death and the Maiden",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Dancing Druids",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Tom Brown's Body",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Groaning Spinney / Murder in the Snow",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Devil's Elbow",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Echoing Strangers",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Merlin's Furlong",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Faintley Speaking",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Watson's Choice",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Twelve Horses and the Hangman's Noose",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Twenty-Third Man",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Spotted Hemlock",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Man Who Grew Tomatoes",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Say It with Flowers",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Nodding Canaries",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "My Bones Will Keep",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Adders on the Heath",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Death of a Delft Blue",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Pageant of Murder",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Croaking Raven",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Skeleton Island",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Three Quick and Five Dead",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Dance to Your Daddy",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Gory Dew",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Lament for Leto",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "A Hearse on May-Day",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Murder of Busy Lizzie",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "A Javelin for Jonah",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Winking at the Brim",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Convent on Styx",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Late, Late in the Evening",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Noonday and Night",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Fault in the Structure",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Wraiths and Changelings",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Mingled with Venom",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Nest of Vipers",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "The Mudflats of the Dead",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Uncoffin'd Clay",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "The Whispering Knights",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "The Death Cap Dancers",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Lovers, Make Moan",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Here Lies Gloria Mundy",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Death of a Burrowing Mole",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "The Greenstone Griffins",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Cold, Lone, and Still",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "No Winding-Sheet",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "The Crozier Pharaohs",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    }
+  ]
+}

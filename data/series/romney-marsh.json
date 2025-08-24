@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Romney Marsh",
+  "slug": "romney-marsh",
+  "source": "https://www.orderofbooks.com/characters/romney-marsh/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/12/Romney-Marsh-by-Kasey-Michaels-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kasey Michaels",
+      "slug": "kasey-michaels"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dangerous Debutante",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Gentleman by Any Other Name",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beware of Virtuous Women",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Return of the Prodigal",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Most Unsuitable Groom",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Reckless Beauty",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Becket's Last Stand",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

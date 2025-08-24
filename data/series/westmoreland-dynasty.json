@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Westmoreland Dynasty",
+  "slug": "westmoreland-dynasty",
+  "source": "https://www.orderofbooks.com/characters/westmoreland-dynasty/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/11/Westmoreland-by-Judith-McNaught-500x200.jpg",
+  "authors": [
+    {
+      "name": "Judith McNaught",
+      "slug": "judith-mcnaught"
+    }
+  ],
+  "books": [
+    {
+      "title": "Whitney, My Love",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Kingdom of Dreams",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Holiday of Love",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Until You",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Miracles",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

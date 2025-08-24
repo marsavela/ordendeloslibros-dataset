@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Irene Adler",
+  "slug": "irene-adler",
+  "source": "https://www.orderofbooks.com/characters/irene-adler/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Irene-Adler-Mysteries-by-Carole-Nelson-Douglas-500x200.jpg",
+  "authors": [
+    {
+      "name": "Carole Nelson Douglas",
+      "slug": "carole-nelson-douglas"
+    }
+  ],
+  "books": [
+    {
+      "title": "Good Night, Mr. Holmes",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Good Morning, Irene",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Irene At Large",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Irene's Last Waltz",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Chapel Noir",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Castle Rouge",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Femme Fatale",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Spider Dance",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Private Wife of Sherlock Holmes",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

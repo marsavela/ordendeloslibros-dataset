@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "name": "Amish Home Valley",
+  "slug": "amish-home-valley",
+  "source": "https://www.orderofbooks.com/characters/amish-home-valley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Amish-Home-Valley-by-Karen-Harper.jpg",
+  "authors": [
+    {
+      "name": "Karen Harper",
+      "slug": "karen-harper"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amish Home Valley Books",
+      "books": [
+        {
+          "title": "Fall from Pride",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Return to Grace",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Finding Mercy",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Upon a Winter's Night",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Covered Bridge",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        }
+      ]
+    }
+  }
+}

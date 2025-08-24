@@ -1,0 +1,62 @@
+{
+  "type": "series",
+  "name": "Alan Grant",
+  "slug": "alan-grant",
+  "source": "https://www.orderofbooks.com/characters/alan-grant/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Alan-Grant-by-Josephine-Tey.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Inspector Alan Grant Books",
+      "books": [
+        {
+          "title": "The Man in the Queue / Killer in the Crowd",
+          "year": 1929,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "A Shilling for Candles",
+          "year": 1936,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Franchise Affair",
+          "year": 1948,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "To Love and Be Wise",
+          "year": 1950,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Daughter of Time",
+          "year": 1951,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Singing Sands",
+          "year": 1952,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

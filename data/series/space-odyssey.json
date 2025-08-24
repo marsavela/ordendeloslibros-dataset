@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Space Odyssey",
+  "slug": "space-odyssey",
+  "source": "https://www.orderofbooks.com/characters/space-odyssey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Space-Odyssey-by-Arthur-C-Clarke.jpg",
+  "books": [
+    {
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "2010: Odyssey Two",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "2061: Odyssey Three",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "3001: The Final Odyssey",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

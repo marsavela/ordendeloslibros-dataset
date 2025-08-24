@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Cazalet Chronicles",
+  "slug": "cazalet-chronicles",
+  "source": "https://www.orderofbooks.com/characters/cazalet-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Cazalet-Chronicles-by-Elizabeth-Jane-Howard-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Jane Howard",
+      "slug": "elizabeth-jane-howard"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Light Years",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Marking Time",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Confusion",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Casting Off",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "All Change",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

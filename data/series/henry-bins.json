@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Henry Bins",
+  "slug": "henry-bins",
+  "source": "https://www.orderofbooks.com/characters/henry-bins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Henry-Bins-by-Nick-Pirog-500x200.jpg",
+  "authors": [
+    {
+      "name": "Nick Pirog",
+      "slug": "nick-pirog"
+    }
+  ],
+  "books": [
+    {
+      "title": "3:00 A.M.",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "3:10 A.M.",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "3:21 A.M.",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "3:34 A.M.",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "3:46 A.M.",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "3:53 A.M.",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Teen Henry 1994",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

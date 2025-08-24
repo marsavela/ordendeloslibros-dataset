@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Cavanaugh Brothers",
+  "slug": "cavanaugh-brothers",
+  "source": "https://www.orderofbooks.com/characters/cavanaugh-brothers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/cavanaugh-brothers-500x200.jpg",
+  "books": [
+    {
+      "title": "Branded",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Broken",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Brash",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bonded",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

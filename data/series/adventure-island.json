@@ -1,0 +1,132 @@
+{
+  "type": "series",
+  "name": "Adventure Island",
+  "slug": "adventure-island",
+  "source": "https://www.orderofbooks.com/characters/adventure-island/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/adventure-island-500x200.jpg",
+  "authors": [
+    {
+      "name": "Helen Moss. Moss",
+      "slug": "helen-moss-moss"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Adventure Island Books",
+      "books": [
+        {
+          "title": "The Mystery of the Whistling Caves",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Mystery of the Midnight Ghost",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Mystery of the Hidden Gold",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Mystery of the Missing Masterpiece",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Mystery of the Cursed Ruby",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Mystery of the Vanishing Skeleton",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Mystery of the Dinosaur Discovery",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Mystery of the Drowning Man",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Mystery of the Smugglers' Wreck",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Mystery of the Invisible Spy",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "The Mystery of the King's Ransom",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "The Mystery of the Black Salamander",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Mystery of the Secret Room",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Mystery of the Phantom Lights",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        }
+      ]
+    }
+  }
+}

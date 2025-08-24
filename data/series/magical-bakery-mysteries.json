@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Magical Bakery Mysteries",
+  "slug": "magical-bakery-mysteries",
+  "source": "https://www.orderofbooks.com/characters/magical-bakery-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Magical-Bakery-Mysteries-by-Bailey-Cates-500x200.jpg",
+  "authors": [
+    {
+      "name": "Bailey Cates",
+      "slug": "bailey-cates"
+    }
+  ],
+  "books": [
+    {
+      "title": "Brownies and Broomsticks",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bewitched, Bothered, and Biscotti",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Charms and Chocolate Chips",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Some Enchanted Éclair",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Magic and Macaroons",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Spells and Scones",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Potions and Pastries",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Cookies and Clairvoyance",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Witches and Wedding Cake",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Spirits and Sourdough",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Rituals and Rolling Pins",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

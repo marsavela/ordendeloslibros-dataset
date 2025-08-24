@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Country Cooking School Mysteries",
+  "slug": "country-cooking-school-mysteries",
+  "source": "https://www.orderofbooks.com/characters/country-cooking-school-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Country-Cooking-School-Mysteries-by-Paige-Shelton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Paige Shelton",
+      "slug": "paige-shelton"
+    }
+  ],
+  "books": [
+    {
+      "title": "If Fried Chicken Could Fly",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "If Mashed Potatoes Could Dance",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "If Bread Could Rise to the Occasion",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "If Catfish Had Nine Lives",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "If Onions Could Spring Leeks",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

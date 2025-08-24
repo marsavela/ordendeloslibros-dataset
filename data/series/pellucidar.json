@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Pellucidar",
+  "slug": "pellucidar",
+  "source": "https://www.orderofbooks.com/characters/pellucidar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Pellucidar-by-Edgar-Rice-Burroughs.jpg",
+  "books": [
+    {
+      "title": "At the Earth's Core",
+      "year": 1914,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pellucidar",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tanar of Pellucidar",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tarzan at the Earth's Core",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Back to the Stone Age",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Savage Pellucidar",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Land of Terror",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "series",
+  "name": "Amanda Roberts",
+  "slug": "amanda-roberts",
+  "source": "https://www.orderofbooks.com/characters/amanda-roberts/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Amanda-Roberts-by-Sherryl-Woods-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sherryl Woods",
+      "slug": "sherryl-woods"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amanda Roberts Mystery Books",
+      "books": [
+        {
+          "title": "Reckless",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Body and Soul",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Stolen Moments",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Ties That Bind",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Bank on It",
+          "year": 1993,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Hide and Seek",
+          "year": 1993,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Wages of Sin",
+          "year": 1994,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Deadly Obsession",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "White Lightning",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        }
+      ]
+    }
+  }
+}

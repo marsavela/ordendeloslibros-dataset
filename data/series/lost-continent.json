@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Lost Continent",
+  "slug": "lost-continent",
+  "source": "https://www.orderofbooks.com/characters/lost-continent/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Lost-Continent-by-Catherine-Asaro.jpg",
+  "authors": [
+    {
+      "name": "Catherine Asaro",
+      "slug": "catherine-asaro"
+    }
+  ],
+  "books": [
+    {
+      "title": "Charmed Destinies",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Charmed Sphere",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Misted Cliffs",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Dawn Star",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fire Opal",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Night Bird",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

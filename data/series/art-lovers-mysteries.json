@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Art Lover’s Mysteries",
+  "slug": "art-lovers-mysteries",
+  "source": "https://www.orderofbooks.com/characters/art-lovers-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Art-Lovers-Mysteries-by-Hailey-Lind-Juliet-Blackwell-500x200.jpg",
+  "authors": [
+    {
+      "name": "Hailey Lind",
+      "slug": "hailey-lind"
+    }
+  ],
+  "books": [
+    {
+      "title": "Feint of Art",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shooting Gallery",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Brush With Death",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Arsenic and Old Paint",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

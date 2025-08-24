@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "D.I. Marjory Fleming",
+  "slug": "d-i-marjory-fleming",
+  "source": "https://www.orderofbooks.com/characters/di-marjory-fleming/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/DI-Marjory-Fleming-by-Aline-Templeton.jpg",
+  "authors": [
+    {
+      "name": "Aline Templeton",
+      "slug": "aline-templeton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cold In The Earth",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Darkness & the Deep",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lying Dead",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lamb To The Slaughter",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead In The Water",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cradle to Grave",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Evil for Evil",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bad Blood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Third Sin",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

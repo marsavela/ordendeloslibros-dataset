@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Parson & Gold",
+  "slug": "parson-gold",
+  "source": "https://www.orderofbooks.com/characters/parson-and-gold/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Parson-and-Gold-by-Thomas-W-Young.jpg",
+  "books": [
+    {
+      "title": "The Mullah's Storm",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Silent Enemy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Renegades",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Warriors",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Phantom Fury",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sand and Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Hunters",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Phantom Fury is a prequel novella to the Parson & Gold series, and in particular, should be read prior to the novel Sand and Fire .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

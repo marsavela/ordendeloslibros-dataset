@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Apprentice Adept",
+  "slug": "apprentice-adept",
+  "source": "https://www.orderofbooks.com/characters/apprentice-adept/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Apprentice-Adept-by-Piers-Anthony.jpg",
+  "books": [
+    {
+      "title": "Split Infinity",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blue Adept",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Juxtaposition",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Out of Phaze",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Robot Adept",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Unicorn Point",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Phaze Doubt",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

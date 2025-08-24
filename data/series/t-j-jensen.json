@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "name": "T.J. Jensen",
+  "slug": "t-j-jensen",
+  "source": "https://www.orderofbooks.com/characters/tj-jensen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/11/TJ-Jensen-by-Kathi-Daley.jpg",
+  "books": [
+    {
+      "title": "Pumpkins in Paradise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Snowmen in Paradise",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bikinis in Paradise",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Christmas in Paradise",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Puppies in Paradise",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Halloween in Paradise",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Treasure in Paradise",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fireworks in Paradise",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Beaches in Paradise",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Thanksgiving in Paradise",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Judy Moody & Stink",
+  "slug": "judy-moody-stink",
+  "source": "https://www.orderofbooks.com/characters/judy-moody-and-stink/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Judy-Moody-by-Megan-McDonald.jpg",
+  "authors": [
+    {
+      "name": "Megan McDonald",
+      "slug": "megan-mcdonald"
+    }
+  ],
+  "books": [
+    {
+      "title": "Judy Moody Was in a Mood",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Judy Moody Gets Famous!",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Judy Moody Saves the World!",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Judy Moody Predicts the Future",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Judy Moody, M.D.: The Doctor is In!",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Judy Moody Declares Independence",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Judy Moody: Around the World in 8 1/2 Days",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Judy Moody Goes to College",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Judy Moody, Girl Detective",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Judy Moody and the Not Bummer Summer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Judy Moody and the Bad Luck Charm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Judy Moody, Mood Martian",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Judy Moody and the Bucket List",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Judy Moody and the Right Royal Tea Party",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Judy Moody, Book Quiz Whiz",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Judy Moody: In a Monday Mood",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

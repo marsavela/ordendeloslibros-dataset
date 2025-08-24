@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Trace",
+  "slug": "trace",
+  "source": "https://www.orderofbooks.com/characters/trace/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Trace-by-Warren-Murphy.jpg",
+  "authors": [
+    {
+      "name": "Warren Murphy",
+      "slug": "warren-murphy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Trace",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "And 47 Miles of Rope",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Elephants Forget",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pigs Get Fat",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Once a Mutt",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Too Old a Cat",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Getting Up with Fleas",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

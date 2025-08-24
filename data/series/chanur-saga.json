@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Chanur Saga",
+  "slug": "chanur-saga",
+  "source": "https://www.orderofbooks.com/characters/chanur-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Chanur-Saga-by-CJ-Cherryh-500x200.jpg",
+  "authors": [
+    {
+      "name": "CJ Cherryh",
+      "slug": "cj-cherryh"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Pride of Chanur",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Chanur's Venture",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Kif Strike Back",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Chanur's Homecoming",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Chanur's Legacy",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

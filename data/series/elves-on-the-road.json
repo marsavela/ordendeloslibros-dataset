@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Elves On The Road",
+  "slug": "elves-on-the-road",
+  "source": "https://www.orderofbooks.com/characters/elves-on-the-road/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Elves-On-The-Road-by-Mercedes-Lackey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mercedes Lackey",
+      "slug": "mercedes-lackey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Burning Water",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Children of the Night",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jinx High",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Killer Byte",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Magic 101",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

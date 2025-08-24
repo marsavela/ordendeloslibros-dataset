@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Sherlock Holmes",
+  "slug": "sherlock-holmes",
+  "source": "https://www.orderofbooks.com/characters/sherlock-holmes/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Sherlock-Holmes.jpg",
+  "books": [
+    {
+      "title": "A Study in Scarlet",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sign of Four",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

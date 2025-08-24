@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Dr. Jeremy Logan",
+  "slug": "dr-jeremy-logan",
+  "source": "https://www.orderofbooks.com/characters/dr-jeremy-logan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Dr-Jeremy-Logan-by-Lincoln-Child-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lincoln Child",
+      "slug": "lincoln-child"
+    }
+  ],
+  "books": [
+    {
+      "title": "Deep Storm",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Terminal Freeze",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Third Gate",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Forgotten Room",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Full Wolf Moon",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Chrysalis",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

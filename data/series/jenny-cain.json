@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Jenny Cain",
+  "slug": "jenny-cain",
+  "source": "https://www.orderofbooks.com/characters/jenny-cain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Jenny-Cain-by-Nancy-Pickard.jpg",
+  "authors": [
+    {
+      "name": "Nancy Pickard",
+      "slug": "nancy-pickard"
+    }
+  ],
+  "books": [
+    {
+      "title": "Generous Death",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Say No to Murder",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "No Body",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Marriage Is Murder",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead Crazy",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bum Steer",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "I.O.U.",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "But I Wouldn't Want to Die There",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Confession",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Twilight",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

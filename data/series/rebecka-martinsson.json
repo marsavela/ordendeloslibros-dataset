@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Rebecka Martinsson",
+  "slug": "rebecka-martinsson",
+  "source": "https://www.orderofbooks.com/characters/rebecka-martinsson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Rebecka-Martinsson-by-Asa-Larsson.jpg",
+  "authors": [
+    {
+      "name": "Asa Larsson",
+      "slug": "asa-larsson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sun Storm / The Savage Altar",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Blood Spilt",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Black Path",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Until Thy Wrath be Past",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Second Deadly Sin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sins of Our Fathers",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

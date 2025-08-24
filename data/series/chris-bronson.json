@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Chris Bronson",
+  "slug": "chris-bronson",
+  "source": "https://www.orderofbooks.com/characters/chris-bronson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Chris-Bronson-by-James-Becker.jpg",
+  "books": [
+    {
+      "title": "The First Apostle",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Moses Stone",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Messiah Secret",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Nosferatu Scroll",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Echo of the Reich",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Lost Testament",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Templar Heresy",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

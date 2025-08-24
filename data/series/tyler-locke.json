@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Tyler Locke",
+  "slug": "tyler-locke",
+  "source": "https://www.orderofbooks.com/characters/tyler-locke/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Tyler-Locke-by-Boyd-Morrison.jpg",
+  "books": [
+    {
+      "title": "The Ark",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Vault / The Midas Code",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Roswell Conspiracy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Loch Ness Legacy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Emma Graham",
+  "slug": "emma-graham",
+  "source": "https://www.orderofbooks.com/characters/emma-graham/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Emma-Graham-by-Martha-Grimes.jpg",
+  "books": [
+    {
+      "title": "Hotel Paradise",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cold Flat Junction",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Belle Ruin",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fadeaway Girl",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

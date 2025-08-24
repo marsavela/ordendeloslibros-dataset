@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Cheney Duvall, M.D.",
+  "slug": "cheney-duvall-m-d",
+  "source": "https://www.orderofbooks.com/characters/cheney-duvall-md/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Cheney-Duvall-MD-by-Gilbert-Morris.jpg",
+  "authors": [
+    {
+      "name": "Lynn Morris",
+      "slug": "lynn-morris"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Stars for a Light",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shadow of the Mountains",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A City Not Forsaken",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Toward the Sunrising",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Secret Place of Thunder",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "In the Twilight, in the Evening",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Island of the Innocent",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Driven With the Wind",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

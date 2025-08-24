@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Lord Of The Rings",
+  "slug": "lord-of-the-rings",
+  "source": "https://www.orderofbooks.com/characters/lord-of-the-rings/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Lord-of-the-Rings-by-JRR-Tolkien.jpg",
+  "books": [
+    {
+      "title": "The Hobbit",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Two Towers",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Return of the King",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bilbo's Last Song",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

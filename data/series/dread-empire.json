@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Dread Empire",
+  "slug": "dread-empire",
+  "source": "https://www.orderofbooks.com/characters/dread-empire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Dread-Empire-by-Glen-Cook.jpg",
+  "books": [
+    {
+      "title": "A Shadow of All Night Falling",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "October's Baby",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "All Darkness Met",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fire in His Hands",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "With Mercy Toward None",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Reap the East Wind",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "An Ill Fate Marshalling",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Path to Coldness of Heart",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wrath of Kings",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

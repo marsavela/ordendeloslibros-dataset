@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Chronicles Of Prydain",
+  "slug": "chronicles-of-prydain",
+  "source": "https://www.orderofbooks.com/characters/chronicles-of-prydain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Chronicles-of-Prydain-by-Lloyd-Alexander-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lloyd Alexander",
+      "slug": "lloyd-alexander"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Book of Three",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Black Cauldron",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Castle of Llyr",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Taran Wanderer",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The High King",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

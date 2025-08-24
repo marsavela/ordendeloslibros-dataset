@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "John Shakespeare",
+  "slug": "john-shakespeare",
+  "source": "https://www.orderofbooks.com/characters/john-shakespeare/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/John-Shakespeare-by-Rory-Clements-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rory Clements",
+      "slug": "rory-clements"
+    }
+  ],
+  "books": [
+    {
+      "title": "Martyr",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Revenger",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Prince",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Traitor",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Man in the Snow",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Heretics",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Queen's Man",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Holy Spy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chronologically. The Heretics takes place after Traitor .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

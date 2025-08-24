@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Highlander",
+  "slug": "highlander",
+  "source": "https://www.orderofbooks.com/characters/highlander/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Highlander-by-Karen-Marie-Moning.jpg",
+  "books": [
+    {
+      "title": "Beyond the Highland Mist",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "To Tame a Highland Warrior",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Highlander's Touch",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Kiss of the Highlander",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dark Highlander",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Immortal Highlander",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Spell of the Highlander",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Into the Dreaming",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Bardic Voices",
+  "slug": "bardic-voices",
+  "source": "https://www.orderofbooks.com/characters/bardic-voices/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Bardic-Voices-by-Mercedes-Lackey.jpg",
+  "authors": [
+    {
+      "name": "Mercedes Lackey",
+      "slug": "mercedes-lackey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Lark And The Wren",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Robin & The Kestrel",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Cast of Corbies",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Eagle & the Nightingales",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Four & Twenty Blackbirds",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

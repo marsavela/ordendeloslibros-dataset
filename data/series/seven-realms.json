@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Seven Realms",
+  "slug": "seven-realms",
+  "source": "https://www.orderofbooks.com/characters/seven-realms/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Seven-Realms-by-Cinda-Williams-Chima.jpg",
+  "books": [
+    {
+      "title": "The Demon King",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Exiled Queen",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Gray Wolf Throne",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Crimson Crown",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

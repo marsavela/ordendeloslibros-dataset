@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Lacey Doyle",
+  "slug": "lacey-doyle",
+  "source": "https://www.orderofbooks.com/characters/lacey-doyle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/08/Lacey-Doyle-by-Fiona-Grace.jpg",
+  "authors": [
+    {
+      "name": "Fiona Grace",
+      "slug": "fiona-grace"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder in the Manor",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death and a Dog",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Crime in the Café",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Vexed on a Visit",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Killed With a Kiss",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Perished by a Painting",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Silenced by a Spell",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Framed by a Forgery",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Catastrophe in a Cloister",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mayhem and Music",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Fate of the Faberge",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Scandal of the Seaside",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Malice in the Mirror",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Volumes of Vengeance",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Treasure and Treachery",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Brooch and Betrayal",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

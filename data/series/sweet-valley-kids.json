@@ -1,0 +1,617 @@
+{
+  "type": "series",
+  "name": "Sweet Valley Kids",
+  "slug": "sweet-valley-kids",
+  "source": "https://www.orderofbooks.com/characters/sweet-valley-kids/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/sweet-valley-kids.jpg",
+  "books": [
+    {
+      "title": "Surprise! Surprise!",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Runaway Hamster",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Twins' Mystery Teacher",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lila's Secret",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Elizabeth's Valentine",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Jessica's Cat Trick",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Jessica's Big Mistake",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Jessica's Zoo Adventure",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Elizabeth's Super-Selling Lemonade",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Twins and the Wild West",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Crybaby Lois",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Sweet Valley Trick or Treat",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Starring Winston Egbert",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Jessica the Baby-Sitter",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Fearless Elizabeth",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Jessica the TV Star",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Caroline's Mystery Dolls",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Bossy Steven",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Jessica and the Jumbo Fish",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Twins Go to the Hospital",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Jessica and the Spelling-Bee Surprise",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Sweet Valley Slumber Party",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Lila's Haunted House Party",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Cousin Kelly's Family Secret",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Jessica's Snobby Club",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Left-Out Elizabeth",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Sweet Valley Cleanup Team",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Elizabeth Meets Her Hero",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Andy and the Alien",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Jessica's Unburied Treasure",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Elizabeth and Jessica Run Away",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Left Back!",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Caroline's Halloween Spell",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Best Thanksgiving Ever",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Elizabeth's Broken Arm",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Jessica's Monster Nightmare",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Jessica Gets Spooked",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Elizabeth's Video Fever",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Good-Bye, Eva?",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Ellen Is Home Alone",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Robin in the Middle",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Missing Tea Set",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "The Twins' Big Pow-Wow",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Elizabeth's Piano Lessons",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "The Jessica and Elizabeth Show",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Get the Teacher!",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Elizabeth the Tattletale",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Lila's April Fool",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Jessica's Mermaid",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Steven's Twin",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Lois and the Sleepover",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Julie the Karate Kid",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "The Magic Puppets",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Star of the Parade",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "The Big Race",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Jessica Plays Cupid",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "No Girls Allowed",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Lila's Birthday Bash",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Jessica + Jessica = Trouble",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "The Amazing Jessica",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Scaredy-Cat Elizabeth",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "The Halloween War",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Lila's Christmas Angel",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Elizabeth's Horseback Adventure",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Steven's Big Crush",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "And the Winner Is... Jessica Wakefield!",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "A Roller Coaster for the Twins!",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Jessica's Secret Friend",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Sweet Valley Blizzard!",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Good-Bye, Mrs. Otis",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Class Picture Day!",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "The Macaroni Mess",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "The Witch in the Pumpkin Patch",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "Little Drummer Girls",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Danger",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Elizabeth the Telltale",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    }
+  ]
+}

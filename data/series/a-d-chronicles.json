@@ -1,0 +1,110 @@
+{
+  "type": "series",
+  "name": "A.D. Chronicles",
+  "slug": "a-d-chronicles",
+  "source": "https://www.orderofbooks.com/characters/ad-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/AD-Chronicles-by-Bodie-and-Brock-Thoene-500x200.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of A.D. Chronicles Books",
+      "books": [
+        {
+          "title": "First Light",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Second Touch",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Third Watch",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Fourth Dawn",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Fifth Seal",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Sixth Covenant",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Seventh Day",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Eighth Shepherd",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Ninth Witness",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Tenth Stone",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Eleventh Guest",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Twelfth Prophecy",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        }
+      ]
+    }
+  }
+}

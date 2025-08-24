@@ -1,0 +1,207 @@
+{
+  "type": "series",
+  "name": "Lovejoy",
+  "slug": "lovejoy",
+  "source": "https://www.orderofbooks.com/characters/lovejoy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Lovejoy-by-Jonathan-Gash-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jonathan Gash",
+      "slug": "jonathan-gash"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Judas Pair",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gold by Gemini",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Grail Tree",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Spend Game",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Vatican Rip",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Firefly Gadroon",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Sleepers of Erin",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Gondola Scam",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Pearlhanger",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Tartan Ringers",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Moonspender",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Jade Woman",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Very Last Gambado",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Great California Game",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Lies of Fair Ladies",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Paid and Loving Eyes",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Sin Within Her Smile",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Grace in Older Women",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Possessions of a Lady",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Rich and the Profane",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Rag, a Bone and a Hank of Hair",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Every Last Cent",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Ten Word Game",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Faces in the Pool",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

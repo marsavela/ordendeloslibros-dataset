@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Casey Jordan",
+  "slug": "casey-jordan",
+  "source": "https://www.orderofbooks.com/characters/casey-jordan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Casey-Jordan-by-Tim-Green.jpg",
+  "books": [
+    {
+      "title": "The Letter of the Law",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Above the Law",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "False Convictions",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

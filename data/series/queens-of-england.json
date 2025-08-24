@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Queens Of England",
+  "slug": "queens-of-england",
+  "source": "https://www.orderofbooks.com/characters/queens-of-england/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Queens-Of-England-by-Jean-Plaidy-Victoria-Holt.jpg",
+  "books": [
+    {
+      "title": "Myself My Enemy / Loyal in Love",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Queen of This Realm",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Victoria Victorious",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lady in the Tower",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Courts of Love",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "In the Shadow of the Crown",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Queen's Secret",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Reluctant Queen",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "William's Wife / The Queen's Devotion",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Pleasures of Love / The Merry Monarch's Wife",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Rose Without a Thorn",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

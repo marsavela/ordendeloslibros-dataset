@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Big Nate",
+  "slug": "big-nate",
+  "source": "https://www.orderofbooks.com/characters/big-nate/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Big-Nate-by-Lincoln-Peirce.jpg",
+  "books": [
+    {
+      "title": "In a Class by Himself",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Big Nate Strikes Again",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Big Nate on a Roll",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Big Nate Goes for Broke",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Big Nate Flips Out",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "In The Zone",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Big Nate Lives It Up",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Big Nate Blasts Off",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Attack of the Cheez Funk Breath",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

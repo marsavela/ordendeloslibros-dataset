@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Poldark",
+  "slug": "poldark",
+  "source": "https://www.orderofbooks.com/characters/poldark/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Poldark-by-Winston-Graham-500x200.jpg",
+  "authors": [
+    {
+      "name": "Winston Graham",
+      "slug": "winston-graham"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ross Poldark",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Demelza",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jeremy Poldark",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Warleggan",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Black Moon",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Four Swans",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Angry Tide",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Stranger from The Sea",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Miller's Dance",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Poldark's Cornwall",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Loving Cup",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Twisted Sword",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Bella Poldark",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

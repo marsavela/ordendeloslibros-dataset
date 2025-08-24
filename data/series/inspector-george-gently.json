@@ -1,0 +1,423 @@
+{
+  "type": "series",
+  "name": "Inspector George Gently",
+  "slug": "inspector-george-gently",
+  "source": "https://www.orderofbooks.com/characters/inspector-george-gently/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Inspector-George-Gently-by-Alan-Hunter-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alan Hunter",
+      "slug": "alan-hunter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gently Does It",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gently By the Shore",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gently Down the Stream",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Landed Gently",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gently Through the Mill",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gently in the Sun",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gently With The Painters",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Gently to the Summit",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Gently Go Man",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Gently Where The Roads Go",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Gently Floating",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Gently Sahib",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Gently with the Ladies",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Gently North-West",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Gently Continental",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Gently Coloured",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Gently with the Innocents",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Gently at a Gallop",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Gently Where She Lay",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Gently French",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Gently in Trees / Gently Through the Woods",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Gently with Love",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Gently Where the Birds are",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Gently Instrumental",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Gently to a Sleep",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Honfleur Decision",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Gabrielle's Way",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Fields of Heather / Death on the Heath",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Gently Heartbroken / The Scottish Decision",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Gently Between Tides",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Amorous Leander / Death on the Broadlands",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Unhung Man",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Once a prostitute...",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Chelsea Ghost",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Goodnight, Sweet Prince",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Strangling Man",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Traitor's End",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Gently With The Millions",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Gently Scandalous",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Gently To A Kill",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Gently Tragic",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Gently in the Glens",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Bomber's Moon",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Jackpot!",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "The Love of Gods",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Over Here",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Gently Mistaken",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Gently Under Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Gently Sinking",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Gently in the Past",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Gently with Passion",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    }
+  ]
+}

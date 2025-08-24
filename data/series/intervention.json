@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Intervention",
+  "slug": "intervention",
+  "source": "https://www.orderofbooks.com/characters/intervention/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Intervention-by-Terri-Blackstock.jpg",
+  "books": [
+    {
+      "title": "Intervention",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Vicious Cycle",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Downfall",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

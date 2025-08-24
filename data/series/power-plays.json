@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Power Plays",
+  "slug": "power-plays",
+  "source": "https://www.orderofbooks.com/characters/power-plays/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Power-Plays-by-Tom-Clancy-Martin-Greenberg.jpg",
+  "authors": [
+    {
+      "name": "Tom Clancy",
+      "slug": "tom-clancy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Politika",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "ruthless.com",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shadow Watch",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bio-Strike",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cold War",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cutting Edge",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Zero Hour",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wild Card",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

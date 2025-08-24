@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Atlantia",
+  "slug": "atlantia",
+  "source": "https://www.orderofbooks.com/characters/atlantia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Atlantia-by-Dean-Crawford-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dean Crawford",
+      "slug": "dean-crawford"
+    }
+  ],
+  "books": [
+    {
+      "title": "Survivor",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Retaliator",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Aggressor",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Endeavour",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Defiance",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

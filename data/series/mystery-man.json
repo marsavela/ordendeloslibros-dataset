@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Mystery Man",
+  "slug": "mystery-man",
+  "source": "https://www.orderofbooks.com/characters/mystery-man/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Mystery-Man-by-Colin-Bateman.jpg",
+  "authors": [
+    {
+      "name": "Colin Bateman",
+      "slug": "colin-bateman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mystery Man",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Day of the Jack Russell",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dr. Yes",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Prisoner of Brenda",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

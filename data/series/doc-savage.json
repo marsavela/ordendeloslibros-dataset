@@ -1,0 +1,1463 @@
+{
+  "type": "series",
+  "name": "Doc Savage",
+  "slug": "doc-savage",
+  "source": "https://www.orderofbooks.com/characters/doc-savage/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Doc-Savage-by-Kenneth-Robeson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Henry Ralston",
+      "slug": "henry-ralston"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Man of Bronze",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Land of Terror",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Quest of the Spider",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Polar Treasure",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Pirate of the Pacific",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Red Skull",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Lost Oasis",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Sargasso Ogre",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Czar of Fear",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Phantom City",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Brand of the Werewolf",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Man Who Shook the Earth",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Meteor Menace",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Monsters",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Mystery on the Snow",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The King Maker",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Thousand-Headed Man",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Squeaking Goblin",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Fear Cay",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Death in Silver",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Sea Magician",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Annihilist",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Mystic Mullah",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Red Snow",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Land of Always-Night",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Spook Legion / The Ghost Legion",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Secret in the Sky",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Roar Devil",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Quest of Qui",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Spook Hole",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Majii",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Dust of Death",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Murder Melody",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Fantastic Island",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Murder Mirage",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Mystery Under the Sea",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Metal Master",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Men Who Smiled No More",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Seven Agate Devils",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Haunted Ocean",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Black Spot",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Midas Man",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Cold Death",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The South Pole Terror",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Resurrection Day",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Vanisher",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Land of Long Juju",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "The Derrick Devil",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Mental Wizard",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "The Terror in the Navy",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Mad Eyes",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "The Land of Fear",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "He Could Stop the World",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "The Magic Island / Ost",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "The Feathered Octopus",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Repel / The Deadly Dwarf",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "The Golden Peril",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "The Living-Fire Menace",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "The Mountain Monster",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Devil on the Moon",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "The Pirate's Ghost",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "The Motion Menace",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "The Submarine Mystery",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "The Giggling Ghosts",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "The Munitions Master",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "The Red Terrors",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Fortress of Solitude",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "The Green Death",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "The Devil Genghis",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Mad Mesa",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "The Yellow Cloud",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "The Freckled Shark",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "World's Fair Goblin",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "The Gold Ogre",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "The Flaming Falcons",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Merchants of Disaster",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "The Crimson Serpent",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "Poison Island",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "The Stone Man",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "Hex",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "The Dagger in the Sky",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "The Other World",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "The Angry Ghost",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "The Spotted Men",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "The Evil Gnome",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "The Boss of Terror",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "The Awful Egg",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "The Flying Goblin",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "Tunnel Terror",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "The Purple Dragon",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "Devils of the Deep",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "The Awful Dynasty",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "The Men Vanished",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    },
+    {
+      "title": "The Devil's Playground",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 94
+    },
+    {
+      "title": "Bequest of Evil",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 95
+    },
+    {
+      "title": "The All-White Elf",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 96
+    },
+    {
+      "title": "The Golden Man",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 97
+    },
+    {
+      "title": "The Pink Lady",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 98
+    },
+    {
+      "title": "The Headless Men",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 99
+    },
+    {
+      "title": "The Green Eagle",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 100
+    },
+    {
+      "title": "Mystery Island",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 101
+    },
+    {
+      "title": "The Mindless Monsters",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 102
+    },
+    {
+      "title": "Birds of Death",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 103
+    },
+    {
+      "title": "The Invisible Box Murders",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 104
+    },
+    {
+      "title": "Peril in the North",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 105
+    },
+    {
+      "title": "The Rustling Death",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 106
+    },
+    {
+      "title": "Men of Fear",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 107
+    },
+    {
+      "title": "The Too-Wise Owl",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 108
+    },
+    {
+      "title": "The Magic Forest",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 109
+    },
+    {
+      "title": "Pirate Isle",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 110
+    },
+    {
+      "title": "The Speaking Stone",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 111
+    },
+    {
+      "title": "The Man Who Fell Up",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 112
+    },
+    {
+      "title": "The Three Wild Men",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 113
+    },
+    {
+      "title": "The Fiery Menace",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 114
+    },
+    {
+      "title": "The Laugh of Death",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 115
+    },
+    {
+      "title": "They Died Twice",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 116
+    },
+    {
+      "title": "The Devil's Black Rock",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 117
+    },
+    {
+      "title": "The Time Terror",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 118
+    },
+    {
+      "title": "Waves of Death",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 119
+    },
+    {
+      "title": "The Black, Black Witch",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 120
+    },
+    {
+      "title": "The King of Terror",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 121
+    },
+    {
+      "title": "The Talking Devil",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 122
+    },
+    {
+      "title": "The Running Skeletons",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 123
+    },
+    {
+      "title": "Mystery on Happy Bones",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 124
+    },
+    {
+      "title": "The Mental Monster",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 125
+    },
+    {
+      "title": "Hell Below",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 126
+    },
+    {
+      "title": "The Goblins",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 127
+    },
+    {
+      "title": "The Secret of the Su",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 128
+    },
+    {
+      "title": "The Spook of Grandpa Eden",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 129
+    },
+    {
+      "title": "According to Plan of a One-Eyed Mystic",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 130
+    },
+    {
+      "title": "Death Had Yellow Eyes",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 131
+    },
+    {
+      "title": "The Derelict of Skull Shoal",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 132
+    },
+    {
+      "title": "The Whisker of Hercules",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 133
+    },
+    {
+      "title": "The Three Devils",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 134
+    },
+    {
+      "title": "The Pharaoh's Ghost",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 135
+    },
+    {
+      "title": "The Man Who Was Scared",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 136
+    },
+    {
+      "title": "The Shape of Terror",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 137
+    },
+    {
+      "title": "Weird Valley",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 138
+    },
+    {
+      "title": "Jiu San",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 139
+    },
+    {
+      "title": "Satan Black",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 140
+    },
+    {
+      "title": "The Lost Giant",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 141
+    },
+    {
+      "title": "Violent Night / The Hate Genius",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 142
+    },
+    {
+      "title": "Strange Fish",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 143
+    },
+    {
+      "title": "The Ten Ton Snakes",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 144
+    },
+    {
+      "title": "Cargo Unknown",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 145
+    },
+    {
+      "title": "Rock Sinister",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 146
+    },
+    {
+      "title": "The Terrible Stork",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 147
+    },
+    {
+      "title": "King Joe Cay",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 148
+    },
+    {
+      "title": "The Wee Ones",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 149
+    },
+    {
+      "title": "Terror Takes 7",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 150
+    },
+    {
+      "title": "The Thing That Pursued",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 151
+    },
+    {
+      "title": "Trouble on Parade",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 152
+    },
+    {
+      "title": "The Screaming Man",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 153
+    },
+    {
+      "title": "Measures for a Coffin",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 154
+    },
+    {
+      "title": "Se-Pah-Poo",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 155
+    },
+    {
+      "title": "Terror and the Lonely Widow",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 156
+    },
+    {
+      "title": "Five Fathoms Dead",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 157
+    },
+    {
+      "title": "Death is a Round Black Spot",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 158
+    },
+    {
+      "title": "Colors for Murder",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 159
+    },
+    {
+      "title": "Fire and Ice",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 160
+    },
+    {
+      "title": "Three Times a Corpse",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 161
+    },
+    {
+      "title": "The Exploding Lake",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 162
+    },
+    {
+      "title": "Death in Little Houses",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 163
+    },
+    {
+      "title": "The Devil is Jones",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 164
+    },
+    {
+      "title": "The Disappearing Lady",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 165
+    },
+    {
+      "title": "Target for Death",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 166
+    },
+    {
+      "title": "The Death Lady",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 167
+    },
+    {
+      "title": "Danger Lies East",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 168
+    },
+    {
+      "title": "No Light to Die By",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 169
+    },
+    {
+      "title": "The Monkey Suit",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 170
+    },
+    {
+      "title": "Let's Kill Ames",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 171
+    },
+    {
+      "title": "Once Over Lightly",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 172
+    },
+    {
+      "title": "I Died Yesterday",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 173
+    },
+    {
+      "title": "The Pure Evil",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 174
+    },
+    {
+      "title": "Terror Wears No Shoes",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 175
+    },
+    {
+      "title": "The Angry Canary",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 176
+    },
+    {
+      "title": "The Swooning Lady",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 177
+    },
+    {
+      "title": "The Green Master",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 178
+    },
+    {
+      "title": "Return From Cormoral",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 179
+    },
+    {
+      "title": "Up From Earth's Center",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 180
+    },
+    {
+      "title": "The Red Spider",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 181
+    }
+  ]
+}

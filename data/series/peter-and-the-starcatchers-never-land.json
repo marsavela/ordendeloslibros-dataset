@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Peter and the Starcatchers/Never Land",
+  "slug": "peter-and-the-starcatchers-never-land",
+  "source": "https://www.orderofbooks.com/characters/peter-and-the-starcatchers-never-land/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Peter-Never-Land-by-Dave-Barry-Ridley-Pearson.jpg",
+  "books": [
+    {
+      "title": "Peter and the Starcatchers",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Peter and the Shadow Thieves",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Peter and the Secret of Rundoon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Peter and the Sword of Mercy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bridge to Never Land",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

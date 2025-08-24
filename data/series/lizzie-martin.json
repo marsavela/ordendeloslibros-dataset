@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Lizzie Martin",
+  "slug": "lizzie-martin",
+  "source": "https://www.orderofbooks.com/characters/lizzie-martin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Lizzie-Martin-by-Ann-Granger.jpg",
+  "authors": [
+    {
+      "name": "Ann Granger",
+      "slug": "ann-granger"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Rare Interest in Corpses / The Companion",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Mortal Curiosity",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Better Quality of Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Particular Eye for Villainy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Testimony of the Hanged Man",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dead Woman of Deptford",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Murderer's Apprentice",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Truth-Seeker's Wife",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Old Rogue of Limehouse",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

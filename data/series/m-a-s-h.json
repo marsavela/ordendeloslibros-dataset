@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "M*A*S*H",
+  "slug": "m-a-s-h",
+  "source": "https://www.orderofbooks.com/characters/mash/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/MASH.jpg",
+  "authors": [
+    {
+      "name": "Richard Hooker",
+      "slug": "richard-hooker"
+    }
+  ],
+  "books": [
+    {
+      "title": "M*A*S*H",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "M*A*S*H Goes to Maine",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "M*A*S*H Goes to New Orleans",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "M*A*S*H Goes to Paris",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "M*A*S*H Goes to London",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "M*A*S*H Goes to Morocco",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "M*A*S*H Goes to Las Vegas",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "M*A*S*H Goes to Hollywood",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "M*A*S*H Goes to Vienna",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "M*A*S*H Goes to San Francisco",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "M*A*S*H Goes to Miami",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "M*A*S*H Goes to Texas",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "M*A*S*H Goes to Montreal",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "M*A*S*H Goes to Moscow",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "M*A*S*H Mania",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Chinooks Hockey Team",
+  "slug": "chinooks-hockey-team",
+  "source": "https://www.orderofbooks.com/characters/chinooks-hockey-team/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Hockey-Series-by-Rachel-Gibson.jpg",
+  "books": [
+    {
+      "title": "Simply Irresistible",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "See Jane Score",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Trouble with Valentine's Day",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "True Love and Other Disasters",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nothing But Trouble",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Any Man of Mine",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Art of Running in Heels",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

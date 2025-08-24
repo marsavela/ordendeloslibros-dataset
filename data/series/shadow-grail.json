@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Shadow Grail",
+  "slug": "shadow-grail",
+  "source": "https://www.orderofbooks.com/characters/shadow-grail/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Shadow-Grail-by-Mercedes-Lackey-Rosemary-Edghill-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mercedes Lackey",
+      "slug": "mercedes-lackey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Legacies",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Conspiracies",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sacrifices",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Victories",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

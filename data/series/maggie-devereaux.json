@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Maggie Devereaux",
+  "slug": "maggie-devereaux",
+  "source": "https://www.orderofbooks.com/characters/maggie-devereaux/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Maggie-Devereaux-by-Stephen-Penner.jpg",
+  "authors": [
+    {
+      "name": "Stephen Penner",
+      "slug": "stephen-penner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Scottish Rite",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood Rite",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Highland Fling",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Last Rite",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

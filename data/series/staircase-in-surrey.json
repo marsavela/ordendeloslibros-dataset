@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Staircase In Surrey",
+  "slug": "staircase-in-surrey",
+  "source": "https://www.orderofbooks.com/characters/staircase-in-surrey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Staircase-in-Surrey-by-JIM-Stewart-500x200.jpg",
+  "authors": [
+    {
+      "name": "JIM Stewart",
+      "slug": "jim-stewart"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Gaudy",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Young Pattullo",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Memorial Service",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Madonna of The Astrolabe",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Full Term",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

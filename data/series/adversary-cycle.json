@@ -1,0 +1,70 @@
+{
+  "type": "series",
+  "name": "Adversary Cycle",
+  "slug": "adversary-cycle",
+  "source": "https://www.orderofbooks.com/characters/adversary-cycle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Adversary-Cycle-by-F-Paul-Wilson.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Adversary Cycle Books",
+      "books": [
+        {
+          "title": "The Keep",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Tomb",
+          "year": 1984,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Touch",
+          "year": 1986,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Reborn",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Reprisal",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Nightworld",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Signalz",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Soul Seekers",
+  "slug": "soul-seekers",
+  "source": "https://www.orderofbooks.com/characters/soul-seekers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Soul-Seekers-by-Alyson-Noel.jpg",
+  "books": [
+    {
+      "title": "Daire Meets Ever",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fated",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Echo",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mystic",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Horizon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

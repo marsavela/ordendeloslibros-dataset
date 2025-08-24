@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Family D’Alembert",
+  "slug": "family-dalembert",
+  "source": "https://www.orderofbooks.com/characters/family-dalembert/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Family-dAlembert-by-EE-Doc-Smith-500x200.jpg",
+  "authors": [
+    {
+      "name": "Stephen Goldin. Jules",
+      "slug": "stephen-goldin-jules"
+    }
+  ],
+  "books": [
+    {
+      "title": "Imperial Stars, Stranglers' Moons, The Clockwork Traitor, Getaway World",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Imperial Stars",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stranglers' Moon",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Clockwork Traitor",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Getaway World",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Purity Plot",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Appointment at Bloodstar",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Planet of Treachery",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Eclipsing Binaries",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Omicron Invasion",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Revolt of the Galaxy",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

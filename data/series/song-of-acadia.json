@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Song Of Acadia",
+  "slug": "song-of-acadia",
+  "source": "https://www.orderofbooks.com/characters/song-of-acadia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Song-of-Acadia-by-Janette-Oke-T-Davis-Bunn-500x200.jpg",
+  "authors": [
+    {
+      "name": "Janette Oke",
+      "slug": "janette-oke"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Meeting Place",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sacred Shore",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Birthright",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Distant Beacon",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Beloved Land",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

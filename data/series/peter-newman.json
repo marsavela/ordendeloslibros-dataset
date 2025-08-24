@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Peter Newman",
+  "slug": "peter-newman",
+  "source": "https://www.orderofbooks.com/characters/peter-newman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Peter-Newman-by-Oliver-North.jpg",
+  "books": [
+    {
+      "title": "Mission Compromised",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Jericho Sanction",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Assassins",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "After Jihad",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Heroes Proved",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

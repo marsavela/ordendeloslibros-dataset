@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Inspector Pekkala",
+  "slug": "inspector-pekkala",
+  "source": "https://www.orderofbooks.com/characters/inspector-pekkala/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Inspector-Pekkala-by-Sam-Eastland-Paul-Watkins.jpg",
+  "authors": [
+    {
+      "name": "Sam Eastland Paul Watkins",
+      "slug": "sam-eastland-paul-watkins"
+    }
+  ],
+  "books": [
+    {
+      "title": "Eye of the Red Tsar",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Red Coffin / Shadow Pass",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Archive 17 / Siberian Red",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Red Moth",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Beast in the Red Forest",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Red Icon",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Berlin Red",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Emily Kane Adventures",
+  "slug": "emily-kane-adventures",
+  "source": "https://www.orderofbooks.com/characters/emily-kane-adventures/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/04/Emily-Kane-Adventures-by-Jacques-Antoine.jpg",
+  "authors": [
+    {
+      "name": "Jacques Antoine",
+      "slug": "jacques-antoine"
+    }
+  ],
+  "books": [
+    {
+      "title": "Girl Fights Back",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Girl Punches Out",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Girl Takes Up Her Sword",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Girl Spins a Blade / The High Road to the Mountain Gods",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Girl Takes the Oath",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Girl Rides the Wind",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Girl Goes to Wudang",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Girl Stalks the Ruins",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

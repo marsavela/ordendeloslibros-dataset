@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Darkness",
+  "slug": "darkness",
+  "source": "https://www.orderofbooks.com/characters/darkness/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Darkness-by-Harry-Turtledove.jpg",
+  "books": [
+    {
+      "title": "Into the Darkness",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Darkness Descending",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Through the Darkness",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rulers of the Darkness",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Jaws of Darkness",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Out of the Darkness",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

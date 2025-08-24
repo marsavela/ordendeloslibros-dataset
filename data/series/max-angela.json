@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Max & Angela",
+  "slug": "max-angela",
+  "source": "https://www.orderofbooks.com/characters/max-and-angela/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Max-and-Angela-by-Ken-Bruen-Jason-Starr-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ken Bruen",
+      "slug": "ken-bruen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bust",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Slide",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Max",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pimp",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Supermax",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

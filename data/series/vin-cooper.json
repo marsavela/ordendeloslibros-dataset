@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Vin Cooper",
+  "slug": "vin-cooper",
+  "source": "https://www.orderofbooks.com/characters/vin-cooper/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Vin-Cooper-by-David-Rollins.jpg",
+  "authors": [
+    {
+      "name": "David Rollins",
+      "slug": "david-rollins"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Death Trust",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Knife Edge",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hard Rain",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ghost Watch",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "War Lord",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Standoff",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Kingdom Come",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

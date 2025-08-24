@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Wicked Years",
+  "slug": "wicked-years",
+  "source": "https://www.orderofbooks.com/characters/wicked-years/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Wicked-Years-by-Gregory-Maguire.jpg",
+  "books": [
+    {
+      "title": "Wicked",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Son of a Witch",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Lion Among Men",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Out of Oz",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tales Told in Oz",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Elphie",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

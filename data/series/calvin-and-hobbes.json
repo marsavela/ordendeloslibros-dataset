@@ -1,0 +1,153 @@
+{
+  "type": "series",
+  "name": "Calvin And Hobbes",
+  "slug": "calvin-and-hobbes",
+  "source": "https://www.orderofbooks.com/characters/calvin-and-hobbes/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/10/Calvin-and-Hobbes.jpg",
+  "books": [
+    {
+      "title": "Calvin and Hobbes",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Something Under the Bed is Drooling",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Essential Calvin and Hobbes",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Yukon Ho!",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Calvin and Hobbes Lazy Sunday Book",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Authoritative Calvin and Hobbes",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Weirdos from Another Planet!",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Revenge of the Baby-Sat",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Scientific Progress Goes",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Attack of the Deranged Mutant Killer Monster Snow Goons",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Indispensable Calvin and Hobbes",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Days Are Just Packed",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Homicidal Psycho Jungle Cat",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Calvin and Hobbes Tenth Anniversary Book",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "There's Treasure Everywhere",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "It's a Magical World",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Calvin and Hobbes: Sunday Pages, 1985-1995",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Complete Calvin and Hobbes",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Hart: The Regulator",
+  "slug": "hart-the-regulator",
+  "source": "https://www.orderofbooks.com/characters/hart-the-regulator/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Hart-The-Regulator-by-John-B-Harvey.jpg",
+  "books": [
+    {
+      "title": "Cherokee Outlet",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood Trail",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tago",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Silver Lie",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood on the Border",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ride the Wide Country",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Arkansas Breakout",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "John Wesley Hardin",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "California Bloodlines",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Skinning Place",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Written as John B. Harvey.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

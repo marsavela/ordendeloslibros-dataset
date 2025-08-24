@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Janette Oke’s Animal Friends",
+  "slug": "janette-okes-animal-friends",
+  "source": "https://www.orderofbooks.com/characters/janette-okes-animal-friends/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Janette-Okes-Animal-Friends.jpg",
+  "books": [
+    {
+      "title": "Spunky's Diary",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "New Kid in Town",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ducktails",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Impatient Turtle",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Cote of Many Colors",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Prairie Dog Town",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Trouble in a Fur Coat",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "This Little Pig",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Pordy's Prickly Problem",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Spunky's First Christmas",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Prodigal Cat",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Spunky's Camping Adventure",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Maury Had a Little Lamb",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Who's New at the Zoo?",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Spunky's Circus Adventure",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

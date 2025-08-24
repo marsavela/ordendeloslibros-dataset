@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Pirate Hunters",
+  "slug": "pirate-hunters",
+  "source": "https://www.orderofbooks.com/characters/pirate-hunters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Pirate-Hunters-by-Mack-Maloney.jpg",
+  "books": [
+    {
+      "title": "The Pirate Hunters",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Operation Caribe",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Operation Sea Ghost",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

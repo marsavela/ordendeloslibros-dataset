@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Trylle Trilogy",
+  "slug": "trylle-trilogy",
+  "source": "https://www.orderofbooks.com/characters/trylle-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Trylle-Trilogy-by-Amanda-Hocking.jpg",
+  "books": [
+    {
+      "title": "Switched",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Torn",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ascend",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

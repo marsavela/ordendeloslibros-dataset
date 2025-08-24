@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Samuel Craddock",
+  "slug": "samuel-craddock",
+  "source": "https://www.orderofbooks.com/characters/samuel-craddock/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/11/Samuel-Craddock-by-Terry-Shames-500x200.jpg",
+  "authors": [
+    {
+      "name": "Terry Shames",
+      "slug": "terry-shames"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Killing at Cotton Hill",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Last Death of Jack Harbin",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Broke in Jarrett Creek",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Deadly Affair at Bobtail Ridge",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Necessary Murder of Nonie Blake",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "An Unsettling Crime for Samuel Craddock",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Reckoning in the Back Country",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Risky Undertaking for Loretta Singletary",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder at the Jubilee Rally",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Guilt Strikes at Granger's Store",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Troubling Death of Maddy Benson",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Curious Poisoning of Jewel Barnes",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "An Unsettling Crime for Samuel Craddock is a prequel to the series and would be read first chronologically.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

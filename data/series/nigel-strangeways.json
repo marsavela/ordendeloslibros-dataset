@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Nigel Strangeways",
+  "slug": "nigel-strangeways",
+  "source": "https://www.orderofbooks.com/characters/nigel-strangeways/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/Nigel-Strangeways-by-Nicholas-Blake-500x200.jpg",
+  "authors": [
+    {
+      "name": "Nicholas Blake",
+      "slug": "nicholas-blake"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Question of Proof",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thou Shell of Death / Shell of Death",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "There's Trouble Brewing",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Beast Must Die",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Smiler with the Knife",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder with Malice / Malice in Wonderland / The Summer Camp Mystery",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Corpse in the Snowman / The Case of the Abominable Snowman",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Minute for Murder",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Head of a Traveler",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Dreadful Hollow",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Whisper in the Gloom / Catch and Kill",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "End of Chapter",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Widow's Cruise",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Worm of Death",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Sad Variety",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Thou Shell of Death",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Morning After Death",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Whisper in the Gloom",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

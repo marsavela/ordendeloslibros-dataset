@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Sam Holt",
+  "slug": "sam-holt",
+  "source": "https://www.orderofbooks.com/characters/sam-holt/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Sam-Holt-by-Donald-Westlake.jpg",
+  "authors": [
+    {
+      "name": "Samuel Holt",
+      "slug": "samuel-holt"
+    }
+  ],
+  "books": [
+    {
+      "title": "One Of Us Is Wrong",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I Know A Trick Worth Two Of That",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "What I Tell You Three Times Is False",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fourth Dimension Is Death",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

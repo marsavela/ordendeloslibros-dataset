@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Malin Fors",
+  "slug": "malin-fors",
+  "source": "https://www.orderofbooks.com/characters/malin-fors/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Malin-Fors-by-Mons-Kallentoft-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mons Kallentoft",
+      "slug": "mons-kallentoft"
+    }
+  ],
+  "books": [
+    {
+      "title": "Midwinter Sacrifice / Midwinter Blood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Summertime Death / Summer Death",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Autumn Killing",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Savage Spring / Spring Remains",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fifth Season",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Water Angels",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Souls of Air",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Earth Storm",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

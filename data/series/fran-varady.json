@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Fran Varady",
+  "slug": "fran-varady",
+  "source": "https://www.orderofbooks.com/characters/fran-varady/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Fran-Varady-by-Ann-Granger.jpg",
+  "authors": [
+    {
+      "name": "Ann Granger",
+      "slug": "ann-granger"
+    }
+  ],
+  "books": [
+    {
+      "title": "Asking for Trouble",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Keeping Bad Company",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Running Scared",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Risking It All",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Watching Out",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mixing with Murder",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rattling the Bones",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

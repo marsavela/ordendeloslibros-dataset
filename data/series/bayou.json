@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Bayou",
+  "slug": "bayou",
+  "source": "https://www.orderofbooks.com/characters/bayou/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Bayou-Books-by-Stella-Cameron-500x200.jpg",
+  "authors": [
+    {
+      "name": "Stella Cameron",
+      "slug": "stella-cameron"
+    }
+  ],
+  "books": [
+    {
+      "title": "French Quarter",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cold Day in July / Dead End",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kiss Them Goodbye",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Now You See Him",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Grave Mistake",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Body of Evidence",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Marked Man",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Target",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Cold Day in Hell",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Cypress Nights",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

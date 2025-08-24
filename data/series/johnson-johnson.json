@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Johnson Johnson",
+  "slug": "johnson-johnson",
+  "source": "https://www.orderofbooks.com/characters/johnson-johnson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Johnson-Johnson-by-Dorothy-Dunnett.jpg",
+  "books": [
+    {
+      "title": "Dolly and the Singing Bird",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dolly and the Cookie Bird",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dolly and the Doctor Bird",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dolly and the Starry Bird",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dolly and the Nanny Bird",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dolly and the Bird of Paradise",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Moroccan Traffic",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

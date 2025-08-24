@@ -1,0 +1,76 @@
+{
+  "type": "series",
+  "name": "Age Of Dawn",
+  "slug": "age-of-dawn",
+  "source": "https://www.orderofbooks.com/characters/age-of-dawn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/Age-of-Dawn-by-Everet-Martins-500x200.jpg",
+  "authors": [
+    {
+      "name": "Everet Martins",
+      "slug": "everet-martins"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of The Age of Dawn Books",
+      "books": [
+        {
+          "title": "Stormcaller",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Lord of Death",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Silver Tower",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Shadow Realm",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "A New Light",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Ascending Shadows",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Shadow Age",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    }
+  }
+}

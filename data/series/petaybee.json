@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Petaybee",
+  "slug": "petaybee",
+  "source": "https://www.orderofbooks.com/characters/petaybee/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Petaybee-by-Anne-McCaffrey.jpg",
+  "books": [
+    {
+      "title": "Powers That Be",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Power Lines",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Power Play",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Time Quintet",
+  "slug": "time-quintet",
+  "source": "https://www.orderofbooks.com/characters/time-quintet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Time-Quintet-by-Madeleine-LEngle-500x200.jpg",
+  "authors": [
+    {
+      "name": "Madeleine L'Engle",
+      "slug": "madeleine-l-engle"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Wrinkle in Time",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Wind in the Door",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Swiftly Tilting Planet",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Many Waters",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "An Acceptable Time",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Intergalactic P.S. 3",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

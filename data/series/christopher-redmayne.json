@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Christopher Redmayne",
+  "slug": "christopher-redmayne",
+  "source": "https://www.orderofbooks.com/characters/christopher-redmayne/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Christopher-Redmayne-by-Edward-Marston-500x200.jpg",
+  "authors": [
+    {
+      "name": "Edward Marston",
+      "slug": "edward-marston"
+    }
+  ],
+  "books": [
+    {
+      "title": "The King's Evil",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Amorous Nightingale",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Repentant Rake",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Frost Fair",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Parliament House",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Painted Lady",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Videssos",
+  "slug": "videssos",
+  "source": "https://www.orderofbooks.com/characters/videssos/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Videssos-by-Harry-Turtledove.jpg",
+  "books": [
+    {
+      "title": "The Misplaced Legion",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "An Emperor for the Legion",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Legion of Videssos",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Swords of the Legion",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bridge of the Separator",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Grimmtastic Girls",
+  "slug": "grimmtastic-girls",
+  "source": "https://www.orderofbooks.com/characters/grimmtastic-girls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Grimmtastic-Girls-by-Joan-Holub-Suzanne-Williams.jpg",
+  "authors": [
+    {
+      "name": "Joan Holub",
+      "slug": "joan-holub"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cinderella Stays Late",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Red Riding Hood Gets Lost",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Snow White Lucks Out",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rapunzel Cuts Loose",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sleeping Beauty Dreams Big",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Goldilocks Breaks In",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Snowflake Freezes Up",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Gretel Pushes Back",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

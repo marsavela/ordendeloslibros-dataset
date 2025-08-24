@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Selena Alvarez/Regan Pescoli",
+  "slug": "selena-alvarez-regan-pescoli",
+  "source": "https://www.orderofbooks.com/characters/selena-alvarez-regan-pescoli/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Selena-Alvarez-Regan-Pescoli-by-Lisa-Jackson.jpg",
+  "books": [
+    {
+      "title": "Left to Die",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Chosen to Die",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Born to Die",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Afraid to Die",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ready to Die",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deserves to Die",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Expecting to Die",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Willing to Die",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Shetland Island",
+  "slug": "shetland-island",
+  "source": "https://www.orderofbooks.com/characters/shetland-island/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Shetland-Island-by-Ann-Cleeves.jpg",
+  "authors": [
+    {
+      "name": "Ann Cleeves",
+      "slug": "ann-cleeves"
+    }
+  ],
+  "books": [
+    {
+      "title": "Raven Black",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "White Nights",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Red Bones",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blue Lightning",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead Water",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Thin Air",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Too Good To Be True",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Cold Earth",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wild Fire",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

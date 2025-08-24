@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Shadows",
+  "slug": "shadows",
+  "source": "https://www.orderofbooks.com/characters/shadows/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Shadows-by-Linda-Hall.jpg",
+  "books": [
+    {
+      "title": "Shadows in the Mirror",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shadows at the Window",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shadows on the River",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

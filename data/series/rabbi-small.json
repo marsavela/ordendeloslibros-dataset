@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Rabbi Small",
+  "slug": "rabbi-small",
+  "source": "https://www.orderofbooks.com/characters/rabbi-small/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Rabbi-Small-by-Harry-Kemelman.jpg",
+  "authors": [
+    {
+      "name": "Harry Kemelman",
+      "slug": "harry-kemelman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Friday the Rabbi Slept Late",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Saturday the Rabbi Went Hungry",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sunday the Rabbi Stayed Home",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Monday the Rabbi Took Off",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tuesday the Rabbi Saw Red",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wednesday the Rabbi Got Wet",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Thursday the Rabbi Walked Out",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Conversations with Rabbi Small",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Someday the Rabbi Will Leave",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "One Fine Day the Rabbi Bought a Cross",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Day the Rabbi Resigned",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "That Day the Rabbi Left Town",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Belisarius",
+  "slug": "belisarius",
+  "source": "https://www.orderofbooks.com/characters/belisarius/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Belisarius-by-David-Drake-and-Eric-Flint.jpg",
+  "books": [
+    {
+      "title": "An Oblique Approach",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In the Heart of Darkness",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Destiny's Shield",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fortune's Stroke",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Tide of Victory",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dance of Time",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

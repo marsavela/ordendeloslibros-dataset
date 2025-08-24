@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Sean King/Michelle Maxwell",
+  "slug": "sean-king-michelle-maxwell",
+  "source": "https://www.orderofbooks.com/characters/sean-king-michelle-maxwell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Sean-King-Michelle-Maxwell-by-David-Baldacci.jpg",
+  "books": [
+    {
+      "title": "Split Second",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hour Game",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Simple Genius",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "First Family",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Sixth Man",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "King and Maxwell",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "DS Jack MacKinnon",
+  "slug": "ds-jack-mackinnon",
+  "source": "https://www.orderofbooks.com/characters/ds-jack-mackinnon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/11/dsjackmckinnon-500x200.jpg",
+  "authors": [
+    {
+      "name": "DS Jack MacKinnon.",
+      "slug": "ds-jack-mackinnon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Deadly Obsession",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deadly Motive",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deadly Revenge",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deadly Justice",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deadly Ritual",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deadly Payback",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deadly Game",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Deadly Intent",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

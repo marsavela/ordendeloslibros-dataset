@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Nightshade",
+  "slug": "nightshade",
+  "source": "https://www.orderofbooks.com/characters/nightshade/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Nightshade-by-Andrea-Cremer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Andrea Cremer",
+      "slug": "andrea-cremer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nightshade",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wolfsbane",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Treachery",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bloodrose",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Aftermath",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Shadow Days",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Snakeroot",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

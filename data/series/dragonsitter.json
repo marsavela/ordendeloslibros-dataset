@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Dragonsitter",
+  "slug": "dragonsitter",
+  "source": "https://www.orderofbooks.com/characters/dragonsitter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Dragonsitter-by-Josh-Lacey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Josh Lacey",
+      "slug": "josh-lacey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dragonsitter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dragonsitter Takes Off",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dragonsitter's Castle",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Dragonsitter's Island",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dragonsitter's Party",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dragonsitter to the Rescue",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Trick or Treat?",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Dragonsitter Detective",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Dragonsitter's Surprise",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Dragonsitter in the Land of the Dragons",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

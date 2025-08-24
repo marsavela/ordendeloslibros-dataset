@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Benny Imura",
+  "slug": "benny-imura",
+  "source": "https://www.orderofbooks.com/characters/benny-imura/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Benny-Imura-by-Jonathan-Maberry-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jonathan Maberry",
+      "slug": "jonathan-maberry"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rot & Ruin",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In The Land Of The Dead",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dust & Decay",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "First Night Memories",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Flesh & Bone",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fire & Ash",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bits & Pieces",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

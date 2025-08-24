@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Shadow Realm",
+  "slug": "shadow-realm",
+  "source": "https://www.orderofbooks.com/characters/shadow-realm/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Shadow-Realm-by-Vanessa-Gray-Bartal-500x200.jpg",
+  "authors": [
+    {
+      "name": "Vanessa Gray Bartal",
+      "slug": "vanessa-gray-bartal"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Shadow Grasper",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Shadow Talker",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Shadow Seeker",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Shadow Lifter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

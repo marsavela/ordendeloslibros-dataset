@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Big Stone Gap",
+  "slug": "big-stone-gap",
+  "source": "https://www.orderofbooks.com/characters/big-stone-gap/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Big-Stone-Gap-by-Adriana-Trigiani.jpg",
+  "books": [
+    {
+      "title": "Big Stone Gap",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Big Cherry Holler",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Milk Glass Moon",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Home to Big Stone Gap",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

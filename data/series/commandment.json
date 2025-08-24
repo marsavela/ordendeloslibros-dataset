@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Commandment",
+  "slug": "commandment",
+  "source": "https://www.orderofbooks.com/characters/commandment/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Commandment-Series-by-Lawrence-Sanders.jpg",
+  "books": [
+    {
+      "title": "The Sixth Commandment",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tenth Commandment",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Eighth Commandment",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Seventh Commandment",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

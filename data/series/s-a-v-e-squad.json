@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "S.A.V.E. Squad",
+  "slug": "s-a-v-e-squad",
+  "source": "https://www.orderofbooks.com/characters/save-squad/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/SAVE-Squad-by-Lauraine-Snelling-and-Kathleen-Damp-Wright-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lauraine Snelling",
+      "slug": "lauraine-snelling"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dog Daze",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Great Cat Caper",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Secondhand Horses",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Ordinary Owl",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

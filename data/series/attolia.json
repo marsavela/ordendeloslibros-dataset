@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Attolia",
+  "slug": "attolia",
+  "source": "https://www.orderofbooks.com/characters/attolia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Attolia-by-Megan-Whalen-Turner.jpg",
+  "books": [
+    {
+      "title": "The Thief",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Queen of Attolia",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The King of Attolia",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Conspiracy of Kings",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Thick as Thieves",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Return of the Thief",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Moira's Pen: A Queen's Thief Collection",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

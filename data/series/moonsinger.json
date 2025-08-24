@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Moonsinger",
+  "slug": "moonsinger",
+  "source": "https://www.orderofbooks.com/characters/moonsinger/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Moonsinger-by-Andre-Norton.jpg",
+  "books": [
+    {
+      "title": "Moon of Three Rings",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Exiles of the Stars",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flight in Yiktor",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dare to Go A-Hunting",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Brother to Shadows",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Dragonrealm",
+  "slug": "dragonrealm",
+  "source": "https://www.orderofbooks.com/characters/dragonrealm/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Dragonrealm-by-Richard-A-Knaak-500x200.jpg",
+  "books": [
+    {
+      "title": "Firedrake",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ice Dragon",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wolfhelm",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadow Steed",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Crystal Dragon",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dragon Crown",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Horse King",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

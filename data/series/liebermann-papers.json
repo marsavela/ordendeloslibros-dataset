@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Liebermann Papers",
+  "slug": "liebermann-papers",
+  "source": "https://www.orderofbooks.com/characters/liebermann-papers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/08/Liebermann-Papers-by-Frank-Tallis.jpg",
+  "books": [
+    {
+      "title": "A Death in Vienna / Mortal Mischief",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Vienna Blood",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fatal Lies",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darkness Rising / Vienna Secrets",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Vienna Twilight / Deadly Communion",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death and the Maiden",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Melancholy Countess",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Mephisto Waltz",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

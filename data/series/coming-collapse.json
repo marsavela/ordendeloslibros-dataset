@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Coming Collapse",
+  "slug": "coming-collapse",
+  "source": "https://www.orderofbooks.com/characters/coming-collapse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Coming-Collapse-by-James-Wesley-Rawles.jpg",
+  "authors": [
+    {
+      "name": "James Wesley Rawles",
+      "slug": "james-wesley-rawles"
+    }
+  ],
+  "books": [
+    {
+      "title": "Patriots",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Survivors",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Founders",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Expatriates",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Liberators",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

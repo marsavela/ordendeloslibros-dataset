@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Hood Rat",
+  "slug": "hood-rat",
+  "source": "https://www.orderofbooks.com/characters/hood-rat/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Hood-Rat-by-Kwan-Foye.jpg",
+  "books": [
+    {
+      "title": "Hood Rat",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Still Hood",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Section 8",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Welfare Wifeys",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Eviction Notice",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The First & Fifteenth",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "No Shade",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Outlaws & Disorder",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

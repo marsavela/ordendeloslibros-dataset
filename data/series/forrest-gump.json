@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Forrest Gump",
+  "slug": "forrest-gump",
+  "source": "https://www.orderofbooks.com/characters/forrest-gump/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Forrest-Gump-by-Winston-Groom.jpg",
+  "books": [
+    {
+      "title": "Forrest Gump",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gump & Co.",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

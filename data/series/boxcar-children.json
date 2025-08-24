@@ -1,0 +1,1127 @@
+{
+  "type": "series",
+  "name": "Boxcar Children",
+  "slug": "boxcar-children",
+  "source": "https://www.orderofbooks.com/characters/boxcar-children/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Boxcar-Children-by-Gertrude-Chandler-Warner-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gertrude Chandler Warner",
+      "slug": "gertrude-chandler-warner"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Boxcar Children",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Movie Star Mystery",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Surprise Island",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Yellow House Mystery",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mystery Ranch",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mike's Mystery",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blue Bay Mystery",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Woodshed Mystery",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Lighthouse Mystery",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mountain Top Mystery",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Schoolhouse Mystery",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Caboose Mystery",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Houseboat Mystery",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Snowbound Mystery",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Tree House Mystery",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Bicycle Mystery",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Mystery in the Sand",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Mystery Behind the Wall",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Bus Station Mystery",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Benny Uncovers a Mystery",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Animal Shelter Mystery",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Haunted Cabin Mystery",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Deserted Library Mystery",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Old Motel Mystery",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Disappearing Friend Mystery",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Mystery Girl",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Mystery of the Singing Ghost",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Mystery of the Hidden Painting",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Amusement Park Mystery",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Mystery of the Mixed-Up Zoo",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Camp-Out Mystery",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Mystery Cruise",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Mystery in the Snow",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Castle Mystery",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Pizza Mystery",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Mystery Horse",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Mystery at the Dog Show",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Mystery of the Lost Village",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Canoe Trip Mystery",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Mystery of the Purple Pool",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Ghost Ship Mystery",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Mystery of the Hidden Beach",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "The Mystery of the Missing Cat",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The Mystery on Stage",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "The Dinosaur Mystery",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Mystery of the Stolen Music",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "The Chocolate Sundae Mystery",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "The Mystery of the Hot Air Balloon",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Mystery Bookstore",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "The Mystery of the Stolen Boxcar",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "The Mystery in the Cave",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "The Mystery of the Lost Mine",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "The Mystery of the Secret Message",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "The Mystery on the Train",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "The Guide Dog Mystery",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "The Hurricane Mystery",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Boxcar Children Bookshelf",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "The Mystery in San Francisco",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "The Outer Space Mystery",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "The Mystery at the Alamo",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "The Firehouse Mystery",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "The Soccer Mystery",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "The Growling Bear Mystery",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "The Cereal Box Mystery",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "The Mystery at Peacock Hall",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "The Panther Mystery",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "The Black Pearl Mystery",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "The Mystery of the Lake Monster",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "The Mystery of the Stolen Sword",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "The Mystery in the Mall",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "The Basketball Mystery",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "The Gymnastics Mystery",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "The Mystery of the Pirate's Map",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "The Ghost Town Mystery",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "The Mystery of the Wild Ponies",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "The Mystery of the Empty Safe",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "The Mystery at the Crooked House",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "The Poison Frog Mystery",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "The Great Bicycle Race Mystery",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "The Mystery in the Computer Game",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "The Hockey Mystery",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "The Copycat Mystery",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "The Mystery of the Midnight Dog",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "The Summer Camp Mystery",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "The Haunted Clock Tower Mystery",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "The Disappearing Staircase Mystery",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "The Mystery of the Mummy's Curse",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "The Stuffed Bear Mystery",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "The Mystery of the Spider's Clue",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "The Mystery on Blizzard Mountain",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "The Mystery of the Star Ruby",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "The Mystery at Skeleton Point",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "Mystery of the Fortune Cookie",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    },
+    {
+      "title": "The Midnight Mystery",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 94
+    },
+    {
+      "title": "The Ice Cream Mystery",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 95
+    },
+    {
+      "title": "The Tattletale Mystery",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 96
+    },
+    {
+      "title": "The Comic Book Mystery",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 97
+    },
+    {
+      "title": "The Radio Mystery",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 98
+    },
+    {
+      "title": "The Clue In The Corn Maze",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 99
+    },
+    {
+      "title": "The Mystery Of The Haunted Boxcar",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 100
+    },
+    {
+      "title": "The Mystery of the Runaway Ghost",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 101
+    },
+    {
+      "title": "The Finders Keepers Mystery",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 102
+    },
+    {
+      "title": "The Ghost Of The Chattering Bones",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 103
+    },
+    {
+      "title": "The Sword of the Silver Knight",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 104
+    },
+    {
+      "title": "The Game Store Mystery",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 105
+    },
+    {
+      "title": "The Mystery of the Orphan Train",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 106
+    },
+    {
+      "title": "The Giant Yo-yo Mystery",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 107
+    },
+    {
+      "title": "The Creature in Ogopogo Lake",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 108
+    },
+    {
+      "title": "The Vanishing Passenger",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 109
+    },
+    {
+      "title": "The Rock 'n' Roll Mystery",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 110
+    },
+    {
+      "title": "The Secret of the Mask",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 111
+    },
+    {
+      "title": "The Ghost in the First Row",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 112
+    },
+    {
+      "title": "The Seattle Puzzle",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 113
+    },
+    {
+      "title": "The Box That Watch Found",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 114
+    },
+    {
+      "title": "The Great Detective Race",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 115
+    },
+    {
+      "title": "A Horse Named Dragon",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 116
+    },
+    {
+      "title": "The Ghost At The Drive-In Movie",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 117
+    },
+    {
+      "title": "The Mystery Of The Traveling Tomatoes",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 118
+    },
+    {
+      "title": "The Boxcar Children Mysteries Dog Lovers' Special",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 119
+    },
+    {
+      "title": "Superstar Watch",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 120
+    },
+    {
+      "title": "The Spy Game",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 121
+    },
+    {
+      "title": "The Dog-gone Mystery",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 122
+    },
+    {
+      "title": "The Vampire Mystery",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 123
+    },
+    {
+      "title": "The Spy in the Bleachers",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 124
+    },
+    {
+      "title": "The Amazing Mystery Show",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 125
+    },
+    {
+      "title": "The Pumpkin Head Mystery",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 126
+    },
+    {
+      "title": "The Cupcake Caper",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 127
+    },
+    {
+      "title": "The Clue in the Recycling Bin",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 128
+    },
+    {
+      "title": "The Great Turkey Heist",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 129
+    },
+    {
+      "title": "The Zombie Project",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 130
+    },
+    {
+      "title": "The Mystery of the Soccer Snitch",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 131
+    },
+    {
+      "title": "The Mystery of the Stolen Dinosaur Bones",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 132
+    },
+    {
+      "title": "The Legend of the Irish Castle",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 133
+    },
+    {
+      "title": "The Election Day Dilemma",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 134
+    },
+    {
+      "title": "The Sea Turtle Mystery",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 135
+    },
+    {
+      "title": "Mystery at Camp Survival",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 136
+    },
+    {
+      "title": "The Skeleton Key Mystery",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 137
+    },
+    {
+      "title": "Trouble on the Wild West Express",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 138
+    },
+    {
+      "title": "The Raptor Rescue",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 139
+    }
+  ]
+}

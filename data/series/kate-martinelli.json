@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Kate Martinelli",
+  "slug": "kate-martinelli",
+  "source": "https://www.orderofbooks.com/characters/kate-martinelli/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Kate-Martinelli-by-Laurie-R-King.jpg",
+  "books": [
+    {
+      "title": "A Grave Talent",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "To Play the Fool",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "With Child",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Night Work",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Art of Detection",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Beginnings",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

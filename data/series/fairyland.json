@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Fairyland",
+  "slug": "fairyland",
+  "source": "https://www.orderofbooks.com/characters/fairyland/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Fairyland-by-Catherynne-M-Valente-500x200.jpg",
+  "books": [
+    {
+      "title": "The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Girl Who Ruled Fairyland - For a Little While",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Girl Who Fell Beneath Fairyland and Led the Revels There",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Girl Who Soared Over Fairyland and Cut the Moon in Two",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Boy Who Lost Fairyland",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Girl Who Raced Fairyland All the Way Home",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Beasts Who Fought for Fairyland Until the Very End and Further Still",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

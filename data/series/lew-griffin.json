@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Lew Griffin",
+  "slug": "lew-griffin",
+  "source": "https://www.orderofbooks.com/characters/lew-griffin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/02/lew-griffin.jpg",
+  "authors": [
+    {
+      "name": "Raymond Chandler",
+      "slug": "raymond-chandler"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Long-Legged Fly",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Moth",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Black Hornet",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eye of the Cricket",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bluebottle",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ghost of a Flea",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

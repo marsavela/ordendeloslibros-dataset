@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Shadow Campaigns",
+  "slug": "shadow-campaigns",
+  "source": "https://www.orderofbooks.com/characters/shadow-campaigns/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Shadow-Campaigns-by-Django-Wexler-500x200.jpg",
+  "authors": [
+    {
+      "name": "Django Wexler",
+      "slug": "django-wexler"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Penitent Damned",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Thousand Names",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Shadow Throne",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Shadow of Elysium",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Price of Valor",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Guns of Empire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Infernal Battalion",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

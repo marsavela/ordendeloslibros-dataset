@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Elizabethan Theater",
+  "slug": "elizabethan-theater",
+  "source": "https://www.orderofbooks.com/characters/elizabethan-theater/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Elizabethan-Theater-Nicholas-Bracewell-by-Edward-Marston-500x200.jpg",
+  "authors": [
+    {
+      "name": "Edward Marston",
+      "slug": "edward-marston"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Queen's Head",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Merry Devils",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Trip to Jerusalem",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Nine Giants",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mad Courtesan",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Silent Woman",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Roaring Boy",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Laughing Hangman",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Fair Maid of Bohemia",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Wanton Angel",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Devil's Apprentice",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Bawdy Basket",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Vagabond Clown",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Counterfeit Crank",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Malevolent Comedy",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Princess of Denmark",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

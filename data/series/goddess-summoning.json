@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Goddess Summoning",
+  "slug": "goddess-summoning",
+  "source": "https://www.orderofbooks.com/characters/goddess-summoning/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Goddess-Summoning-by-PC-Cast.jpg",
+  "books": [
+    {
+      "title": "Goddess of the Sea",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Goddess of Spring",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Goddess of Light",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Goddess of the Rose",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Goddess of Love",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Goddess of Troy / Warrior Rising",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Goddess of Legend",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

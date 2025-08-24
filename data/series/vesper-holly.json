@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Vesper Holly",
+  "slug": "vesper-holly",
+  "source": "https://www.orderofbooks.com/characters/vesper-holly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Vesper-Holly-by-Lloyd-Alexander-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lloyd Alexander",
+      "slug": "lloyd-alexander"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Illyrian Adventure",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The El Dorado Adventure",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Drackenberg Adventure",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Jedera Adventure",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Philadelphia Adventure",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Xanadu Adventure",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Second Circle Tattoos",
+  "slug": "second-circle-tattoos",
+  "source": "https://www.orderofbooks.com/characters/second-circle-tattoos/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/03/Second-Circle-Tattoos-by-Scarlett-Cole.jpg",
+  "books": [
+    {
+      "title": "The Strongest Steel",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fractured Heart",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Purest Hook",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Darkest Link",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Greatest Risk",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Sweetest Gift",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

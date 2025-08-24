@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Death Gate",
+  "slug": "death-gate",
+  "source": "https://www.orderofbooks.com/characters/death-gate/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Death-Gate-Cycle-by-Margaret-Weis-and-Tracy-Hickman.jpg",
+  "authors": [
+    {
+      "name": "Margaret Weis",
+      "slug": "margaret-weis"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dragon Wing",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Elven Star",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire Sea",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Serpent Mage",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Hand of Chaos",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Into the Labyrinth",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Seventh Gate",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

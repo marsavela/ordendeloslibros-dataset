@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Stevens & Windermere",
+  "slug": "stevens-windermere",
+  "source": "https://www.orderofbooks.com/characters/stevens-and-windermere/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Stevens-and-Windermere-by-Owen-Laukkanen.jpg",
+  "authors": [
+    {
+      "name": "Owen Laukkanen",
+      "slug": "owen-laukkanen"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Professionals",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Criminal Enterprise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kill Fee",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Stolen Ones",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Watcher in the Wall",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Forgotten Girls",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

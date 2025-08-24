@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Harper Connelly",
+  "slug": "harper-connelly",
+  "source": "https://www.orderofbooks.com/characters/harper-connelly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/10/Harper-Connelly.jpg",
+  "books": [
+    {
+      "title": "Grave Sight",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Grave Surprise",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Ice Cold Grave",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Grave Secret",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

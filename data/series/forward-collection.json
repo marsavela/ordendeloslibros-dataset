@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Forward Collection",
+  "slug": "forward-collection",
+  "source": "https://www.orderofbooks.com/characters/forward-collection/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/09/forward-collection-500x200.jpg",
+  "authors": [
+    {
+      "name": "Blake Crouch",
+      "slug": "blake-crouch"
+    }
+  ],
+  "books": [
+    {
+      "title": "Randomize (By: Andy Weir)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Summer Frost (By: Blake Crouch)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ark (By:Veronica Roth)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "You Have Arrived at Your Destination (By: Amor Towles)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Emergency Skin (By: N.K. Jemisin)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Last Conversation (By: Paul Tremblay)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

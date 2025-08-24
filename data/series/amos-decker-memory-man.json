@@ -1,0 +1,70 @@
+{
+  "type": "series",
+  "name": "Amos Decker / Memory Man",
+  "slug": "amos-decker-memory-man",
+  "source": "https://www.orderofbooks.com/characters/amos-decker-memory-man/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/05/memory-man.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amos Decker Books",
+      "books": [
+        {
+          "title": "Memory Man",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Last Mile",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Fix",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Fallen",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Redemption",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Walk the Wire",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Long Shadows",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Sleeping Beauty Stories",
+  "slug": "sleeping-beauty-stories",
+  "source": "https://www.orderofbooks.com/characters/sleeping-beauty-stories/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Sleeping-Beauty-Stories-by-AN-Roquelaure-Anne-Rice-500x200.jpg",
+  "authors": [
+    {
+      "name": "AN Roquelaure Anne Rice",
+      "slug": "an-roquelaure-anne-rice"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Claiming of Sleeping Beauty",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Beauty's Punishment",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beauty's Release",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Beauty's Kingdom",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

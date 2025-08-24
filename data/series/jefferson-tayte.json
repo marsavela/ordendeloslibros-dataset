@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Jefferson Tayte",
+  "slug": "jefferson-tayte",
+  "source": "https://www.orderofbooks.com/characters/jefferson-tayte/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Jefferson-Tayte-by-Steve-Robinson.jpg",
+  "authors": [
+    {
+      "name": "Steve Robinson",
+      "slug": "steve-robinson"
+    }
+  ],
+  "books": [
+    {
+      "title": "In the Blood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "To The Grave",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Last Queen of England",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lost Empress",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Kindred",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dying Games",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Letters from the Dead",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Girl in the Painting",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

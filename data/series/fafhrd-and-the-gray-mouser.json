@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Fafhrd and The Gray Mouser",
+  "slug": "fafhrd-and-the-gray-mouser",
+  "source": "https://www.orderofbooks.com/characters/fafhrd-and-the-gray-mouser/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Fafhrd-and-Gray-Mouser-by-FRitz-LEiber.jpg",
+  "books": [
+    {
+      "title": "The Swords of Lankhmar",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Swords in the Mist",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Swords Against Wizardry",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Swords Against Death",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Swords and Deviltry",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Swords and Ice Magic",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Knight and Knave of Swords",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Swords Against the Shadowlands",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

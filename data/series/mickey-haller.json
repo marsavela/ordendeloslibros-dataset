@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Mickey Haller",
+  "slug": "mickey-haller",
+  "source": "https://www.orderofbooks.com/characters/mickey-haller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/michey-haller.jpg",
+  "books": [
+    {
+      "title": "The Lincoln Lawyer",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Brass Verdict",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Reversal",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fifth Witness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Gods of Guilt",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Law of Innocence",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Resurrection Walk",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Proving Ground",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

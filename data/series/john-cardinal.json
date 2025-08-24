@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "John Cardinal",
+  "slug": "john-cardinal",
+  "source": "https://www.orderofbooks.com/characters/john-cardinal/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/John-Cardinal-by-Giles-Blunt-500x200.jpg",
+  "authors": [
+    {
+      "name": "Giles Blunt",
+      "slug": "giles-blunt"
+    }
+  ],
+  "books": [
+    {
+      "title": "Forty Words for Sorrow",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Delicate Storm",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Black Fly Season",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "By the Time You Read This / The Fields of Grief",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Crime Machine",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Until the Night",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

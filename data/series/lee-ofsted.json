@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Lee Ofsted",
+  "slug": "lee-ofsted",
+  "source": "https://www.orderofbooks.com/characters/lee-ofsted/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Lee-Ofsted-by-Charlotte-and-Aaron-Elkins.jpg",
+  "books": [
+    {
+      "title": "A Wicked Slice",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rotten Lies",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nasty Breaks",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Where Have All the Birdies Gone?",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "On the Fringe",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

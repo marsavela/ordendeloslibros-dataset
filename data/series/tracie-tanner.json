@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Tracie Tanner",
+  "slug": "tracie-tanner",
+  "source": "https://www.orderofbooks.com/characters/tracie-tanner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/tracie-tanner-500x200.jpg",
+  "authors": [
+    {
+      "name": "Allan Leverone",
+      "slug": "allan-leverone"
+    }
+  ],
+  "books": [
+    {
+      "title": "Parallax View",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "All Enemies",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Omega Connection",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hitler Deception",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Kremlyov Infection",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bashkir Extraction",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Soviet Assassin",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Nuclear Option",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Objekt 825",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "MacKenzie-Blackthorn",
+  "slug": "mackenzie-blackthorn",
+  "source": "https://www.orderofbooks.com/characters/mackenzie-blackthorn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/MacKenzie-Blackthorn-by-Elizabeth-Lowell.jpg",
+  "books": [
+    {
+      "title": "Reckless Love",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fire and Rain",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Outlaw",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Granite Man",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Warrior",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

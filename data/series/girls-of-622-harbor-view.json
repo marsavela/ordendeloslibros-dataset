@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Girls Of 622 Harbor View",
+  "slug": "girls-of-622-harbor-view",
+  "source": "https://www.orderofbooks.com/characters/girls-of-622-harbor-view/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Girls-of-622-Harbor-View-by-Melody-Carlson.jpg",
+  "authors": [
+    {
+      "name": "Melody Carlson",
+      "slug": "melody-carlson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Project: Girl Power",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Project: Mystery Bus",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Project: Rescue Chelsea",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Project: Take Charge",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Project: Raising Faith",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Project: Run Away",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Project: Ski Trap",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Project: Secret Admirer",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

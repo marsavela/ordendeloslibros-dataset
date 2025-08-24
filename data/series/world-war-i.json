@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "World War I",
+  "slug": "world-war-i",
+  "source": "https://www.orderofbooks.com/characters/world-war-i/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/World-War-One-by-Anne-Perry.jpg",
+  "books": [
+    {
+      "title": "No Graves As Yet",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shoulder the Sky",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Angels in the Gloom",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "At Some Disputed Barricade",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "We Shall Not Sleep",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

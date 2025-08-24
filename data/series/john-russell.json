@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "John Russell",
+  "slug": "john-russell",
+  "source": "https://www.orderofbooks.com/characters/john-russell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/John-Russell-by-David-Downing-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Downing",
+      "slug": "david-downing"
+    }
+  ],
+  "books": [
+    {
+      "title": "Zoo Station",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Silesian Station",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stettin Station",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Potsdam Station",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lehrter Station",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Masaryk Station",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wedding Station",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Union Station",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wedding Station is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

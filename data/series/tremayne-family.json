@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Tremayne Family",
+  "slug": "tremayne-family",
+  "source": "https://www.orderofbooks.com/characters/tremayne-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Tremayne-Family-Romance-by-Anna-J-Stewart-500x200.jpg",
+  "books": [
+    {
+      "title": "Asking for Trouble / Nemesis in the Night",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Here Comes Trouble / Nemesis on the Prowl",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Trouble with Nathan/Nemesis in Disguise",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

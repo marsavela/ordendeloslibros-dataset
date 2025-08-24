@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Charlie Muffin",
+  "slug": "charlie-muffin",
+  "source": "https://www.orderofbooks.com/characters/charlie-muffin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Charlie-Muffin-by-Brian-Freemantle-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brian Freemantle",
+      "slug": "brian-freemantle"
+    }
+  ],
+  "books": [
+    {
+      "title": "Charlie Muffin / Charlie M",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Clap Hands, Here Comes Charlie / Here Comes Charlie M",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Inscrutable Charlie Muffin",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Charlie Muffin's Uncle Sam / Charlie Muffin U.S.A.",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Madrigal For Charlie Muffin",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Charlie Muffin and Russian Rose / The Blind Run",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Charlie Muffin San / See Charlie Run",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Run Around",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Comrade Charlie",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Charlie's Apprentice",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Charlie's Chance / Bomb Grade",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Dead Men Living",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Kings of Many Castles",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Red Star Rising",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Red Star Burning",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Red Star Falling",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

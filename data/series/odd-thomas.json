@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Odd Thomas",
+  "slug": "odd-thomas",
+  "source": "https://www.orderofbooks.com/characters/odd-thomas/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Odd-Thomas.jpg",
+  "authors": [
+    {
+      "name": "Fred Van Lente. House",
+      "slug": "fred-van-lente-house"
+    }
+  ],
+  "books": [
+    {
+      "title": "Odd Thomas",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Forever Odd",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Brother Odd",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Odd Hours",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Odd Interlude",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Odd Apocalypse",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deeply Odd",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "You Are Destined To Be Together Forever",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Saint Odd",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

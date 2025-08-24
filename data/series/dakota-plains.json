@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Dakota Plains",
+  "slug": "dakota-plains",
+  "source": "https://www.orderofbooks.com/characters/dakota-plains/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Dakota-Plains-by-Lauraine-Snelling-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lauraine Snelling",
+      "slug": "lauraine-snelling"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dakota Dream",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dakota Dusk",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dakota December",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dakota Dawn",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dakota",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dakota Destiny",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chronological Order of Dakota Plains Books When reading in chronological order, the novel Dakota Dawn should be read first, before Dakota Dream .",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

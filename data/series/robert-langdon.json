@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Robert Langdon",
+  "slug": "robert-langdon",
+  "source": "https://www.orderofbooks.com/characters/robert-langdon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/Tom-Hanks-as-Robert-Langdon.jpg",
+  "books": [
+    {
+      "title": "Angels & Demons",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Da Vinci Code",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Lost Symbol",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Inferno",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Origin",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Secret of Secrets",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

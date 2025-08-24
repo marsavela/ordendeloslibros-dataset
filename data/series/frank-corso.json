@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Frank Corso",
+  "slug": "frank-corso",
+  "source": "https://www.orderofbooks.com/characters/frank-corso/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Frank-Corso-by-GM-Ford.jpg",
+  "books": [
+    {
+      "title": "Fury",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Black River",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Blind Eye",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Red Tide",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "No Man's Land",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blown Away",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

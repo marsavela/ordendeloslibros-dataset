@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Phule’s Company",
+  "slug": "phules-company",
+  "source": "https://www.orderofbooks.com/characters/phules-company/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Phules-Company-by-Robert-Asprin.jpg",
+  "authors": [
+    {
+      "name": "Robert Asprin",
+      "slug": "robert-asprin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Phule's Company",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Phule's Paradise",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Phule and His Money",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Phule Me Twice",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "No Phule Like an Old Phule",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Phule's Errand",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Track",
+  "slug": "track",
+  "source": "https://www.orderofbooks.com/characters/track/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Track-by-Jerry-Ahern-and-Patrick-Andrews.jpg",
+  "authors": [
+    {
+      "name": "Jerry Ahern",
+      "slug": "jerry-ahern"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Ninety-Nine",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Atrocity",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Armageddon Conspiracy",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hard Way",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Origin of a Vendetta",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Certain Blood",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Master of D.E.A.T.H.",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Revenge of the Master",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The D.E.A.T.H. Hunters",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Cocaine Run",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

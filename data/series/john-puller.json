@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "John Puller",
+  "slug": "john-puller",
+  "source": "https://www.orderofbooks.com/characters/john-puller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/12/john-puller.jpg",
+  "books": [
+    {
+      "title": "Zero Day",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Forgotten",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Escape",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Man's Land",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

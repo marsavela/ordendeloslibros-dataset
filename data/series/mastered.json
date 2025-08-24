@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Mastered",
+  "slug": "mastered",
+  "source": "https://www.orderofbooks.com/characters/mastered/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Mastered-by-Lorelei-James.jpg",
+  "authors": [
+    {
+      "name": "Lorelei James",
+      "slug": "lorelei-james"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bound",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Unwound",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Schooled",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Unraveled",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Caged",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

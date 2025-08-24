@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Wild Riders",
+  "slug": "wild-riders",
+  "source": "https://www.orderofbooks.com/characters/wild-riders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Wild-Riders-by-Jaci-Burton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jaci Burton",
+      "slug": "jaci-burton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Riding Wild",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Riding Temptation",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Riding on Instinct",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Riding the Night",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nautier and Wilder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Riding the Edge",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Riding to Sunset",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

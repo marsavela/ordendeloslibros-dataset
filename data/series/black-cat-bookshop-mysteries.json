@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Black Cat Bookshop Mysteries",
+  "slug": "black-cat-bookshop-mysteries",
+  "source": "https://www.orderofbooks.com/characters/black-cat-bookshop-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Black-Cat-Bookshop-Mysteries-by-Ali-Brandon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ali Brandon",
+      "slug": "ali-brandon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Double-Booked for Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Novel Way to Die",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Words With Fiends",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Literally Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Plot Boiler",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Twice Told Tail",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

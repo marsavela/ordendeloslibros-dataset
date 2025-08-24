@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Ricky Ricotta",
+  "slug": "ricky-ricotta",
+  "source": "https://www.orderofbooks.com/characters/ricky-ricotta/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Ricky-Ricottas-Mighty-Robot-by-Dav-Pilkey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dav Pilkey",
+      "slug": "dav-pilkey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ricky Ricotta's Mighty Robot",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. the Mutant Mosquitoes from Mercury",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. the Voodoo Vultures from Venus",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. the Mecha-Monkeys from Mars",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. the Jurassic Jackrabbits from Jupiter",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. The Stupid Stinkbugs from Saturn",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. the Uranium Unicorns from Uranus",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. The Naughty Nightcrawlers From Neptune",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Ricky Ricotta's Mighty Robot vs. The Unpleasant Penguins from Pluto",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

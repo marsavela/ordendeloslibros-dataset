@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Ellie Haskell",
+  "slug": "ellie-haskell",
+  "source": "https://www.orderofbooks.com/characters/ellie-haskell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Ellie-Haskell-by-Dorothy-Cannell.jpg",
+  "authors": [
+    {
+      "name": "Dorothy Cannell",
+      "slug": "dorothy-cannell"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Thin Woman",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Widow's Club",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mum's the Word",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Femmes Fatal",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "How to Murder Your Mother-In-Law",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "How to Murder the Man of Your Dreams",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Spring Cleaning Murders",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Trouble with Harriet",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bridesmaids Revisited",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Importance of Being Ernestine",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Withering Heights",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Goodbye, Ms. Chips",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "She Shoots to Conquer",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

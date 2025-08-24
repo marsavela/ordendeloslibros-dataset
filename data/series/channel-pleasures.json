@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Channel Pleasures",
+  "slug": "channel-pleasures",
+  "source": "https://www.orderofbooks.com/characters/channel-pleasures/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Channel-by-Bertrice-Small.jpg",
+  "authors": [
+    {
+      "name": "Bertrice Small",
+      "slug": "bertrice-small"
+    }
+  ],
+  "books": [
+    {
+      "title": "Private Pleasures",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Forbidden Pleasures",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sudden Pleasures",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dangerous Pleasures",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Passionate Pleasures",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

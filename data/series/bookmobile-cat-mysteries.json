@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Bookmobile Cat Mysteries",
+  "slug": "bookmobile-cat-mysteries",
+  "source": "https://www.orderofbooks.com/characters/bookmobile-cat-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Bookmobile-Cat-Mysteries-by-Laurie-Cass-500x200.jpg",
+  "authors": [
+    {
+      "name": "Laurie Cass",
+      "slug": "laurie-cass"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lending a Paw",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tailing a Tabby",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Borrowed Crime",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pouncing on Murder",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cat with a Clue",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wrong Side of the Paw",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Booking the Crook",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Gone with the Whisker",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Checking Out Crime",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Crime That Binds",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Troubling Tail",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "No Paw to Stand On",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Book 'Em, Eddie",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

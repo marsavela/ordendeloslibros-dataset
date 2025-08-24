@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Professor Dr. Von Igelfeld Entertainment",
+  "slug": "professor-dr-von-igelfeld-entertainment",
+  "source": "https://www.orderofbooks.com/characters/professor-dr-von-igelfeld-entertainment/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Professor-Dr-Von-Iglefeld-Entertainment-Series-by-Alexander-McCall-Smith.jpg",
+  "books": [
+    {
+      "title": "Portuguese Irregular Verbs",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Finer Points of Sausage Dogs",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "At the Villa of Reduced Circumstances",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Unusual Uses for Olive Oil",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Your Inner Hedgehog",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Brak The Barbarian",
+  "slug": "brak-the-barbarian",
+  "source": "https://www.orderofbooks.com/characters/brak-the-barbarian/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Brak-the-Barbarian-by-John-Jakes.jpg",
+  "books": [
+    {
+      "title": "Brak the Barbarian",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Brak vs. The Sorceress / Witch of the Four Winds",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Brak vs. the Mark of the Demons",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "When the Idols Walked",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fortunes of Brak",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

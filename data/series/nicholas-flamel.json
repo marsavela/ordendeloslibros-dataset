@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Nicholas Flamel",
+  "slug": "nicholas-flamel",
+  "source": "https://www.orderofbooks.com/characters/nicholas-flamel/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/The-Secrets-of-the-Immortal-Nicholas-Flamel-by-Michael-Scott-500x200.jpg",
+  "authors": [
+    {
+      "name": "Michael Scott",
+      "slug": "michael-scott"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Alchemyst",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Magician",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sorceress",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Necromancer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Death of Joan of Arc",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Warlock",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Billy the Kid and the Vampyres of Vegas",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Enchantress",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

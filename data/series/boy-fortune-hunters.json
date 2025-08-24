@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Boy Fortune Hunters",
+  "slug": "boy-fortune-hunters",
+  "source": "https://www.orderofbooks.com/characters/boy-fortune-hunters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Boy-Fortune-Hunters-by-L-Frank-Baum.jpg",
+  "books": [
+    {
+      "title": "The Boy Fortune Hunters of Alaska",
+      "year": 1906,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Boy Fortune Hunters in Panama",
+      "year": 1907,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Boy Fortune Hunters in Egypt",
+      "year": 1908,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Boy Fortune Hunters in China",
+      "year": 1909,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Boy Fortune Hunters in Yucatan",
+      "year": 1910,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Boy Fortune Hunters in the South Seas",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

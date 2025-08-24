@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Judge Dee Mysteries",
+  "slug": "judge-dee-mysteries",
+  "source": "https://www.orderofbooks.com/characters/judge-dee-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/Judge-Dee-Mysteries-by-Robert-Van-Gulik-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Van Gulik",
+      "slug": "robert-van-gulik"
+    }
+  ],
+  "books": [
+    {
+      "title": "Celebrated Cases of Judge Dee / Dee Goong An",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Chinese Bell Murders",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Chinese Gold Murders",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Chinese Lake Murders",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Chinese Nail Murders",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Haunted Monastery",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Red Pavilion",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Chinese Maze Murders",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Lacquer Screen",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Emperor's Pearl",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Monkey and The Tiger",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Phantom of the Temple",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Willow Pattern",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Murder in Canton",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Judge Dee at Work",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Necklace and Calabash",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Poets and Murder / The Fox-Magic Murders",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

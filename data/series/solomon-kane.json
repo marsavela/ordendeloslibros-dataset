@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Solomon Kane",
+  "slug": "solomon-kane",
+  "source": "https://www.orderofbooks.com/characters/solomon-kane/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Solomon-Kane-by-Robert-E-Howard.jpg",
+  "books": [
+    {
+      "title": "The Moon of Skulls",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hand of Kane",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Skulls in the Stars",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hills of the Dead",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Solomon Kane",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Savage Tales of Solomon Kane",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Right Hand of Doom & Other Tales of Solomon Kane",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

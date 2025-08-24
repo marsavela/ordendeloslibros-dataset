@@ -1,0 +1,615 @@
+{
+  "type": "series",
+  "name": "Inspector Maigret",
+  "slug": "inspector-maigret",
+  "source": "https://www.orderofbooks.com/characters/inspector-maigret/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Inspector-Jules-Maigret-by-Georges-Simenon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Georges Simenon",
+      "slug": "georges-simenon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Maigret and the Enigmatic Lett / Pietr the Latvian",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Maigret Meets a Milord / The Carter of 'La Providence'",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Death of Monsieur Gallet / The Late Monsieur Gallet / Maigret Stonewalled",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hanged Man of Saint-Pholien / The Crime of Inspector Maigret / Maigret and the Hundred Gibbets",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Battle of Nerves/ A Man's Head / Maigret's War of Nerves",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Yellow Dog / Maigret and the Concarneau Murders",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Maigret at the Crossroads / The Night at the Crossroads",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Maigret in Holland/ A Crime in Holland",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Sailors' Rendezvous / Maigret Answers a Plea / The Grand Banks Cafe",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Dancer at the Gai-Moulin / Maigret at the Gai-Moulin",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Maigret and the Tavern by the Seine / The Two-Penny Bar",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Shadow Puppet / Maigret Mystified",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Maigret Goes Home / The Saint-Fiacre Affair / Maigret on Home Ground / Maigret and the Countess",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Maigret and the Flemish Shop / The Flemish House",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Maigret and the Death of a Harbor-Master / Misty Harbour / Maigret and Monsieur Labbe",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Madman of Bergerac",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Liberty Bar / Maigret on the Riviera",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Lock No. 1 / The Lock at Charenton",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Maigret / Maigret Returns",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Cellars of the Majestic / Maigret and the Hotel Majestic",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Judge's House / Maigret in Exile",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Maigret and the Spinster / Cécile is Dead",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Maigret and the Fortuneteller / To Any Lengths / Signed, Picpus",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Félicie / Maigret and the Toy Village",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Inspector Cadaver / Maigret's Rival",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Maigret Gets Angry / Maigret in Retirement",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Maigret in New York / Maigret in New York's Underworld",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Maigret's Holiday / A Summer Holiday / No Vacation for Maigret",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Maigret's Dead Man / Maigret's Special Murder",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Maigret's First Case",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "My Friend Maigret / The Methods of Maigret",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Maigret at the Coroner's / Maigret and the Coroner",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Maigret and the Old Lady",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Madame Maigret's Own Case / The Friend of Madame Maigret / Madame Maigret's Friend",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Maigret's Memoirs",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Maigret in Montmartre / Maigret and the Strangled Stripper / Maigret at Picratt's",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Maigret Takes a Room / Maigret Rents a Room",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Maigret and the Burglar's Wife / Maigret and the Tall Woman",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Maigret and the Gangsters / Inspector Maigret and the Killers / Maigret, Lognon and the Gangsters",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Maigret's Revolver",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Maigret and the Man on the Bench / Maigret and the Man on the Boulevard",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Maigret Afraid / Maigret Is Afraid",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Maigret's Mistake",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Maigret Goes to School",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Maigret and the Calame Report / Maigret and the Minister",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Maigret and the Dead Girl / Maigret and the Young Girl",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Maigret and the Headless Corpse",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Maigret Sets a Trap",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Maigret's Failure",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Maigret Enjoys Himself / Maigret's Little Joke / None of Maigret's Business",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Maigret Travels / Maigret and the Millionaires",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Maigret Has Scruples / Maigret's Doubts",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Maigret and the Reluctant Witnesses",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Maigret's Secret / Maigret Has Doubts",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Maigret in Court",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "Maigret and the Old People / Maigret in Society",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Maigret and the Idle Burglar / Maigret and the Lazy Burglar",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Maigret and the Black Sheep / Maigret and the Good People of Montparnasse",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Maigret and the Saturday Caller",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Maigret and the Tramp / Maigret and the Dosser / Maigret and the Bum",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Maigret's Fury / Maigret Loses His Temper / Maigret's Anger",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Maigret and the Ghost / Maigret and the Apparition",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Maigret on the Defensive / Maigret Holds His Own / Maigret Defends Himself",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Maigret Bides His Time / The Patience of Maigret / Maigret's Patience",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Maigret and the Nahour Case",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "Maigret and the Pickpocket / Maigret's Pickpocket",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Maigret in Vichy / Maigret Takes the Waters",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Maigret Hesitates",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Maigret's Boyhood Friend / Maigret's Childhood Friend",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Maigret and the Killer",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Maigret and the Wine Merchant",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "Maigret and the Madwoman / Maigret's Madwoman",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "Maigret and the Loner",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "Maigret and the Informer / Maigret and the Flea",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Maigret and Monsieur Charles",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    }
+  ]
+}

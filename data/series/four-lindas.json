@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Four Lindas",
+  "slug": "four-lindas",
+  "source": "https://www.orderofbooks.com/characters/four-lindas/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Four-Lindas-by-Melody-Carlson.jpg",
+  "authors": [
+    {
+      "name": "Melody Carlson",
+      "slug": "melody-carlson"
+    }
+  ],
+  "books": [
+    {
+      "title": "As Young As We Feel",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hometown Ties",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "All for One",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Here's to Friends!",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "NERDS",
+  "slug": "nerds",
+  "source": "https://www.orderofbooks.com/characters/nerds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/NERDS-by-Michael-Buckley.jpg",
+  "books": [
+    {
+      "title": "NERDS: National Espionage, Rescue and Defense Society",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "M is for Mama's Boy",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cheerleaders of Doom",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Villain Virus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Attack of the BULLIES",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Delirium",
+  "slug": "delirium",
+  "source": "https://www.orderofbooks.com/characters/delirium/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Delirium-by-Lauren-Oliver.jpg",
+  "authors": [
+    {
+      "name": "Lauren Oliver",
+      "slug": "lauren-oliver"
+    }
+  ],
+  "books": [
+    {
+      "title": "Delirium",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hana",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pandemonium",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Annabel",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Raven",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Requiem",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Alex",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Book of Shhh",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

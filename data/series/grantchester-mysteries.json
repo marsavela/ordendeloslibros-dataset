@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Grantchester Mysteries",
+  "slug": "grantchester-mysteries",
+  "source": "https://www.orderofbooks.com/characters/grantchester-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Grantchester-Mysteries-by-James-Runcie-500x200.jpg",
+  "authors": [
+    {
+      "name": "James Runcie",
+      "slug": "james-runcie"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sidney Chambers and the Shadow of Death",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sidney Chambers and the Perils of the Night",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sidney Chambers and the Problem of Evil",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sidney Chambers and The Forgiveness of Sins",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sidney Chambers and The Dangers of Temptation",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sidney Chambers and the Persistence of Love",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Road to Grantchester",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "name": "1-800-Where-R-You",
+  "slug": "1-800-where-r-you",
+  "source": "https://www.orderofbooks.com/characters/1-800-where-r-you/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/1-800-Where-R-You-by-Meg-Cabot.jpg",
+  "authors": [
+    {
+      "name": "Meg Cabot",
+      "slug": "meg-cabot"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of 1-800-Where-R-You Books",
+      "books": [
+        {
+          "title": "When Lightning Strikes",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Code Name Cassandra",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Safe House",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Sanctuary",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Missing You",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        }
+      ]
+    }
+  }
+}

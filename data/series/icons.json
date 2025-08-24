@@ -1,0 +1,31 @@
+{
+  "type": "series",
+  "name": "Icons",
+  "slug": "icons",
+  "source": "https://www.orderofbooks.com/characters/icons/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Icons-by-Margaret-Stohl.jpg",
+  "authors": [
+    {
+      "name": "Margaret Stohl",
+      "slug": "margaret-stohl"
+    }
+  ],
+  "books": [
+    {
+      "title": "Icons",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Idols",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

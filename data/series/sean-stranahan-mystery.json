@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Sean Stranahan Mystery",
+  "slug": "sean-stranahan-mystery",
+  "source": "https://www.orderofbooks.com/characters/sean-stranhahan-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/12/sean-strahan.jpg",
+  "books": [
+    {
+      "title": "The Royal Wulff Murders",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Gray Ghost Murders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Man's Fancy",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Crazy Mountain Kiss",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Buffalo Jump Blues",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cold Hearted River",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Death in Eden",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Bangtail Ghost",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

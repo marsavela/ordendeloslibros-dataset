@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Inspector Lucas Rocco",
+  "slug": "inspector-lucas-rocco",
+  "source": "https://www.orderofbooks.com/characters/inspector-lucas-rocco/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Inspector-Lucas-Rocco-by-Adrian-Magson.jpg",
+  "authors": [
+    {
+      "name": "Adrian Magson",
+      "slug": "adrian-magson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death on the Marais",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death on the Rive Nord",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death on the Pont Noir",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death at the Clos Du Lac",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rocco and the Snow Angel",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rocco and the Nightingale",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rocco and the Price of Lies",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death at the Old Asylum",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

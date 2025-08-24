@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Roger Brook",
+  "slug": "roger-brook",
+  "source": "https://www.orderofbooks.com/characters/roger-brook/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Roger-Brook-by-Dennis-Wheatley-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dennis Wheatley",
+      "slug": "dennis-wheatley"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Launching of Roger Brook",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Shadow of Tyburn Tree",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Rising Storm",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Man Who Killed the King",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dark Secret of Josephine",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Rape of Venice",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Sultan's Daughter",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Wanton Princess",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Evil in a Mask",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Ravishing of Lady Mary Ware",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Irish Witch",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Desperate Measures",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

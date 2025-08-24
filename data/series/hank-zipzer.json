@@ -1,0 +1,169 @@
+{
+  "type": "series",
+  "name": "Hank Zipzer",
+  "slug": "hank-zipzer",
+  "source": "https://www.orderofbooks.com/characters/hank-zipzer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Hank-Zipzer-by-Henry-Winkler-and-Lin-Oliver.jpg",
+  "books": [
+    {
+      "title": "Niagara Falls, Or Does It?",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I Got a D in Salami",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Day of the Iguana",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Zippity Zinger",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Night I Flunked My Field Trip",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Holy Enchilada!",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Help! Somebody Get Me Out of Fourth Grade!",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Summer School! What Genius Thought That Up?",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "My Secret Life as a Ping-Pong Wizard",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "My Dog's a Scaredy-Cat",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Curtain Went Up, My Pants Fell Down",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Barfing in the Backseat",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Who Ordered This Baby? Definitely Not Me!",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Life of Me (Enter At Your Own Risk)",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Tale of Two Tails",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Dump Trucks and Dogsleds",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "A Brand-New Me!",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Hank Zipzer: #1-10",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Hank Zipzer 6: The World's Greatest Underachiever and the Killer Chilli",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Hank Zipzer The World's Greatest Underachiever Strikes it Lucky",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    }
+  ]
+}

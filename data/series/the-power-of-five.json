@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Power Of Five",
+  "slug": "the-power-of-five",
+  "source": "https://www.orderofbooks.com/characters/the-power-of-five/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/The-Power-of-Five-Gatekeepers.jpg",
+  "books": [
+    {
+      "title": "Raven's Gate",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Evil Star",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nightrise",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Necropolis",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Oblivion",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

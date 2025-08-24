@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Fifth Avenue",
+  "slug": "fifth-avenue",
+  "source": "https://www.orderofbooks.com/characters/fifth-avenue/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Fifth-Avenue-by-Christopher-Smith-500x200.jpg",
+  "authors": [
+    {
+      "name": "Christopher Smith",
+      "slug": "christopher-smith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fifth Avenue",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Running of the Bulls",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "From Manhattan with Love",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "From Manhattan with Revenge",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Rush to Violence",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Park Avenue",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

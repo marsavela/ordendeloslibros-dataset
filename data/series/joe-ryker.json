@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Joe Ryker",
+  "slug": "joe-ryker",
+  "source": "https://www.orderofbooks.com/characters/joe-ryker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Joe-Ryker-by-Nelson-DeMille-500x200.jpg",
+  "authors": [
+    {
+      "name": "Nelson DeMille",
+      "slug": "nelson-demille"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Sniper",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hammer of God",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Terrorists",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Agent of Death / The Death Squad",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Child Killer",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ryker the Sadist",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Motive For Murder",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Cannibal",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Smack Man",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Night of the Phoenix",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Slasher",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

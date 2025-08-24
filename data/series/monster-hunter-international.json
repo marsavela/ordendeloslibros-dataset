@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Monster Hunter International",
+  "slug": "monster-hunter-international",
+  "source": "https://www.orderofbooks.com/characters/monster-hunter-international/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Monster-Hunter-by-Larry-Correia.jpg",
+  "authors": [
+    {
+      "name": "Larry Correia",
+      "slug": "larry-correia"
+    }
+  ],
+  "books": [
+    {
+      "title": "Monster Hunter International",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Monster Hunter Vendetta",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Monster Hunter Alpha",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Monster Hunter Legion",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Monster Hunter Nemesis",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Monster Hunter Siege",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Monster Hunter Files",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Monster Hunter Guardian",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Monster Hunter Bloodlines",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

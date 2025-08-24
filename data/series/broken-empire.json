@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Broken Empire",
+  "slug": "broken-empire",
+  "source": "https://www.orderofbooks.com/characters/broken-empire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Broken-Empire-by-Mark-Lawrence-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mark Lawrence",
+      "slug": "mark-lawrence"
+    }
+  ],
+  "books": [
+    {
+      "title": "Prince of Thorns",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "King of Thorns",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sleeping Beauty",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Emperor of Thorns",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

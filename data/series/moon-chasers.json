@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Moon Chasers",
+  "slug": "moon-chasers",
+  "source": "https://www.orderofbooks.com/characters/moon-chasers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Moon-Chasers-by-Sharie-Kohler.jpg",
+  "authors": [
+    {
+      "name": "Sharie Kohler",
+      "slug": "sharie-kohler"
+    }
+  ],
+  "books": [
+    {
+      "title": "Marked by Moonlight",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kiss of a Dark Moon",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "To Crave a Blood Moon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "My Soul to Keep",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Night Falls on the Wicked",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Soul So Wicked",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Darkest Temptation",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

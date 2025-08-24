@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Visitation/Winston Brothers",
+  "slug": "visitation-winston-brothers",
+  "source": "https://www.orderofbooks.com/characters/visitation-winston-brothers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Winston-Brothers-Visitation-by-Lori-Foster.jpg",
+  "books": [
+    {
+      "title": "Tangled Sheets",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tangled Dreams",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wild",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Winston Brothers",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wildly Winston",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hart and Soul",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deuces Wild",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Both Tangled books are part of an omnibus.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

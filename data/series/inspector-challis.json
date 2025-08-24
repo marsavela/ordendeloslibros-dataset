@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Inspector Challis",
+  "slug": "inspector-challis",
+  "source": "https://www.orderofbooks.com/characters/inspector-challis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Inspector-Challis-by-Garry-Disher.jpg",
+  "authors": [
+    {
+      "name": "Garry Disher",
+      "slug": "garry-disher"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dragon Man",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kittyhawk Down",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Snapshot",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Chain of Evidence",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood Moon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Whispering Death",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Signal Loss",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

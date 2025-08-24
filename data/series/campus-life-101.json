@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Campus Life 101",
+  "slug": "campus-life-101",
+  "source": "https://www.orderofbooks.com/characters/campus-life-101/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Campus-Life-101-by-Wendy-Corsi-Staub-500x200.jpg",
+  "authors": [
+    {
+      "name": "Wendy Corsi Staub",
+      "slug": "wendy-corsi-staub"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cameron: The Sorority",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Zara: The Roommate",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kim: The Party",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bridget: The Fling",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Allison: The Townie",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Reunion",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

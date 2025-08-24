@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Serial",
+  "slug": "serial",
+  "source": "https://www.orderofbooks.com/characters/serial/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Serial-by-Blake-Crouch.jpg",
+  "books": [
+    {
+      "title": "Serial",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Serial Uncut (Bad Girl)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Killers Uncut",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

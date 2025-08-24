@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Mallory",
+  "slug": "mallory",
+  "source": "https://www.orderofbooks.com/characters/mallory/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Mallory-by-Max-Allan-Collins.jpg",
+  "books": [
+    {
+      "title": "The Baby Blue Rip-Off",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "No Cure for Death",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kill Your Darlings",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Shroud for Aquarius",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Nice Weekend for a Murder",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

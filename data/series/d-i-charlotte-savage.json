@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "D.I. Charlotte Savage",
+  "slug": "d-i-charlotte-savage",
+  "source": "https://www.orderofbooks.com/characters/di-charlotte-savage/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/DI-Charlotte-Savage-by-Mark-Sennen.jpg",
+  "authors": [
+    {
+      "name": "Mark Sennen",
+      "slug": "mark-sennen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Touch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bad Blood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cut Dead",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Boat House",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tell Tale",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Two Evils",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Boneyard",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Puppet",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chronological Order of DI Charlotte Savage Books The Boat House is a prequel to the DI Charlotte Savage series, chronicling her very first case.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

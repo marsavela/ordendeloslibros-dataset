@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Medieval Song",
+  "slug": "medieval-song",
+  "source": "https://www.orderofbooks.com/characters/medieval-song/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Medieval-Song.jpg",
+  "books": [
+    {
+      "title": "Warrior's Song",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fire Song",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Earth Song",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Secret Song",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rosehaven",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Penwyth Curse",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Valcourt Heiress",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "series",
+  "name": "Abarat",
+  "slug": "abarat",
+  "source": "https://www.orderofbooks.com/characters/abarat/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Abarat-by-Clive-Barker.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Abarat Books",
+      "books": [
+        {
+          "title": "Abarat: The First Book of Hours",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Days of Magic, Nights of War",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Absolute Midnight",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "O’Malley",
+  "slug": "omalley",
+  "source": "https://www.orderofbooks.com/characters/omalley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/OMalley-by-Dee-Henderson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dee Henderson",
+      "slug": "dee-henderson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Negotiator",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Danger in the Shadows",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Guardian",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Truth Seeker",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Protector",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Healer",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Rescuer",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Jennifer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Danger in the Shadows is a prequel novel to the novel The Negotiator.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

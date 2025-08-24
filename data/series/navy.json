@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Navy",
+  "slug": "navy",
+  "source": "https://www.orderofbooks.com/characters/navy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Navy-by-Debbie-Macomber.jpg",
+  "books": [
+    {
+      "title": "Navy Wife",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Navy Blues",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Navy Brat",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Navy Woman",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Navy Baby",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Navy Husband",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

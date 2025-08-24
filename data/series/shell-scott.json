@@ -1,0 +1,337 @@
+{
+  "type": "series",
+  "name": "Shell Scott",
+  "slug": "shell-scott",
+  "source": "https://www.orderofbooks.com/characters/shell-scott/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/10/Shell-Scott-by-Richard-S-Prather.jpg",
+  "books": [
+    {
+      "title": "The Case of the Vanishing Beauty",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bodies in Bedlam",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Everybody Had a Gun",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Find This Woman",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dagger of Flesh",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Darling, It's Death",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Way of a Wanton",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Pattern for Murder / The Scrambled Yeggs",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Always Leave 'em Dying",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ride a High Horse / Too Many Crooks",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Pattern for Panic",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Strip for Murder",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Wailing Frail",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Have Gat - Will Travel",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Three's a Shroud",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Slab Happy",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Take a Murder, Darling",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Over Her Dear Body",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Double in Trouble",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Dance with the Dead",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Dig That Crazy Grave",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Shell Scott's Seven Slaughters",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Kill the Clown",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Dead Heat",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Joker in the Deck",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Cockeyed Corpse",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Trojan Hearse",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Dead Man's Walk",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Kill Him Twice",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Meandering Corpse",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Kubla Khan Caper",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Gat Heat",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Cheim Manuscript",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Kill Me Tomorrow",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Shell Scott Sampler",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Dead-Bang",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Sweet Ride",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Sure Thing",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Amber Effect",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Shellshock",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Death Gods",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    }
+  ]
+}

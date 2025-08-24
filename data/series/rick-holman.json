@@ -1,0 +1,305 @@
+{
+  "type": "series",
+  "name": "Rick Holman",
+  "slug": "rick-holman",
+  "source": "https://www.orderofbooks.com/characters/rick-holman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/02/rick-holma.jpg",
+  "books": [
+    {
+      "title": "The Ever-Loving Blues / Death of a Doll",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Swingers",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Zelda",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Murderer Among Us",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder in the Key Club / Murder in the Harem Club",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blonde on the Rocks",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Jade-Eyed Jungle / The Jade-Eyed Jinx",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The White Bikini / The Ballad of Loving Jenny",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Wind-Up Doll",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Never-Was Girl",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Murder Is a Package Deal",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Who Killed Dr. Sex?",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Girl from Outer Space",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Nude with a View",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Blonde on a Broomstick",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "No Tears from the Widow",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Play Now... Kill Later",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Deadly Kitten",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Long Time No Leola",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Die Anytime, After Tuesday",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Flagellator",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Streaked-Blond Slave",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Hang-Up Kid",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "A Good Year for Dwarfs?",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Where Did Charity Go?",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Coven",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Invisible Flamini",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Pornbroker",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Master",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Phreak Out",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Negative in Blue",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Star-Crossed Lover",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Ride the Roller Coaster",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Remember Maybelle?",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "See It Again, Sam",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Phantom Lady",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Wicked Widow",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    }
+  ]
+}

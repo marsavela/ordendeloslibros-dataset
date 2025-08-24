@@ -1,0 +1,329 @@
+{
+  "type": "series",
+  "name": "Trailblazer",
+  "slug": "trailblazer",
+  "source": "https://www.orderofbooks.com/characters/trailblazer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Trailblazer-by-Dave-and-Neta-Jackson.jpg",
+  "books": [
+    {
+      "title": "Kidnapped by River Rats",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Queen's Smuggler",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Spy for the Night Riders",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hidden Jewel",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Escape from the Slave Traders",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Chimney Sweep's Ransom",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Bandit of Ashley Downs",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Imprisoned in the Golden City",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Shanghaied to China",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Listen for the Whippoorwill",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Attack in the Rye Grass",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Trial by Poison",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Flight of the Fugitives",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Betrayer's Fortune",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Danger on the Flying Trapeze",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Thieves of Tyburn Square",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Abandoned on the Wild Frontier",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Runaway's Revenge",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Quest for the Lost Prince",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Warrior's Challenge",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Drummer Boy's Battle",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Traitor in the Tower",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Defeat of the Ghost Riders",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Fate of the Yellow Woodbee",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Gold Miners' Rescue",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Mayflower Secret",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Mask of the Wolf Boy",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Assassins in the Cathedral",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Race for the Record",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Ambushed in Jaguar Swamp",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Forty-Acre Swindle",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Hostage on the Nighthawk",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Journey to the End of the Earth",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Drawn by a China Moon",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Sinking the Dayspring",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Roundup of the Street Rovers",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Blinded by the Shining Path",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Risking the Forbidden Game",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Exiled to the Red River",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Caught in the Rebel Camp",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    }
+  ]
+}

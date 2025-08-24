@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Necroscope",
+  "slug": "necroscope",
+  "source": "https://www.orderofbooks.com/characters/necroscope/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Necroscope-by-Brian-Lumley.jpg",
+  "authors": [
+    {
+      "name": "Brian Lumley",
+      "slug": "brian-lumley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Necroscope",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Necroscope II: Wamphyri! / Vamphyri!",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Necroscope III: The Source",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Necroscope IV: Deadspeak",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Necroscope V: Deadspawn",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blood Brothers",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Last Aerie",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bloodwars",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Necroscope: The Lost Years",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Necroscope: Resurgence: The Lost Years, Volume 2",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Necroscope: Invaders",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Necroscope: Defilers",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Necroscope: Avengers",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Necroscope: The Touch",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Necroscope: The Plague-Bearer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Necroscope: The Mobius Murders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Necroscope: The Last of the Lost Years, Vol. II",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

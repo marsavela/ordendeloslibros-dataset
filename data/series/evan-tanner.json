@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Evan Tanner",
+  "slug": "evan-tanner",
+  "source": "https://www.orderofbooks.com/characters/evan-tanner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Evan-Tanner-by-Lawrence-Block.jpg",
+  "books": [
+    {
+      "title": "The Thief Who Couldn't Sleep",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Canceled Czech",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tanner's Twelve Swingers",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Here Comes a Hero / Tanner's Virgin",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Scoreless Thai / Two for Tanner",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tanner's Tiger",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Me Tanner, You Jane",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tanner on Ice",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

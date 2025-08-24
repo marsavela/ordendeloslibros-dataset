@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Kindred Of Arkadia",
+  "slug": "kindred-of-arkadia",
+  "source": "https://www.orderofbooks.com/characters/kindred-of-arkadia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Kindred-of-Arkadia-by-Alanea-Alder-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alanea Alder",
+      "slug": "alanea-alder"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fate Knows Best",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fated to Be Family",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fated for Forever",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fated Forgiveness",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fated Healing",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fated Surrender",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gifts of Fate",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fated Redemption",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

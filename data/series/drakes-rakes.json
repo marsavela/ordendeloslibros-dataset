@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Drake’s Rakes",
+  "slug": "drakes-rakes",
+  "source": "https://www.orderofbooks.com/characters/drakes-rakes/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Drakes-Rakes-by-Eileen-Dreyer.jpg",
+  "authors": [
+    {
+      "name": "Eileen Dreyer",
+      "slug": "eileen-dreyer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Barely a Lady",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Never a Gentleman",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Always a Temptress",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "It Begins with a Kiss",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Once a Rake",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

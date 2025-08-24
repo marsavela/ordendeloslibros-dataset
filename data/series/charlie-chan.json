@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Charlie Chan",
+  "slug": "charlie-chan",
+  "source": "https://www.orderofbooks.com/characters/charlie-chan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/03/charlie-chan.jpg",
+  "books": [
+    {
+      "title": "The House Without a Key",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Chinese Parrot",
+      "year": 1926,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Behind That Curtain",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Black Camel",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Charlie Chan Carries On",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Keeper of the Keys",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Charlie Chan in the Temple of the Golden Horde",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

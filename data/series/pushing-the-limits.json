@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Pushing The Limits",
+  "slug": "pushing-the-limits",
+  "source": "https://www.orderofbooks.com/characters/pushing-the-limits/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Pushing-the-Limits-by-Katie-McGarry-500x200.jpg",
+  "authors": [
+    {
+      "name": "Katie McGarry",
+      "slug": "katie-mcgarry"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pushing the Limits",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crossing the Line",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dare You To",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Crash into You",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Take Me On",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Breaking the Rules",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Chasing Impossible",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

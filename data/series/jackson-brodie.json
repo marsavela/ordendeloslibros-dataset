@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Jackson Brodie",
+  "slug": "jackson-brodie",
+  "source": "https://www.orderofbooks.com/characters/jackson-brodie/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Jackson-Brodie-by-Kate-Atkinson.jpg",
+  "books": [
+    {
+      "title": "Case Histories",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "One Good Turn",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Will There Be Good News?",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Started Early, Took My Dog",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Big Sky",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death at the Sign of the Rook",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

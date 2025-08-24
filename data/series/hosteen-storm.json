@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Hosteen Storm",
+  "slug": "hosteen-storm",
+  "source": "https://www.orderofbooks.com/characters/hosteen-storm/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Hosteen-Storm-Beast-Master-by-Andre-Norton.jpg",
+  "books": [
+    {
+      "title": "The Beast Master",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lord of Thunder",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beast Master's Ark",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Beast Master's Circus",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beast Master's Quest",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

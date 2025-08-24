@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Britt Montero",
+  "slug": "britt-montero",
+  "source": "https://www.orderofbooks.com/characters/britt-montero/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Britt-Montero-by-Edna-Buchanan.jpg",
+  "authors": [
+    {
+      "name": "Edna Buchanan",
+      "slug": "edna-buchanan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Contents Under Pressure",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Miami, It's Murder",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Suitable for Framing",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Act of Betrayal",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Margin of Error",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Garden of Evil",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "You Only Die Twice",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Ice Maiden",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Love Kills",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dead Man's Daughter",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

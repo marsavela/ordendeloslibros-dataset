@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Mission: Survival",
+  "slug": "mission-survival",
+  "source": "https://www.orderofbooks.com/characters/mission-survival/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Mission-Survival-by-Bear-Grylls-500x200.jpg",
+  "authors": [
+    {
+      "name": "Bear Grylls",
+      "slug": "bear-grylls"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gold of the Gods",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Way of the Wolf",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sands of the Scorpion",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tracks of the Tiger",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Claws of the Crocodile",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Strike of the Shark",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rage of the Rhino",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Lair of the Leopard",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

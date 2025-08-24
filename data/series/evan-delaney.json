@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Evan Delaney",
+  "slug": "evan-delaney",
+  "source": "https://www.orderofbooks.com/characters/evan-delaney/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Evan-Delaney-by-Meg-Gardiner.jpg",
+  "books": [
+    {
+      "title": "China Lake",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mission Canyon",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jericho Point",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Crosscut",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Kill Chain",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

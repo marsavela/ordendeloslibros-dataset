@@ -1,0 +1,559 @@
+{
+  "type": "series",
+  "name": "Michael Shayne",
+  "slug": "michael-shayne",
+  "source": "https://www.orderofbooks.com/characters/michael-shayne/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/12/shayne.jpg",
+  "authors": [
+    {
+      "name": "Brett Halliday. The",
+      "slug": "brett-halliday-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dividend on Death",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Private Practice of Michael Shayne",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Uncomplaining Corpses",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tickets for Death",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bodies Are Where You Find Them",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Case of the Walking / Corpse Came Calling",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder Wears a Mummer's Mask / In a Deadly Vein",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Blood on the Black Market",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Michael Shayne's Long Chance",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Murder and the Married Virgin",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Murder is My Business",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Marked For Murder",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Blood on Biscayne Bay",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Counterfeit Wife",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Blood on the Stars / Murder Is a Habit",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "A Taste for Violence",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Call for Michael Shayne",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "This is it, Michael Shayne",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Framed in Blood",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "When Dorinda Dances",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "A Taste for Cognac",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "What Really Happened",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "One Night with Nora / The Lady Came By Night",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "She Woke to Darkness",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Death Has Three Lives",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Stranger in Town",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Blonde Cried Murder",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Heads You Lose",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Weep for a Blonde",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Shoot the works",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Murder and the Wanton Bride",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Fit to Kill",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Date with a Dead Man",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Target",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Die Like A Dog",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Murder Takes No Holiday",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Dolls Are Deadly",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Homicidal Virgin",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Killers from the Keys",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Murder in Haste",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Careless Corpse",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Pay-Off in Blood",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Murder by Proxy",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Never Kill a Client",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Too Friendly, Too Dead",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Corpse That Never Was",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "The Body Came Back",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "A Redhead",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Shoot to Kill",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "The Violent World of Michael Shayne",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Nice Fillies Finish Last",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Murder Spins the Wheel",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Armed... Dangerous...",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Mermaid on the Rocks",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Guilty as Hell",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "So Lush, So Deadly",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Lady, be Bad",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Six Seconds to Kill",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Fourth Down to Death",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Count Backwards to Zero",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "I Come To Kill You",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Caught Dead",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Kill All the Young Girls",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Blue Murder",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Last Seen Hitchhiking",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "At The Point of A .38",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Million Dollar Handle",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Win Some, Lose Some",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    }
+  ]
+}

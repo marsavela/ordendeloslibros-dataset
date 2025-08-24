@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Bonnets & Bugles",
+  "slug": "bonnets-bugles",
+  "source": "https://www.orderofbooks.com/characters/bonnets-and-bugles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Bonnets-and-Bugles-by-Gilbert-Morris.jpg",
+  "authors": [
+    {
+      "name": "Gilbert Morris",
+      "slug": "gilbert-morris"
+    }
+  ],
+  "books": [
+    {
+      "title": "Drummer Boy at Bull Run",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Yankee Belles in Dixie",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Secret of Richmond Manor",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Soldier Boy's Discovery",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blockade Runner",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Gallant Boys of Gettysburg",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Battle of Lookout Mountain",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bring the Boys Home",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Encounter at Cold Harbor",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fire over Atlanta",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

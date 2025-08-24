@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Canterbury Tales",
+  "slug": "canterbury-tales",
+  "source": "https://www.orderofbooks.com/characters/canterbury-tales/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Canterbury-Tales-of-Mystery-and-Murder-by-Paul-Doherty-500x200.jpg",
+  "authors": [
+    {
+      "name": "Paul Doherty",
+      "slug": "paul-doherty"
+    }
+  ],
+  "books": [
+    {
+      "title": "An Ancient Evil",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Tapestry of Murders",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Tournament of Murders",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ghostly Murders",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Hangman's Hymn",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Haunt of Murder",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Midnight Man",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

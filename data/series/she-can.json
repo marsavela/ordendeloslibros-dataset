@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "She Can",
+  "slug": "she-can",
+  "source": "https://www.orderofbooks.com/characters/she-can/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/She-Can-by-Melinda-Leigh.jpg",
+  "authors": [
+    {
+      "name": "Melinda Leigh",
+      "slug": "melinda-leigh"
+    }
+  ],
+  "books": [
+    {
+      "title": "She Can Run",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "She Can Tell",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "She Can Scream",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "She Can Hide",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "He Can Fall",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "She Can Kill",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Chronicles Of Barsetshire",
+  "slug": "chronicles-of-barsetshire",
+  "source": "https://www.orderofbooks.com/characters/chronicles-of-barsetshire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Chronicles-of-Barsetshire-by-Anthony-Trollope.jpg",
+  "authors": [
+    {
+      "name": "Anthony Trollope",
+      "slug": "anthony-trollope"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Warden",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Barchester Towers",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Doctor Thorne",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Framley Parsonage",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Small House at Allington",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Last Chronicle of Barset",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

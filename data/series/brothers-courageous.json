@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Brothers Courageous",
+  "slug": "brothers-courageous",
+  "source": "https://www.orderofbooks.com/characters/brothers-courageous/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Brothers-Courageous-by-Vanessa-Gray-Bartal-500x200.jpg",
+  "authors": [
+    {
+      "name": "Vanessa Gray Bartal",
+      "slug": "vanessa-gray-bartal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Shooter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gunner",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Spotter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Point Man",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

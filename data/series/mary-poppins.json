@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Mary Poppins",
+  "slug": "mary-poppins",
+  "source": "https://www.orderofbooks.com/characters/mary-poppins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Mary-Poppins-by-PL-Travers.jpg",
+  "authors": [
+    {
+      "name": "PL Travers",
+      "slug": "pl-travers"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mary Poppins",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mary Poppins Comes Back",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mary Poppins Opens the Door",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mary Poppins in the Park",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Gingerbread Shop",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mary Poppins from A to Z",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mr. Wigg's Birthday Party",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Mary Poppins in the Kitchen",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mary Poppins in Cherry Tree Lane",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mary Poppins and the House Next Door",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

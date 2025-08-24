@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Murder 101 Mysteries",
+  "slug": "murder-101-mysteries",
+  "source": "https://www.orderofbooks.com/characters/murder-101-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Murder-101-Mysteries-by-Maggie-Barbieri-500x200.jpg",
+  "authors": [
+    {
+      "name": "Maggie Barbieri",
+      "slug": "maggie-barbieri"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder 101",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Extracurricular Activities",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Quick Study",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Final Exam",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Third Degree",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Physical Education",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Extra Credit",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

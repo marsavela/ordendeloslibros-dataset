@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Dixie Hemingway",
+  "slug": "dixie-hemingway",
+  "source": "https://www.orderofbooks.com/characters/dixie-hemingway/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Dixie-Hemingway-Mysteries-by-Blaize-Clement-500x200.jpg",
+  "authors": [
+    {
+      "name": "Blaize Clement",
+      "slug": "blaize-clement"
+    }
+  ],
+  "books": [
+    {
+      "title": "Curiosity Killed the Cat Sitter",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Duplicity Dogged the Dachshund",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Even Cat Sitters Get the Blues",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cat Sitter on a Hot Tin Roof",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Raining Cat Sitters and Dogs",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cat Sitter Among the Pigeons",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Cat Sitter's Pajamas",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Cat Sitter's Cradle",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Cat Sitter's Nine Lives",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Cat Sitter's Whiskers",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Cat Sitter and the Canary",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

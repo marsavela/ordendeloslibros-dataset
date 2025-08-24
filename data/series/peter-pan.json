@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Peter Pan",
+  "slug": "peter-pan",
+  "source": "https://www.orderofbooks.com/characters/peter-pan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Peter-Pan-by-JM-Barrie.jpg",
+  "authors": [
+    {
+      "name": "J.M. Barrie",
+      "slug": "j-m-barrie"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Little White Bird",
+      "year": 1902,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Peter Pan",
+      "year": 1904,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Peter Pan in Kensington Gardens",
+      "year": 1906,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Peter and Wendy",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Peter Pan/Grow Up, Peter Pan!: A Classic Tale",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

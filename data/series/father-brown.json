@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Father Brown",
+  "slug": "father-brown",
+  "source": "https://www.orderofbooks.com/characters/father-brown/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Father-Brown-by-GK-Chesterton-500x200.jpg",
+  "authors": [
+    {
+      "name": "GK Chesterton",
+      "slug": "gk-chesterton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Innocence of Father Brown",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wisdom of Father Brown",
+      "year": 1914,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Incredulity of Father Brown",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Secret of Father Brown",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Scandal of Father Brown",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Derek Strange",
+  "slug": "derek-strange",
+  "source": "https://www.orderofbooks.com/characters/derek-strange/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Derek-Strange-by-George-P-Pelecanos.jpg",
+  "books": [
+    {
+      "title": "Right as Rain",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hell to Pay",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Soul Circus",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hard Revolution",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "What It Was",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

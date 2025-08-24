@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Bartimaeus",
+  "slug": "bartimaeus",
+  "source": "https://www.orderofbooks.com/characters/bartimaeus/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/Bartimaeus-by-Jonathan-Stroud.jpg",
+  "books": [
+    {
+      "title": "The Amulet of Samarkand",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Golem's Eye",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ptolemy's Gate",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Ring of Solomon",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

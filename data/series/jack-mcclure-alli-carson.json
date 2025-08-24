@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Jack McClure/Alli Carson",
+  "slug": "jack-mcclure-alli-carson",
+  "source": "https://www.orderofbooks.com/characters/jack-mcclure-alli-carson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Jack-McClure-Alli-Carson.jpg",
+  "books": [
+    {
+      "title": "First Daughter",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Last Snow",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood Trust",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Father Night",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beloved Enemy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

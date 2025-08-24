@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Dan Gordon",
+  "slug": "dan-gordon",
+  "source": "https://www.orderofbooks.com/characters/dan-gordon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Dan-Gordon-Intelligence-Thrillers-by-Haggai-Carmon.jpg",
+  "authors": [
+    {
+      "name": "Haggai Carmon",
+      "slug": "haggai-carmon"
+    }
+  ],
+  "books": [
+    {
+      "title": "Triple Identity",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Red Syndrome",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Chameleon Conspiracy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Triangle of Deception",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Defection Games",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

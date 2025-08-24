@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Neapolitan",
+  "slug": "neapolitan",
+  "source": "https://www.orderofbooks.com/characters/neapolitan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Neapolitan-by-Elena-Ferrante-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elena Ferrante",
+      "slug": "elena-ferrante"
+    }
+  ],
+  "books": [
+    {
+      "title": "My Brilliant Friend",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Story of a New Name",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Those Who Leave and Those Who Stay",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Story of the Lost Child",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

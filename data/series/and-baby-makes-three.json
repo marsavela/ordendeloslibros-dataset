@@ -1,0 +1,168 @@
+{
+  "type": "series",
+  "name": "And Baby Makes Three",
+  "slug": "and-baby-makes-three",
+  "source": "https://www.orderofbooks.com/characters/and-baby-makes-three/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/And-Baby-Makes-Three-by-Sherryl-Woods.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of And Baby Makes Three Books",
+      "books": [
+        {
+          "title": "A Christmas Blessing",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Cowboy and His Baby",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Rancher and His Unexpected Daughter",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Natural Born Daddy",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of And Baby Makes Three: The Delacourts of Texas Books",
+      "books": [
+        {
+          "title": "The Cowboy and the New Year's Baby",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Dylan and the Baby Doctor",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Pint-Sized Secret",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Delacourt Scandal",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Marrying a Delacort",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        }
+      ]
+    },
+    "publication_3": {
+      "heading": "Publication Order of And Baby Makes Three: The Next Generation Books",
+      "books": [
+        {
+          "title": "The Littlest Angel",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Natural Born Trouble",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Unexpected Mommy",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Cowgirl and the Unexpected Wedding",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Natural Born Lawman",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Unclaimed Baby",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Cowboy and His Wayward Bride",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Suddenly Annie's Father",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "White Pines Summer",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        }
+      ]
+    }
+  }
+}

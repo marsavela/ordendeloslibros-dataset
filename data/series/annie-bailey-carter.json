@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Annie Bailey/Carter",
+  "slug": "annie-bailey-carter",
+  "source": "https://www.orderofbooks.com/characters/annie-bailey-carter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Annie-Carter-by-Jessie-Keane.jpg",
+  "authors": [
+    {
+      "name": "Jessie Keane",
+      "slug": "jessie-keane"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dirty Game",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Black Widow",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Scarlet Women",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Playing Dead",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ruthless",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Stay Dead",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

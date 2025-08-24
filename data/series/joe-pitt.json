@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Joe Pitt",
+  "slug": "joe-pitt",
+  "source": "https://www.orderofbooks.com/characters/joe-pitt/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Joe-Pitt-by-Charlie-Huston.jpg",
+  "books": [
+    {
+      "title": "Already Dead",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "No Dominion",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Half the Blood of Brooklyn",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Every Last Drop",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "My Dead Body",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

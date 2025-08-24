@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Inspector Ramsay",
+  "slug": "inspector-ramsay",
+  "source": "https://www.orderofbooks.com/characters/inspector-ramsay/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Inspector-Ramsay-by-Ann-Cleeves.jpg",
+  "authors": [
+    {
+      "name": "Ann Cleeves",
+      "slug": "ann-cleeves"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Lesson In Dying",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder In My Backyard",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Day in the Death of Dorothea Cassidy",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Killjoy",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Healers",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Baby Snatcher",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

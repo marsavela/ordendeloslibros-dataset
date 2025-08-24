@@ -1,0 +1,1687 @@
+{
+  "type": "series",
+  "name": "Horus Heresy",
+  "slug": "horus-heresy",
+  "source": "https://www.orderofbooks.com/characters/horus-heresy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Horus-Heresy-by-Dan-Abnett.jpg",
+  "authors": [
+    {
+      "name": "Dan Abnett. The",
+      "slug": "dan-abnett-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "Visions of War",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Visions of Darkness",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Visions of Treachery",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "False Gods",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Horus Rising",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Galaxy in Flames",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Visions of Death: Iconic images of the Imperium, betrayal and war",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Flight of the Eisenstein",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Collected Visions",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fulgrim",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Descent of Angels",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Battle for the Abyss",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Legion",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Mechanicum",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Fallen Angels",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Tales of Heresy",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Nemesis",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "A Thousand Sons",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The First Heretic",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Prospero Burns",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Oath of Moment",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Legion of One",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Age of Darkness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Promethean Sun",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Last Remembrancer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Savage Weapons",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Iron Within",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Little Horus",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Face of Treachery",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Liar's Due",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Forgotten Sons",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Rebirth",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Outcast Dead",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Deliverance Lost",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Know No Fear",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Reflection Crack'd",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Feat of Iron",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Serpent Beneath",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Lion",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Primarchs",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Butcher's Nails",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Kryptos",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Fear to Tread",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Grey Angel",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Shadows of Treachery",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Angel Exterminatus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Brotherhood of the Storm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Lost Sons",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Sword of Truth",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Betrayer",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Warmaster",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Strike and Fade",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Veritas Ferrum",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "The Imperial Truth",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Dark Heart",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "The Gates of Terra",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "The Sigillite",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Burden of Duty & Grey Angel",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Wolf Hunt",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Mark of Calth",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Death of a Silversmith",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Distant Echoes of Old Night",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "The Divine Word",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Honour to the Dead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Scorched Earth",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "The Unremembered Empire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Censure",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Macragge's Honour",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Tallarn: Executioner",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Thief of Revelations",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Vulkan Lives",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "Khârn: The Eightfold Path",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "Cypher: Guardian of Order",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "The Wolf of Ash and Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Echoes of Ruin:",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Wolf's Claw",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "Templar",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "Ravenlord",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "Vengeful Spirit",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "The Devine Adoratrice",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "Scars",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "Heart of the Conquerer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "Sedition's Gate",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "The Damnation of Pythos",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "The Purge",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "The Long Night",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "Legacies of Betrayal",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "Child of Night",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "Daemonology",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "The Final Compliance of Sixty-Three Fourteen",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    },
+    {
+      "title": "The Seventh Serpent",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 91
+    },
+    {
+      "title": "Stratagem",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 92
+    },
+    {
+      "title": "Vorax",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 93
+    },
+    {
+      "title": "The Value of Fear",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 94
+    },
+    {
+      "title": "Brotherhood of the Moon",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 95
+    },
+    {
+      "title": "Garro: Shield of Lies",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 96
+    },
+    {
+      "title": "Imperfect",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 97
+    },
+    {
+      "title": "Sins of the Father",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 98
+    },
+    {
+      "title": "Howl of the Hearthworld",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 99
+    },
+    {
+      "title": "A Safe and Shadowed Place",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 100
+    },
+    {
+      "title": "Gunsight",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 101
+    },
+    {
+      "title": "Black Oculus",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 102
+    },
+    {
+      "title": "The Eagle's Talon",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 103
+    },
+    {
+      "title": "Wolf Mother",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 104
+    },
+    {
+      "title": "Twisted",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 105
+    },
+    {
+      "title": "Blades of the Traitor",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 106
+    },
+    {
+      "title": "Chirurgeon",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 107
+    },
+    {
+      "title": "Tallarn: Witness",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 108
+    },
+    {
+      "title": "Iron Corpses",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 109
+    },
+    {
+      "title": "Tallarn: Ironclad",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 110
+    },
+    {
+      "title": "Raptor",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 111
+    },
+    {
+      "title": "Hands of the Emperor",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 112
+    },
+    {
+      "title": "By the Lion's Command",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 113
+    },
+    {
+      "title": "Lord of the Red Sands",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 114
+    },
+    {
+      "title": "All That Remains",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 115
+    },
+    {
+      "title": "The Phoenician",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 116
+    },
+    {
+      "title": "Ironfire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 117
+    },
+    {
+      "title": "Meduson",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 118
+    },
+    {
+      "title": "Artefacts",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 119
+    },
+    {
+      "title": "Cybernetica",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 120
+    },
+    {
+      "title": "Wolf King",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 121
+    },
+    {
+      "title": "Deathfire",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 122
+    },
+    {
+      "title": "The Last Church",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 123
+    },
+    {
+      "title": "The Honoured",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 124
+    },
+    {
+      "title": "Pharos",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 125
+    },
+    {
+      "title": "Vow of Faith",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 126
+    },
+    {
+      "title": "The Either",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 127
+    },
+    {
+      "title": "The Heart of the Pharos",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 128
+    },
+    {
+      "title": "Eye of Terra",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 129
+    },
+    {
+      "title": "Tallarn: Siren",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 130
+    },
+    {
+      "title": "The Path of Heaven",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 131
+    },
+    {
+      "title": "The Silent War",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 132
+    },
+    {
+      "title": "Angels of Caliban",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 133
+    },
+    {
+      "title": "War Without End",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 134
+    },
+    {
+      "title": "Blackshield",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 135
+    },
+    {
+      "title": "Myriad",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 136
+    },
+    {
+      "title": "The Harrowing",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 137
+    },
+    {
+      "title": "The Unburdened",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 138
+    },
+    {
+      "title": "Praetorian of Dorn",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 139
+    },
+    {
+      "title": "Master of the First",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 140
+    },
+    {
+      "title": "Sons of the Forge",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 141
+    },
+    {
+      "title": "The Soul, Severed",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 142
+    },
+    {
+      "title": "The Last Son of Prospero",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 143
+    },
+    {
+      "title": "Virtues of the Sons",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 144
+    },
+    {
+      "title": "Ordo Sinister",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 145
+    },
+    {
+      "title": "The Ember Wolves",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 146
+    },
+    {
+      "title": "Shattered Legions",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 147
+    },
+    {
+      "title": "The Master of Mankind",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 148
+    },
+    {
+      "title": "Allegiance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 149
+    },
+    {
+      "title": "Perturabo: Hammer of Olympia",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 150
+    },
+    {
+      "title": "Dark Compliance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 151
+    },
+    {
+      "title": "Tallarn",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 152
+    },
+    {
+      "title": "Prince of Crows",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 153
+    },
+    {
+      "title": "Blackshields: The False War",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 154
+    },
+    {
+      "title": "Ruinstorm",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 155
+    },
+    {
+      "title": "The Laurel of Defiance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 156
+    },
+    {
+      "title": "The Crimson Fist",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 157
+    },
+    {
+      "title": "Aurelian",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 158
+    },
+    {
+      "title": "Serpent",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 159
+    },
+    {
+      "title": "Immortal Duty",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 160
+    },
+    {
+      "title": "Garro: Burden of Duty",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 161
+    },
+    {
+      "title": "Hunter's Moon",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 162
+    },
+    {
+      "title": "Old Earth",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 163
+    },
+    {
+      "title": "Garro: Ashes of Fealty",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 164
+    },
+    {
+      "title": "The Shadowmasters",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 165
+    },
+    {
+      "title": "Garro: Oath of Moment",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 166
+    },
+    {
+      "title": "Garro: Sword of Truth",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 167
+    },
+    {
+      "title": "Raven's Flight",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 168
+    },
+    {
+      "title": "Garro: Legion of One",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 169
+    },
+    {
+      "title": "Echoes of Revelation",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 170
+    },
+    {
+      "title": "Duty Waits",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 171
+    },
+    {
+      "title": "The Crimson King",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 172
+    },
+    {
+      "title": "Magisterium",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 173
+    },
+    {
+      "title": "Now Peals Midnight",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 174
+    },
+    {
+      "title": "Dreams of Unity",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 175
+    },
+    {
+      "title": "The Board is Set",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 176
+    },
+    {
+      "title": "Blood Games",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 177
+    },
+    {
+      "title": "The Burden of Loyalty",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 178
+    },
+    {
+      "title": "Corax",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 179
+    },
+    {
+      "title": "Wolfsbane",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 180
+    },
+    {
+      "title": "Born of Flame",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 181
+    },
+    {
+      "title": "Slaves to Darkness",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 182
+    },
+    {
+      "title": "Blackshields: The Red Fief",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 183
+    },
+    {
+      "title": "Two Metaphysical Blades",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 184
+    },
+    {
+      "title": "Prologue to Nikaea",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 185
+    },
+    {
+      "title": "Garro: Weapon of Fate",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 186
+    },
+    {
+      "title": "Heralds of the Siege",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 187
+    },
+    {
+      "title": "Titandeath",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 188
+    },
+    {
+      "title": "Abyssal",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 189
+    },
+    {
+      "title": "Visions of Heresy",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 190
+    },
+    {
+      "title": "Hubris of Monarchia",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 191
+    },
+    {
+      "title": "A Rose Watered with Blood",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 192
+    },
+    {
+      "title": "Nightfane",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 193
+    },
+    {
+      "title": "The Buried Dagger",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 194
+    },
+    {
+      "title": "Mercy of the Dragon",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 195
+    },
+    {
+      "title": "Blackshields: The Broken Chain",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 196
+    },
+    {
+      "title": "Valdor: Birth of the Imperium",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 197
+    },
+    {
+      "title": "The Serpent's Dance",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 198
+    },
+    {
+      "title": "The Lightning Hall",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 199
+    },
+    {
+      "title": "Luther: First of the Fallen",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 200
+    },
+    {
+      "title": "Errant Knights",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 201
+    },
+    {
+      "title": "Eater of Dreams",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 202
+    },
+    {
+      "title": "Sigismund: The Eternal Crusader",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 203
+    },
+    {
+      "title": "Lupercal's War",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 204
+    },
+    {
+      "title": "The Fields Of Abundance",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 205
+    },
+    {
+      "title": "Garro: Knight of Grey",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 206
+    },
+    {
+      "title": "Primacy",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 207
+    },
+    {
+      "title": "The Last Loyalist",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 208
+    },
+    {
+      "title": "Eidolon: The Auric Hammer",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 209
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Maximum Ride",
+  "slug": "maximum-ride",
+  "source": "https://www.orderofbooks.com/characters/maximum-ride/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/07/maximum-ride.jpg",
+  "authors": [
+    {
+      "name": "James Patterson",
+      "slug": "james-patterson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Angel Experiment",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "School's Out - Forever",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Saving the World and Other Extreme Sports",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Final Warning",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Max",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fang",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Angel",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Nevermore",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Maximum Ride Forever",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

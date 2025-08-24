@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Last Dragon Chronicles",
+  "slug": "last-dragon-chronicles",
+  "source": "https://www.orderofbooks.com/characters/last-dragon-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Last-Dragon-Chronicles-by-Chris-dLacey-500x200.jpg",
+  "books": [
+    {
+      "title": "The Fire Within",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Icefire",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire Star",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fire Eternal",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dark Fire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fire World",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Fire Ascending",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

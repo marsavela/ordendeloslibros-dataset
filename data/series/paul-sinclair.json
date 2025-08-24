@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Paul Sinclair",
+  "slug": "paul-sinclair",
+  "source": "https://www.orderofbooks.com/characters/paul-sinclair/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Paul-Sinclair-by-John-G-Hemry.jpg",
+  "books": [
+    {
+      "title": "A Just Determination",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Burden of Proof",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rule of Evidence",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Against All Enemies",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

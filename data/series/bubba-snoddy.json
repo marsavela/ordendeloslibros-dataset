@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Bubba Snoddy",
+  "slug": "bubba-snoddy",
+  "source": "https://www.orderofbooks.com/characters/bubba-snoddy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Bubba-Snoddy-by-CL-Bevill-500x200.jpg",
+  "authors": [
+    {
+      "name": "CL Bevill",
+      "slug": "cl-bevill"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bubba and the Dead Woman",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bubba and the 12 Deadly Days of Christmas",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bubba and the Missing Woman",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Brownie and the Dame",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bubba and the Mysterious Murder Note",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Ransom of Brownie",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bubba and the Zigzaggery Zombies",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bubba and the Ten Little Loonies",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bubba and the Wacky Wedding Wickedness",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Bubba and the Curious Cadaver",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bubba and the Curse of the Boogity-Boo",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Bubba and the Late Lamented Lassie",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Bubba and the Dead Guy",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

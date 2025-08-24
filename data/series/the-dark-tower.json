@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "The Dark Tower",
+  "slug": "the-dark-tower",
+  "source": "https://www.orderofbooks.com/characters/the-dark-tower/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/10/The-Dark-Tower.jpg",
+  "books": [
+    {
+      "title": "The Gunslinger",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Drawing of the Three",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Waste Lands",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wizard and Glass",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wolves of the Calla",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Song of Susannah",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Dark Tower",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Wind Through the Keyhole",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

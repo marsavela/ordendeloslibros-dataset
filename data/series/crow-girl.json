@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Crow Girl",
+  "slug": "crow-girl",
+  "source": "https://www.orderofbooks.com/characters/crow-girl/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Crow-Girl-by-Kate-Cann.jpg",
+  "books": [
+    {
+      "title": "Crow Girl",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crow Girl Returns",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Crow Girl Rises",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

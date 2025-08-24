@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Dragon Kin",
+  "slug": "dragon-kin",
+  "source": "https://www.orderofbooks.com/characters/dragon-kin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Dragon-Kin-by-GA-Aiken-Shelly-Laurenston.jpg",
+  "authors": [
+    {
+      "name": "GA Aiken Shelly Laurenston",
+      "slug": "ga-aiken-shelly-laurenston"
+    }
+  ],
+  "books": [
+    {
+      "title": "To Challenge A Dragon",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Chains & Flames",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "About a Dragon",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "What a Dragon Should Know",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Last Dragon Standing",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dragon Who Loved Me",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dragon on Top",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "How to Drive a Dragon Crazy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Tale of Two Dragons",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Light My Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Feel the Burn",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Bring the Heat",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Can't Get Enough",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

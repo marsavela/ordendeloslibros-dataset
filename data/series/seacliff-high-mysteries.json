@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Seacliff High Mysteries",
+  "slug": "seacliff-high-mysteries",
+  "source": "https://www.orderofbooks.com/characters/seacliff-high-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/11/Seacliff-High-Mysteries-by-Kathi-Daley.jpg",
+  "books": [
+    {
+      "title": "The Secret",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Curse",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Relic",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Conspiracy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Grudge",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Shadow",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Haunting",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

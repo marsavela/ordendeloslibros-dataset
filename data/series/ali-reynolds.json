@@ -1,0 +1,190 @@
+{
+  "type": "series",
+  "name": "Ali Reynolds",
+  "slug": "ali-reynolds",
+  "source": "https://www.orderofbooks.com/characters/ali-reynolds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Ali-Reynolds.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Ali Reynolds Books",
+      "books": [
+        {
+          "title": "Edge of Evil",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Web of Evil",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Hand of Evil",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Cruel Intent",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Trial by Fire",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Fatal Error",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Left for Dead",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Deadly Stakes",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Moving Target",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "A Last Goodbye",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Cold Betrayal",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "No Honor Among Thieves",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Clawback",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Random Acts",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Man Overboard",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Duel to the Death",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "The A List",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Taking the Veil",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Credible Threat",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "Unfinished Business",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Collateral Damage",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "OverKill",
+          "year": 2025,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        }
+      ]
+    }
+  }
+}

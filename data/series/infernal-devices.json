@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Infernal Devices",
+  "slug": "infernal-devices",
+  "source": "https://www.orderofbooks.com/characters/infernal-devices/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Infernal-Devices-by-Cassandra-Clare.jpg",
+  "authors": [
+    {
+      "name": "Cassandra Clare",
+      "slug": "cassandra-clare"
+    }
+  ],
+  "books": [
+    {
+      "title": "Clockwork Angel",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Clockwork Princess",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Clockwork Prince",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "After the Bridge",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

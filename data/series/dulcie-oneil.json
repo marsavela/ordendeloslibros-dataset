@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Dulcie O’Neil",
+  "slug": "dulcie-oneil",
+  "source": "https://www.orderofbooks.com/characters/dulcie-oneil/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Dulcie-ONeil-by-HP-Mallory-500x200.jpg",
+  "authors": [
+    {
+      "name": "HP Mallory",
+      "slug": "hp-mallory"
+    }
+  ],
+  "books": [
+    {
+      "title": "To Kill a Warlock",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Tale of Two Goblins",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Great Hexpectations",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wuthering Frights",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Malice in Wonderland",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "For Whom the Spell Tolls",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Eleven Snipers Sniping",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Midsummer Night's Scream",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Grave New World",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Pride and Poltergeists",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "What Screams May Come",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Vanity Scare",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Ghouls of Wrath",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

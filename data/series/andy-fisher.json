@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Andy Fisher",
+  "slug": "andy-fisher",
+  "source": "https://www.orderofbooks.com/characters/andy-fisher/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Andy-Fisher-by-Jim-DeFelice.jpg",
+  "books": [
+    {
+      "title": "Cyclops One",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Threat Level Black",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Helios Conspiracy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

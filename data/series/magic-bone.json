@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Magic Bone",
+  "slug": "magic-bone",
+  "source": "https://www.orderofbooks.com/characters/magic-bone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Magic-Bone-by-Nancy-Krulik-500x200.jpg",
+  "authors": [
+    {
+      "name": "Nancy Krulik",
+      "slug": "nancy-krulik"
+    }
+  ],
+  "books": [
+    {
+      "title": "Be Careful What You Sniff For",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Catch That Wave",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Follow That Furball",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nice Snowing You!",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Go Fetch!",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Don't Mess with the Ninja Puppy!",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dogs Don't Have Webbed Feet",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Rootin' Tootin' Cow Dog",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Pup Art",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Broadway Doggie",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Super Special",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Never Box with a Kangaroo",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

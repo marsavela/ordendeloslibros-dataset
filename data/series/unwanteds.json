@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Unwanteds",
+  "slug": "unwanteds",
+  "source": "https://www.orderofbooks.com/characters/unwanteds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Unwanteds-by-Lisa-McMann-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lisa McMann",
+      "slug": "lisa-mcmann"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Unwanteds",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Island of Silence",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Island of Fire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Island of Legends",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Island of Shipwrecks",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Island of Graves",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Island of Dragons",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

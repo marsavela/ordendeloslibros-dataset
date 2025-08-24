@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Jason Lynx",
+  "slug": "jason-lynx",
+  "source": "https://www.orderofbooks.com/characters/jason-lynx/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Jason-Lynx-by-AJ-Orde-Sheri-S-Tepper-500x200.jpg",
+  "authors": [
+    {
+      "name": "A.J. Orde",
+      "slug": "a-j-orde"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Little Neighbourhood Murder",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death and the Dogwalker",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death for Old Times' Sake",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Looking for the Aardvark / Dead on Sunday",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Long Time Dead",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Death of Innocents",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

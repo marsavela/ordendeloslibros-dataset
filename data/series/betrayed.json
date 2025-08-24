@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Betrayed",
+  "slug": "betrayed",
+  "source": "https://www.orderofbooks.com/characters/betrayed/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Betrayed-by-Carolyn-McCray.jpg",
+  "books": [
+    {
+      "title": "Ambush",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "30 Pieces of Silver",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Targeted",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Havoc",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Covert",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Shiva",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mayhem",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

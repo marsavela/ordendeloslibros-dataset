@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Dowser",
+  "slug": "dowser",
+  "source": "https://www.orderofbooks.com/characters/dowser/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/02/Dowser-by-Meghan-Ciana-Doidge.jpg",
+  "books": [
+    {
+      "title": "Cupcakes, Trinkets, and Other Deadly Magic",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Trinkets, Treasures, and Other Bloody Magic",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Treasures, Demons, and Other Black Magic",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadows, Maps, and Other Ancient Magic",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Maps, Artifacts, and Other Arcane Magic",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Artifacts, Dragons, and Other Lethal Magic",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Champagne, Misfits, and Other Shady Magic",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Misfits, Gemstones, and Other Shattered Magic",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Graveyards, Visions, and Other Things that Byte",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Gemstones, Elves, and Other Insidious Magic",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Soulmates, Doorways, and Other Unruly Magic",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

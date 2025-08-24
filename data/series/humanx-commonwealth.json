@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Humanx Commonwealth",
+  "slug": "humanx-commonwealth",
+  "source": "https://www.orderofbooks.com/characters/humanx-commonwealth/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Humanx-Commonwealth-by-Alan-Dean-Foster-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alan Dean Foster",
+      "slug": "alan-dean-foster"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Tar-Aiym Krang",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bloodhype",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The End of the Matter",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Orphan Star",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "For Love of Mother-Not",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Flinx in Flux",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mid-Flinx",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Reunion",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Flinx's Folly",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sliding Scales",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Running from the Deity",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Trouble Magnet",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Patrimony",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Flinx Transcendent",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Strange Music",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

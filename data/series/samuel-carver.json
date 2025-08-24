@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Samuel Carver",
+  "slug": "samuel-carver",
+  "source": "https://www.orderofbooks.com/characters/samuel-carver/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Samuel-Carver-by-Tom-Cain.jpg",
+  "books": [
+    {
+      "title": "The Accident Man",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "No Survivors / The Survivor",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Assassin",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dictator",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Carver",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Revenger",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "P Division",
+  "slug": "p-division",
+  "source": "https://www.orderofbooks.com/characters/p-division/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/04/P-Division-by-Peter-Turnbull.jpg",
+  "authors": [
+    {
+      "name": "Peter Turnbull",
+      "slug": "peter-turnbull"
+    }
+  ],
+  "books": [
+    {
+      "title": "Deep and Crisp and Even",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Knock",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fair Friday",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Big Money",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Two Way Cut",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Condition Purple",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "And Did Murder Him",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Long Day Monday",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Killing Floor",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Man with No Face",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

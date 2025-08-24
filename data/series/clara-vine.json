@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Clara Vine",
+  "slug": "clara-vine",
+  "source": "https://www.orderofbooks.com/characters/clara-vine/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/03/Clara-Vine-by-Jane-Thynne.jpg",
+  "books": [
+    {
+      "title": "Black Roses",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Winter Garden / Woman in the Shadows",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A War of Flowers / The Scent of Secrets",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Faith and Beauty / The Pursuit of Pearls",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Solitaire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

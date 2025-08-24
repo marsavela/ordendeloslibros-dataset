@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Bad Luck Wedding",
+  "slug": "bad-luck-wedding",
+  "source": "https://www.orderofbooks.com/characters/bad-luck-wedding/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Bad-Luck-Wedding-by-Geralyn-Dawson-Emily-March.jpg",
+  "authors": [
+    {
+      "name": "Geralyn Dawson Emily March",
+      "slug": "geralyn-dawson-emily-march"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Bad Luck Wedding Dress",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bad Luck Wedding Cake",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Simmer All Night",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sizzle All Day",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bad Luck Wedding Night",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Her Bodyguard",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Her Scoundrel",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Her Outlaw",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

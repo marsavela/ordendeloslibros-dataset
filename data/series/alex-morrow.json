@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "name": "Alex Morrow",
+  "slug": "alex-morrow",
+  "source": "https://www.orderofbooks.com/characters/alex-morrow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Alex-Morrow-by-Denise-Mina.jpg",
+  "authors": [
+    {
+      "name": "Denise Mina",
+      "slug": "denise-mina"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alex Morrow Books",
+      "books": [
+        {
+          "title": "Still Midnight",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The End of the Wasp Season",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Gods and Beasts",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Red Road",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Blood Salt Water",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        }
+      ]
+    }
+  }
+}

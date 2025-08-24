@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Anna Fehrbach",
+  "slug": "anna-fehrbach",
+  "source": "https://www.orderofbooks.com/characters/anna-fehrbach/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Anna-Fehrbach-by-Christopher-Nicole.jpg",
+  "books": [
+    {
+      "title": "Angel from Hell",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Angel in Red",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Angel of Vengeance",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Angel in Jeopardy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Angel of Doom",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Angel Rising",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Angel of Destruction",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Angel of Darkness",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Five Hundred Kingdoms",
+  "slug": "five-hundred-kingdoms",
+  "source": "https://www.orderofbooks.com/characters/five-hundred-kingdoms/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Tales-of-the-Five-Hundred-Kingdoms-by-Mercedes-Lackey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mercedes Lackey",
+      "slug": "mercedes-lackey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fairy Godmother",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "One Good Knight",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fortune's Fool",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Snow Queen",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Sleeping Beauty",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Beauty and the Werewolf",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Tangled Web",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Tale of the Five Hundred Kingdoms Volume 3: A Fantasy Romance Novel",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

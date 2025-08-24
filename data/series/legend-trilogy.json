@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Legend Trilogy",
+  "slug": "legend-trilogy",
+  "source": "https://www.orderofbooks.com/characters/legend-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Legend-by-Marie-Lu.jpg",
+  "authors": [
+    {
+      "name": "Marie Lu",
+      "slug": "marie-lu"
+    }
+  ],
+  "books": [
+    {
+      "title": "Legend",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Prodigy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Champion",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Life After Legend",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Life After Legend II",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rebel",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

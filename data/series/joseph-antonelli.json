@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Joseph Antonelli",
+  "slug": "joseph-antonelli",
+  "source": "https://www.orderofbooks.com/characters/joseph-antonelli/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Joseph-Antonelli-by-DW-Buffa.jpg",
+  "books": [
+    {
+      "title": "The Defense",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Prosecution",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Judgment",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Legacy",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Star Witness",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Breach of Trust",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Trial by Fire",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Privilege",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

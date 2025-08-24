@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Mainely Needlepoint Mysteries",
+  "slug": "mainely-needlepoint-mysteries",
+  "source": "https://www.orderofbooks.com/characters/mainely-needlepoint-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Mainely-Needlepoint-Mysteries-by-Lea-Wait-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lea Wait",
+      "slug": "lea-wait"
+    }
+  ],
+  "books": [
+    {
+      "title": "Twisted Threads",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Threads of Evidence",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Thread and Gone",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dangling by a Thread",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tightening the Threads",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Thread the Halls",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Thread Herrings",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Thread on Arrival",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Thread and Buried",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

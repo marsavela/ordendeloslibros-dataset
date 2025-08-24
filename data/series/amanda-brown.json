@@ -1,0 +1,52 @@
+{
+  "type": "series",
+  "name": "Amanda Brown",
+  "slug": "amanda-brown",
+  "source": "https://www.orderofbooks.com/characters/amanda-brown/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Amanda-Brown-Belgian-Congo-Mysteries-by-Tamar-Myers-500x200.jpg",
+  "authors": [
+    {
+      "name": "Belgian Congo-born",
+      "slug": "belgian-congo-born"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amanda Brown Books",
+      "books": [
+        {
+          "title": "The Witch Doctor's Wife",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Headhunter's Daughter",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Boy Who Stole the Leopard's Spots",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Girl Who Married an Eagle",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    }
+  }
+}

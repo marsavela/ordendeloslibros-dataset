@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Second Chances",
+  "slug": "second-chances",
+  "source": "https://www.orderofbooks.com/characters/second-chances/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Second-Chance-by-Melody-Carlson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Melody Carlson",
+      "slug": "melody-carlson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wise Man's House / Built with Love",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Heartland Skies",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shades of Light",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Looking for Cassandra Jane",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Armando's Treasure",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Built With Love",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

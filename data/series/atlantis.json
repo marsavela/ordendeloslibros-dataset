@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Atlantis",
+  "slug": "atlantis",
+  "source": "https://www.orderofbooks.com/characters/atlantis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Atlantis-by-Bob-Mayer-Greg-Donegan-Robert-Doherty.jpg",
+  "books": [
+    {
+      "title": "Atlantis",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bermuda Triangle",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Devil's Sea",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Atlantis Gate",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Assault on Atlantis",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Battle for Atlantis",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

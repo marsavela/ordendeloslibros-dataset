@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Emma Caldridge",
+  "slug": "emma-caldridge",
+  "source": "https://www.orderofbooks.com/characters/emma-caldridge/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Emma-Caldridge-by-Jamie-Freveletti-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jamie Freveletti",
+      "slug": "jamie-freveletti"
+    }
+  ],
+  "books": [
+    {
+      "title": "Running from the Devil",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Running Dark",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ninth Day",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead Asleep",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Risk",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gone",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Run",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Blood Run",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

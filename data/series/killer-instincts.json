@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Killer Instincts",
+  "slug": "killer-instincts",
+  "source": "https://www.orderofbooks.com/characters/killer-instincts/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Killer-Instincts-by-Elle-Kennedy-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elle Kennedy",
+      "slug": "elle-kennedy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Midnight Rescue",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Midnight Alias",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Midnight Games",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Midnight Pursuits",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "After Midnight",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Midnight Action",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Midnight Captive",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Midnight Revenge",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Midnight Target",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

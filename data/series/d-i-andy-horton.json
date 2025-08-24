@@ -1,0 +1,161 @@
+{
+  "type": "series",
+  "name": "D.I. Andy Horton",
+  "slug": "d-i-andy-horton",
+  "source": "https://www.orderofbooks.com/characters/di-andy-horton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/DI-Andy-Horton-by-Pauline-Rowson.jpg",
+  "books": [
+    {
+      "title": "Tide of Death / The Portsmouth Murders",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deadly Waters / The Langstone Harbour Murders",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Suffocating Sea / The Horsea Marina Murders",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead Man's Wharf / The Royal Hotel Murders",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood on the Sand / The Isle of Wight Murders",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Footsteps on the Shore / The Portchester Castle Murders",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Killing Coast / The Chale Bay Murders",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death Lies Beneath / The Farlington Marsh Murders",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Undercurrent / The Oyster Quays Murders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Death Surge / The Cowes Week Murders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Shroud of Evil / The Boathouse Murders",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Fatal Catch / The Thorney Island Murders",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Lethal Waves / The Guernsey Ferry Murders",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Dead Passage / The Rat Island Murders",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "A Deadly Wake / The Luccombe Bay Murders",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The South Binness Murders",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Hayling Island Murders",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Chidham Creek Murders",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Tipner Lake Murders",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

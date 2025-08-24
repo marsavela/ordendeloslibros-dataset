@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Jim Chapel Missions",
+  "slug": "jim-chapel-missions",
+  "source": "https://www.orderofbooks.com/characters/jim-chapel-missions/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Jim-Chapel-Missions-by-David-Wellington.jpg",
+  "authors": [
+    {
+      "name": "David Wellington",
+      "slug": "david-wellington"
+    }
+  ],
+  "books": [
+    {
+      "title": "Chimera",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Minotaur",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Myrmidon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hydra Protocol",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Cyclops Initiative",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

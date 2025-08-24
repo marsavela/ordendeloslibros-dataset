@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Honey Diaries",
+  "slug": "honey-diaries",
+  "source": "https://www.orderofbooks.com/characters/honey-diaries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Honey-Diaries-by-Mary-B-Morrison-500x200.jpg",
+  "books": [
+    {
+      "title": "Sweeter Than Honey",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Who's Loving You",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Unconditionally Single",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darius Jones",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

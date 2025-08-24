@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Cryptid Hunters",
+  "slug": "cryptid-hunters",
+  "source": "https://www.orderofbooks.com/characters/cryptid-hunters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Grace-and-Marty-Crypid-Hunters-by-Roland-Smith-500x200.jpg",
+  "authors": [
+    {
+      "name": "Roland Smith",
+      "slug": "roland-smith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cryptid Hunters / Jungle Hunters",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tentacles",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Chupacabra",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mutation",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

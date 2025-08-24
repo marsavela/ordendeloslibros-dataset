@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Dancing Gods",
+  "slug": "dancing-gods",
+  "source": "https://www.orderofbooks.com/characters/dancing-gods/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Dancing-Gods-by-Jack-L-Chalker.jpg",
+  "books": [
+    {
+      "title": "The River of Dancing Gods",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Demons of the Dancing Gods",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Vengeance of the Dancing Gods",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Songs of the Dancing Gods",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Horrors of the Dancing Gods",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

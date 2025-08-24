@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Myrtle Crumb",
+  "slug": "myrtle-crumb",
+  "source": "https://www.orderofbooks.com/characters/myrtle-crumb/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Myrtle-Crumb-by-Gayle-Trent-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gayle Trent",
+      "slug": "gayle-trent"
+    }
+  ],
+  "books": [
+    {
+      "title": "Between a Clutch and a Hard Place",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "When Good Bras Go Bad",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Claus of Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Soup...Er...Myrtle!",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Perp and Circumstance",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Party Line",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

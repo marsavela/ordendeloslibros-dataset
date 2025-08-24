@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Tortall",
+  "slug": "tortall",
+  "source": "https://www.orderofbooks.com/characters/tortall/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Tortall-by-Tamora-Pierce.jpg",
+  "authors": [
+    {
+      "name": "Tamora Pierce",
+      "slug": "tamora-pierce"
+    }
+  ],
+  "books": [
+    {
+      "title": "Alanna: The First Adventure",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In the Hand of the Goddess",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Woman Who Rides Like a Man",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lioness Rampant",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

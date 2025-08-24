@@ -1,0 +1,54 @@
+{
+  "type": "series",
+  "name": "Abby Sinclair/Tess McCallum",
+  "slug": "abby-sinclair-tess-mccallum",
+  "source": "https://www.orderofbooks.com/characters/abby-sinclair-tess-mccallum/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Abby-Sinclair-and-Tess-McCallum-by-Michael-Prescott.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Abby Sinclair & Tess McCallum Books",
+      "books": [
+        {
+          "title": "The Shadow Hunter",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Next Victim",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Dangerous Games",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Mortal Faults",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Final Sins",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        }
+      ]
+    }
+  }
+}

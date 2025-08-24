@@ -1,0 +1,54 @@
+{
+  "type": "series",
+  "name": "Abram’s Daughters",
+  "slug": "abrams-daughters",
+  "source": "https://www.orderofbooks.com/characters/abrams-daughters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Abrams-Daughters-by-Beverly-Lewis.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Abram's Daughters Books",
+      "books": [
+        {
+          "title": "The Covenant",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Betrayal",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Sacrifice",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Prodigal",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Revelation",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        }
+      ]
+    }
+  }
+}

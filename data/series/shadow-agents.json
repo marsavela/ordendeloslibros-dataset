@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Shadow Agents",
+  "slug": "shadow-agents",
+  "source": "https://www.orderofbooks.com/characters/shadow-agents/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Shadow-Agents-Guts-and-Glory-by-Cynthia-Eden.jpg",
+  "authors": [
+    {
+      "name": "Cynthia Eden",
+      "slug": "cynthia-eden"
+    }
+  ],
+  "books": [
+    {
+      "title": "Alpha One",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Guardian Ranger",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sharpshooter",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Glitter and Gunfire / Bulletproof / Bullet Proof",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Undercover Captor",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Girl Next Door",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Evidence of Passion",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Way of the Shadows",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

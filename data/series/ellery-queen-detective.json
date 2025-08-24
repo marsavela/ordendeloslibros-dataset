@@ -1,0 +1,455 @@
+{
+  "type": "series",
+  "name": "Ellery Queen Detective",
+  "slug": "ellery-queen-detective",
+  "source": "https://www.orderofbooks.com/characters/ellery-queen-detective/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Ellery-Queen-Detective.jpg",
+  "authors": [
+    {
+      "name": "Theodore Sturgeon. And On",
+      "slug": "theodore-sturgeon-and-on"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Roman Hat Mystery",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The French Powder Mystery",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dutch Shoe Mystery",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Greek Coffin Mystery",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Egyptian Cross Mystery",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The American Gun Mystery / Death at the Rodeo",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Siamese Twin Mystery",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Chinese Orange Mystery",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Lamp of God",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Spanish Cape Mystery",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Halfway House",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Door Between",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Four of Hearts",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Devil to Pay",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Dragon's Teeth / The Virgin Heiresses",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Penthouse Mystery",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Calamity Town",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Perfect Crime",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "There Was an Old Woman / The Quick and the Dead",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Murderer is a Fox",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Ten Days' Wonder",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Cat of Many Tails",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Double, Double / The Case of the Seven Murders",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Origin of Evil",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The King is Dead",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Golden Summer",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Scarlet Letters",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Glass Village",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Inspector Queen's Own Case",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Finishing Stroke",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Queens Full",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Dead Man's Tale",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Death Spins the Platter",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Player On Other Side",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Kill as Directed",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Murder with a Past",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "And on the Eighth Day",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Four Men Called John",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Ellery Queen's Lethal Black Book",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Fourth Side of the Triangle",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "A Study in Terror",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Losers, weepers",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Shoot The Scene",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The Madman Theory",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Face to Face",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The House of Brass",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Q.E.D. Queen's Experiments in Detection",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "House of Brass",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Devil's Cook",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Cop Out",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "The Last Woman in His Life",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Ellery Queen's Poetic Justice",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "A Fine and Private Place",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Blow Hot Blow Cold",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "Ellery Queen, Master Detective",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    }
+  ]
+}

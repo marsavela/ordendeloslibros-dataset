@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Tyrant",
+  "slug": "tyrant",
+  "source": "https://www.orderofbooks.com/characters/tyrant/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Tyrant-by-Christian-Cameron.jpg",
+  "authors": [
+    {
+      "name": "Christian Cameron",
+      "slug": "christian-cameron"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tyrant",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Storm of Arrows",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Funeral Games",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "King of the Bosporus",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Destroyer of Cities",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Force of Kings",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

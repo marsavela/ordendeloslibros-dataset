@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Hart and Drake",
+  "slug": "hart-and-drake",
+  "source": "https://www.orderofbooks.com/characters/hart-and-drake/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Hart-and-Drake-by-CJ-Lyons.jpg",
+  "books": [
+    {
+      "title": "Nerves of Steel",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sleight of Hand",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Face to Face",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eye of the Storm",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

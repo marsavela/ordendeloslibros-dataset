@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Twelve Kingdoms",
+  "slug": "twelve-kingdoms",
+  "source": "https://www.orderofbooks.com/characters/twelve-kingdoms/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/twelve-kingdoms-500x200.jpg",
+  "books": [
+    {
+      "title": "The Mark of the Tala",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tears of the Rose",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Negotiation",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Talon of the Hawk",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Heart's Blood",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Jessica Jones",
+  "slug": "jessica-jones",
+  "source": "https://www.orderofbooks.com/characters/jessica-jones/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Jessica-Jones-by-Christopher-Nicole.jpg",
+  "books": [
+    {
+      "title": "The Search",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Poor Darling",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pursuit",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Voyage",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Followers",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Fearful Thing",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

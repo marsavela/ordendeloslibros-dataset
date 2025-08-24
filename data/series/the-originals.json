@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "The Originals",
+  "slug": "the-originals",
+  "source": "https://www.orderofbooks.com/characters/the-originals/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/the-originals-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julie Plec",
+      "slug": "julie-plec"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Rise",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Loss",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Resurrection",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

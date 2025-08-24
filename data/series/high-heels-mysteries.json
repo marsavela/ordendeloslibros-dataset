@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "High Heels Mysteries",
+  "slug": "high-heels-mysteries",
+  "source": "https://www.orderofbooks.com/characters/high-heels-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Maddie-Springer-High-Heels-Mysteries-by-Gemma-Halliday.jpg",
+  "authors": [
+    {
+      "name": "Gemma Halliday",
+      "slug": "gemma-halliday"
+    }
+  ],
+  "books": [
+    {
+      "title": "Spying in High Heels",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Undercover in High Heels",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Alibi in High Heels",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mayhem in High Heels",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fearless in High Heels",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Killer in High Heels",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Danger in High Heels",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Homicide in High Heels",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Deadly in High Heels",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Suspect in High Heels",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Peril in High Heels",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Jeopardy in High Heels",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Deceit in High Heels",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

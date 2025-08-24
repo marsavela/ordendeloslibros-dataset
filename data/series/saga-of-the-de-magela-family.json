@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Saga Of The De Magela Family",
+  "slug": "saga-of-the-de-magela-family",
+  "source": "https://www.orderofbooks.com/characters/saga-of-the-de-magela-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/Saga-of-the-de-Magela-Family-by-Abigail-Keam-500x200.jpg",
+  "authors": [
+    {
+      "name": "Abigail Keam",
+      "slug": "abigail-keam"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wall of Doom",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wall of Peril",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wall of Glory",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wall of Conquest",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wall of Victory",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

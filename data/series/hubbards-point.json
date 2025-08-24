@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Hubbard’s Point",
+  "slug": "hubbards-point",
+  "source": "https://www.orderofbooks.com/characters/hubbards-point/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Hubbards-Point-Black-Hall-by-Luanne-Rice.jpg",
+  "authors": [
+    {
+      "name": "Luanne Rice",
+      "slug": "luanne-rice"
+    }
+  ],
+  "books": [
+    {
+      "title": "Firefly Beach",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Safe Harbor",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "True Blue",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Perfect Summer",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beach Girls",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Last Kiss",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Night Before",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

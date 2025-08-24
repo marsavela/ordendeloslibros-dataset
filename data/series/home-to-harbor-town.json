@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Home To Harbor Town",
+  "slug": "home-to-harbor-town",
+  "source": "https://www.orderofbooks.com/characters/home-to-harbor-town/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Home-To-Harbor-Town-by-Beth-Kery-500x200.jpg",
+  "authors": [
+    {
+      "name": "Beth Kery",
+      "slug": "beth-kery"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hometown Hero Returns",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Liam's Perfect Woman",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Claiming Colleen",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "One in a Billion",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Soldier's Baby Bargain",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

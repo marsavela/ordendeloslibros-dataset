@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Mystery Of Alexander The Great",
+  "slug": "mystery-of-alexander-the-great",
+  "source": "https://www.orderofbooks.com/characters/mystery-of-alexander-the-great/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Mystery-of-Alexander-the-Great-by-Paul-Doherty-Anna-Apostolou-500x200.jpg",
+  "authors": [
+    {
+      "name": "Paul Doherty Anna Apostolou",
+      "slug": "paul-doherty-anna-apostolou"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Murder in Macedon",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Murder in Thebes",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "House of Death",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Godless Man",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Gates of Hell",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

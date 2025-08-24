@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Mostly Ghostly",
+  "slug": "mostly-ghostly",
+  "source": "https://www.orderofbooks.com/characters/mostly-ghostly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Mostly-Ghostly-by-RL-Stine.jpg",
+  "books": [
+    {
+      "title": "Who Let the Ghosts Out?",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Have You Met My Ghoulfriend?",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "One Night in Doom House",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Little Camp of Horrors",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ghouls Gone Wild",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Let's Get This Party Haunted!",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Freaks and Shrieks",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Don't Close Your Eyes!",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

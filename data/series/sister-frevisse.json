@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Sister Frevisse",
+  "slug": "sister-frevisse",
+  "source": "https://www.orderofbooks.com/characters/sister-frevisse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Sister-Frevisse-Medieval-Mysteries-by-Margaret-Frazer.jpg",
+  "authors": [
+    {
+      "name": "Margaret Frazer",
+      "slug": "margaret-frazer"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Novice's Tale",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Servant's Tale",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Outlaw's Tale",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Bishop's Tale",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Boy's Tale",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Murderer's Tale",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Prioress' Tale",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Maiden's Tale",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Reeve's Tale",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Squire's Tale",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Clerk's Tale",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Bastard's Tale",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Hunter's Tale",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Widow's Tale",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Sempster's Tale",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Traitor's Tale",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Apostate's Tale",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Note: The first six Sister Frevisse books were written with Mary Monica Pulver together under the \"Margaret Frazer\" pen name.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

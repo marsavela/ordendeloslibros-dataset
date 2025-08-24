@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Prada Plan",
+  "slug": "prada-plan",
+  "source": "https://www.orderofbooks.com/characters/prada-plan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Prada-by-Ashley-Antoinette.jpg",
+  "books": [
+    {
+      "title": "The Prada Plan",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Prada Plan 2: Leah's Story",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Prada Plan 3: Green-Eyed Monster",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Prada Plan 4: Love and War",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Prada Plan 5",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

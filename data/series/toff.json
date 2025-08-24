@@ -1,0 +1,481 @@
+{
+  "type": "series",
+  "name": "Toff",
+  "slug": "toff",
+  "source": "https://www.orderofbooks.com/characters/toff/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/08/Toff-by-John-Creasey.jpg",
+  "books": [
+    {
+      "title": "Introducing the Toff",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Toff Goes On",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Toff Steps Out",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Here Comes the Toff",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Toff Breaks In",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Salute the Toff",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Toff Proceeds",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Toff Goes to Market",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Toff is Back",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Toff Among the Millions",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Accuse the Toff",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Toff and the Curate / The Toff and the Deadly Parson / The Toff and the Deadly Priest",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Toff and the Great Illusion",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Feathers for the Toff",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Toff and the Lady",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Toff on Ice / Poison for the Toff",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Hammer the Toff",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Toff in Town",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Toff Takes Shares",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Toff and Old Harry",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Toff on Board",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Fool the Toff",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Kill the Toff",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "A Knife for the Toff",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "A Mask for the Toff / The Toff Goes Gay",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Hunt the Toff",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Call the Toff",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Toff Down Under / Break the Toff",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Murder Out of the Past",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Toff at Camp / The Toff at Butlin's",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Toff at the Fair / Last Laugh for the Toff",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Six for the Toff / A Score for the Toff",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Toff and the Deep Blue Sea",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Make-Up for the Toff / Kiss the Toff",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Toff in New York",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Model for the Toff",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Toff on Fire",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Toff and the Stolen Tresses",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Terror for the Toff / The Toff on the Farm",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Double for the Toff",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Toff and the Runaway Bride",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "A Doll for the Toff",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "A Rocket for the Toff",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The Toff and the Kidnapped Child",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Follow the Toff",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Toff and the Toughs / The Toff and the Teds",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Leave it to the Toff",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "The Toff and the Spider",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Toff in Wax",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "A Bundle for the Toff",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Stars for the Toff",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "The Toff and the Golden Boy",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "The Toff and the Fallen Angels",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Vote for the Toff",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "The Toff and the Trip-Trip-Triplets",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "The Toff and the Terrified Taxman",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "The Toff and the Sleepy Cowboy",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "The Toff and the Crooked Copper",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "The Toff and the Dead Man's Finger",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Roaring Twenties",
+  "slug": "roaring-twenties",
+  "source": "https://www.orderofbooks.com/characters/roaring-twenties/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/roaring-twenties-500x200.jpg",
+  "books": [
+    {
+      "title": "Bitter Spirits",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Grim Shadows",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Grave Phantoms",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

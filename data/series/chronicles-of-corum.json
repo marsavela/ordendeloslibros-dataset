@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Chronicles Of Corum",
+  "slug": "chronicles-of-corum",
+  "source": "https://www.orderofbooks.com/characters/chronicles-of-corum/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Chronicles-of-Corum-by-Michael-Moorcock.jpg",
+  "books": [
+    {
+      "title": "The Knight of the Swords",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Queen of the Swords",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The King of the Swords",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Bull and the Spear",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Oak and the Ram",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Sword and the Stallion",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

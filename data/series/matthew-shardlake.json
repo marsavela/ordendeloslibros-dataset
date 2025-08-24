@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Matthew Shardlake",
+  "slug": "matthew-shardlake",
+  "source": "https://www.orderofbooks.com/characters/matthew-shardlake/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Matthew-Shardlake-Mysteries-by-CJ-Sansom-500x200.jpg",
+  "authors": [
+    {
+      "name": "CJ Sansom",
+      "slug": "cj-sansom"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dissolution",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dark Fire",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sovereign",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Revelation",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Heartstone",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lamentation",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Tombland",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

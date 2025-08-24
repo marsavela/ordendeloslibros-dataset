@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Dragonlance",
+  "slug": "dragonlance",
+  "source": "https://www.orderofbooks.com/characters/dragonlance/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Dragonlance-500x200.jpg",
+  "books": [
+    {
+      "title": "Dragons of Autumn Twilight",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dragons of Winter Night",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dragons of Spring Dawning",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dragons of Summer Flame",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Good Buy Girls Mysteries",
+  "slug": "good-buy-girls-mysteries",
+  "source": "https://www.orderofbooks.com/characters/good-buy-girls-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Good-Buy-Girls-Mysteries-by-Josie-Belle-Jenn-McKinlay.jpg",
+  "authors": [
+    {
+      "name": "Josie Belle Jenn McKinlay",
+      "slug": "josie-belle-jenn-mckinlay"
+    }
+  ],
+  "books": [
+    {
+      "title": "50% Off Murder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Deal to Die For",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Buried in Bargains",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Marked Down for Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "All Sales Final",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

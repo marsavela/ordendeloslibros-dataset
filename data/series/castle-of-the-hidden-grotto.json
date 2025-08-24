@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Castle Of The Hidden Grotto",
+  "slug": "castle-of-the-hidden-grotto",
+  "source": "https://www.orderofbooks.com/characters/castle-of-the-hidden-grotto/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Castle-of-the-Hidden-Grotto-by-Louisa-Burton-Patricia-Ryan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Louisa Burton Patricia Ryan",
+      "slug": "louisa-burton-patricia-ryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "House of Dark Delights",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bound in Moonlight",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Whispers of the Flesh",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "In the Garden of Sin",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

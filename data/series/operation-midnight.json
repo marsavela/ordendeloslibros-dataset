@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Operation: Midnight",
+  "slug": "operation-midnight",
+  "source": "https://www.orderofbooks.com/characters/operation-midnight/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Operating-Midnight-by-Linda-Castillo.jpg",
+  "books": [
+    {
+      "title": "Operation: Midnight Tango",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Operation: Midnight Escape",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Operation: Midnight Guardian",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Operation: Midnight Rendezvous",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Operation: Midnight Cowboy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

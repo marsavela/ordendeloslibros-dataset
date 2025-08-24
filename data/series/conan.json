@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Conan",
+  "slug": "conan",
+  "source": "https://www.orderofbooks.com/characters/conan/",
+  "image": "https://www.orderofbooks.com/images/bn-banner.png",
+  "books": [
+    {
+      "title": "Conan the Conqueror / The Hour of the Dragon",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sword of Conan",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "King Conan",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Coming of Conan",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Conan the Barbarian",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tales of Conan",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Return of Conan",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

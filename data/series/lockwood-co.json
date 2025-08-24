@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Lockwood & Co.",
+  "slug": "lockwood-co",
+  "source": "https://www.orderofbooks.com/characters/lockwood-co/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/Lockwood-and-Co-by-Jonathan-Stroud.jpg",
+  "books": [
+    {
+      "title": "The Screaming Staircase",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dagger in the Desk",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Whispering Skull",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hollow Boy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Creeping Shadow",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Empty Grave",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

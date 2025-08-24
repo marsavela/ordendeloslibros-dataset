@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Star Carrier",
+  "slug": "star-carrier",
+  "source": "https://www.orderofbooks.com/characters/star-carrier/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Star-Carrier-by-Ian-Douglas-William-H-Keith-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ian Douglas William",
+      "slug": "ian-douglas-william"
+    }
+  ],
+  "books": [
+    {
+      "title": "Earth Strike",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Center of Gravity",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Singularity",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deep Space",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dark Matter",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deep Time",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dark Mind",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bright Light",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Stargods",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

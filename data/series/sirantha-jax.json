@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Sirantha Jax",
+  "slug": "sirantha-jax",
+  "source": "https://www.orderofbooks.com/characters/sirantha-jax/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Sirantha-Jax-by-Ann-Aguirre.jpg",
+  "authors": [
+    {
+      "name": "Ann Aguirre",
+      "slug": "ann-aguirre"
+    }
+  ],
+  "books": [
+    {
+      "title": "Grimspace",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wanderlust",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Doubleblind",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Killbox",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Aftermath",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Endgame",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

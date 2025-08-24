@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Born In Blood Mafia Chronicles",
+  "slug": "born-in-blood-mafia-chronicles",
+  "source": "https://www.orderofbooks.com/characters/born-in-blood-mafia-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/born-in-blood-mafia-chronicles-500x200.jpg",
+  "authors": [
+    {
+      "name": "Cora Reilly.",
+      "slug": "cora-reilly"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bound by Honor",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bound by Duty",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bound by Hatred",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bound by Temptation",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bound by Vengeance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bound by Love",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Luca Vitiello",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bound By The Past",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bound By Blood: Anthology",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

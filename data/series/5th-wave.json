@@ -1,0 +1,44 @@
+{
+  "type": "series",
+  "name": "5th Wave",
+  "slug": "5th-wave",
+  "source": "https://www.orderofbooks.com/characters/5th-wave/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/12/5th-Wave-by-Rick-Yancey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rick Yancey",
+      "slug": "rick-yancey"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Fifth Wave Books",
+      "books": [
+        {
+          "title": "The 5th Wave",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Infinite Sea",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Last Star",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        }
+      ]
+    }
+  }
+}

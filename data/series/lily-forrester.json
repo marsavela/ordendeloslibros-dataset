@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Lily Forrester",
+  "slug": "lily-forrester",
+  "source": "https://www.orderofbooks.com/characters/lily-forrester/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Lily-Forrester-by-Nancy-Taylor-Rosenberg.jpg",
+  "authors": [
+    {
+      "name": "Nancy Taylor Rosenberg",
+      "slug": "nancy-taylor-rosenberg"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mitigating Circumstances",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Buried Evidence",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cheater",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "My Lost Daughter",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

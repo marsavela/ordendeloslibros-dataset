@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Night",
+  "slug": "night",
+  "source": "https://www.orderofbooks.com/characters/night/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Night-by-John-Lutz.jpg",
+  "books": [
+    {
+      "title": "The Night Caller",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Night Watcher",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Night Spider / Night Victims",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fear the Night",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Chill of Night",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

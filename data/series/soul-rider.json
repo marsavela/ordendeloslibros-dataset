@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Soul Rider",
+  "slug": "soul-rider",
+  "source": "https://www.orderofbooks.com/characters/soul-rider/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Soul-Rider-by-Jack-L-Chalker.jpg",
+  "books": [
+    {
+      "title": "Spirits of Flux and Anchor",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Empires of Flux and Anchor",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Masters of Flux and Anchor",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Birth of Flux and Anchor",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Children of Flux and Anchor",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

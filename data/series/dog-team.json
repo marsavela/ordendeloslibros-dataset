@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Dog Team",
+  "slug": "dog-team",
+  "source": "https://www.orderofbooks.com/characters/dog-team/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Dog-Team-by-William-W-Johnstone.jpg",
+  "books": [
+    {
+      "title": "The Last of the Dog Team",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Return of the Dog Team",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Revenge of the Dog Team",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Target Response",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

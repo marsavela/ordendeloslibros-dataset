@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Blue Heron",
+  "slug": "blue-heron",
+  "source": "https://www.orderofbooks.com/characters/blue-heron/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Blue-Heron-by-Kristan-Higgins.jpg",
+  "authors": [
+    {
+      "name": "Kristan Higgins",
+      "slug": "kristan-higgins"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Best Man",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Perfect Match",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Waiting on You",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "In Your Dreams",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Anything for You",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

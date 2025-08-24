@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Philip Mercer",
+  "slug": "philip-mercer",
+  "source": "https://www.orderofbooks.com/characters/philip-mercer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Philip-Mercer-by-Jack-Du-Brul.jpg",
+  "books": [
+    {
+      "title": "Vulcan's Forge",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Charon's Landing",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Medusa Stone",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pandora's Curse",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "River Of Ruin",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deep Fire Rising",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Havoc",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Lightning Stones",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

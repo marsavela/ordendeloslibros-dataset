@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Sixkiller: U.S. Marshal",
+  "slug": "sixkiller-u-s-marshal",
+  "source": "https://www.orderofbooks.com/characters/sixkiller-us-marshal/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Sixkiller-US-Marshal-by-William-JA-Johnstone.jpg",
+  "authors": [
+    {
+      "name": "William W. Johnstone",
+      "slug": "william-w-johnstone"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sixkiller, U.S. Marshal",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Day of Rage",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Eight Hours to Die",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hour of Death",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blood for Blood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dead Man Walking",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Jack West Jr.",
+  "slug": "jack-west-jr",
+  "source": "https://www.orderofbooks.com/characters/jack-west-jr/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Jack-West-Jr.jpg",
+  "books": [
+    {
+      "title": "Seven Deadly Wonders / Ancient Wonders",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Six Sacred Stones",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Five Greatest Warriors",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Jack West Jr. and the Hero's Helmet",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Four Legendary Kingdoms",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Three Secret Cities",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Jack West Jr. and the Chinese Splashdown",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Two Lost Mountains",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The One Impossible Labyrinth",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

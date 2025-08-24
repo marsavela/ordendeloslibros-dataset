@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "The Healer’s Apprentice",
+  "slug": "the-healers-apprentice",
+  "source": "https://www.orderofbooks.com/characters/the-healers-apprentice/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/healers-apprentice-500x200.jpg",
+  "authors": [
+    {
+      "name": "Melanie Dickerson.",
+      "slug": "melanie-dickerson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Healer's Apprentice",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Merchant's Daughter",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fairest Beauty",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Captive Maiden",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Princess Spy",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Golden Braid",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Silent Songbird",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Orphan's Wish",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Warrior Maiden",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Piper's Pursuit",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Peasant's Dream",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

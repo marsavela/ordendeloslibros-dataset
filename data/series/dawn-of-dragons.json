@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Dawn Of Dragons",
+  "slug": "dawn-of-dragons",
+  "source": "https://www.orderofbooks.com/characters/dawn-of-dragons/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/dawn-of-dragons-500x200.jpg",
+  "books": [
+    {
+      "title": "Requiem's Song",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Requiem's Hope",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Requiem's Prayer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

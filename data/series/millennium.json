@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Millennium",
+  "slug": "millennium",
+  "source": "https://www.orderofbooks.com/characters/millennium-series/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Millennium-Series.jpg",
+  "books": [
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Girl Who Played with Fire",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Girl Who Kicked the Hornet's Nest",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Girl in the Spider's Web",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Girl Who Takes an Eye for an Eye",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Girl Who Lived Twice",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Girl in the Eagle's Talons",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Girl with Ice in Her Veins",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

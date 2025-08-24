@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Wind River",
+  "slug": "wind-river",
+  "source": "https://www.orderofbooks.com/characters/wind-river/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Wind-River-by-James-Reasoner-LJ-Washburn.jpg",
+  "authors": [
+    {
+      "name": "James Reasoner",
+      "slug": "james-reasoner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wind River",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thunder Wagon",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wolf Shadow",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Medicine Creek",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dark Trail",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Judgment Day",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ransom Valley",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Outlaw Blood",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Six-Gun Law",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

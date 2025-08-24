@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Wizard Twins",
+  "slug": "wizard-twins",
+  "source": "https://www.orderofbooks.com/characters/wizard-twins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Wizard-Twins-by-Lora-Leigh1-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lora Leigh",
+      "slug": "lora-leigh"
+    }
+  ],
+  "books": [
+    {
+      "title": "Menage a Magick",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "When Wizards Rule",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Twin Passions",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

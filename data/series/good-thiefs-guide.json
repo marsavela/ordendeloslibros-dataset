@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Good Thief’s Guide",
+  "slug": "good-thiefs-guide",
+  "source": "https://www.orderofbooks.com/characters/good-thiefs-guide/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Good-Thiefs-Guides-by-Chris-Ewan.jpg",
+  "authors": [
+    {
+      "name": "Chris Ewan",
+      "slug": "chris-ewan"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Good Thief's Guide to Amsterdam",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Good Thief's Guide to Paris",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Good Thief's Guide to Vegas",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Good Thief's Guide to Venice",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Good Thief's Guide to Berlin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Good Thief's Guide to Christmas",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

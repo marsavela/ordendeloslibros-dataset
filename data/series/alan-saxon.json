@@ -1,0 +1,68 @@
+{
+  "type": "series",
+  "name": "Alan Saxon",
+  "slug": "alan-saxon",
+  "source": "https://www.orderofbooks.com/characters/alan-saxon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Alan-Saxon-by-Keith-Miles-500x200.jpg",
+  "authors": [
+    {
+      "name": "Keith Miles",
+      "slug": "keith-miles"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alan Saxon Books",
+      "books": [
+        {
+          "title": "Bullet Hole",
+          "year": 1986,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Double Eagle",
+          "year": 1987,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Green Murder",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Bermuda Grass",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Honolulu Play-Off",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Flagstick",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

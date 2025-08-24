@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Lomax and Biggs",
+  "slug": "lomax-and-biggs",
+  "source": "https://www.orderofbooks.com/characters/lomax-and-biggs/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Lomax-and-Biggs-by-Marshall-Karp.jpg",
+  "books": [
+    {
+      "title": "The Rabbit Factory",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bloodthirsty",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flipping Out",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cut, Paste, Kill",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Terminal",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

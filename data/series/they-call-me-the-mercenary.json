@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "They Call Me The Mercenary",
+  "slug": "they-call-me-the-mercenary",
+  "source": "https://www.orderofbooks.com/characters/they-call-me-the-mercenary/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/They-Call-Me-The-Mercenary-by-Axel-Kilgore-Jerry-Ahern.jpg",
+  "authors": [
+    {
+      "name": "Jerry Ahern",
+      "slug": "jerry-ahern"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Killer Genesis",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Slaughter Run",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fourth Reich Death Squad",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Opium Hunter",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Canadian Killing Ground",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Vengeance Army",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Slave of the Warmonger",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Assassins Express",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Terror Contract",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Bush Warfare",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Death Lust!",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Headshot!",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Naked Blade, Naked Gun",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Siberian Alternative",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Afghanistan Penetration",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "China Bloodhunt",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Buckingham Blowout",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Eye for Eye",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

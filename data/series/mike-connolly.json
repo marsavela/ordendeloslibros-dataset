@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Mike Connolly",
+  "slug": "mike-connolly",
+  "source": "https://www.orderofbooks.com/characters/mike-connolly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Mike-Connolly-by-Joe-Hilley.jpg",
+  "books": [
+    {
+      "title": "Sober Justice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Double Take",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Electric Beach",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Night Rain",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Deposition",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

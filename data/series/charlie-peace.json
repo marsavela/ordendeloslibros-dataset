@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Charlie Peace",
+  "slug": "charlie-peace",
+  "source": "https://www.orderofbooks.com/characters/charlie-peace/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Charlie-Peace-by-Robert-Barnard.jpg",
+  "authors": [
+    {
+      "name": "Robert Barnard",
+      "slug": "robert-barnard"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death and the Chaste Apprentice",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Fatal Attachment",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Hovering of Vultures",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Bad Samaritan",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "No Place of Safety",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Corpse at the Haworth Tandoori",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Unholy Dying / Turbulent Priest",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Bones in the Attic",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Fall from Grace",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Killings on Jubilee Terrace",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Charitable Body",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

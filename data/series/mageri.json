@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Mageri",
+  "slug": "mageri",
+  "source": "https://www.orderofbooks.com/characters/mageri/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Mageri-by-Dannika-Dark-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dannika Dark",
+      "slug": "dannika-dark"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sterling",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Twist",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Impulse",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Closer",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gravity",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Shine",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Gift",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

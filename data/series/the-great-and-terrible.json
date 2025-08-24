@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "The Great and Terrible",
+  "slug": "the-great-and-terrible",
+  "source": "https://www.orderofbooks.com/characters/the-great-and-terrible/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/The-Great-and-Terrible-by-Chris-Stewart.jpg",
+  "books": [
+    {
+      "title": "The Brothers",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Where Angels Fall",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Second Sun",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fury & Light",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "From the End of Heaven",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Clear as the Moon",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

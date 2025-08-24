@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "English Brothers",
+  "slug": "english-brothers",
+  "source": "https://www.orderofbooks.com/characters/english-brothers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/english-brothers-500x200.jpg",
+  "authors": [
+    {
+      "name": "Katy Regnery. Regnery",
+      "slug": "katy-regnery-regnery"
+    }
+  ],
+  "books": [
+    {
+      "title": "Breaking Up with Barrett",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Falling for Fitz",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Anyone but Alex",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Seduced by Stratton",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wild About Weston",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kiss Me Kate",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Marrying Mr. English",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

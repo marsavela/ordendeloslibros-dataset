@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Izzy Spellman",
+  "slug": "izzy-spellman",
+  "source": "https://www.orderofbooks.com/characters/izzy-spellman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Izzy-Spellman-by-Lisa-Lutz.jpg",
+  "books": [
+    {
+      "title": "The Spellman Files",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Curse of the Spellmans",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Revenge of the Spellmans",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Spellmans Strike Again",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Trail of the Spellmans",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Isabel Spellman's Guide to Etiquette: What is Wrong with You People",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Last Word / The Next Generation",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Hannibal Lecter",
+  "slug": "hannibal-lecter",
+  "source": "https://www.orderofbooks.com/characters/hannibal-lecter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Hannibal-Lecter-by-Thomas-Harris.jpg",
+  "books": [
+    {
+      "title": "Red Dragon",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hannibal",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hannibal Rising",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

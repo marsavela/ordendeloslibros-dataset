@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Madman’s Daughter",
+  "slug": "madmans-daughter",
+  "source": "https://www.orderofbooks.com/characters/madmans-daughter/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/madmans-daughter-500x200.jpg",
+  "books": [
+    {
+      "title": "The Madman's Daughter",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Her Dark Curiosity",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Cold Legacy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

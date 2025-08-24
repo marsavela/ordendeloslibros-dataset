@@ -1,0 +1,735 @@
+{
+  "type": "series",
+  "name": "Fancy Nancy",
+  "slug": "fancy-nancy",
+  "source": "https://www.orderofbooks.com/characters/fancy-nancy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/Fancy-Nancy-by-Jane-OConnor-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jane O'Connor",
+      "slug": "jane-o-connor"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fancy Nancy",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fancy Nancy And The Posh Puppy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fancy Nancy's Glamorous Gift",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fancy Nancy Loves! Loves!! Loves!!!",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fancy Nancy and the Butterfly Birthday",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bonjour, Butterfly",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fancy Nancy at the Museum",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fancy Nancy and the Boy from Paris",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fancy Nancy's Favorite Fancy Words",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Fancy Nancy Sees Stars",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Let's Get Fancy Together!",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Fancy Nancy's Fashion Parade!",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Poison Ivy Expert",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Dazzling Book Report",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Explorer Extraordinaire!",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Fancy Nancy's Absolutely Stupendous Sticker Book",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Pajama Day",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Tea Parties",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Show Must Go On",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Fancy Nancy Halloween... or Bust!",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Splendiferous Christmas",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Fancy Nancy Heart to Heart",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The 100th Day of School",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Fancy Nancy's Elegant Easter",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Fancy Nancy's Perfectly Posh Paper Doll Book",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Fancy Nancy's Gloriously Gigantic Sticker-tivity Book",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Every Day Is Earth Day",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "A Flutter of Butterflies",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Poet Extraordinaire!",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Fancy Nancy and the Late, Late, LATE Night",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Fancy Nancy and the Sensational Babysitter",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Spectacular Spectacles",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Ooh La La! It's Beauty Day",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Fancy Nancy and the Delectable Cupcakes",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Fancy Nancy and the Fabulous Fashion Boutique",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Fancy Nancy Petite Library",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Fancy Nancy's Fabulous Fashion Boutique",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "My Family History",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Fashionista: A Coloring and Activity Book",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Splendid Speller",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Aspiring Artist",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Fancy Nancy's Marvelous Mother's Day Brunch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Stellar Stargazer!",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Fancy Nancy and the Mean Girl",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Express Yourself",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Fancy Nancy's Haunted Mansion",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Our Thanksgiving Banquet",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Puzzle-palooza",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Fancy Nancy and the Mermaid Ballet",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Hair Dos and Hair Don'ts",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "Fancy Nancy and the Too-Loose Tooth",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Girl on the Go",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Tea for Two",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Fancy Day in Room 1-A",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "JoJo's First Day Jitters",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "There's No Day Like a Snow Day",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "Fancy Nancy's Fabulously Fancy Treasury",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "Too Many Tutus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "Fancy Nancy Storybook Treasury",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "Fancy Nancy Scratch & Sketch",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "Fanciest Doll in the Universe",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "Puppy Party",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "Apples Galore!",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "Budding Ballerina",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "Just My Luck!",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "Fancy Nancy and the Wedding of the Century",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "Sand Castles and Sand Palaces",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "Fancy Nancy's Fabulous Fall Storybook Collection",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "Fancy Nancy and the Fall Foliage",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "Peanut Butter and Jellyfish",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "Spring Fashion Fling",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "Super Secret Surprise Party",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "Candy Bonanza",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "Fancy Nancy at the Museum & Other Adventures",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "Fancy Nancy at School",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "Fancy Nancy's Fanciest Days",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "Fancy Nancy's Fashion",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "Fancy's Nancy's Fancy Friends & Family",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "Fancy Nancy's Lessons in Luck",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "Fancy Nancy Makes New Friends",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "Fancy Nancy's Seasons",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "Saturday Night Sleepover",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "It's Backward Day!",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "Best Reading Buddies",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    },
+    {
+      "title": "Time for Puppy School",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 85
+    },
+    {
+      "title": "Fancy Nancy and the Missing Easter Bunny",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 86
+    },
+    {
+      "title": "Fancy Nancy and the Dazzling Jewels",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 87
+    },
+    {
+      "title": "Oodles of Kittens",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 88
+    },
+    {
+      "title": "Bubbles, Bubbles, and More Bubbles!",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 89
+    },
+    {
+      "title": "Fancy Nancy and the Quest for the Unicorn",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 90
+    }
+  ]
+}

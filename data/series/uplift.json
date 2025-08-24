@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Uplift",
+  "slug": "uplift",
+  "source": "https://www.orderofbooks.com/characters/uplift/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Uplift-by-David-Brin.jpg",
+  "authors": [
+    {
+      "name": "David Brin",
+      "slug": "david-brin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sundiver",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Startide Rising",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Uplift War",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Brightness Reef",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Infinity's Shore",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Heaven's Reach",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gorilla, My Dreams",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A story from this is in the anthology The Space Opera Renaissance",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

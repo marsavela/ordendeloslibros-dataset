@@ -1,0 +1,126 @@
+{
+  "type": "series",
+  "name": "Andreas Kaldis",
+  "slug": "andreas-kaldis",
+  "source": "https://www.orderofbooks.com/characters/andreas-kaldis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/Andreas-Kaldis-by-Jeffrey-Siger.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Andreas Kaldis Books",
+      "books": [
+        {
+          "title": "Murder in Mykonos",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Assassins of Athens",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Prey on Patmos / An Agean Prophecy",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Target",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Mykonos After Midnight",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Sons of Sparta",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Devil of Delphi",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Santorini Caesars",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "An Aegean April",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Mykonos Mob / Island of Secrets",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "A Deadly Twist",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "One Last Chance",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "At Any Cost",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Not Dead Yet",
+          "year": 2025,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Valdemar",
+  "slug": "valdemar",
+  "source": "https://www.orderofbooks.com/characters/valdemar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Valdemar-by-Mercedes-Lackey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mercedes Lackey",
+      "slug": "mercedes-lackey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Arrows of the Queen",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Arrow's Flight",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Arrow's Fall",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

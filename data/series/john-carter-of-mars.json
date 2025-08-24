@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "John Carter Of Mars",
+  "slug": "john-carter-of-mars",
+  "source": "https://www.orderofbooks.com/characters/john-carter-of-mars/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/John-Carter-of-Mars-by-Edgar-Rice-Burroughs.jpg",
+  "authors": [
+    {
+      "name": "Edgar Rice Burroughs",
+      "slug": "edgar-rice-burroughs"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Princess of Mars",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Gods of Mars",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Warlord of Mars",
+      "year": 1914,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thuvia, Maid of Mars",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Chessmen of Mars",
+      "year": 1922,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Mastermind of Mars",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Fighting Man of Mars",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Swords of Mars",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Synthetic Men of Mars",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "John Carter and the Giant of Mars",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Llana of Gathol",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "John Carter of Mars",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Skeleton Men of Jupiter",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Guide to Barsoom",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "John Carter: The Movie Novelization",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

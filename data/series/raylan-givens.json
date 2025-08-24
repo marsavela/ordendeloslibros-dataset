@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Raylan Givens",
+  "slug": "raylan-givens",
+  "source": "https://www.orderofbooks.com/characters/raylan-givens/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Raylan-Givens-by-Elmore-Leonard.jpg",
+  "books": [
+    {
+      "title": "Pronto",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Riding the Rap",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire in the Hole",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Raylan",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Raylan Goes to Detroit",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

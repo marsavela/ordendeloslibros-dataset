@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Dream Man/Chaos",
+  "slug": "dream-man-chaos",
+  "source": "https://www.orderofbooks.com/characters/dream-man-chaos/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Dream-Man-by-Kristen-Ashley.jpg",
+  "authors": [
+    {
+      "name": "Kristen Ashley",
+      "slug": "kristen-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mystery Man",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wild Man",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Law Man",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Motorcycle Man",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Quiet Man",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

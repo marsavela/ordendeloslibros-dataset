@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Poke Rafferty",
+  "slug": "poke-rafferty",
+  "source": "https://www.orderofbooks.com/characters/poke-rafferty/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Poke-Rafferty-by-Timothy-Hallinan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Timothy Hallinan",
+      "slug": "timothy-hallinan"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Nail Through the Heart",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fourth Watcher",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Breathing Water",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Queen of Patpong",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fear Artist",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "For the Dead",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Hot Countries",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fools' River",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Street Music",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

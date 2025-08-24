@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Obsidian",
+  "slug": "obsidian",
+  "source": "https://www.orderofbooks.com/characters/obsidian/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Obsidian-by-Mercedes-Lackey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mercedes Lackey",
+      "slug": "mercedes-lackey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Outstretched Shadow",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "To Light a Candle",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Darkness Falls",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Obsidian Mountain Trilogy",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

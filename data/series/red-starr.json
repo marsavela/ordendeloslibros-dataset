@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Red Starr",
+  "slug": "red-starr",
+  "source": "https://www.orderofbooks.com/characters/red-starr/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/03/Red-Starr-by-Kennedy-Layne.jpg",
+  "books": [
+    {
+      "title": "Starr's Awakening",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hearths of Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Targets Entangled",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Igniting Passion",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Untold Devotion",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fulfilling Promises",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fated Identity",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Red's Salvation",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

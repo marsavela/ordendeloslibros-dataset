@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Heather Wells",
+  "slug": "heather-wells",
+  "source": "https://www.orderofbooks.com/characters/heather-wells/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Heather-Wells-Mysteries-by-Meg-Cabot-500x200.jpg",
+  "authors": [
+    {
+      "name": "Meg Cabot",
+      "slug": "meg-cabot"
+    }
+  ],
+  "books": [
+    {
+      "title": "Size 12 Is Not Fat",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Size 14 Is Not Fat Either",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Big Boned / Size Doesn't Matter",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Size 12 and Ready to Rock",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bride Wore Size 12 / Size 12 is the New Black",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

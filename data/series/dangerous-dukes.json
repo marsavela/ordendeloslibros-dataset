@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Dangerous Dukes",
+  "slug": "dangerous-dukes",
+  "source": "https://www.orderofbooks.com/characters/dangerous-dukes/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Dangerous-Dukes-by-Carole-Mortimer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Carole Mortimer",
+      "slug": "carole-mortimer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pleasured by a Duke / Marcus Wilding",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Zachary Black",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Darian Hunter",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Griffin Stone",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Christian Seaton",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rufus Drake",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

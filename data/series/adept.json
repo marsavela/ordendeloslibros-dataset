@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "name": "Adept",
+  "slug": "adept",
+  "source": "https://www.orderofbooks.com/characters/adept/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/The-Adept-by-Katherine-Kurtz-and-Deborah-Turner-Harris.jpg",
+  "authors": [
+    {
+      "name": "Katherine Kurtz",
+      "slug": "katherine-kurtz"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Adept Books",
+      "books": [
+        {
+          "title": "The Adept",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Lodge of the Lynx",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Templar Treasure",
+          "year": 1993,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Dagger Magic",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Death of an Adept",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Rendezvous With Destiny",
+  "slug": "rendezvous-with-destiny",
+  "source": "https://www.orderofbooks.com/characters/rendezvous-with-destiny/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Rendezvous-With-Destiny-by-T-Davis-Bunn-500x200.jpg",
+  "authors": [
+    {
+      "name": "T Davis Bunn",
+      "slug": "t-davis-bunn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rhineland Inheritance",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gibraltar Passage",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sahara Crosswind",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Berlin Encounter",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Istanbul Express",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Passage Through Darkness",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

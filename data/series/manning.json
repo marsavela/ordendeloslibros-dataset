@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Manning",
+  "slug": "manning",
+  "source": "https://www.orderofbooks.com/characters/manning/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Those-Manning-Men-by-Debbie-Macomber.jpg",
+  "books": [
+    {
+      "title": "Marriage of Inconvenience",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Stand-In Wife",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bride on the Loose",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Same Time, Next Year",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Silver Bells",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

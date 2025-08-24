@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Blacklight Chronicles",
+  "slug": "blacklight-chronicles",
+  "source": "https://www.orderofbooks.com/characters/blacklight-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Blacklight-Chronicles-by-John-Forrester-500x200.jpg",
+  "authors": [
+    {
+      "name": "John Forrester",
+      "slug": "john-forrester"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fire Mage Reborn",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fire Mage",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sun Mage",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadow Mage",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dragon Mage",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Star Mage",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Death Mage",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Origin Mage",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

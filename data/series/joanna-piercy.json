@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Joanna Piercy",
+  "slug": "joanna-piercy",
+  "source": "https://www.orderofbooks.com/characters/joanna-piercy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Joanna-Piercy-by-Priscilla-Masters-500x200.jpg",
+  "authors": [
+    {
+      "name": "Priscilla Masters",
+      "slug": "priscilla-masters"
+    }
+  ],
+  "books": [
+    {
+      "title": "Winding Up the Serpent / Killer on the Moors",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Catch the Fallen Sparrow / Burnt on the Moors",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Wreath For My Sister / Frozen on the Moors",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "And None Shall Sleep / Kidnap on the Moors",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Scaring Crows / Missing on the Moors",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Embroidering Shrouds / Murder on the Moors",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Endangering Innocents / Hidden on the Moors",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wings Over the Watcher / Stalker on the Moors",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Grave Stones / Revenge on the Moors",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Velvet Scream / Alone on the Moors",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Final Curtain / Fear on the Moors",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Guilty Waters / Guilt on the Moors",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Crooked Street / Crooked Lane / Trapped on the Moors",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Taken on the Moors / Blood on the Rocks",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Almost a Whisper / Blood on the Moors",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Bloodline",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

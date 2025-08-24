@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Tufa",
+  "slug": "tufa",
+  "source": "https://www.orderofbooks.com/characters/tufa/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/04/Tufa-by-Alex-Bledsoe.jpg",
+  "books": [
+    {
+      "title": "The Hum and the Shiver",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wisp of a Thing",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shall We Gather",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Two Weddings of Bronwyn Hyatt",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Long Black Curl",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Chapel of Ease",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gather Her Round",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Fairies of Sadieville",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

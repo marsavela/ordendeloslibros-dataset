@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Finishing School",
+  "slug": "finishing-school",
+  "source": "https://www.orderofbooks.com/characters/finishing-school/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Finishing-School-by-Gail-Carriger-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gail Carriger",
+      "slug": "gail-carriger"
+    }
+  ],
+  "books": [
+    {
+      "title": "Etiquette & Espionage",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Curtsies & Conspiracies",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Waistcoats & Weaponry",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Manners & Mutiny",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

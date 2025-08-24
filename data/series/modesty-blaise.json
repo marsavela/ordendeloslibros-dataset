@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Modesty Blaise",
+  "slug": "modesty-blaise",
+  "source": "https://www.orderofbooks.com/characters/modesty-blaise/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Modesty-Blaise-by-Peter-ODonnell.jpg",
+  "books": [
+    {
+      "title": "Modesty Blaise",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sabre-Tooth",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "I, Lucifer",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Taste for Death",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Impossible Virgin",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Silver Mistress",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Last Day in Limbo",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dragon's Claw",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Xanadu Talisman",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Night of Morningstar",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dead Man's Handle",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

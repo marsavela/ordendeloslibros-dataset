@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "name": "13th Reality",
+  "slug": "13th-reality",
+  "source": "https://www.orderofbooks.com/characters/13th-reality/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/13th-Reality-by-James-Dashner.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of The 13th Reality Books",
+      "books": [
+        {
+          "title": "The Journal of Curious Letters",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Hunt for Dark Infinity",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Blade of Shattered Hope",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Void of Mist and Thunder",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    }
+  }
+}

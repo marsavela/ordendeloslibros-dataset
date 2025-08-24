@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Sex, Love & Stiletto",
+  "slug": "sex-love-stiletto",
+  "source": "https://www.orderofbooks.com/characters/sex-love-and-stiletto/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Sex-Love-Stiletto-by-Lauren-Layne-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lauren Layne",
+      "slug": "lauren-layne"
+    }
+  ],
+  "books": [
+    {
+      "title": "After the Kiss",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Love the One You're With",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Just One Night",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Trouble with Love",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

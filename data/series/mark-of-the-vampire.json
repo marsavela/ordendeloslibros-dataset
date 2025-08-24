@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Mark of the Vampire",
+  "slug": "mark-of-the-vampire",
+  "source": "https://www.orderofbooks.com/characters/mark-of-the-vampire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/mark-of-the-vampire-500x200.jpg",
+  "books": [
+    {
+      "title": "Eternal Hunger",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Eternal Kiss",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Eternal Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eternal Captive",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Eternal Beast",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Eternal Beauty",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Eternal Demon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Eternal Sin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

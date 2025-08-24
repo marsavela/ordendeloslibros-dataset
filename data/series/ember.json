@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Ember",
+  "slug": "ember",
+  "source": "https://www.orderofbooks.com/characters/ember/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Ember-by-Jeanne-DuPrau-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jeanne DuPrau",
+      "slug": "jeanne-duprau"
+    }
+  ],
+  "books": [
+    {
+      "title": "The City of Ember",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The People of Sparks",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Prophet of Yonwood",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Diamond of Darkhold",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

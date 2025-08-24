@@ -1,0 +1,249 @@
+{
+  "type": "series",
+  "name": "Richard Bolitho",
+  "slug": "richard-bolitho",
+  "source": "https://www.orderofbooks.com/characters/richard-bolitho/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Richard-Bolitho-by-Alexander-Kent-Douglas-Reeman.jpg",
+  "books": [
+    {
+      "title": "To Glory We Steer",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Form Line of Battle",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Enemy in Sight",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Flag Captain",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sloop of War",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Command a King's Ship",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Signal-Close Action!",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Midshipman Bolitho",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Midshipman Bolitho and the Avenger",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Stand into Danger",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Passage to Mutiny",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "In Gallant Company",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Inshore Squadron",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "A Tradition of Victory",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Success to the Brave",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Colours Aloft!",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Honour this Day",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "With All Despatch",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Only Victor",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Beyond the Reef",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Darkening Sea",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "For My Country's Freedom",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Cross of St. George",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Sword of Honour",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Second to None",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Relentless Pursuit",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Man of War",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Band of Brothers",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Heart of Oak",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "In the King's Name",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

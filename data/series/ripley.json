@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Ripley",
+  "slug": "ripley",
+  "source": "https://www.orderofbooks.com/characters/ripley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Ripley-by-Patricia-Highsmith.jpg",
+  "authors": [
+    {
+      "name": "Patricia Highsmith",
+      "slug": "patricia-highsmith"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Talented Mr. Ripley",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ripley Under Ground",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ripley's Game",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Boy Who Followed Ripley",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ripley Under Water",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

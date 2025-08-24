@@ -1,0 +1,161 @@
+{
+  "type": "series",
+  "name": "Sackett",
+  "slug": "sackett",
+  "source": "https://www.orderofbooks.com/characters/sackett/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Sackett.jpg",
+  "books": [
+    {
+      "title": "The Daybreakers",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sackett",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lando",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mojave Crossing",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Sackett Brand",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mustang Man",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Sky-Liners",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Lonely Men",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Galloway",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ride the Dark Trail",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Treasure Mountain",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "War Party",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Sackett's Land",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "To the Far Blue Mountains",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Lonely on the Mountain",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Ride the River",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Warrior's Path",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Jubal Sackett",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "End of the Drive",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    }
+  ]
+}

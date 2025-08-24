@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "FBI/US Attorney",
+  "slug": "fbi-us-attorney",
+  "source": "https://www.orderofbooks.com/characters/fbi-us-attorney/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/03/FBI-US-Attorney-by-Julie-James.jpg",
+  "books": [
+    {
+      "title": "Something About You",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Lot Like Love",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "About That Night",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Love Irresistibly",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "It Happened One Wedding",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Suddenly One Summer",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Thing About Love",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

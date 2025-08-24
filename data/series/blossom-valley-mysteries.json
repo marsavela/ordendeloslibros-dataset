@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Blossom Valley Mysteries",
+  "slug": "blossom-valley-mysteries",
+  "source": "https://www.orderofbooks.com/characters/blossom-valley-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/09/Blossom-Valley-Mysteries-by-Staci-McLaughlin-500x200.jpg",
+  "authors": [
+    {
+      "name": "Staci Mclaughlin",
+      "slug": "staci-mclaughlin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Going Organic Can Kill You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "All Natural Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Green Living Can Be Deadly",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Healthy Homicide",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder Most Wholesome",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Marriage Is Pure Murder",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

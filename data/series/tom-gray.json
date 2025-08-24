@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Tom Gray",
+  "slug": "tom-gray",
+  "source": "https://www.orderofbooks.com/characters/tom-gray/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/10/Tom-Gray-by-Alan-McDermott.jpg",
+  "books": [
+    {
+      "title": "Gray Justice",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gray Resurrection",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gray Redemption",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gray Retribution",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gray Vengeance",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Gray Salvation",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Gray Genesis",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

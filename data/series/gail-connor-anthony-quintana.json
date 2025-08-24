@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Gail Connor & Anthony Quintana",
+  "slug": "gail-connor-anthony-quintana",
+  "source": "https://www.orderofbooks.com/characters/gail-connor-and-anthony-quintana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Gail-Connor-and-Anthony-Quintana-by-Barbara-Parker.jpg",
+  "authors": [
+    {
+      "name": "Barbara Parker",
+      "slug": "barbara-parker"
+    }
+  ],
+  "books": [
+    {
+      "title": "Suspicion of Innocence",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Suspicion of Guilt",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Suspicion of Deceit",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Suspicion of Betrayal",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Suspicion of Malice",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Suspicion of Vengeance",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Suspicion of Madness",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Suspicion of Rage",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

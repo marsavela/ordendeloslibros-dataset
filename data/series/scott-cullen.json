@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Scott Cullen",
+  "slug": "scott-cullen",
+  "source": "https://www.orderofbooks.com/characters/scott-cullen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/08/Scott-Cullen-Mysteries-by-Ed-James.jpg",
+  "books": [
+    {
+      "title": "Ghost in the Machine",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Devil in the Detail",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire in the Blood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dyed in the Wool",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Bottleneck",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Windchill",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cowboys and Indians",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Heroes and Villains",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Dean Koontz’s Frankenstein",
+  "slug": "dean-koontzs-frankenstein",
+  "source": "https://www.orderofbooks.com/characters/frankenstein/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Frankenstein-Lost-Souls.jpg",
+  "books": [
+    {
+      "title": "Prodigal Son",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "City of Night",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead and Alive",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lost Souls",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Dead Town",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

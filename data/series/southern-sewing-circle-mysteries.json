@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Southern Sewing Circle Mysteries",
+  "slug": "southern-sewing-circle-mysteries",
+  "source": "https://www.orderofbooks.com/characters/southern-sewing-circle-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Southern-Sewing-Circle-Mysteries-by-Elizabeth-Lynn-Casey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Lynn Casey",
+      "slug": "elizabeth-lynn-casey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sew Deadly",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death Threads",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pinned for Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deadly Notions",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dangerous Alterations",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Reap What You Sew",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Let It Sew",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Remnants of Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Taken In",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Wedding Duress",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Needle and Dread",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Patterned After Death",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

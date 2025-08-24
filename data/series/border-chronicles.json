@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Border Chronicles",
+  "slug": "border-chronicles",
+  "source": "https://www.orderofbooks.com/characters/border-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Border-Chronicles-by-Bertrice-Small.jpg",
+  "authors": [
+    {
+      "name": "Bertrice Small",
+      "slug": "bertrice-small"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Dangerous Love",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Border Lord's Bride",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Captive Heart",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Border Lord and the Lady",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Border Vixen",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bond of Passion",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

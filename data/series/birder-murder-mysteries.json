@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Birder Murder Mysteries",
+  "slug": "birder-murder-mysteries",
+  "source": "https://www.orderofbooks.com/characters/birder-murder-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/Birder-Murder-Mysteries-by-Steve-Burrows.jpg",
+  "books": [
+    {
+      "title": "A Siege of Bitterns",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Pitying of Doves",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Cast of Falcons",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Shimmer of Hummingbirds",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Tiding of Magpies",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Dance of Cranes",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Foreboding of Petrels",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Nye of Pheasants",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Deceit of Lapwings",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

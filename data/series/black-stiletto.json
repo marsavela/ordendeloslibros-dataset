@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Black Stiletto",
+  "slug": "black-stiletto",
+  "source": "https://www.orderofbooks.com/characters/black-stiletto/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Black-Stiletto-by-Raymond-Benson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Raymond Benson",
+      "slug": "raymond-benson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Black Stiletto: The First Diary",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Black & White",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stars & Stripes",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Secrets & Lies",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Endings & Beginnings",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

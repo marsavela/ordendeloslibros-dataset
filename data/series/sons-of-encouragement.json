@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Sons Of Encouragement",
+  "slug": "sons-of-encouragement",
+  "source": "https://www.orderofbooks.com/characters/sons-of-encouragement/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Sons-of-Encouragement-by-Francine-Rivers.jpg",
+  "authors": [
+    {
+      "name": "Francine Rivers",
+      "slug": "francine-rivers"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Warrior: Caleb",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Priest: Aaron",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Prince: Jonathan",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Prophet: Amos",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Scribe: Silas",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

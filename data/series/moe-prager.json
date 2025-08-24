@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Moe Prager",
+  "slug": "moe-prager",
+  "source": "https://www.orderofbooks.com/characters/moe-prager/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Moe-Prager-by-Reed-Farrel-Coleman.jpg",
+  "authors": [
+    {
+      "name": "Reed Farrel Coleman",
+      "slug": "reed-farrel-coleman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Walking the Perfect Square",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Redemption Street",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The James Deans",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Soul Patch",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Empty Ever After",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Innocent Monster",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hurt Machine",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Onion Street",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Hollow Girl",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

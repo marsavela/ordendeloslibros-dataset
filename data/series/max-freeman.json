@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Max Freeman",
+  "slug": "max-freeman",
+  "source": "https://www.orderofbooks.com/characters/max-freeman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Max-Freeman-by-Jonathon-King.jpg",
+  "books": [
+    {
+      "title": "The Blue Edge of Midnight",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Visible Darkness",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shadow Men",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Killing Night",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Acts of Nature",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Midnight Guardians",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Don't Lose Her",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

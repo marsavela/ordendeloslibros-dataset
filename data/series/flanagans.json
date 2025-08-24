@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Flanagans",
+  "slug": "flanagans",
+  "source": "https://www.orderofbooks.com/characters/flanagans/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Flanagans-by-Marta-Perry.jpg",
+  "authors": [
+    {
+      "name": "Marta Perry",
+      "slug": "marta-perry"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hero in Her Heart",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Unlikely Hero",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hero Dad",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Her Only Hero",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hearts Afire",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Restless Hearts",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Soldier's Heart",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

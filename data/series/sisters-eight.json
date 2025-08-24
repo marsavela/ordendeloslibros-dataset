@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Sisters Eight",
+  "slug": "sisters-eight",
+  "source": "https://www.orderofbooks.com/characters/sisters-eight/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Sisters-Eight-by-Lauren-Baratz-Logsted.jpg",
+  "books": [
+    {
+      "title": "Annie's Adventures",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Durinda's Dangers",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Georgia's Greatness",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Jackie's Jokes",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Petal's Problems",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Marcia's Madness",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rebecca's Rashness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Zinnia's Zaniness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Final Battle... For Now",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

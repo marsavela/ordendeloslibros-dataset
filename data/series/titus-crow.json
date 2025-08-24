@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Titus Crow",
+  "slug": "titus-crow",
+  "source": "https://www.orderofbooks.com/characters/titus-crow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Titus-Crow-by-Brian-Lumley-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brian Lumley",
+      "slug": "brian-lumley"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Burrowers Beneath",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Transition of Titus Crow",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Clock of Dreams",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Spawn of the Winds",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "In the Moons of Borea",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Elysia",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Whidbey Island",
+  "slug": "whidbey-island",
+  "source": "https://www.orderofbooks.com/characters/whidbey-island/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Whidbey-Island-by-Geri-Krotow-500x200.jpg",
+  "authors": [
+    {
+      "name": "Geri Krotow",
+      "slug": "geri-krotow"
+    }
+  ],
+  "books": [
+    {
+      "title": "Navy Rules",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Navy Orders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Navy Rescue",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Navy Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Navy Justice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

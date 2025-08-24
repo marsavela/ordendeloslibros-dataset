@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Cats In Trouble Mysteries",
+  "slug": "cats-in-trouble-mysteries",
+  "source": "https://www.orderofbooks.com/characters/cats-in-trouble-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Cats-in-Trouble-by-Leann-Sweeney-500x200.jpg",
+  "authors": [
+    {
+      "name": "Leann Sweeney",
+      "slug": "leann-sweeney"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Cat, the Quilt and the Corpse",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Cat, the Professor and the Poison",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cat, the Lady and the Liar",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Cat, the Wife and the Weapon",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Cat, the Mill and the Murder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Cat, the Vagabond and the Victim",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Cat, the Sneak and the Secret",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Cat, the Collector and the Killer",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

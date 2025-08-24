@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Dreamhouse Kings",
+  "slug": "dreamhouse-kings",
+  "source": "https://www.orderofbooks.com/characters/dreamhouse-kings/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/Dreamhouse-Kings-by-Robert-Liparulo-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Liparulo",
+      "slug": "robert-liparulo"
+    }
+  ],
+  "books": [
+    {
+      "title": "House of Dark Shadows",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Watcher in the Woods",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gatekeepers",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Timescape",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Whirlwind",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Frenzy",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

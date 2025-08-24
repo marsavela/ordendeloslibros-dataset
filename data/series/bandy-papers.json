@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Bandy Papers",
+  "slug": "bandy-papers",
+  "source": "https://www.orderofbooks.com/characters/bandy-papers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/02/Bandy-Papers-by-Donald-Jack.jpg",
+  "books": [
+    {
+      "title": "Three Cheers for Me",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "That's Me in the Middle",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "It's Me Again",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Me Bandy, You Cissie",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Me Too",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "This One's on Me",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Me So Far",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hitler vs. Me",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Stalin vs. Me",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

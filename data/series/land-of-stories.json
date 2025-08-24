@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Land Of Stories",
+  "slug": "land-of-stories",
+  "source": "https://www.orderofbooks.com/characters/land-of-stories/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Land-of-Stories-by-Chris-Colfer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Chris Colfer",
+      "slug": "chris-colfer"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Wishing Spell",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Enchantress Returns",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Grimm Warning",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Beyond the Kingdoms",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "An Author's Odyssey",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Worlds Collide",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

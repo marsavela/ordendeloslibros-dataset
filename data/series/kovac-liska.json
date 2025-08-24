@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Kovac/Liska",
+  "slug": "kovac-liska",
+  "source": "https://www.orderofbooks.com/characters/kovac-liska/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Kovac-Liska-by-Tami-Hoag.jpg",
+  "books": [
+    {
+      "title": "Ashes to Ashes",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dust to Dust",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Prior Bad Acts / Dead Sky",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The 1st Victim",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The 9th Girl",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bitter Season",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

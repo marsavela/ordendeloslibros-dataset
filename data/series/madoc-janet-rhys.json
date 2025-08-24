@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Madoc & Janet Rhys",
+  "slug": "madoc-janet-rhys",
+  "source": "https://www.orderofbooks.com/characters/madoc-janet-rhys/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Madoc-and-Janet-Rhys-Mysteries-by-Alisa-Craig-Charlotte-MacLeod-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alisa Craig Charlotte MacLeod",
+      "slug": "alisa-craig-charlotte-macleod"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Pint of Murder",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder Goes Mumming",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Dismal Thing to Do",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trouble in the Brasses",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Wrong Rite",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Cobra",
+  "slug": "cobra",
+  "source": "https://www.orderofbooks.com/characters/cobra/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/cobra-500x200.jpg",
+  "authors": [
+    {
+      "name": "Timothy Zahn. There",
+      "slug": "timothy-zahn-there"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cobra",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cobra Strike",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cobra Bargain",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

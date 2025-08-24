@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Daniel Knox",
+  "slug": "daniel-knox",
+  "source": "https://www.orderofbooks.com/characters/daniel-knox/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Daniel-Knox-by-Will-Adams.jpg",
+  "authors": [
+    {
+      "name": "Will Adams",
+      "slug": "will-adams"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Alexander Cipher",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Exodus Quest / The Moses Quest",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Lost Labyrinth",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Eden Legacy",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

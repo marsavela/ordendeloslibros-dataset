@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Jeston Nash",
+  "slug": "jeston-nash",
+  "source": "https://www.orderofbooks.com/characters/jeston-nash/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Jeston-Nash-by-Ralph-Cotton.jpg",
+  "authors": [
+    {
+      "name": "Ralph Cotton",
+      "slug": "ralph-cotton"
+    }
+  ],
+  "books": [
+    {
+      "title": "While Angels Dance",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Powder River",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Price of a Horse",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cost of a Killing",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Killers of Man",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Trick of the Trade",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Rose McQuinn",
+  "slug": "rose-mcquinn",
+  "source": "https://www.orderofbooks.com/characters/rose-mcquinn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/12/Rose-McQuinn-by-Alanna-Knight.jpg",
+  "books": [
+    {
+      "title": "The Inspector's Daughter",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dangerous Pursuits",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Orkney Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ghost Walk",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Destroying Angel",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Quest for a Killer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deadly Legacy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Balmoral Incident",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Murder Lies Waiting",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

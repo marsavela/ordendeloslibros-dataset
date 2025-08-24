@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Ladybug Farm",
+  "slug": "ladybug-farm",
+  "source": "https://www.orderofbooks.com/characters/ladybug-farm/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Ladybug-Farm-by-Donna-Ball-500x200.jpg",
+  "authors": [
+    {
+      "name": "Donna Ball",
+      "slug": "donna-ball"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Year on Ladybug Farm",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "At Home on Ladybug Farm",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Recipes From Ladybug Farm",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Love Letters from Ladybug Farm",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Christmas on Ladybug Farm",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Vintage Ladybug Farm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Wedding on Ladybug Farm",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Gift From Ladybug Farmla",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

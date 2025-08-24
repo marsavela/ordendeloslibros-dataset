@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Love In Bloom: The Remingtons",
+  "slug": "love-in-bloom-the-remingtons",
+  "source": "https://www.orderofbooks.com/characters/love-in-bloom-the-remingtons/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/07/Love-in-Bloom-The-Remingtons-by-Melissa-Foster.jpg",
+  "books": [
+    {
+      "title": "Game of Love",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Stroke of Love",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flames of Love",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Slope of Love",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Read, Write, Love",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Touched by Love",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Chicago Stars",
+  "slug": "chicago-stars",
+  "source": "https://www.orderofbooks.com/characters/chicago-stars/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Chicago-Stars-by-Susan-Elizabeth-Phillips.jpg",
+  "authors": [
+    {
+      "name": "Susan Elizabeth Phillips",
+      "slug": "susan-elizabeth-phillips"
+    }
+  ],
+  "books": [
+    {
+      "title": "It Had to Be You",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Heaven, Texas",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nobody's Baby But Mine",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dream a Little Dream",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "This Heart of Mine",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Match Me If You Can",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Natural Born Charmer",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "First Star I See Tonight",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "When Stars Collide",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Simply the Best",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "And the Crowd Went Wild",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

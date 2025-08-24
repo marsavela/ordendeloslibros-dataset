@@ -1,0 +1,321 @@
+{
+  "type": "series",
+  "name": "Trixie Belden",
+  "slug": "trixie-belden",
+  "source": "https://www.orderofbooks.com/characters/trixie-belden/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/06/trix.jpg",
+  "books": [
+    {
+      "title": "The Secret of the Mansion",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Red Trailer Mystery",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Gatehouse Mystery",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Mysterious Visitor",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mystery Off Glen Road",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Mystery in Arizona",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Mysterious Code",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Black Jacket Mystery",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Happy Valley Mystery",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Marshland Mystery",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Mystery at Bob-White Cave",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Mystery of the Blinking Eye",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Mystery on Cobbett's Island",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Mystery of the Emeralds",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Mystery on the Mississippi",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Mystery of the Phantom Grasshopper",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Mystery of The Missing Heiress",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Mystery of the Uninvited Guest",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Secret Of The Unseen Treasure",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Mystery Off Old Telegraph Road",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Mystery of the Castaway Children",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Mystery at Mead's Mountain",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Mystery of the Queen's Necklace",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Mystery at Saratoga",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Sasquatch Mystery",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Mystery of the Headless Horseman",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Mystery of the Ghostly Galleon",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Hudson River Mystery",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Mystery of the Velvet Gown",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Mystery of the Midnight Marauder",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Mystery at Maypenny's",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Mystery of Whispering Witch",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Mystery Of The Vanishing Victim",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Mystery Of The Missing Millionaire",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Mystery of the Memorial Day Fire",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Mystery of the Antique Doll",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Pet Show Mystery",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Indian Burial Ground Mystery",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Mystery of the Galloping Ghost",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    }
+  ]
+}

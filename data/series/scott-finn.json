@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Scott Finn",
+  "slug": "scott-finn",
+  "source": "https://www.orderofbooks.com/characters/scott-finn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Scott-Finn-by-David-Hosp.jpg",
+  "authors": [
+    {
+      "name": "David Hosp",
+      "slug": "david-hosp"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dark Harbor",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Innocence",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Among Thieves",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Next of Kin",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

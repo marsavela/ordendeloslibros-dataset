@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "The Homelanders",
+  "slug": "the-homelanders",
+  "source": "https://www.orderofbooks.com/characters/the-homelanders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/The-Homelanders.jpg",
+  "books": [
+    {
+      "title": "The Last Thing I Remember",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Long Way Home",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Truth of the Matter",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Final Hour",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Leopold Blake",
+  "slug": "leopold-blake",
+  "source": "https://www.orderofbooks.com/characters/leopold-blake/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Leopold-Blake-by-Nick-Stephenson.jpg",
+  "authors": [
+    {
+      "name": "Nick Stephenson",
+      "slug": "nick-stephenson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Panic",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Departed",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wanted",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Paydown",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ratio",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fallen",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Broken",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Paydown is a prequel story to the Leopold Blake series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

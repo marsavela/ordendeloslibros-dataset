@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Civil War",
+  "slug": "civil-war",
+  "source": "https://www.orderofbooks.com/characters/civil-war/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Civil-War-by-Newt-Gingrich-500x200.jpg",
+  "authors": [
+    {
+      "name": "Newt Gingrich",
+      "slug": "newt-gingrich"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gettysburg",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Grant Comes East",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Never Call Retreat",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Battle of the Crater / To Make Men Free",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "D.I. Peter Shaw",
+  "slug": "d-i-peter-shaw",
+  "source": "https://www.orderofbooks.com/characters/di-peter-shaw/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/DI-Peter-Shaw-DS-George-Valentine-by-Jim-Kelly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jim Kelly",
+      "slug": "jim-kelly"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death Wore White",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death Watch",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death Toll",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death's Door",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "At Death's Window",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death on Demand",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Death Ship",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

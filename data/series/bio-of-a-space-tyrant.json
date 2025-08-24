@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Bio Of A Space Tyrant",
+  "slug": "bio-of-a-space-tyrant",
+  "source": "https://www.orderofbooks.com/characters/bio-of-a-space-tyrant/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Bio-of-a-Space-Tyrant-by-Piers-Anthony.jpg",
+  "books": [
+    {
+      "title": "Refugee",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mercenary",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Politician",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Executive",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Statesman",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Iron Maiden",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Incarnations Of Immortality",
+  "slug": "incarnations-of-immortality",
+  "source": "https://www.orderofbooks.com/characters/incarnations-of-immortality/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Incarnations-of-Immortality-by-Piers-Anthony.jpg",
+  "books": [
+    {
+      "title": "On a Pale Horse",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bearing an Hourglass",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "With a Tangled Skein",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wielding a Red Sword",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Being a Green Mother",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "For Love of Evil",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "And Eternity",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Under a Velvet Cloak",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Izzy McNeil",
+  "slug": "izzy-mcneil",
+  "source": "https://www.orderofbooks.com/characters/izzy-mcneil/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Izzy-McNeil-by-Laura-Caldwell.jpg",
+  "books": [
+    {
+      "title": "Red Hot Lies",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Red Blooded Murder",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Red, White & Dead",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Claim of Innocence",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Question of Trust",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "False Impressions",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "O’Malley Family",
+  "slug": "omalley-family",
+  "source": "https://www.orderofbooks.com/characters/omalley-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/OMalley-Family-by-Andrew-M-Greeley.jpg",
+  "books": [
+    {
+      "title": "Summer at the Lake",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Midwinter's Tale",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Younger Than Springtime",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Christmas Wedding",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "September Song",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Second Spring",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Golden Years",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

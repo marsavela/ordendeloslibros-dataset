@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Embroidery Mysteries",
+  "slug": "embroidery-mysteries",
+  "source": "https://www.orderofbooks.com/characters/embroidery-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Embroidery-Mysteries-by-Amanda-Lee.jpg",
+  "authors": [
+    {
+      "name": "Amanda Lee",
+      "slug": "amanda-lee"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Quick and the Thread",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Stitch Me Deadly",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Thread Reckoning",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Long Stitch Good Night",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Thread on Arrival",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cross Stitch Before Dying",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Thread End",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wicked Stitch",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Stitching Hour",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Better Off Thread",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

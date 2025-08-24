@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Sea Breeze",
+  "slug": "sea-breeze",
+  "source": "https://www.orderofbooks.com/characters/sea-breeze/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Sea-Breeze-by-Abbi-Glines.jpg",
+  "authors": [
+    {
+      "name": "Abbi Glines",
+      "slug": "abbi-glines"
+    }
+  ],
+  "books": [
+    {
+      "title": "Breathe",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Because of Low",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "While It Lasts",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Just for Now",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sometimes It Lasts",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Misbehaving",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bad for You",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hold On Tight",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Until the End",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "type": "series",
+  "name": "Inspector DeKok",
+  "slug": "inspector-dekok",
+  "source": "https://www.orderofbooks.com/characters/inspector-dekok/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/03/Inspector-DeKok-by-AC-Baantjer-500x200.jpg",
+  "authors": [
+    {
+      "name": "AC Baantjer",
+      "slug": "ac-baantjer"
+    }
+  ],
+  "books": [
+    {
+      "title": "DeKok and the Somber Nude",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "DeKok and the Sorrowing Tomcat",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "DeKok and the Mask of Death",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "DeKok and Murder on the Menu",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "DeKok and the Corpse on Christmas Eve",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "DeKok and the Disillusioned Corpse",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "DeKok and the Dead Harlequin",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "DeKok and the Romantic Murder",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "DeKok and the Careful Killer",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "DeKok and the Brothers of the Easy Death",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "DeKok and the Corpse at the Church Wall",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "DeKok and the Dancing Death",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "DeKok and the Naked Lady",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "DeKok and the Dying Stroller",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "DeKok and the Deadly Accord",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "DeKok and Murder in Seance",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "DeKok and Murder in Ecstasy",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "DeKok and the Begging Death",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "DeKok and Murder by Installment",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "DeKok and the Corpse Return",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "DeKok and the Murder in First Class",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "DeKok and the Deadly Warning",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "DeKok and the Geese of Death",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "DeKok and the Murder in Bronze",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "DeKok and Murder on Blood Mountain",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "DeKok and the Death of a Clown",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "DeKok and Murder by Melody",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "DeKok and the Dead Lovers",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "DeKok and the Vendetta",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "DeKok and Variations on Murder",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Gringos",
+  "slug": "gringos",
+  "source": "https://www.orderofbooks.com/characters/gringos/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Gringos-by-JD-Sandon.jpg",
+  "authors": [
+    {
+      "name": "John Harvey",
+      "slug": "john-harvey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Guns Across the River",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cannons in the Rain",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire in the Wind",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Border Affair",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Easy Money",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mazatlan",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "One Too Many Mornings",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wheels of Thunder",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Durango",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Survivors",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

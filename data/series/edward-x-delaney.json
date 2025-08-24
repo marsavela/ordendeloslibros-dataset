@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Edward X. Delaney",
+  "slug": "edward-x-delaney",
+  "source": "https://www.orderofbooks.com/characters/edward-x-delaney/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Edward-X.-Delaney-by-Lawrence-Sanders.jpg",
+  "books": [
+    {
+      "title": "The Anderson Tapes",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The First Deadly Sin",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Second Deadly Sin",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Third Deadly Sin",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fourth Deadly Sin",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

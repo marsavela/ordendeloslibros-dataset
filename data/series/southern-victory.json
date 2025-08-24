@@ -1,0 +1,17 @@
+{
+  "type": "series",
+  "name": "Southern Victory",
+  "slug": "southern-victory",
+  "source": "https://www.orderofbooks.com/characters/southern-victory/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Southern-Victory-by-Harry-Turtledove.jpg",
+  "books": [
+    {
+      "title": "How Few Remain",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    }
+  ]
+}

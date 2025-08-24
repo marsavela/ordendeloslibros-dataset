@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Blotto, Twinks",
+  "slug": "blotto-twinks",
+  "source": "https://www.orderofbooks.com/characters/blotto-twinks/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Blotto-Twinks-by-Simon-Brett.jpg",
+  "authors": [
+    {
+      "name": "Simon Brett",
+      "slug": "simon-brett"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blotto, Twinks, and the Ex-King's Daughter",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blotto, Twinks and the Dead Dowager Duchess",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blotto, Twinks and the Rodents of the Riviera",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Blotto, Twinks and the Bootlegger's Moll",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blotto, Twinks and Riddle of the Sphinx",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blotto, Twinks and the Heir to the Tsar",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blotto, Twinks and the Stars of the Silver Screen",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Blotto, Twinks and the Intimate Revue",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Blotto, Twinks and the Great Road Race",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Blotto, Twinks and the Maharajah's Jewel",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Blotto, Twinks and the Suspicious Guests",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Blotto, Twinks and the Conquistadors' Gold",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Blotto, Twinks and the Phantom Skiers",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

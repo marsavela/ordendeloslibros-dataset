@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Lacey Flint",
+  "slug": "lacey-flint",
+  "source": "https://www.orderofbooks.com/characters/lacey-flint/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Lacey-Flint-by-SJ-Bolton-500x200.jpg",
+  "authors": [
+    {
+      "name": "SJ Bolton",
+      "slug": "sj-bolton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Now You See Me",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Scared",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Like This, For Ever / Lost",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Dark and Twisted Tide",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "If Snow Hadn't Fallen",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Here Be Dragons",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Dark",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

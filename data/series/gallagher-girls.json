@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Gallagher Girls",
+  "slug": "gallagher-girls",
+  "source": "https://www.orderofbooks.com/characters/gallagher-girls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Gallagher-Girls-by-Ally-Carter-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ally Carter",
+      "slug": "ally-carter"
+    }
+  ],
+  "books": [
+    {
+      "title": "I'd Tell You I Love You, But Then I'd Have to Kill You",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cross My Heart and Hope to Spy",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Don't Judge a Girl by Her Cover",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Only the Good Spy Young",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Out of Sight, Out of Time",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Gallagher Wedding",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "United We Spy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Spies That Bind",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

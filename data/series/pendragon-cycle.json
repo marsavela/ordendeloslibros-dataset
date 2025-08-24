@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Pendragon Cycle",
+  "slug": "pendragon-cycle",
+  "source": "https://www.orderofbooks.com/characters/pendragon-cycle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/The-Pendragon-Cycle-by-Stephen-R-Lawhead.jpg",
+  "books": [
+    {
+      "title": "Taliesin",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Merlin",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Arthur",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pendragon",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Grail",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Avalon",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Aurelia",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

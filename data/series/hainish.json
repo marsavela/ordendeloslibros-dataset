@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Hainish",
+  "slug": "hainish",
+  "source": "https://www.orderofbooks.com/characters/hainish/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Hainish-Cycle-by-Ursula-K-LeGuin.jpg",
+  "books": [
+    {
+      "title": "Rocannon's World",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Planet of Exile",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "City of Illusions",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Word for World is Forest",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Dispossessed",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Four Ways to Forgiveness",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Telling",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "McCalls’ Montana",
+  "slug": "mccalls-montana",
+  "source": "https://www.orderofbooks.com/characters/mccalls-montana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/McCalls-Montana-by-BJ-Daniels-500x200.jpg",
+  "authors": [
+    {
+      "name": "BJ Daniels",
+      "slug": "bj-daniels"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Cowgirl In Question",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cowboy Accomplice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ambushed!",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "High-Caliber Cowboy",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shotgun Surrender",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

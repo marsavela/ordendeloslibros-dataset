@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Andy Hayes",
+  "slug": "andy-hayes",
+  "source": "https://www.orderofbooks.com/characters/andy-hayes/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/07/Andy-Hayes-by-Andrew-Welsh-Huggins.jpg",
+  "books": [
+    {
+      "title": "Fourth Down and Out",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Slow Burn",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Capitol Punishment",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hunt",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Third Brother",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fatal Judgment",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "An Empty Grave",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Sick to Death",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

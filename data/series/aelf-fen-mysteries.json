@@ -1,0 +1,94 @@
+{
+  "type": "series",
+  "name": "Aelf Fen Mysteries",
+  "slug": "aelf-fen-mysteries",
+  "source": "https://www.orderofbooks.com/characters/aelf-fen-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/07/Aelf-Fen-by-Alys-Clare.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Aelf Fen Mysteries Books",
+      "books": [
+        {
+          "title": "Out of the Dawn Light",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Mist Over the Water",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Music of the Distant Stars",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Way Between the Worlds",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Land of the Silver Dragon",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Blood of the South",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Night Wanderer",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Rufus Spy",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "City of Pearl",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Lammas Wild",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        }
+      ]
+    }
+  }
+}

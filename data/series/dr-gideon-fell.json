@@ -1,0 +1,207 @@
+{
+  "type": "series",
+  "name": "Dr. Gideon Fell",
+  "slug": "dr-gideon-fell",
+  "source": "https://www.orderofbooks.com/characters/dr-gideon-fell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Dr-Gideon-Fell-by-John-Dickson-Carr-500x200.jpg",
+  "authors": [
+    {
+      "name": "John Dickson Carr",
+      "slug": "john-dickson-carr"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hag's Nook",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mad Hatter Mystery",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Eight of Swords",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Blind Barber",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death-Watch",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Three Coffins / The Hollow Man",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Arabian Nights Murder",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Crooked Hinge",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "To Wake the Dead",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Problem of the Green Capsule / The Black Spectacles",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Problem of the Wire Cage",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Man Who Could Not Shudder",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Seat of the Scornful",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Case of the Constant Suicides",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Death Turns the Tables / The Seat of the Scornful",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Till Death Do Us Part",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "He Who Whispers",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Sleeping Sphinx",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Below Suspicion",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Dead Man's Knock",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "In Spite of Thunder",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The House at Satan's Elbow",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Panic in Box C",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Dark of the Moon",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

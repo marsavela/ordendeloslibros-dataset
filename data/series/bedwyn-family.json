@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Bedwyn Family",
+  "slug": "bedwyn-family",
+  "source": "https://www.orderofbooks.com/characters/bedwyn-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Bedwyn-Family-by-Mary-Balogh.jpg",
+  "authors": [
+    {
+      "name": "Mary Balogh",
+      "slug": "mary-balogh"
+    }
+  ],
+  "books": [
+    {
+      "title": "One Night for Love",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Summer to Remember",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Slightly Married",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Slightly Wicked",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Slightly Scandalous",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Slightly Tempted",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Slightly Sinful",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Slightly Dangerous",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Once Upon A Dream",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

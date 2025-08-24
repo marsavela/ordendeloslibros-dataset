@@ -1,0 +1,385 @@
+{
+  "type": "series",
+  "name": "Nero Wolfe",
+  "slug": "nero-wolfe",
+  "source": "https://www.orderofbooks.com/characters/nero-wolfe/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Nero-Wolfe-by-Rex-Stout.jpg",
+  "books": [
+    {
+      "title": "Fer-de-Lance / Meet Nero Wolfe",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The League of Frightened Men",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Rubber Band / To Kill Again",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Red Box / Case of the Red Box",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Too Many Cooks",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Some Buried Caesar / The Red Bull",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Over My Dead Body",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Where There's a Will",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Black Orchids",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Not Quite Dead Enough",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Silent Speaker",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Too Many Women",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "And Be a Villain / More Deaths Than One",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Trouble in Triplicate",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Second Confession",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Even in the Best Families / In the Best Families",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Three Doors to Death / Door to Death",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Curtains for Three",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Murder by the Book",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Prisoner's Base / Out She Goes",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Triple Jeopardy",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Golden Spiders",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Black Mountain",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Three Men Out",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Before Midnight",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Might as Well Be Dead",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Three Witnesses",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "If Death Ever Slept",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Three for the Chair",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "And Four to Go / Crime and Again",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Champagne for One",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Plot it Yourself / Murder in Style",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Three at Wolfe's Door",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Too Many Clients",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Final Deduction",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Homicide Trinity",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Gambit",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Mother Hunt",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Trio for Blunt Instruments",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "A Right to Die",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Doorbell Rang",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Death of a Doxy",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "The Father Hunt",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Death of a Dude",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Please Pass The Guilt",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "A Family Affair",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Death Times Three",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    }
+  ]
+}

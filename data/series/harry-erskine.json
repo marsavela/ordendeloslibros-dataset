@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Harry Erskine",
+  "slug": "harry-erskine",
+  "source": "https://www.orderofbooks.com/characters/harry-erskine/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Harry-Erskine-by-Graham-Masterton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Graham Masterton",
+      "slug": "graham-masterton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Manitou",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Djinn",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Revenge of the Manitou",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Burial",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Manitou Blood",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blind Panic",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Plague of the Manitou",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

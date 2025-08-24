@@ -1,0 +1,126 @@
+{
+  "type": "series",
+  "name": "Alex Verus",
+  "slug": "alex-verus",
+  "source": "https://www.orderofbooks.com/characters/alex-verus/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/10/Alex-Verus-by-Benedict-Jacka.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alex Verus Books",
+      "books": [
+        {
+          "title": "Fated",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Cursed",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Taken",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Chosen",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Hidden",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Veiled",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Burned",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Bound",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Marked",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Fallen",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Forged",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Favours",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Risen",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Gardens",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        }
+      ]
+    }
+  }
+}

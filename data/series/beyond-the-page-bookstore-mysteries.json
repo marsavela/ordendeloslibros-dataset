@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Beyond The Page Bookstore Mysteries",
+  "slug": "beyond-the-page-bookstore-mysteries",
+  "source": "https://www.orderofbooks.com/characters/beyond-the-page-bookstore-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/08/Beyond-The-Page-Bookstore-Mysteries-by-Lauren-Elliott.jpg",
+  "authors": [
+    {
+      "name": "Lauren Elliott",
+      "slug": "lauren-elliott"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder by the Book",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Prologue to Murder",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder in the First Edition",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Proof of Murder",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Page Marked for Murder",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Under the Cover of Murder",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "To the Tome of Murder",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Margin for Murder",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dedication to Murder",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Limited Edition Murder",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Epilogue to a Christmas Murder",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

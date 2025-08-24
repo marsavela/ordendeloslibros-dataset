@@ -1,0 +1,271 @@
+{
+  "type": "series",
+  "name": "Midnight Louie",
+  "slug": "midnight-louie",
+  "source": "https://www.orderofbooks.com/characters/midnight-louie/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Midnight-Louie-by-Carole-Nelson-Douglas-500x200.jpg",
+  "authors": [
+    {
+      "name": "Carole Nelson Douglas",
+      "slug": "carole-nelson-douglas"
+    }
+  ],
+  "books": [
+    {
+      "title": "Catnap / Cat in an Alphabet Soup",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pussyfoot / Cat in an Aqua Storm",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cat On A Blue Monday",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cat in a Crimson Haze",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cat in a Diamond Dazzle",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cat with an Emerald Eye",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Cat in a Flamingo Fedora",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Cat in a Golden Garland",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Cat on a Hyacinth Hunt",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Midnight Louie's Pet Detectives",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Cat in an Indigo Mood",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Cat in a Jeweled Jumpsuit",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Cat in a Kiwi Con",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Cat in a Leopard Spot",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Cat in a Midnight Choir",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Cat in a Neon Nightmare",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Midnight Louie In Something Fishy",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Cat in an Orange Twist",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Cat in a Hot Pink Pursuit",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Cat in a Quicksilver Caper",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Cat in a Red Hot Rage",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Cat in a Sapphire Slipper",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Cat in a Topaz Tango",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Cat in an Ultramarine Scheme",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Cat in a Vegas Gold Vendetta",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Fruit of the Tomb",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Cat in a White Tie and Tails",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Cat in an Alien X-Ray",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Cat in a Yellow Spotlight",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Cat in a Zebra Zoot Suit",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Cat in an Alphabet Endgame",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "If you are reading the Midnight Louie series in chronological order, you will want to read the Cat and a Playing Card series prior to the Midnight Louie series. However, this is not required.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    }
+  ]
+}

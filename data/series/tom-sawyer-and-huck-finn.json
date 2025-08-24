@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Tom Sawyer and Huck Finn",
+  "slug": "tom-sawyer-and-huck-finn",
+  "source": "https://www.orderofbooks.com/characters/tom-sawyer-and-huck-finn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Tom-Sawyer-Huckleberry-Finn-by-Mark-Twain.jpg",
+  "books": [
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Annotated Huckleberry Finn",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tom Sawyer Abroad",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tom Sawyer, Detective",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Huck Finn and Tom Sawyer Among the Indians and Other Unfinished Stories",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Missing Pieces Mysteries",
+  "slug": "missing-pieces-mysteries",
+  "source": "https://www.orderofbooks.com/characters/missing-pieces-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Missing-Pieces-Mysteries-by-Joyce-Jim-Lavene.jpg",
+  "authors": [
+    {
+      "name": "Joyce Jim Lavene",
+      "slug": "joyce-jim-lavene"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Timely Vision",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Touch of Gold",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Spirited Gift",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Haunting Dream",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Finder's Fee",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dae's Christmas Past / A Ghost Horse Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Watery Death",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

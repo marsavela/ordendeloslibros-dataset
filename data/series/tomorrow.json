@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Tomorrow",
+  "slug": "tomorrow",
+  "source": "https://www.orderofbooks.com/characters/tomorrow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Tomorrow-by-John-Marsden.jpg",
+  "books": [
+    {
+      "title": "Tomorrow, When the War Began",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dead of Night",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Killing Frost / The Third Day, the Frost",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Darkness, Be My Friend",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Burning For Revenge",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Night is for Hunting",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Other Side of Dawn",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

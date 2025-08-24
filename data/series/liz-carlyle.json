@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Liz Carlyle",
+  "slug": "liz-carlyle",
+  "source": "https://www.orderofbooks.com/characters/liz-carlyle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Liz-Carlyle-by-Stella-Rimington.jpg",
+  "authors": [
+    {
+      "name": "Stella Rimington",
+      "slug": "stella-rimington"
+    }
+  ],
+  "books": [
+    {
+      "title": "At Risk",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Secret Asset",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Illegal Action",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead Line",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Present Danger",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rip Tide",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Geneva Trap",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Close Call",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Breaking Cover",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Moscow Sleepers",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

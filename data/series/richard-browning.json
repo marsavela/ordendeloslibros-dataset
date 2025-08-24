@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Richard Browning",
+  "slug": "richard-browning",
+  "source": "https://www.orderofbooks.com/characters/richard-browning/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Richard-Browning-by-Peter-Corris.jpg",
+  "authors": [
+    {
+      "name": "Peter Corris",
+      "slug": "peter-corris"
+    }
+  ],
+  "books": [
+    {
+      "title": "Beverly Hills Browning",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Browning Takes Off",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Box Office Browning",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Browning In Buckskin",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Browning P.I.",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Browning Battles On",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Browning Sahib",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Browning Without a Cause",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

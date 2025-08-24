@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Echo Mountain",
+  "slug": "echo-mountain",
+  "source": "https://www.orderofbooks.com/characters/echo-mountain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/08/Echo-Mountain-by-Hope-White.jpg",
+  "books": [
+    {
+      "title": "Mountain Rescue",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Covert Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Payback",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Christmas Undercover",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Witness Pursuit",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mountain Ambush",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

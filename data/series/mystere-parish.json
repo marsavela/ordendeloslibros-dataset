@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Mystere Parish",
+  "slug": "mystere-parish",
+  "source": "https://www.orderofbooks.com/characters/mystere-parish/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Mystere-Parish-by-Jana-DeLeon-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jana DeLeon",
+      "slug": "jana-deleon"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Reckoning",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Vanishing",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Awakening",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

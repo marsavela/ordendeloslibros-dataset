@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Deirdre Quinn Nightingale",
+  "slug": "deirdre-quinn-nightingale",
+  "source": "https://www.orderofbooks.com/characters/deirdre-quinn-nightingale/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/07/Deirdre-Quinn-Nightingale-by-Lydia-Adamson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lydia Adamson",
+      "slug": "lydia-adamson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dr. Nightingale Comes Home",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dr. Nightingale Meets Puss in Boots",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dr. Nightingale Rides the Elephant",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dr. Nightingale Goes to the Dogs",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dr. Nightingale Goes the Distance",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dr. Nightingale Enters the Bear Cave",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dr. Nightingale Chases Three Little Pigs",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dr. Nightingale Rides to the Hounds",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dr. Nightingale Races the Outlaw Colt",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dr. Nightingale Traps the Missing Lynx",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dr. Nightingale Seeks Greener Pastures",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Dr. Nightingale Follows a Canine Clue",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

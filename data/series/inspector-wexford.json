@@ -1,0 +1,209 @@
+{
+  "type": "series",
+  "name": "Inspector Wexford",
+  "slug": "inspector-wexford",
+  "source": "https://www.orderofbooks.com/characters/inspector-wexford/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Inspector-Wexford-by-Ruth-Rendell.jpg",
+  "books": [
+    {
+      "title": "From Doon With Death",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sins of the Fathers / A New Lease of Death",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wolf to the Slaughter",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Best Man to Die",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Guilty Thing Surprised",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "No More Dying Then",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder Being Once Done",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Some Lie and Some Die",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Shake Hands Forever",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Sleeping Life",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Death Notes / Put On By Cunning",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Speaker of Mandarin",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "An Unkindness of Ravens",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Veiled One",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Kissing the Gunner's Daughter",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Ginger and the Kingsmarkham",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Simisola",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Road Rage",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Harm Done",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Babes in the Wood",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "End in Tears",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Not in the Flesh",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Monster in the Box",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Vault",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "No Man's Nightingale",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

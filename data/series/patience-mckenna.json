@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Patience McKenna",
+  "slug": "patience-mckenna",
+  "source": "https://www.orderofbooks.com/characters/patience-mckenna/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Patience-McKenna-by-Jane-Haddam-Orania-Papazoglou-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jane Haddam Orania Papazoglou",
+      "slug": "jane-haddam-orania-papazoglou"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sweet, Savage Death",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wicked, Loving Murder",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death's Savage Passion",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rich, Radiant Slaughter",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Once and Always Murder",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

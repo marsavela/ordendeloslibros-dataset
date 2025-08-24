@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Fairy Blossoms",
+  "slug": "fairy-blossoms",
+  "source": "https://www.orderofbooks.com/characters/fairy-blossoms/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Fairy-Blossoms-by-Suzanne-Williams.jpg",
+  "books": [
+    {
+      "title": "Daisy and the Magic Lesson",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Poppy and the Vanishing Fairy",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rose and the Delicious Secret",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Marigold and the Missing Firefly",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Daisy and the First Wish",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Violet and the Garden Hideaway",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

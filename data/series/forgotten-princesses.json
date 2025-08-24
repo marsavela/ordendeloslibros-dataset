@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Forgotten Princesses",
+  "slug": "forgotten-princesses",
+  "source": "https://www.orderofbooks.com/characters/forgotten-princesses/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Forgotten-Princesses-by-Sophie-Jordan.jpg",
+  "authors": [
+    {
+      "name": "Sophie Jordan",
+      "slug": "sophie-jordan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wicked in Your Arms",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lessons from a Scandalous Bride",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Earl in My Bed",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "How to Lose a Bride in One Night",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

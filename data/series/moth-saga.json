@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Moth Saga",
+  "slug": "moth-saga",
+  "source": "https://www.orderofbooks.com/characters/moth-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/moth-saga-500x200.jpg",
+  "books": [
+    {
+      "title": "Moth",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Empires of Moth",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Secrets of Moth",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Daughter of Moth",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadows of Moth",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Legacy of Moth",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

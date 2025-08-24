@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Timepiece",
+  "slug": "timepiece",
+  "source": "https://www.orderofbooks.com/characters/timepiece/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Timepiece-by-Anne-Perry.jpg",
+  "books": [
+    {
+      "title": "Tudor Rose",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rose of No Man's Land",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood Red Rose",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rose Between Two Thorns",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

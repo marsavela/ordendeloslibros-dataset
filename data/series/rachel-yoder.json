@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Rachel Yoder",
+  "slug": "rachel-yoder",
+  "source": "https://www.orderofbooks.com/characters/rachel-yoder/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Rachel-Yoder-by-Wanda-E-Brunstetter-500x200.jpg",
+  "books": [
+    {
+      "title": "Back to School",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Out of Control",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "School's Out",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "New Beginnings",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Happy Heart",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Just Plain Foolishness",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Jumping to Conclusions",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Growing Up",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Tara Holloway",
+  "slug": "tara-holloway",
+  "source": "https://www.orderofbooks.com/characters/tara-holloway/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Tara-Holloway-by-Diane-Kelly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Diane Kelly",
+      "slug": "diane-kelly"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death, Taxes, and a French Manicure",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death, Taxes, and a Skinny No-Whip Latte",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death, Taxes, and Extra-Hold Hairspray",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Death, Taxes, and a Sequined Clutch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Death, Taxes, and Peach Sangria",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death, Taxes, and Hot-Pink Leg Warmers",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Death, Taxes, and Green Tea Ice Cream",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death, Taxes, and Mistletoe Mayhem",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Death, Taxes, and Silver Spurs",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Death, Taxes, and Cheap Sunglasses",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Death, Taxes, and a Chocolate Cannoli",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Death, Taxes, and a Satin Garter",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Death, Taxes, and Sweet Potato Fries",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Death, Taxes, and a Shotgun Wedding",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Death, Taxes, and Pecan Pie",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

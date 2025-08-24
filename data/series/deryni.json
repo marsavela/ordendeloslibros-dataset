@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Deryni",
+  "slug": "deryni",
+  "source": "https://www.orderofbooks.com/characters/deryni/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Deryni-by-Katherine-Kurtz.jpg",
+  "authors": [
+    {
+      "name": "Katherine Kurtz",
+      "slug": "katherine-kurtz"
+    }
+  ],
+  "books": [
+    {
+      "title": "Deryni Rising",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deryni Checkmate",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "High Deryni",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

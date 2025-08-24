@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Devil",
+  "slug": "devil",
+  "source": "https://www.orderofbooks.com/characters/devil/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Devil-by-William-W-Johnstone.jpg",
+  "books": [
+    {
+      "title": "The Devil's Kiss",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Devil's Heart",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Touch",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Devil's Cat",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Devil's Laughter",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

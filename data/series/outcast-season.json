@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Outcast Season",
+  "slug": "outcast-season",
+  "source": "https://www.orderofbooks.com/characters/outcast-season/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Outcast-Season-by-Rachel-Caine-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rachel Caine",
+      "slug": "rachel-caine"
+    }
+  ],
+  "books": [
+    {
+      "title": "Undone",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Unknown",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Unseen",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Unbroken",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

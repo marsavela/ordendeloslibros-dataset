@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Josephine Tey Mysteries",
+  "slug": "josephine-tey-mysteries",
+  "source": "https://www.orderofbooks.com/characters/josephine-tey-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Josephine-Tey-Mysteries-by-Nicola-Upson.jpg",
+  "authors": [
+    {
+      "name": "Nicola Upson",
+      "slug": "nicola-upson"
+    }
+  ],
+  "books": [
+    {
+      "title": "An Expert in Murder",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Angel with Two Faces",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Two for Sorrow",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fear in the Sunlight",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Death of Lucy Kyte",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "London Rain",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Nine Lessons",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Sorry for the Dead",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Secrets of Winter / Dead of Winter",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dear Little Corpses",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Shot With Crimson",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

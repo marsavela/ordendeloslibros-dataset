@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Maze Runner",
+  "slug": "maze-runner",
+  "source": "https://www.orderofbooks.com/characters/maze-runner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Maze-Runner-by-James-Dashner.jpg",
+  "books": [
+    {
+      "title": "The Maze Runner",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Scorch Trials",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Death Cure",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Kill Order",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fever Code",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Fever Code is a prequel to the series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

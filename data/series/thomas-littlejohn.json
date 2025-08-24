@@ -1,0 +1,465 @@
+{
+  "type": "series",
+  "name": "Thomas Littlejohn",
+  "slug": "thomas-littlejohn",
+  "source": "https://www.orderofbooks.com/characters/thomas-littlejohn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/06/Thomas-Littlejohn-by-George-Bellairs.jpg",
+  "books": [
+    {
+      "title": "Littlejohn on Leave",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Four Unfaithful Servants",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death of a Busybody",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Dead Shall be Raised & Murder of a Quack",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Case of the Seven Whistlers",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "He'd Rather Be Dead",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Calamity at Harwood",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Death in the Night Watches",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Case of the Scared Rabbits",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Crime at Halfpenny Bridge",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Death on the Last Train",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Outrage on Gallows Hill",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Case of the DeMented Spiv",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Case of the Famished Parson",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Half-Mast for the Deemster",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Case of the Headless Jesuit",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Dead March for Penelope Blow",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Death in Dark Glasses",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Crime in Lepers' Hollow",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "A Knife for Harry Dodd",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Corpses in Enderby",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Cursing Stones Murder",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Death in Room Five",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Death Treads Softly",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Death Drops the Pilot",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Death in High Provence",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Death Sends for the Doctor",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Corpse at the Carnival",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Murder Makes Mistakes",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Bones in the Wilderness",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Toll the Bell for Murder",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Death in the Fearful Night",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Death in Despair",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Death of a Tin God",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Body in the Dumb River",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Murder Masquerade",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Tormentors",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Death Before Breakfast",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Death in the Wasteland",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Death of a Shadow",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Surfeit of Suspects",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Death Spins the Wheel",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Strangers Among the Dead",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "Intruder in the Dark",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "Death in Desolation",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "Single ticket to Death",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "Fatal Alibi",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "Murder Gone Mad",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "Tycoon's Death-Bed",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "Pomeroy Deceased",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "The Night They Killed Joss Varran",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "Murder Adrift",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "Devious Murder",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "Fear Round About",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "All Roads to Sospel",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "The Downhill Ride Of Leeman Popple",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "An Old Man Dies",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    }
+  ]
+}

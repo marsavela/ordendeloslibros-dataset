@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Silent Service",
+  "slug": "silent-service",
+  "source": "https://www.orderofbooks.com/characters/silent-service/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/The-Silent-Service-by-H-Jay-Riker-500x200.jpg",
+  "authors": [
+    {
+      "name": "H. Jay Riker",
+      "slug": "h-jay-riker"
+    }
+  ],
+  "books": [
+    {
+      "title": "Grayback Class",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Los Angeles Class",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Seawolf Class",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Virginia Class",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ohio Class",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

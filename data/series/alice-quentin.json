@@ -1,0 +1,62 @@
+{
+  "type": "series",
+  "name": "Alice Quentin",
+  "slug": "alice-quentin",
+  "source": "https://www.orderofbooks.com/characters/alice-quentin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/04/Alice-Quentin-by-Kate-Rhodes.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alice Quentin Books",
+      "books": [
+        {
+          "title": "Crossbones Yard",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "A Killing of Angels",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Winter Foundlings",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "River of Souls / The Girl in the River",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Blood Symmetry",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Fatal Harmony",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

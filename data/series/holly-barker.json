@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Holly Barker",
+  "slug": "holly-barker",
+  "source": "https://www.orderofbooks.com/characters/holly-barker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Holly-Barker.jpg",
+  "books": [
+    {
+      "title": "Orchid Beach",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Orchid Blues",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood Orchid",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Reckless Abandon",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Iron Orchid",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hothouse Orchid",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

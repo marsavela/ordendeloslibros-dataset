@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Silo",
+  "slug": "silo",
+  "source": "https://www.orderofbooks.com/characters/silo/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Silo-Wool-Series-by-Hugh-Howey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Hugh Howey",
+      "slug": "hugh-howey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wool",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shift",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dust",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "McAllister Files",
+  "slug": "mcallister-files",
+  "source": "https://www.orderofbooks.com/characters/mcallister-files/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/McAllister-Files-by-Patricia-H-Rushford.jpg",
+  "authors": [
+    {
+      "name": "Patricia H. Rushford",
+      "slug": "patricia-h-rushford"
+    }
+  ],
+  "books": [
+    {
+      "title": "Secrets, Lies and Alibis",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deadfall",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Terminal 9",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "She Who Watches",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

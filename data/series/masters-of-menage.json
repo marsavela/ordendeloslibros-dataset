@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Masters Of Menage",
+  "slug": "masters-of-menage",
+  "source": "https://www.orderofbooks.com/characters/masters-of-menage/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Masters-of-Menage-by-Shayla-Black-Lexi-Blake.jpg",
+  "authors": [
+    {
+      "name": "Shayla Black",
+      "slug": "shayla-black"
+    }
+  ],
+  "books": [
+    {
+      "title": "Their Virgin Captive",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Their Virgin's Secret",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Their Virgin Concubine",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Their Virgin Princess",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Their Virgin Hostage",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Their Virgin Secretary",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Their Virgin Mistress",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

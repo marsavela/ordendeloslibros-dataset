@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Warriors",
+  "slug": "warriors",
+  "source": "https://www.orderofbooks.com/characters/warriors/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Warriors-by-Erin-Hunter-500x200.jpg",
+  "authors": [
+    {
+      "name": "Erin Hunter",
+      "slug": "erin-hunter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Into the Wild",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fire and Ice",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Forest of Secrets",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rising Storm",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Dangerous Path",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Darkest Hour",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

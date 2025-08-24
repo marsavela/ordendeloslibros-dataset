@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Back Room Bookstore Cozy Mysteries",
+  "slug": "back-room-bookstore-cozy-mysteries",
+  "source": "https://www.orderofbooks.com/characters/back-room-bookstore-cozy-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/05/Back-Room-Bookstore-Mysteries-by-Susan-Harper.jpg",
+  "authors": [
+    {
+      "name": "Susan Harper",
+      "slug": "susan-harper"
+    }
+  ],
+  "books": [
+    {
+      "title": "Books and Brews",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Guilty Party",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Staged Murder",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Gruesome Goal",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "An Eye for Murder",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Holidays and Homicide",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Lethal Love",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Supernatural Slaying",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Beaten at His Own Game",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Trip Through Time",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Seeing Double",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Magical Ending",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

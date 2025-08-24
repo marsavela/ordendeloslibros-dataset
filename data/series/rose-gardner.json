@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Rose Gardner",
+  "slug": "rose-gardner",
+  "source": "https://www.orderofbooks.com/characters/rose-gardner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Rose-Gardner-by-Denise-Grover-Swank-500x200.jpg",
+  "authors": [
+    {
+      "name": "Denise Grover Swank",
+      "slug": "denise-grover-swank"
+    }
+  ],
+  "books": [
+    {
+      "title": "Twenty-Eight and a Half Wishes",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Twenty-Nine and a Half Reasons",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Thirty and a Half Excuses",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Falling to Pieces",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Thirty-One and a Half Regrets",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Thirty-Two and a Half Complications",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Picking Up the Pieces",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Thirty-Three and a Half Shenanigans",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Rose and Helena Save Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ripple of Secrets",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Thirty-Four and a Half Predicaments",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Thirty-Five and a Half Conspiracies",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Thirty-Six and a Half Motives",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Sins of the Father",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

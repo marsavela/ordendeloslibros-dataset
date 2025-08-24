@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Baby For The Billionaire",
+  "slug": "baby-for-the-billionaire",
+  "source": "https://www.orderofbooks.com/characters/baby-for-the-billionaire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Baby-For-the-Billionaire-by-Melody-Anne-500x200.jpg",
+  "books": [
+    {
+      "title": "The Tycoon's Revenge",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tycoon's Vacation",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Tycoon's Proposal",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Tycoon's Secret",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Lost Tycoon",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rescue Me",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

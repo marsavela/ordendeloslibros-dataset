@@ -1,0 +1,78 @@
+{
+  "type": "series",
+  "name": ".45-Caliber",
+  "slug": "45-caliber",
+  "source": "https://www.orderofbooks.com/characters/45-caliber/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/45-Caliber-by-Peter-Brandvold.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of .45-Caliber Books",
+      "books": [
+        {
+          "title": ".45-Caliber Revenge",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": ".45-Caliber Fury",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": ".45-Caliber Manhunt",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": ".45-Caliber Deathtrap",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": ".45-Caliber Widow Maker",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": ".45-Caliber Firebrand",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": ".45-Caliber Desperado",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": ".45-Caliber Cross Fire",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        }
+      ]
+    }
+  }
+}

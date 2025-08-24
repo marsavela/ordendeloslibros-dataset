@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Palmer-Jones",
+  "slug": "palmer-jones",
+  "source": "https://www.orderofbooks.com/characters/palmer-jones/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Palmer-Jones-by-Ann-Cleeves.jpg",
+  "authors": [
+    {
+      "name": "Ann Cleeves",
+      "slug": "ann-cleeves"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Bird in the Hand",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Come Death And High Water",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder In Paradise",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Prey To Murder",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Another Man's Poison",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sea Fever",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Mill On The Shore",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "High Island Blues",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

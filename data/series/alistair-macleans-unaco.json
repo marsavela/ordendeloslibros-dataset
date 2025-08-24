@@ -1,0 +1,100 @@
+{
+  "type": "series",
+  "name": "Alistair MacLean’s UNACO",
+  "slug": "alistair-macleans-unaco",
+  "source": "https://www.orderofbooks.com/characters/alistair-macleans-unaco/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/UNACO-by-Alistair-MacLean.jpg",
+  "authors": [
+    {
+      "name": "Alistair MacLean",
+      "slug": "alistair-maclean"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alistair MacLean's UNACO Books",
+      "books": [
+        {
+          "title": "Hostage Tower",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Air Force One Is Down",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Death Train",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Night Watch",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Red Alert",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Time of the Assassins",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Dead Halt",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Code Breaker",
+          "year": 1993,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Prime Target",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Borrowed Time",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Ghost Of Granny Apples Mysteries",
+  "slug": "ghost-of-granny-apples-mysteries",
+  "source": "https://www.orderofbooks.com/characters/ghost-of-granny-apples-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Ghost-Of-Granny-Apples-Mysteries-by-Sue-Ann-Jaffarian.jpg",
+  "authors": [
+    {
+      "name": "Sue Ann Jaffarian",
+      "slug": "sue-ann-jaffarian"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ghost a la Mode",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ghost in the Polka Dot Bikini",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gem of a Ghost",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Silent Ghost",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dummy of a Ghost",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ghost of a Gamble",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ghost in the Guacamole",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Ghost of Mistletoe Mary",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Ghosts of Misty Hollow",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ghosts ‘n Graveyards",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Ghost of Christmas Granny",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

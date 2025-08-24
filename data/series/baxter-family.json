@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Baxter Family",
+  "slug": "baxter-family",
+  "source": "https://www.orderofbooks.com/characters/baxter-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Baxter-Family-Saga-by-Karen-Kingsbury.jpg",
+  "books": [
+    {
+      "title": "Redemption",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Remember",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Return",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rejoice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Reunion",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

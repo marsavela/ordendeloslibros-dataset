@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Rachel Scott",
+  "slug": "rachel-scott",
+  "source": "https://www.orderofbooks.com/characters/rachel-scott/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Rachel-Scott-by-Traci-Hohenstein-500x200.jpg",
+  "authors": [
+    {
+      "name": "Traci Hohenstein",
+      "slug": "traci-hohenstein"
+    }
+  ],
+  "books": [
+    {
+      "title": "Asylum Harbor",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Burn Out",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Look For Me",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "CutRun",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deceptive Measures",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Look For Me is a prequel novella that takes place prior to the novel Asylum Harbor",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

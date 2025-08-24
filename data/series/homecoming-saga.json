@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Homecoming Saga",
+  "slug": "homecoming-saga",
+  "source": "https://www.orderofbooks.com/characters/homecoming-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Homecoming.jpg",
+  "books": [
+    {
+      "title": "The Memory of Earth",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Call of Earth",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ships of Earth",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Earthfall",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Earthborn",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Beth Kennedy",
+  "slug": "beth-kennedy",
+  "source": "https://www.orderofbooks.com/characters/beth-kennedy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/03/Beth-Kennedy-by-Laura-Alden-500x200.jpg",
+  "authors": [
+    {
+      "name": "Laura Alden",
+      "slug": "laura-alden"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder at the PTA",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Foul Play at the PTA",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Plotting at the PTA",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Curse of the PTA",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Poison at the PTA",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Sarah Kelling & Max Bittersohn",
+  "slug": "sarah-kelling-max-bittersohn",
+  "source": "https://www.orderofbooks.com/characters/sarah-kelling-max-bittersohn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Sarah-Kelling-and-Max-Bittersohn-Mysteries-by-Charlotte-MacLeod.jpg",
+  "authors": [
+    {
+      "name": "Charlotte MacLeod",
+      "slug": "charlotte-macleod"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Family Vault",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Withdrawing Room",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Palace Guard",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Bilbao Looking Glass",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Convivial Codfish",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Plain Old Man",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Recycled Citizen",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Silver Ghost",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Gladstone Bag",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Resurrection Man",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Odd Job",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Balloon Man",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

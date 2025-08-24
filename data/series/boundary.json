@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Boundary",
+  "slug": "boundary",
+  "source": "https://www.orderofbooks.com/characters/boundary/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Boundary-by-Eric-Flint-Ryk-E-Spoor.jpg",
+  "authors": [
+    {
+      "name": "Eric Flint",
+      "slug": "eric-flint"
+    }
+  ],
+  "books": [
+    {
+      "title": "Boundary",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Threshold",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Skyspark",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Portal",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Threat",
+  "slug": "threat",
+  "source": "https://www.orderofbooks.com/characters/threat/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Threat-Series.jpg",
+  "books": [
+    {
+      "title": "Sudden Threat",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rogue Threat",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hidden Threat",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mortal Threat",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

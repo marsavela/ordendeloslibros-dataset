@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Jeff Resnick",
+  "slug": "jeff-resnick",
+  "source": "https://www.orderofbooks.com/characters/jeff-resnick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Jeff-Resnick-by-LL-Bartlett.jpg",
+  "books": [
+    {
+      "title": "Murder on the Mind",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead in Red",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cheated By Death",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bound by Suggestion",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Room at the Inn",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dark Waters",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Shattered Spirits",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shadow Man",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

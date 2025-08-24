@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Treading Water",
+  "slug": "treading-water",
+  "source": "https://www.orderofbooks.com/characters/treading-water/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Treading-Water-by-Marie-Force-500x200.jpg",
+  "authors": [
+    {
+      "name": "Marie Force",
+      "slug": "marie-force"
+    }
+  ],
+  "books": [
+    {
+      "title": "Treading Water",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Marking Time",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Starting Over",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Coming Home",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Finding Forever",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

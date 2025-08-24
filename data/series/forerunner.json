@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Forerunner",
+  "slug": "forerunner",
+  "source": "https://www.orderofbooks.com/characters/forerunner/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Forerunner-by-Andre-North.jpg",
+  "books": [
+    {
+      "title": "Storm Over Warlock",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ordeal In Otherwhere",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Forerunner",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Forerunner Foray",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Second Venture",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Summer",
+  "slug": "summer",
+  "source": "https://www.orderofbooks.com/characters/summer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Summer-by-CJ-Duggan-500x200.jpg",
+  "authors": [
+    {
+      "name": "CJ Duggan",
+      "slug": "cj-duggan"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Boys of Summer",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "An Endless Summer",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "That One Summer",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ringer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stan",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Max",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Forever Summer",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

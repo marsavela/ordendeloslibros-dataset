@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Seventh Tower",
+  "slug": "seventh-tower",
+  "source": "https://www.orderofbooks.com/characters/seventh-tower/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Seventh-Tower-by-Garth-Nix.jpg",
+  "authors": [
+    {
+      "name": "Garth Nix",
+      "slug": "garth-nix"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Fall",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Castle",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Aenir",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Above the Veil",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Into Battle",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Violet Keystone",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

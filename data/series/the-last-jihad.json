@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Last Jihad",
+  "slug": "the-last-jihad",
+  "source": "https://www.orderofbooks.com/characters/the-last-jihad/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/The-Last-Jihad.jpg",
+  "books": [
+    {
+      "title": "The Last Jihad",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Last Days",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Ezekiel Option",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Copper Scroll",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead Heat",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

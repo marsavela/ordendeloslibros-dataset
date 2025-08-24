@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Masters Of Rome",
+  "slug": "masters-of-rome",
+  "source": "https://www.orderofbooks.com/characters/masters-of-rome/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Masters-of-Rome-by-Colleen-McCullough-500x200.jpg",
+  "authors": [
+    {
+      "name": "Colleen McCullough",
+      "slug": "colleen-mccullough"
+    }
+  ],
+  "books": [
+    {
+      "title": "The First Man in Rome",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Grass Crown",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fortune's Favorites",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Caesar's Women",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Caesar",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The October Horse",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Antony and Cleopatra",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

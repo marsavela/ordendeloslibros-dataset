@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Nova",
+  "slug": "nova",
+  "source": "https://www.orderofbooks.com/characters/nova/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Nova-by-Jessica-Sorensen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jessica Sorensen",
+      "slug": "jessica-sorensen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Breaking Nova",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Saving Quinton",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nova and Quinton: No Regrets",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wreck Me",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ruin Me",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Nova and Quinton: Everlasting Hope",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

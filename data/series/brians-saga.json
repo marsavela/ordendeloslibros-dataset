@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Brian’s Saga",
+  "slug": "brians-saga",
+  "source": "https://www.orderofbooks.com/characters/brian-robeson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Brian-Robeson-by-Gary-Paulsen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gary Paulsen",
+      "slug": "gary-paulsen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hatchet",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The River / The Return",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Brian's Winter / Winter",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Brian's Return / The Call",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Brian's Hunt",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

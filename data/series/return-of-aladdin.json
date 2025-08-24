@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Return Of Aladdin",
+  "slug": "return-of-aladdin",
+  "source": "https://www.orderofbooks.com/characters/return-of-aladdin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Return-of-Aladdin-by-Piers-Anthony-JR-Rain.jpg",
+  "authors": [
+    {
+      "name": "Piers Anthony",
+      "slug": "piers-anthony"
+    }
+  ],
+  "books": [
+    {
+      "title": "Aladdin Relighted",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Aladdin Sins Bad",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Aladdin and the Flying Dutchman",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

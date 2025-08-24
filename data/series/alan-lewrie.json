@@ -1,0 +1,233 @@
+{
+  "type": "series",
+  "name": "Alan Lewrie",
+  "slug": "alan-lewrie",
+  "source": "https://www.orderofbooks.com/characters/alan-lewrie/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Alan-Lewrie-Naval-Adventures-by-Dewey-Lambdin-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dewey Lambdin",
+      "slug": "dewey-lambdin"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alan Lewrie Books",
+      "books": [
+        {
+          "title": "The King's Coat",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The French Admiral",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The King's Commission",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The King's Privateer",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Gun Ketch",
+          "year": 1993,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "H.M.S. Cockerel",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "A King's Commander",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Jester's Fortune",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "King's Captain",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Sea of Grey",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Havoc's Sword",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "The Captain's Vengeance",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "A King's Trade",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Troubled Waters",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "The Baltic Gambit",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "King, Ship, and Sword",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "The Invasion Year",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Reefs and Shoals",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Hostile Shores",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "The King's Marauder",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Kings and Emperors",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "A Hard, Cruel Shore",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        },
+        {
+          "title": "A Fine Retribution",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 23
+        },
+        {
+          "title": "An Onshore Storm",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 24
+        },
+        {
+          "title": "Much Ado about Lewrie",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 25
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Alan Lewrie Short Stories Books",
+      "books": [
+        {
+          "title": "Lewrie and the Hogsheads",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        }
+      ]
+    }
+  }
+}

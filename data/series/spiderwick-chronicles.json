@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Spiderwick Chronicles",
+  "slug": "spiderwick-chronicles",
+  "source": "https://www.orderofbooks.com/characters/spiderwick-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Spiderwick-Chronicles-by-Tony-DiTerlizzi-Holly-Black-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tony DiTerlizzi",
+      "slug": "tony-diterlizzi"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Field Guide",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Seeing Stone",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lucinda's Secret",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Ironwood Tree",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Wrath of Mulgarath",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

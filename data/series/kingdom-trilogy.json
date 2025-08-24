@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Kingdom Trilogy",
+  "slug": "kingdom-trilogy",
+  "source": "https://www.orderofbooks.com/characters/kingdom-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Kingdom-Trilogy-by-Robert-Low-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Low",
+      "slug": "robert-low"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Lion Wakes",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Lion at Bay",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Lion Rampant",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

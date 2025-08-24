@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Pine Creek Highlander",
+  "slug": "pine-creek-highlander",
+  "source": "https://www.orderofbooks.com/characters/pine-creek-highlander/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Pine-Creek-Highlander-by-Janet-Chapman.jpg",
+  "books": [
+    {
+      "title": "Charming the Highlander",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Loving the Highlander",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wedding the Highlander",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tempting the Highlander",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Only With a Highlander",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Secrets of the Highlander",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Highlander Christmas",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Highlander for the Holidays",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

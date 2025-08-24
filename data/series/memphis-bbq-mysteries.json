@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Memphis BBQ Mysteries",
+  "slug": "memphis-bbq-mysteries",
+  "source": "https://www.orderofbooks.com/characters/memphis-bbq-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Memphis-BBQ-by-Riley-Adams-500x200.jpg",
+  "authors": [
+    {
+      "name": "Riley Adams",
+      "slug": "riley-adams"
+    }
+  ],
+  "books": [
+    {
+      "title": "Delicious and Suspicious",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Finger Lickin' Dead",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hickory Smoked Homicide",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rubbed Out",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

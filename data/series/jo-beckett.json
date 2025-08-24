@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Jo Beckett",
+  "slug": "jo-beckett",
+  "source": "https://www.orderofbooks.com/characters/jo-beckett/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Jo-Beckett-by-Meg-Gardiner.jpg",
+  "books": [
+    {
+      "title": "The Dirty Secrets Club",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Memory Collector",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Liar's Lullaby",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Nightmare Thief",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

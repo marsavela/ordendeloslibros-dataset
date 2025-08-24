@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Markhat Files",
+  "slug": "markhat-files",
+  "source": "https://www.orderofbooks.com/characters/markhat-files/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/12/Markhat-Files-by-Frank-Tuttle-500x200.jpg",
+  "authors": [
+    {
+      "name": "Frank Tuttle",
+      "slug": "frank-tuttle"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Mister Trophy",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Man's Rain",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hold the Dark",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Cadaver Client",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Banshee's Walk",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Broken Bell",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Brown River Queen",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Five Faces",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Darker Carnival",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Way Out West",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Three Mean Streets",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

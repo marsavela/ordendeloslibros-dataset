@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Christopher Paget",
+  "slug": "christopher-paget",
+  "source": "https://www.orderofbooks.com/characters/christopher-paget/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Christopher-Paget.jpg",
+  "books": [
+    {
+      "title": "The Lasko Tangent",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Degree of Guilt",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Eyes of a Child",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Conviction",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

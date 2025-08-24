@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Thunder Moon",
+  "slug": "thunder-moon",
+  "source": "https://www.orderofbooks.com/characters/thunder-moon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Thunder-Moon-by-Max-Brand.jpg",
+  "books": [
+    {
+      "title": "Thunder Moon",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thunder Moon's Challenge",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Thunder Moon Strikes",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Farewell, Thunder Moon",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Legend of Thunder Moon",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

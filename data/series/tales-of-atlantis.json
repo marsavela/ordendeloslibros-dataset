@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Tales Of Atlantis",
+  "slug": "tales-of-atlantis",
+  "source": "https://www.orderofbooks.com/characters/tales-of-atlantis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Atlantis-by-Gena-Showalter-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gena Showalter",
+      "slug": "gena-showalter"
+    }
+  ],
+  "books": [
+    {
+      "title": "Heart of the Dragon",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Jewel of Atlantis",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Nymph King",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Vampire's Bride",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Amazon's Curse",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

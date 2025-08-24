@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Quilted Mysteries",
+  "slug": "quilted-mysteries",
+  "source": "https://www.orderofbooks.com/characters/quilted-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/12/Quilted-Mysteries-by-Barbara-Graham-500x200.jpg",
+  "authors": [
+    {
+      "name": "Barbara Graham",
+      "slug": "barbara-graham"
+    }
+  ],
+  "books": [
+    {
+      "title": "Murder By Serpents",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder by Artifact",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder by Music",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder by Vegetable",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder by Sunlight",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder by Gravity",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Murder by Kindness",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Wardstone Chronicles/Last Apprentice",
+  "slug": "wardstone-chronicles-last-apprentice",
+  "source": "https://www.orderofbooks.com/characters/wardstone-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Wardstone-Chronicles-Last-Apprentice-by-Joseph-Delaney.jpg",
+  "books": [
+    {
+      "title": "The Spook's Apprentice / Revenge of the Witch",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Spook's Curse / Curse of the Bane",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Spook's Secret / Night of the Soul Stealer",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Spook's Battle / Attack of the Fiend",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Spook's Mistake / Wrath of the Bloodeye",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Spook's Sacrifice / Clash of the Demons",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Spook's Nightmare / Rise of the Huntress",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Grimalkin's Tale",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Spook's Destiny / Rage of the Fallen",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "I Am Grimalkin / Grimalkin, the Witch Assassin",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Alice and the Brain Guzzler",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Spook's Blood / The Last Apprentice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Slither's Tale / Slither",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "I Am Alice / Spook's: Alice",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Spook’s Revenge / Fury of the Seventh Son",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

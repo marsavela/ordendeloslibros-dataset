@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Jerry Mitchell",
+  "slug": "jerry-mitchell",
+  "source": "https://www.orderofbooks.com/characters/jerry-mitchell/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Jerry-Mitchell-by-Larry-Bond.jpg",
+  "authors": [
+    {
+      "name": "Larry Bond",
+      "slug": "larry-bond"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dangerous Ground",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cold Choices",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Exit Plan",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shattered Trident",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fatal Thunder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Arctic Gambit",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

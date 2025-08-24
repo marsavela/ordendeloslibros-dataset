@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Vish Puri: Most Private Investigator",
+  "slug": "vish-puri-most-private-investigator",
+  "source": "https://www.orderofbooks.com/characters/vish-puri-most-private-investigator/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Vish-Puri-by-Tarquin-Hall.jpg",
+  "authors": [
+    {
+      "name": "Tarquin Hall",
+      "slug": "tarquin-hall"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Case of the Missing Servant",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Case of the Man Who Died Laughing",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Case of the Deadly Butter Chicken",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Case of the Love Commandos",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Delhi Detective's Handbook",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Case of the Reincarnated Client",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Case of the Elusive Bombay Duck",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Paul Tallis",
+  "slug": "paul-tallis",
+  "source": "https://www.orderofbooks.com/characters/paul-tallis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Paul-Tallis-by-EV-Seymour.jpg",
+  "books": [
+    {
+      "title": "The Last Exile",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mephisto Threat",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Land of Ghosts",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Resolution to Kill",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

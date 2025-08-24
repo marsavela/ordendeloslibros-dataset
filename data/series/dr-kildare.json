@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Dr. Kildare",
+  "slug": "dr-kildare",
+  "source": "https://www.orderofbooks.com/characters/dr-kildare/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Dr-Kildare-by-Max-Brand.jpg",
+  "books": [
+    {
+      "title": "Calling Dr. Kildare",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Secret of Dr. Kildare",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dr. Kildare Takes Charge",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dr. Kildare's Trial",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Young Dr. Kildare",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dr. Kildare's Crisis",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dr. Kildare's Search",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

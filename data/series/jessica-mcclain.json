@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Jessica McClain",
+  "slug": "jessica-mcclain",
+  "source": "https://www.orderofbooks.com/characters/jessica-mcclain/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/jessica-mccain-500x200.jpg",
+  "books": [
+    {
+      "title": "Blooded",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Full Blooded",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hot Blooded",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cold Blooded",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Red Blooded",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pure Blooded",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blue Blooded",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

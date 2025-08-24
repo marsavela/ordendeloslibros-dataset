@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Josie Bates",
+  "slug": "josie-bates",
+  "source": "https://www.orderofbooks.com/characters/josie-bates/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Josie-Bates-Witness-by-Rebecca-Forster-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rebecca Forster",
+      "slug": "rebecca-forster"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hostile Witness",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Silent Witness",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Privileged Witness",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Expert Witness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Eyewitness",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Forgotten Witness",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dark Witness",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hannah's Diary",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Lost Witness",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The 9th Witness",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

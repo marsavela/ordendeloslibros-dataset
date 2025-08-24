@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Hollywood Station",
+  "slug": "hollywood-station",
+  "source": "https://www.orderofbooks.com/characters/hollywood-station/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Hollywood-Station-by-Joseph-Wambaugh.jpg",
+  "books": [
+    {
+      "title": "Hollywood Station",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hollywood Crows",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hollywood Moon",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hollywood Hills",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Harbor Nocturne",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Dave Gurney",
+  "slug": "dave-gurney",
+  "source": "https://www.orderofbooks.com/characters/dave-gurney/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Dave-Gurney-by-John-Verdon.jpg",
+  "books": [
+    {
+      "title": "Think of a Number",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shut Your Eyes Tight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Let the Devil Sleep",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Peter Pan Must Die",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wolf Lake",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "White River Burning",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "On Harrow Hill",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Viper",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Nell Sweeney",
+  "slug": "nell-sweeney",
+  "source": "https://www.orderofbooks.com/characters/nell-sweeney/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Nell-Sweeney-Gilded-Age-Mysteries-by-PB-Ryan.jpg",
+  "authors": [
+    {
+      "name": "PB Ryan",
+      "slug": "pb-ryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Still Life with Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Murder in a Mill Town",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death on Beacon Hill",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder on Black Friday",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder In the North End",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Bucket of Ashes",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

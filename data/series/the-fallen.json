@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "The Fallen",
+  "slug": "the-fallen",
+  "source": "https://www.orderofbooks.com/characters/the-fallen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/The-Fallen-by-Cynthia-Eden.jpg",
+  "authors": [
+    {
+      "name": "Cynthia Eden",
+      "slug": "cynthia-eden"
+    }
+  ],
+  "books": [
+    {
+      "title": "Angel of Darkness",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Angel Betrayed",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Angel in Chains",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Avenging Angel",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

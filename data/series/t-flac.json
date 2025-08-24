@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "T-FLAC",
+  "slug": "t-flac",
+  "source": "https://www.orderofbooks.com/characters/t-flac/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/T-FLAC-by-Cherry-Adair-500x200.jpg",
+  "authors": [
+    {
+      "name": "South African-American",
+      "slug": "south-african-american"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Mercenary",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Chameleon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ricochet",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gideon",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Killer Christmas",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

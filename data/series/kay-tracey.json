@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Kay Tracey",
+  "slug": "kay-tracey",
+  "source": "https://www.orderofbooks.com/characters/kay-tracey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Kay-Tracey-by-Frances-K-Judd-500x200.jpg",
+  "authors": [
+    {
+      "name": "Harried Stratemeyer Adams",
+      "slug": "harried-stratemeyer-adams"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Secret of the Red Scarf",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Strange Echo",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mystery of the Swaying Curtains",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Shadow on the Door",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Six Fingered Glove Mystery",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Green Cameo Mystery",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Secret at the Windmill",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Beneath the Crimson Brier Bush",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Message in the Sand Dunes",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Murmuring Portrait",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "When the Key Turned",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "In the Sunken Garden",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Forbidden Tower",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Sacred Feather",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Lone Footprint",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Double Disguise",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Mansion of Secrets",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Mysterious Neighbors",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

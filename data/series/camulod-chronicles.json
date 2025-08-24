@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Camulod Chronicles",
+  "slug": "camulod-chronicles",
+  "source": "https://www.orderofbooks.com/characters/camulod-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Camulod-Chronicles-Dream-of-Eagles-by-Jack-Whyte.jpg",
+  "authors": [
+    {
+      "name": "Jack Whyte",
+      "slug": "jack-whyte"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Skystone / War of the Celts",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Singing Sword / The Round Table",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Eagles' Brood / Merlyn",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Saxon Shore / Excalibur",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fort at River's Bend / The Boy King",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Metamorphosis / The Sorcerer",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Uther / Pendragon",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Lance Thrower / Clothar The Frank / Lancelot",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Eagle / The Last Stand",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Burning Stone",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Chronologically, read The Burning Stone first.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

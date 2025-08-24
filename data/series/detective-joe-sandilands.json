@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Detective Joe Sandilands",
+  "slug": "detective-joe-sandilands",
+  "source": "https://www.orderofbooks.com/characters/detective-joe-sandilands/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Detective-Joe-Sandilands-by-Beverly-Cleverly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Beverly Cleverly",
+      "slug": "beverly-cleverly"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Last Kashmiri Rose",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ragtime in Simla",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Damascened Blade",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Palace Tiger",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bee's Kiss",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tug of War",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Folly du Jour",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Strange Images of Death",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Blood Royal",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Not My Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Spider in the Cup",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Enter Pale Death",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Diana's Altar",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

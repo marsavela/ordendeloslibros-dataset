@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Giver Quartet",
+  "slug": "giver-quartet",
+  "source": "https://www.orderofbooks.com/characters/giver-quartet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Giver-Quartet-by-Lois-Lowry.jpg",
+  "authors": [
+    {
+      "name": "Lois Lowry",
+      "slug": "lois-lowry"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Giver",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gathering Blue",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Messenger",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Son",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

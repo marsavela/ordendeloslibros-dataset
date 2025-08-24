@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Firelight",
+  "slug": "firelight",
+  "source": "https://www.orderofbooks.com/characters/firelight/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Firelight-by-Sophie-Jordan.jpg",
+  "authors": [
+    {
+      "name": "Sophie Jordan",
+      "slug": "sophie-jordan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Firelight",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Vanish",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hidden",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Breathless",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

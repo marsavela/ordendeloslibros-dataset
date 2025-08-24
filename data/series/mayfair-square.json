@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Mayfair Square",
+  "slug": "mayfair-square",
+  "source": "https://www.orderofbooks.com/characters/mayfair-square/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Mayfair-Square-by-Stella-Cameron-500x200.jpg",
+  "authors": [
+    {
+      "name": "Stella Cameron",
+      "slug": "stella-cameron"
+    }
+  ],
+  "books": [
+    {
+      "title": "More and More",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "All Smiles",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "7B",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Orphan",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "About Adam",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Kennedy & Trentham",
+  "slug": "kennedy-trentham",
+  "source": "https://www.orderofbooks.com/characters/kennedy-and-trentham/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Kennedy-and-Trentham-by-Shirley-Wells.jpg",
+  "authors": [
+    {
+      "name": "Shirley Wells",
+      "slug": "shirley-wells"
+    }
+  ],
+  "books": [
+    {
+      "title": "Into the Shadows",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Darker Side",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Where Petals Fall",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Broken Circle",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shades of Evil",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Final Echoes",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

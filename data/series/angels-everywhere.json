@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Angels Everywhere",
+  "slug": "angels-everywhere",
+  "source": "https://www.orderofbooks.com/characters/angels-everywhere/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Angels-Everywhere-by-Debbie-Macomber.jpg",
+  "books": [
+    {
+      "title": "A Season of Angels",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Trouble with Angels",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Touched by Angels",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shirley, Goodness and Mercy",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Those Christmas Angels",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Where Angels Go",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Angels at the Table",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

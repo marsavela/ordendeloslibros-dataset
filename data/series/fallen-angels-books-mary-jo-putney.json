@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Fallen Angels Books (Mary Jo Putney)",
+  "slug": "fallen-angels-books-mary-jo-putney",
+  "source": "https://www.orderofbooks.com/characters/fallen-angels-mary-jo-putney/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/fallen-angels-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mary Jo Putney. The",
+      "slug": "mary-jo-putney-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "Face Down in the Marrow-Bone Pie",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Face Down Upon an Herbal",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Face Down Among the Winchester Geese",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Face Down Beneath the Eleanor Cross",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Face Down Under the Wych Elm",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Face Down Before Rebel Hooves",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Face Down Across the Western Sea",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murders and Other Confusions",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Face Down Below the Banqueting House",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Face Down Beside St. Anne's Well",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Face Down O'er the Border",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

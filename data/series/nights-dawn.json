@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Night’s Dawn",
+  "slug": "nights-dawn",
+  "source": "https://www.orderofbooks.com/characters/nights-dawn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Nights-Dawn-by-Peter-F-Hamilton.jpg",
+  "books": [
+    {
+      "title": "The Reality Dysfunction",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Neutronium Alchemist",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Naked God",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

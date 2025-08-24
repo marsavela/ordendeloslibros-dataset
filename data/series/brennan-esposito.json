@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Brennan & Esposito",
+  "slug": "brennan-esposito",
+  "source": "https://www.orderofbooks.com/characters/brennan-and-esposito/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Brennan-and-Esposito-by-Tania-Carver-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tania Carver",
+      "slug": "tania-carver"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Surrogate / Little Bones",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Creeper / In Her Bones",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cage of Bones",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Choked / Broken Bones / The Black Road",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Doll's House / The Bone House",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Truth or Dare",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Heartbreaker",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Lost Girl",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

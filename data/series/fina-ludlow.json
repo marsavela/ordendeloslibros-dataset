@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Fina Ludlow",
+  "slug": "fina-ludlow",
+  "source": "https://www.orderofbooks.com/characters/fina-ludlow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/Fina-Ludlow-by-Ingrid-Thoft.jpg",
+  "books": [
+    {
+      "title": "Loyalty",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Identity",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Brutality",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Duplicity",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

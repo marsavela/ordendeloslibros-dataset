@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "James Asher",
+  "slug": "james-asher",
+  "source": "https://www.orderofbooks.com/characters/james-asher/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/James-Asher-by-Barbara-Hambly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Barbara Hambly",
+      "slug": "barbara-hambly"
+    }
+  ],
+  "books": [
+    {
+      "title": "Those Who Hunt the Night",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Traveling with the Dead",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood Maidens",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Magistrates of Hell",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Kindred of Darkness",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Darkness on his Bones",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Pale Guardian",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Prisoner of Midnight",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Gravemould and Ectoplasm",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

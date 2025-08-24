@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Inspector Parry",
+  "slug": "inspector-parry",
+  "source": "https://www.orderofbooks.com/characters/inspector-parry/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Inspector-Parry-by-David-Williams-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Williams",
+      "slug": "david-williams"
+    }
+  ],
+  "books": [
+    {
+      "title": "Last Seen Breathing",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death of a Prodigal",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead in the Market",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Terminal Case",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Suicide Intended",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Practise to Deceive",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

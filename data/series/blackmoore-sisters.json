@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Blackmoore Sisters",
+  "slug": "blackmoore-sisters",
+  "source": "https://www.orderofbooks.com/characters/blackmoore-sisters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Blackmoore-Sisters-by-Leighann-Dobbs-500x200.jpg",
+  "authors": [
+    {
+      "name": "Leighann Dobbs",
+      "slug": "leighann-dobbs"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dead Wrong",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead & Buried",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Tide",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Buried Secrets",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deadly Intentions",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Grave Mistake",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Spell Found",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fatal Fortune",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hidden Secrets",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Celestial Chaos",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

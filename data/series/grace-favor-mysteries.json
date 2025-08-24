@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Grace & Favor Mysteries",
+  "slug": "grace-favor-mysteries",
+  "source": "https://www.orderofbooks.com/characters/grace-and-favor-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Grace-and-Favor-Mysteries-by-Jill-Churchill-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jill Churchill",
+      "slug": "jill-churchill"
+    }
+  ],
+  "books": [
+    {
+      "title": "Anything Goes",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "In the Still of the Night",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Someone to Watch Over Me",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Love for Sale",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "It Had to Be You",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Who's Sorry Now?",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

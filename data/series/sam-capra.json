@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Sam Capra",
+  "slug": "sam-capra",
+  "source": "https://www.orderofbooks.com/characters/sam-capra/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Sam-Capra-by-Jeff-Abbott.jpg",
+  "authors": [
+    {
+      "name": "Jeff Abbott",
+      "slug": "jeff-abbott"
+    }
+  ],
+  "books": [
+    {
+      "title": "Adrenaline",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Last Minute",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sam Capra's Last Chance",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Downfall",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Inside Man",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The First Order",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Traitor's Dance",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

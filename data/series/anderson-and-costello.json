@@ -1,0 +1,118 @@
+{
+  "type": "series",
+  "name": "Anderson and Costello",
+  "slug": "anderson-and-costello",
+  "source": "https://www.orderofbooks.com/characters/anderson-and-costello/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/04/Anderson-and-Costello-by-Caro-Ramsay.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Anderson and Costello Books",
+      "books": [
+        {
+          "title": "Absolution",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Singing to the Dead",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Dark Water",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Blood of Crows",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Night Hunter",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Tears of Angels",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Rat Run",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Standing Still",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Suffering of Strangers",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Sideman",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "The Red, Red Snow",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "On an Outgoing Tide",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Silent Conversation",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        }
+      ]
+    }
+  }
+}

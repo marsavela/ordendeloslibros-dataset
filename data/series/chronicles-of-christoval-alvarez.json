@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Chronicles Of Christoval Alvarez",
+  "slug": "chronicles-of-christoval-alvarez",
+  "source": "https://www.orderofbooks.com/characters/chronicles-of-christoval-alvarez/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/06/Chronicles-of-Christoval-Alvarez-by-Ann-Swinfen.jpg",
+  "authors": [
+    {
+      "name": "Ann Swinfen",
+      "slug": "ann-swinfen"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Secret World of Christoval Alvarez",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Enterprise of England",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Portuguese Affair",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bartholomew Fair",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Suffer the Little Children",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Voyage to Muscovy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Play's the Thing",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "That Time May Cease",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Lopez Affair",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

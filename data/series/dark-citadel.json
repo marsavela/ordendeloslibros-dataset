@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Dark Citadel",
+  "slug": "dark-citadel",
+  "source": "https://www.orderofbooks.com/characters/dark-citadel/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Dark-Citadel-by-Michael-Wallace-500x200.jpg",
+  "authors": [
+    {
+      "name": "Michael Wallace",
+      "slug": "michael-wallace"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dark Citadel",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Free Kingdoms",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Golden Griffin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Warrior King",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "War of Wizards",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

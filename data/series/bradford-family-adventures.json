@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "Bradford Family Adventures",
+  "slug": "bradford-family-adventures",
+  "source": "https://www.orderofbooks.com/characters/bradford-family-adventures/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Bradford-Family-Adventures-by-Jerry-B-Jenkins-500x200.jpg",
+  "books": [
+    {
+      "title": "Daniel's Big Surprise",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Two Runaways",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Clubhouse Mystery",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Kidnapping",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Marty's Secret",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Blizzard!",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "14 Days to Midnight",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Good Sport, Bad Sport",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "In Deep Water",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Mystery at Raider Stadium",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Mystery at the Ballpark",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Before the Judge",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Daniel's Big Decision",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

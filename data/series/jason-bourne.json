@@ -1,0 +1,191 @@
+{
+  "type": "series",
+  "name": "Jason Bourne",
+  "slug": "jason-bourne",
+  "source": "https://www.orderofbooks.com/characters/jason-bourne/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Bourne.jpg",
+  "authors": [
+    {
+      "name": "Eric Van Lustbader",
+      "slug": "eric-van-lustbader"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Bourne Identity (By: Robert Ludlum)",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bourne Supremacy (By: Robert Ludlum)",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bourne Ultimatum (By: Robert Ludlum)",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Bourne Legacy (By: Eric Van Lustbader)",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bourne Betrayal (By: Eric Van Lustbader)",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bourne Sanction (By: Eric Van Lustbader)",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Bourne Deception (By: Eric Van Lustbader)",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Bourne Objective (By: Eric Van Lustbader)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Bourne Dominion (By: Eric Van Lustbader)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Bourne Imperative (By: Eric Van Lustbader)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Bourne Retribution (By: Eric Van Lustbader)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Bourne Ascendancy (By: Eric Van Lustbader)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Bourne Enigma (By: Eric Van Lustbader)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Bourne Initiative (By: Eric Van Lustbader)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Bourne Evolution (By: Brian Freeman)",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Bourne Treachery (By: Brian Freeman)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Bourne Sacrifice (By: Brian Freeman)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Bourne Defiance (By: Brian Freeman)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Bourne Shadow (By: Brian Freeman)",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Bourne Vendetta (By: Brian Freeman)",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Bourne Escape (By: Brian Freeman)",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Bourne Revenge (By: Brian Freeman)",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

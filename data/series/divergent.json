@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Divergent",
+  "slug": "divergent",
+  "source": "https://www.orderofbooks.com/characters/divergent/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Divergent-Trilogy-by-Veronica-Roth-500x200.jpg",
+  "authors": [
+    {
+      "name": "Veronica Roth",
+      "slug": "veronica-roth"
+    }
+  ],
+  "books": [
+    {
+      "title": "Divergent",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Insurgent",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Allegiant",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Cycle Of Oak, Yew, Ash and Rowan",
+  "slug": "cycle-of-oak-yew-ash-and-rowan",
+  "source": "https://www.orderofbooks.com/characters/cycle-of-oak-yew-ash-and-rowan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Cycle-of-Oak-Yew-Ash-and-Rowan-by-Andre-Norton.jpg",
+  "authors": [
+    {
+      "name": "Andre Norton",
+      "slug": "andre-norton"
+    }
+  ],
+  "books": [
+    {
+      "title": "To the King a Daughter",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Knight or Knave",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Crown Disowned",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dragon Blade",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Knight of the Red Beard",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

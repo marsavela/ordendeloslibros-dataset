@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Bug Man",
+  "slug": "bug-man",
+  "source": "https://www.orderofbooks.com/characters/bug-man/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Bug-Man-by-Tim-Downs.jpg",
+  "books": [
+    {
+      "title": "Shoofly Pie",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Chop Shop",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "First the Dead",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Less than Dead",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ends of the Earth",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Nick of Time",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Bug Man Collection",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

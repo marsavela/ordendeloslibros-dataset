@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Inspector Shan",
+  "slug": "inspector-shan",
+  "source": "https://www.orderofbooks.com/characters/inspector-shan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Inspector-Shan-by-Eliot-Pattison.jpg",
+  "authors": [
+    {
+      "name": "Eliot Pattison",
+      "slug": "eliot-pattison"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Skull Mantra",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Water Touching Stone",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bone Mountain",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Beautiful Ghosts",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Prayer of the Dragon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Lord of Death",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mandarin Gate",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Soul of the Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Skeleton God",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Bones of the Earth",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Dungeon Crawler Carl",
+  "slug": "dungeon-crawler-carl",
+  "source": "https://www.orderofbooks.com/characters/dungeon-crawler-carl/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2024/11/Dungeon-Crawler-Carl-by-Matt-Dinniman.png",
+  "books": [
+    {
+      "title": "Dungeon Crawler Carl",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Carl's Doomsday Scenario",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dungeon Anarchist's Cookbook",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Gate of the Feral Gods",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Butcher's Masquerade",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Eye of the Bedlam Bride",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "This Inevitable Ruin",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Carl's Book of Boom",
+      "year": 2026,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

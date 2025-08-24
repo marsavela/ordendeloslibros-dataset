@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Black Flagged",
+  "slug": "black-flagged",
+  "source": "https://www.orderofbooks.com/characters/black-flagged/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Black-Flagged-by-Steven-Konkoly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Steven Konkoly",
+      "slug": "steven-konkoly"
+    }
+  ],
+  "books": [
+    {
+      "title": "Black Flagged Alpha",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Black Flagged Redux",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Black Flagged Apex",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Black Flagged Vektor",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Black Flagged Omega",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Covenant",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Inception",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Vindicta",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chronologically, Inception is a prequel short story to the series and Covenant is a short story to be read prior to Omega.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

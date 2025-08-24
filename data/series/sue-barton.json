@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Sue Barton",
+  "slug": "sue-barton",
+  "source": "https://www.orderofbooks.com/characters/sue-barton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/04/Sue-Barton-by-Helen-Dore-Boylston.jpg",
+  "books": [
+    {
+      "title": "Sue Barton, Student Nurse",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sue Barton, Senior Nurse",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sue Barton, Visiting Nurse",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sue Barton, Rural Nurse",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sue Barton, Superintendent of Nurses",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sue Barton, Neighborhood Nurse",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sue Barton, Staff Nurse",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Max Tudor",
+  "slug": "max-tudor",
+  "source": "https://www.orderofbooks.com/characters/max-tudor/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Max-Tudor-by-GM-Malliet.jpg",
+  "authors": [
+    {
+      "name": "GM Malliet",
+      "slug": "gm-malliet"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wicked Autumn",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Fatal Winter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pagan Spring",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Demon Summer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Haunted Season",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Devil's Breath",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "In Prior's Wood",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Washing Away of Wrongs",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

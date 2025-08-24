@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Malus Darkblade",
+  "slug": "malus-darkblade",
+  "source": "https://www.orderofbooks.com/characters/malus-darkblade/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Malus-Darkblade-Warhammer-Fantasy-by-Dan-Abnett-Mike-Lee.jpg",
+  "books": [
+    {
+      "title": "The Daemon's Curse",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bloodstorm",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Reaper of Souls",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Warpsword",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lord of Ruin",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Chronicles of Malus Darkblade Volume One",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Chronicles of Malus Darkblade Volume Two",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

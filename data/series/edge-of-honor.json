@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Edge Of Honor",
+  "slug": "edge-of-honor",
+  "source": "https://www.orderofbooks.com/characters/edge-of-honor/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Edge-of-Honor-by-Lori-Foster.jpg",
+  "books": [
+    {
+      "title": "Ready, Set, Jett",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "When You Dare",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Trace of Fever",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Savor the Danger",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Perfect Storm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "What Chris Wants",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

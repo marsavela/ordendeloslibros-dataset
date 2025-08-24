@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Life In Icicle Falls",
+  "slug": "life-in-icicle-falls",
+  "source": "https://www.orderofbooks.com/characters/life-in-icicle-falls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/08/Life-in-Icicle-Falls-by-Sheila-Falls.jpg",
+  "authors": [
+    {
+      "name": "Sheila Roberts",
+      "slug": "sheila-roberts"
+    }
+  ],
+  "books": [
+    {
+      "title": "Merry Ex-Mas",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Better Than Chocolate",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "What She Wants",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Good Neighbors",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Cottage on Juniper Ridge",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Lodge on Holly Road",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Tea Shop on Lavender Lane",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Welcome to Icicle Falls",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Wedding on Primrose Street",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Christmas on Candy Cane Lane",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Home on Apple Blossom Road",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Starting Over on Blackberry Lane",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Christmas in Icicle Falls",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Welcome to Ice Falls is a prequel.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

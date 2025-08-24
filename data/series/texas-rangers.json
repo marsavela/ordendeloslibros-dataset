@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Texas Rangers",
+  "slug": "texas-rangers",
+  "source": "https://www.orderofbooks.com/characters/texas-rangers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Texas-Rangers-by-Elmer-Kelton.jpg",
+  "authors": [
+    {
+      "name": "Elmer Kelton",
+      "slug": "elmer-kelton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Buckskin Line",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Badger Boy",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Way of the Coyote",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ranger's Trail",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Texas Vendetta",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Jericho's Road",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Hard Trail To Follow",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Other Men's Horses",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Texas Standoff",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

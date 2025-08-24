@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "The Talents",
+  "slug": "the-talents",
+  "source": "https://www.orderofbooks.com/characters/the-talents/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Talent-by-Anne-McCaffrey.jpg",
+  "books": [
+    {
+      "title": "To Ride Pegasus",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pegasus in Flight",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pegasus in Space",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

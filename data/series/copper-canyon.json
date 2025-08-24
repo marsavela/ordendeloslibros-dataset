@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Copper Canyon",
+  "slug": "copper-canyon",
+  "source": "https://www.orderofbooks.com/characters/copper-canyon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Copper-Canyon-by-Aimee-Thurlo-500x200.jpg",
+  "authors": [
+    {
+      "name": "Aimee Thurlo",
+      "slug": "aimee-thurlo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Winter Hawk's Legend",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Power of the Raven",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Secrets of the Lynx",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Falcon's Run",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Undercover Warrior",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Eagle's Last Stand",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

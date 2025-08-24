@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Cody’s Law",
+  "slug": "codys-law",
+  "source": "https://www.orderofbooks.com/characters/codys-law/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Codys-Law-by-Matthew-S-Hart-500x200.jpg",
+  "authors": [
+    {
+      "name": "Book Creations",
+      "slug": "book-creations"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gunmetal Justice",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Die Lonesome",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Border Showdown",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bounty Man",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mano a Mano",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Renegade Trail",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "End of the Line",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Eagle Pass",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Prisoners",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Gallows Waiting",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Red Moon's Raid",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Commanche Code",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

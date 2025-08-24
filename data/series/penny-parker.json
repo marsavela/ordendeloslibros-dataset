@@ -1,0 +1,145 @@
+{
+  "type": "series",
+  "name": "Penny Parker",
+  "slug": "penny-parker",
+  "source": "https://www.orderofbooks.com/characters/penny-parker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Penny-Parker-by-Mildred-A-Wirt.jpg",
+  "books": [
+    {
+      "title": "Tale of the Witch Doll",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Vanishing Houseboat",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Danger At The Drawbridge",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Behind the Green Door",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Clue of the Silken Ladder",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Secret Pact",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Clock Strikes Thirteen",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Wishing Well",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Saboteurs on the River",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Ghost Beyond The Gate",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Hoofbeats on the Turnpike",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Voice from the Cave",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Guilt of the Brass Thieves",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Signal in the Dark",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Whispering Walls",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Swamp Island",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Cry At Midnight",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

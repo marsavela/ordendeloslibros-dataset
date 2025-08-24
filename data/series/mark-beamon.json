@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Mark Beamon",
+  "slug": "mark-beamon",
+  "source": "https://www.orderofbooks.com/characters/mark-beamon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Mark-Beamon-by-Kyle-Mills-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kyle Mills",
+      "slug": "kyle-mills"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rising Phoenix",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Storming Heaven",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Free Fall",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sphere of Influence",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Darkness Falls",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "type": "series",
+  "name": "Dalziel & Pascoe",
+  "slug": "dalziel-pascoe",
+  "source": "https://www.orderofbooks.com/characters/dalziel-pascoe/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Dalziel-and-Pascoe-by-Reginald-Hill.jpg",
+  "books": [
+    {
+      "title": "A Clubbable Woman",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "An Advancement of Learning",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ruling Passion",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "An April Shroud",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Pinch of Snuff",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Killing Kindness",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deadheads",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Exit Lines",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Child's Play",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Under World",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bones and Silence",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "One Small Step",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Recalled to Life",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Pictures of Perfection",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Wood Beyond",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "On Beulah Height",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Arms and the Women",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Dialogues of the Dead",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Death's Jest-Book",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Good Morning, Midnight",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Death Comes for the Fat Man / The Death of Dalziel",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Last National Service Man",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "A Cure for All Diseases / The Price of Butcher's Meat",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Midnight Fugue",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Last National Service Man is a prequel novella.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    }
+  ]
+}

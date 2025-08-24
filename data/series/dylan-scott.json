@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Dylan Scott",
+  "slug": "dylan-scott",
+  "source": "https://www.orderofbooks.com/characters/dylan-scott/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Dylan-Scott-by-Shirley-Wells.jpg",
+  "authors": [
+    {
+      "name": "Shirley Wells",
+      "slug": "shirley-wells"
+    }
+  ],
+  "books": [
+    {
+      "title": "Presumed Dead",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dead Silent",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sillent Witness",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dead Calm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dying Art",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deadly Shadows",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dead End",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dead Simple",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

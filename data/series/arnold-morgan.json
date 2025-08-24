@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Arnold Morgan",
+  "slug": "arnold-morgan",
+  "source": "https://www.orderofbooks.com/characters/arnold-morgan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Arnold-Morgan-by-Patrick-Robinson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Patrick Robinson",
+      "slug": "patrick-robinson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nimitz Class",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kilo Class",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "H.M.S. Unseen",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "U.S.S. Seawolf / Seawolf",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Shark Mutiny",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Barracuda 945",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Scimitar SL-2",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hunter Killer",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Ghost Force",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "To The Death",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

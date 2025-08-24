@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "The Pearl Saga",
+  "slug": "the-pearl-saga",
+  "source": "https://www.orderofbooks.com/characters/the-pearl-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Pearl-Saga.jpg",
+  "books": [
+    {
+      "title": "The Ring of Five Dragons",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Veil of a Thousand Tears",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mistress of the Pearl",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

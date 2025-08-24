@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Denton",
+  "slug": "denton",
+  "source": "https://www.orderofbooks.com/characters/denton/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Denton-by-Kenneth-Cameron.jpg",
+  "authors": [
+    {
+      "name": "Kenneth Cameron",
+      "slug": "kenneth-cameron"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Frightened Man",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bohemian Girl",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Second Woman",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Haunted Martyr",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Backward Boy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Past Master",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Oxford Fellow",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

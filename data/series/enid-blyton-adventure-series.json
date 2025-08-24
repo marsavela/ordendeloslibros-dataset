@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Enid Blyton Adventure Series",
+  "slug": "enid-blyton-adventure-series",
+  "source": "https://www.orderofbooks.com/characters/enid-blyton-adventure/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Enid-Blyton-Adventure.jpg",
+  "books": [
+    {
+      "title": "The Island of Adventure",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Castle of Adventure",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Valley of Adventure",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Sea of Adventure",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mountain of Adventure",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Ship of Adventure",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Circus of Adventure",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The River of Adventure",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

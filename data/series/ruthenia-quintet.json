@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Ruthenia Quintet",
+  "slug": "ruthenia-quintet",
+  "source": "https://www.orderofbooks.com/characters/ruthenia-quintet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Ruthenia-Quintet-by-Olen-Steinhauer.jpg",
+  "books": [
+    {
+      "title": "The Bridge of Sighs",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Confession",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "36 Yalta Boulevard / The Vienna Assignment",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Liberation Movements",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Victory Square",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

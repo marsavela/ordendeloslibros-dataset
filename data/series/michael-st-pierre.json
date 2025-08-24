@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Michael St. Pierre",
+  "slug": "michael-st-pierre",
+  "source": "https://www.orderofbooks.com/characters/michael-st-pierre/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Michael-St-Pierre-by-Richard-Doetsch.jpg",
+  "books": [
+    {
+      "title": "The Thieves of Heaven",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Thieves of Faith",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Thieves of Darkness",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Thieves of Legend",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

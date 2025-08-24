@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Ravenwood Mysteries",
+  "slug": "ravenwood-mysteries",
+  "source": "https://www.orderofbooks.com/characters/ravenwood-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2022/03/ravenwood.jpg",
+  "authors": [
+    {
+      "name": "Sabrina Flynn. The",
+      "slug": "sabrina-flynn-the"
+    }
+  ],
+  "books": [
+    {
+      "title": "From the Ashes",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Bitter Draught",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Record of Blood",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Conspiracy of Silence",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Devil's Teeth",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Uncharted Waters",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Where Cowards Tread",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Beyond the Pale",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

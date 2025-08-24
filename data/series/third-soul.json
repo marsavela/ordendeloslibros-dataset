@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Third Soul",
+  "slug": "third-soul",
+  "source": "https://www.orderofbooks.com/characters/third-soul/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/12/Third-Soul-by-Jonathan-Moeller.jpg",
+  "authors": [
+    {
+      "name": "Jonathan Moeller",
+      "slug": "jonathan-moeller"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Testing",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Assassins",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Blood Shaman",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The High Demon",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Burning Child",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Outlaw Adept",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Black Paladin",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Tomb of Baligant",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Walsh Family",
+  "slug": "walsh-family",
+  "source": "https://www.orderofbooks.com/characters/walsh-family/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Walsh-Family-by-Marian-Keyes-500x200.jpg",
+  "authors": [
+    {
+      "name": "Marian Keyes",
+      "slug": "marian-keyes"
+    }
+  ],
+  "books": [
+    {
+      "title": "Watermelon",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rachel's Holiday",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Angels",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Anybody Out There?",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mystery of Mercy Close",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Again, Rachel",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "My Favourite Mistake",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

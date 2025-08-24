@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Lineage Of Grace",
+  "slug": "lineage-of-grace",
+  "source": "https://www.orderofbooks.com/characters/lineage-of-grace/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Lineage-of-Grace-by-Francine-Rivers.jpg",
+  "authors": [
+    {
+      "name": "Francine Rivers",
+      "slug": "francine-rivers"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unveiled: Tamar",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Unashamed: Rahab",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Unshaken: Ruth",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Unspoken: Bathsheba",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Unafraid: Mary",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

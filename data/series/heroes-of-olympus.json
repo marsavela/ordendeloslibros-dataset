@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Heroes Of Olympus",
+  "slug": "heroes-of-olympus",
+  "source": "https://www.orderofbooks.com/characters/heroes-of-olympus/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Heroes-Of-Olympus-by-Rick-Riordan.jpg",
+  "books": [
+    {
+      "title": "The Lost Hero",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Son of Neptune",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mark of Athena",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The House of Hades",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Blood of Olympus",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

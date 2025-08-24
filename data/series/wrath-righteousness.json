@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Wrath & Righteousness",
+  "slug": "wrath-righteousness",
+  "source": "https://www.orderofbooks.com/characters/wrath-and-righteousness/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Wrath-and-Righteousness-by-Chris-Stewart.jpg",
+  "authors": [
+    {
+      "name": "Chris Stewart",
+      "slug": "chris-stewart"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wrath & Righteousness",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Darkness of This World",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Son of the Morning",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Breathless",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Master's Cry",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Smoke and Dust",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wolves in the Night",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Evil in the Darkness",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Spiders from the Shadows",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Sunrise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

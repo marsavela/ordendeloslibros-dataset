@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Karen Vail",
+  "slug": "karen-vail",
+  "source": "https://www.orderofbooks.com/characters/karen-vail/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Karen-Vail-by-Alan-Jacobson.jpg",
+  "authors": [
+    {
+      "name": "Alan Jacobson",
+      "slug": "alan-jacobson"
+    }
+  ],
+  "books": [
+    {
+      "title": "The 7th Victim",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crush",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Velocity",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Inmate 1577",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fatal Twist",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "No Way Out",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Spectrum",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Darkness of Evil",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Red Death",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

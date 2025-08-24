@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "New Cut Gang",
+  "slug": "new-cut-gang",
+  "source": "https://www.orderofbooks.com/characters/new-cut-gang/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/New-Cut-Gang-by-Philip-Pullman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Philip Pullman",
+      "slug": "philip-pullman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Thunderbolt's Waxwork",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Gas Fitters' Ball",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Adventures of the New Cut Gang",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Two Crafty Criminals!",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

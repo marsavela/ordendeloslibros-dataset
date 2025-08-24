@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Baddest Chick",
+  "slug": "baddest-chick",
+  "source": "https://www.orderofbooks.com/characters/baddest-chick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/09/Baddest-Chick-by-Nisa-Santiago-500x200.jpg",
+  "authors": [
+    {
+      "name": "Nisa Santiago",
+      "slug": "nisa-santiago"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bad Apple",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Coca Kola",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Checkmate",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Face Off",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "On the Run",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Unfinished Business",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Baddest Apple",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

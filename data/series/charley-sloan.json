@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Charley Sloan",
+  "slug": "charley-sloan",
+  "source": "https://www.orderofbooks.com/characters/charley-sloan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Charley-Sloan-by-William-J-Coughlin.jpg",
+  "books": [
+    {
+      "title": "Shadow of a Doubt",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death Penalty",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Judgment",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Proof of Intent",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

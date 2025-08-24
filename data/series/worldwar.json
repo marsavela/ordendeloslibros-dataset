@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Worldwar",
+  "slug": "worldwar",
+  "source": "https://www.orderofbooks.com/characters/worldwar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Worldwar-by-Harry-Turtledove.jpg",
+  "books": [
+    {
+      "title": "In the Balance",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tilting the Balance",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Upsetting the Balance",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Striking the Balance",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

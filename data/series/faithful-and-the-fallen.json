@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Faithful and The Fallen",
+  "slug": "faithful-and-the-fallen",
+  "source": "https://www.orderofbooks.com/characters/faithful-and-the-fallen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Faithful-and-the-Fallen-by-John-Gwynne-500x200.jpg",
+  "authors": [
+    {
+      "name": "John Gwynne",
+      "slug": "john-gwynne"
+    }
+  ],
+  "books": [
+    {
+      "title": "Malice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Valor",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ruin",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wrath",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

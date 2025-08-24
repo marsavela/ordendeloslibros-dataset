@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Stone Creek",
+  "slug": "stone-creek",
+  "source": "https://www.orderofbooks.com/characters/stone-creek/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Stone-Creek-by-Linda-Lael-Miller.jpg",
+  "books": [
+    {
+      "title": "The Man From Stone Creek",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Wanted Man",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Rustler",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Stone Creek Christmas",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bridegroom",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "At Home In Stone Creek",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Holiday in Stone Creek",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

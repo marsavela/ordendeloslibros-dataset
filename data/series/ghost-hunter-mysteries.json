@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Ghost Hunter Mysteries",
+  "slug": "ghost-hunter-mysteries",
+  "source": "https://www.orderofbooks.com/characters/ghost-hunter-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Ghost-Hunter-Mysteries-by-Victoria-Laurie-500x200.jpg",
+  "authors": [
+    {
+      "name": "Victoria Laurie",
+      "slug": "victoria-laurie"
+    }
+  ],
+  "books": [
+    {
+      "title": "What's a Ghoul to Do?",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Demons Are a Ghoul's Best Friend",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ghouls Just Haunt to Have Fun",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ghouls Gone Wild",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ghouls, Ghouls, Ghouls",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ghoul Interrupted",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "What a Ghoul Wants",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Ghoul Next Door",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "No Ghouls Allowed",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Ghoul's Guide to Love and Murder",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Ghoul's Gotta Do",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

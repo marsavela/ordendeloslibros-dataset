@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Detective Ella Marconi",
+  "slug": "detective-ella-marconi",
+  "source": "https://www.orderofbooks.com/characters/detective-ella-marconi/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/11/katherine-howell-500x200.jpg",
+  "books": [
+    {
+      "title": "Frantic",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Darkest Hour",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cold Justice",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Violent Exposure",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Silent Fear",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Web of Deceit",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deserving Death",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tell the Truth",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Kidd",
+  "slug": "kidd",
+  "source": "https://www.orderofbooks.com/characters/kidd/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/John-Sandford-Kidd.jpg",
+  "books": [
+    {
+      "title": "The Fool's Run",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Empress File",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Code",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Hanged Man's Song",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

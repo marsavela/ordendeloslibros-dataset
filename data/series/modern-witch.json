@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Modern Witch",
+  "slug": "modern-witch",
+  "source": "https://www.orderofbooks.com/characters/modern-witch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Modern-Witch-by-Debora-Geary-500x200.jpg",
+  "authors": [
+    {
+      "name": "Debora Geary",
+      "slug": "debora-geary"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Modern Witch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Hidden Witch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Reckless Witch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Witch Central Wedding",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Nomadic Witch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "To Have and To Code",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Different Witch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Celtic Witch",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Swordfights & Lullabies",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Lost Witch",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Witch & Wizard",
+  "slug": "witch-wizard",
+  "source": "https://www.orderofbooks.com/characters/witch-and-wizard/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Witch-and-Wizard-by-James-Patterson.jpg",
+  "books": [
+    {
+      "title": "Witch & Wizard (By:James Patterson,Gabrielle Charbonnet)",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Gift (By:James Patterson,Ned Rust)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Fire (By:James Patterson,Jill Dembowski)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Kiss (By:James Patterson,Jill Dembowski)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Lost (By:James Patterson,Emily Raymond)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

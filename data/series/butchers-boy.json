@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Butcher’s Boy",
+  "slug": "butchers-boy",
+  "source": "https://www.orderofbooks.com/characters/butchers-boy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Butchers-Boy-by-Thomas-Perry.jpg",
+  "books": [
+    {
+      "title": "The Butcher's Boy",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sleeping Dogs",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Informant",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Eddie's Boy",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

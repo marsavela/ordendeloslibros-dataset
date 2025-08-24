@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Fletch",
+  "slug": "fletch",
+  "source": "https://www.orderofbooks.com/characters/fletch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Fletch-by-Gregory-McDonald.jpg",
+  "books": [
+    {
+      "title": "Fletch",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Confess, Fletch",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fletch's Fortune",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fletch and the Widow Bradley",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fletch's Moxie",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fletch and the Man Who",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Carioca Fletch",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fletch Won",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fletch, Too",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

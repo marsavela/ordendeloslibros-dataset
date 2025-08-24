@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Night Watch (Lukyanenko)",
+  "slug": "night-watch-lukyanenko",
+  "source": "https://www.orderofbooks.com/characters/night-watch-2/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/02/Night-Watch-by-Sergei-Lukyanenko-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sergei Lukyanenko",
+      "slug": "sergei-lukyanenko"
+    }
+  ],
+  "books": [
+    {
+      "title": "Night Watch",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Day Watch",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Twilight Watch",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Last Watch",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "New Watch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sixth Watch",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

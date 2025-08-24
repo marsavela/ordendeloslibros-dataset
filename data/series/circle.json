@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Circle",
+  "slug": "circle",
+  "source": "https://www.orderofbooks.com/characters/circle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Circle-by-Tamora-Pierce.jpg",
+  "authors": [
+    {
+      "name": "Tamora Pierce",
+      "slug": "tamora-pierce"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sandry's Book / The Magic in the Weaving",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tris's Book / The Power In The Storm",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Daja's Book / The Fire In The Forging",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Briar's Book / The Healing in the Vine",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

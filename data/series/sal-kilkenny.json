@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Sal Kilkenny",
+  "slug": "sal-kilkenny",
+  "source": "https://www.orderofbooks.com/characters/sal-kilkenny/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Sal-Kilkenny-by-Cath-Staincliffe.jpg",
+  "authors": [
+    {
+      "name": "Cath Staincliffe",
+      "slug": "cath-staincliffe"
+    }
+  ],
+  "books": [
+    {
+      "title": "Looking for Trouble",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Go Not Gently",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Wrong",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Stone Cold Red Hot",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Towers of Silence",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bitter Blue",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Missing",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Crying Out Loud",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

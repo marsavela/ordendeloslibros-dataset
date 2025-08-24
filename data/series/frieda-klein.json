@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Frieda Klein",
+  "slug": "frieda-klein",
+  "source": "https://www.orderofbooks.com/characters/frieda-klein/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Frieda-Klein-by-Nicci-French-500x200.jpg",
+  "authors": [
+    {
+      "name": "Nicci French",
+      "slug": "nicci-french"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blue Monday",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tuesday's Gone",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Waiting for Wednesday",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thursday's Children / Thursday's Child",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Friday on My Mind",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dark Saturday / Saturday Requiem",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sunday Silence / Sunday Morning Coming Down",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Day of the Dead",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

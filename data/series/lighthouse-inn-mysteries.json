@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Lighthouse Inn Mysteries",
+  "slug": "lighthouse-inn-mysteries",
+  "source": "https://www.orderofbooks.com/characters/lighthouse-inn-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Lighthouse-Inn-Mysteries-by-Tim-Myers-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tim Myers",
+      "slug": "tim-myers"
+    }
+  ],
+  "books": [
+    {
+      "title": "Innkeeping with Murder",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Reservations for Murder",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder Checks Inn",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Room for Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Booked for Murder",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Key to Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Ring for Murder",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Honeymoon For Murder",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

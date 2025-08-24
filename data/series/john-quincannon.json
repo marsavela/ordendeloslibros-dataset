@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "John Quincannon",
+  "slug": "john-quincannon",
+  "source": "https://www.orderofbooks.com/characters/john-quincannon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/John-Quincannon-by-Bill-Pronzini.jpg",
+  "books": [
+    {
+      "title": "Quincannon",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Beyond the Grave",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Quincannon's Game",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Grub-And-Stakers",
+  "slug": "grub-and-stakers",
+  "source": "https://www.orderofbooks.com/characters/grub-and-stakers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Grub-and-Stakers-by-Alisa-Craig-Charlotte-MacLeod-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alisa Craig Charlotte MacLeod",
+      "slug": "alisa-craig-charlotte-macleod"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Grub-And-Stakers Move a Mountain",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Grub-and-Stakers Quilt a Bee",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Grub-And-Stakers Pinch a Poke",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Grub-and-Stakers Spin a Yarn",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Grub-And-Stakers House a Haunt",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

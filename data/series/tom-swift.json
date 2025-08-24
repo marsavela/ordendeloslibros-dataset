@@ -1,0 +1,335 @@
+{
+  "type": "series",
+  "name": "Tom Swift",
+  "slug": "tom-swift",
+  "source": "https://www.orderofbooks.com/characters/tom-swift/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Tom-Swift-by-Victor-Appleton.jpg",
+  "authors": [
+    {
+      "name": "Stratemeyer Syndicate",
+      "slug": "stratemeyer-syndicate"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tom Swift and His Motor-Cycle / Fun and Adventure on the Road",
+      "year": 1910,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tom Swift and His Motor-Boat / The Rivals of Lake Carlopa",
+      "year": 1910,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tom Swift and His Airship / The Stirring Cruise of the Red Cloud",
+      "year": 1910,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tom Swift and His Submarine Boat / Under the Ocean for Sunken Treasure",
+      "year": 1910,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tom Swift and His Electric Runabout / The Speediest Car on the Road",
+      "year": 1910,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tom Swift and His Wireless Message / The Castaways of Earthquake Island",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Tom Swift Among the Diamond Makers / The Secret of Phantom Mountain",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tom Swift and His Sky Racer / The Quickest Flight on Record",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Tom Swift and His Electric Rifle / Daring Adventures in Elephant Island",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Tom Swift in the Caves of Ice / The Wreck of the Airship",
+      "year": 1911,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Tom Swift in the City of Gold / Marvelous Adventures Underground",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Tom Swift and His Air Glider / Seeking the Platinum Treasure",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Tom Swift in Captivity / A Daring Escape by Airship",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Tom Swift and His Wizard Camera / Thrilling Adventures While Taking Moving Pictures",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Tom Swift and His Great Search Light / On the Border for Uncle Sam",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Tom Swift and His Giant Cannon / The Longest Shots on Record",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Tom Swift and His Photo Telephone / The Picture That Saved a Fortune",
+      "year": 1914,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Tom Swift and His Aerial Warship / The Naval Terror of the Seas",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Tom Swift and His Big Tunnel / The Hidden City of the Andes",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Tom Swift in the Land of Wonders / The Underground Search for the Idol of Gold",
+      "year": 1917,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Tom Swift and His War Tank / Doing His Bit for Uncle Sam",
+      "year": 1918,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Tom Swift and His Air Scout / Uncle Sam's Mastery of the Sky",
+      "year": 1919,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Tom Swift and His Undersea Search / The Treasure on the Floor of the Atlantic",
+      "year": 1920,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Tom Swift Among the Fire Fighters / Battling with Flames in the Air / Tom Swift and the Flaming Air Battle",
+      "year": 1921,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Tom Swift and His Electric Locomotive / Two Miles a Minute on the Rails",
+      "year": 1922,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Tom Swift and His Flying Boat / Castaways of the Giant Iceberg",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Tom Swift and His Great Oil Gusher / The Treasure of Goby Farm",
+      "year": 1924,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Tom Swift and His Chest of Secrets / Tracing the Stolen Inventions",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Tom Swift and His Airline Express / From Ocean to Ocean by Daylight",
+      "year": 1926,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Tom Swift Circling the Globe / The Daring Cruise of the Air Monarch",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Tom Swift and His Talking Pictures / The Greatest Invention on Record",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Tom Swift and His House on Wheels / A Trip Around the Mountain of Mystery",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Tom Swift and His Big Dirigible / Adventures Over the Forest of Fire",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Tom Swift and His Sky Train / Overland Through the Clouds",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Tom Swift and His Giant Magnet / Bringing Up the Lost Submarine",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Tom Swift and His Television Detector / Trailing the Secret Plotters",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Tom Swift and His Ocean Airport / Foiling the Haargolanders",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Tom Swift and His Planet Stone / Discovering the Secret of Another World",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Tom Swift and His Giant Telescope",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Tom Swift and His Magnetic Silencer",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    }
+  ]
+}

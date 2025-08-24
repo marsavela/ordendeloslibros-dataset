@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Beach",
+  "slug": "beach",
+  "source": "https://www.orderofbooks.com/characters/beach/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Beach-Series-by-Kate-Cann.jpg",
+  "books": [
+    {
+      "title": "Footloose / Grecian Holiday",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fiesta / Spanish Holiday",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Escape / California Holiday",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sea Change / Mediterranean Holiday",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Jack Parlabane",
+  "slug": "jack-parlabane",
+  "source": "https://www.orderofbooks.com/characters/jack-parlabane/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Jack-Parlabane-by-Christopher-Brookmyre-500x200.jpg",
+  "authors": [
+    {
+      "name": "Christopher Brookmyre",
+      "slug": "christopher-brookmyre"
+    }
+  ],
+  "books": [
+    {
+      "title": "Quite Ugly One Morning",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Country of the Blind",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Boiling a Frog",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Be My Enemy",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Attack Of The Unsinkable Rubber Ducks",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Last Day of Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dead Girl Walking",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Black Widow",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Want You Gone / The Last Hack",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

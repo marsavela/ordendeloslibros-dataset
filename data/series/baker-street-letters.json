@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Baker Street Letters",
+  "slug": "baker-street-letters",
+  "source": "https://www.orderofbooks.com/characters/baker-street-letters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/11/Baker-Street-Letters-by-Michael-Robertson.jpg",
+  "books": [
+    {
+      "title": "The Baker Street Letters",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Brothers of Baker Street",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Baker Street Translation",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Moriarty Returns a Letter",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Baker Street Jurors",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Barrister's Clerk",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Baker Street Wedding",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

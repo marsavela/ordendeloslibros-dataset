@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Dragonfury",
+  "slug": "dragonfury",
+  "source": "https://www.orderofbooks.com/characters/dragonfury/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Dragonfury-by-Coreene-Callahan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Coreene Callahan",
+      "slug": "coreene-callahan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fury of Fire",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fury of Ice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fury of Seduction",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fury of Desire",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fury of Obsession",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fury of Surrender",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fury of Destruction",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Fury of Aggression",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

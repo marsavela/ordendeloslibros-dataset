@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Professor Peter Shandy",
+  "slug": "professor-peter-shandy",
+  "source": "https://www.orderofbooks.com/characters/professor-peter-shandy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Professor-Peter-Shandy-by-Charlotte-MacLeod-500x200.jpg",
+  "authors": [
+    {
+      "name": "Charlotte MacLeod",
+      "slug": "charlotte-macleod"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rest You Merry",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Luck Runs Out",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wrack and Rune",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Something The Cat Dragged In",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Curse of the Giant Hogweed",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Corpse in Oozak's Pond",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Vane Pursuit",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "An Owl Too Many",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Something in the Water",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Exit the Milkman",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

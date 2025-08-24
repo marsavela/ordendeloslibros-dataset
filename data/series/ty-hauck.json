@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Ty Hauck",
+  "slug": "ty-hauck",
+  "source": "https://www.orderofbooks.com/characters/ty-hauck/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Ty-Hauck-by-Andrew-Gross.jpg",
+  "authors": [
+    {
+      "name": "Andrew Gross",
+      "slug": "andrew-gross"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Dark Tide",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Don't Look Twice",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Reckless",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "One Mile Under",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

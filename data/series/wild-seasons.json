@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Wild Seasons",
+  "slug": "wild-seasons",
+  "source": "https://www.orderofbooks.com/characters/wild-seasons/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/Wild-Seasons-by-Christina-Lauren-500x200.jpg",
+  "authors": [
+    {
+      "name": "Christina Lauren",
+      "slug": "christina-lauren"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sweet Filthy Boy",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sweet Filthy Morning After",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dirty Rowdy Thing",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dark Wild Night",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wicked Sexy Liar",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Not-Joe Story",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

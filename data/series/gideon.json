@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Gideon",
+  "slug": "gideon",
+  "source": "https://www.orderofbooks.com/characters/gideon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Gideon-by-Eric-Jerome-Dickey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Eric Jerome Dickey",
+      "slug": "eric-jerome-dickey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sleeping with Strangers",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Waking with Enemies",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dying for Revenge",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Resurrecting Midnight",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Finding Gideon",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

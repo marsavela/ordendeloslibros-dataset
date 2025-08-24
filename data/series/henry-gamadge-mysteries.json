@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Henry Gamadge Mysteries",
+  "slug": "henry-gamadge-mysteries",
+  "source": "https://www.orderofbooks.com/characters/henry-gamadge-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/11/henry.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Daly. There",
+      "slug": "elizabeth-daly-there"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unexpected Night",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deadly Nightshade",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murders in Volume 2",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The House Without the Door",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Evidence of Things Seen",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Nothing Can Rescue Me",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Arrow Pointing Nowhere",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Book of the Dead",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Any Shape or Form",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Somewhere in the House",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Wrong Way Down",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Night Walk",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Book of the Lion",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "And Dangerous to Know",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Death and Letters",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Book of the Crime",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

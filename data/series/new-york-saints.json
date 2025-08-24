@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "New York Saints",
+  "slug": "new-york-saints",
+  "source": "https://www.orderofbooks.com/characters/new-york-saints/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/new-york-saints-500x200.jpg",
+  "authors": [
+    {
+      "name": "Melanie Scott. An Australian",
+      "slug": "melanie-scott-an-australian"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Devil in Denim",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Angel in Armani",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lawless In Leather",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Playing Hard",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Playing Fast",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

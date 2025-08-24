@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Darkest Minds",
+  "slug": "darkest-minds",
+  "source": "https://www.orderofbooks.com/characters/darkest-minds/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/11/Darkest-Minds-by-Alexandra-Bracken-500x200.jpg",
+  "authors": [
+    {
+      "name": "Alexandra Bracken",
+      "slug": "alexandra-bracken"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Darkest Minds",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Never Fade",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "In The After Light",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Through the Dark",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Rising Dark",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Darkest Legacy",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Liam's Story",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The book Through the Dark contains the previously published short stores: In Time (read after The Darkest Minds ), Sparks Rise (read after Never Fade ) and Beyond the Night (read after In The After Light ).",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

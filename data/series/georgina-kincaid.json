@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Georgina Kincaid",
+  "slug": "georgina-kincaid",
+  "source": "https://www.orderofbooks.com/characters/georgina-kincaid/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Georgina-Kincaid-by-Richelle-Mead.jpg",
+  "books": [
+    {
+      "title": "Succubus Blues",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Succubus On Top / Succubus Nights",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Succubus Dreams",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Succubus Heat",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Succubus Shadows",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Succubus Revealed",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "City of Demons",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "City of Demons comes after Succubus On Top (aka Succubus Nights ) in chronological order.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

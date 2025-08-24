@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Elizabeth I Mysteries",
+  "slug": "elizabeth-i-mysteries",
+  "source": "https://www.orderofbooks.com/characters/elizabeth-i-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Elizabeth-I-Mysteries-by-Karen-Harper.jpg",
+  "authors": [
+    {
+      "name": "Karen Harper",
+      "slug": "karen-harper"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Poyson Garden",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tidal Poole",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Twylight Tower",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Queene's Cure",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Queene's Christmas",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Thorne Maze",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Fatal Fashione",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Fyre Mirror",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Hooded Hawke",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

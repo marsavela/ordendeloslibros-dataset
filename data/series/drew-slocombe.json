@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Drew Slocombe",
+  "slug": "drew-slocombe",
+  "source": "https://www.orderofbooks.com/characters/drew-slocombe/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Drew-Slocombe-West-Country-Mysteries-by-Rebecca-Tope-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rebecca Tope",
+      "slug": "rebecca-tope"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dark Undertakings",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Grave Concerns",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sting of Death",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Market for Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

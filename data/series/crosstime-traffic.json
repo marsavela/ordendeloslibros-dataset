@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Crosstime Traffic",
+  "slug": "crosstime-traffic",
+  "source": "https://www.orderofbooks.com/characters/crosstime-traffic/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Crosstime-Traffic-by-Harry-Turtledove1.jpg",
+  "books": [
+    {
+      "title": "Gunpowder Empire",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Curious Notions",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "In High Places",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Disunited States of America",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Gladiator",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Valley-Westside War",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

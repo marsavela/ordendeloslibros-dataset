@@ -1,0 +1,255 @@
+{
+  "type": "series",
+  "name": "Duncan Culpepper",
+  "slug": "duncan-culpepper",
+  "source": "https://www.orderofbooks.com/characters/duncan-culpepper/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Duncan-Culpepper-by-Gary-Paulsen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gary Paulsen",
+      "slug": "gary-paulsen"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Case of the Dirty Bird",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dunc's Doll",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Culpepper's Cannon",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dunc Gets Tweaked",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dunc's Halloween",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dunc Breaks the Record",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dunc and the Flaming Ghost",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Amos Gets Famous",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dunc and Amos Hit the Big Top",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Dunc's Dump",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dunc and the Scam Artists",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Dunc and Amos and the Red Tattoos",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Dunc's Undercover Christmas",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Dunc and the Haunted Castle",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Cowpokes and Desperados",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Wild Culpepper Cruise",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Prince Amos",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Coach Amos",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Amos and the Alien",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Dunc and Amos Meet the Slasher",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Dunc and the Greased Sticks of Doom",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Amos's Killer Concert Caper",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Amos Gets Married",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Amos Goes Bananas",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Dunc and Amos Go to the Dogs",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Amos and the Vampire",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Amos and the Chameleon Caper",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Amos Binder, Secret Agent",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Dunc and Amos on Thin Ice",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Super Amos",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    }
+  ]
+}

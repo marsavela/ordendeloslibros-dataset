@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Wallflowers",
+  "slug": "wallflowers",
+  "source": "https://www.orderofbooks.com/characters/wallflowers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Wallflowers-by-Lisa-Kleypas.jpg",
+  "books": [
+    {
+      "title": "Again the Magic",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Secrets of a Summer Night",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "It Happened One Autumn",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Devil in Winter",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Scandal in Spring",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Wallflower Christmas",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

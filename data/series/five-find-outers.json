@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Five Find-Outers",
+  "slug": "five-find-outers",
+  "source": "https://www.orderofbooks.com/characters/five-find-outers-enid-blyton-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Enid-Blyton-Mystery-Five-Find-Outers.jpg",
+  "authors": [
+    {
+      "name": "Enid Blyton",
+      "slug": "enid-blyton"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Mystery of the Burnt Cottage",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mystery of the Strange Bundle",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mystery of the Disappearing Cat",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Mystery of the Secret Room",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mystery of the Spiteful Letters",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Mystery of the Missing Necklace",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Mystery of the Hidden House",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Mystery of the Pantomime Cat",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Mystery of the Invisible Thief",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Mystery of the Vanished Prince",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Mystery of Holly Lane",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Mystery of Tally-Ho Cottage",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Mystery of the Strange Messages",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Mystery of the Missing Man",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Mystery of Banshee Towers",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

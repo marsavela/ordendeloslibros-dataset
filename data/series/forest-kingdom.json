@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Forest Kingdom",
+  "slug": "forest-kingdom",
+  "source": "https://www.orderofbooks.com/characters/forest-kingdom/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Forest-Kingdom.jpg",
+  "books": [
+    {
+      "title": "Blue Moon Rising",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blood and Honor",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Down Among the Dead Men",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Once in a Blue Moon",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

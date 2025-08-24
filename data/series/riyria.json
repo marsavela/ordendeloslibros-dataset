@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Riyria",
+  "slug": "riyria",
+  "source": "https://www.orderofbooks.com/characters/riyria/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Riyria-by-Michael-J-Sullivan.jpg",
+  "books": [
+    {
+      "title": "The Crown Conspiracy",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Avempartha",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Nyphron Rising",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Emerald Storm",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wintertide",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Percepliquis",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

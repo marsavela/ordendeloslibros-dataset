@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Dr. Siri Paiboun",
+  "slug": "dr-siri-paiboun",
+  "source": "https://www.orderofbooks.com/characters/dr-siri-paiboun/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Dr-Siri-Paiboun-by-Colin-Cotterill-500x200.jpg",
+  "authors": [
+    {
+      "name": "Colin Cotterill",
+      "slug": "colin-cotterill"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Coroner's Lunch",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Thirty-Three Teeth",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Disco for the Departed",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Anarchy and Old Dogs",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Curse of the Pogo Stick",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Merry Misogynist",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Love Songs from a Shallow Grave",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Slash and Burn",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Woman Who Wouldn't Die",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Six and a Half Deadly Sins",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "I Shot the Buddha",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Rat Catchers' Olympics",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Don't Eat Me",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Second Biggest Nothing",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Delightful Life of a Suicide Pilot",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

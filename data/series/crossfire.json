@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Crossfire",
+  "slug": "crossfire",
+  "source": "https://www.orderofbooks.com/characters/crossfire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Crossfire-by-Sylvia-Day1-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sylvia Day",
+      "slug": "sylvia-day"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bared to You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Reflected in You",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Entwined with You",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Captivated by You",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "One with You",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

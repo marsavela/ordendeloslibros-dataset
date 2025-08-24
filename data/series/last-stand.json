@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Last Stand",
+  "slug": "last-stand",
+  "source": "https://www.orderofbooks.com/characters/last-stand/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/The-Last-Stand-by-Brenda-Novak-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brenda Novak",
+      "slug": "brenda-novak"
+    }
+  ],
+  "books": [
+    {
+      "title": "Trust Me",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Stop Me",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Watch Me",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Perfect Couple",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Perfect Liar",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Perfect Murder",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

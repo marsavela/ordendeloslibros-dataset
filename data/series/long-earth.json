@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Long Earth",
+  "slug": "long-earth",
+  "source": "https://www.orderofbooks.com/characters/long-earth/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Long-Earth-by-Terry-Pratchett-Stephen-Baxter.jpg",
+  "authors": [
+    {
+      "name": "Terry Pratchett",
+      "slug": "terry-pratchett"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Long Earth",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Long War",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Long Mars",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Long Utopia",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Long Cosmos",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

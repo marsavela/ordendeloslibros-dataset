@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Benjamin Pratt & The Keepers Of The School",
+  "slug": "benjamin-pratt-the-keepers-of-the-school",
+  "source": "https://www.orderofbooks.com/characters/benjamin-pratt-and-the-keepers-of-the-school/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Benjamin-Pratt-and-the-Keepers-of-the-School-by-Andrew-Clements.jpg",
+  "authors": [
+    {
+      "name": "Andrew Clements",
+      "slug": "andrew-clements"
+    }
+  ],
+  "books": [
+    {
+      "title": "We the Children",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fear Itself",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Whites of Their Eyes",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "In Harm's Way",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "We Hold These Truths",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

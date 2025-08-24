@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Piper Donovan",
+  "slug": "piper-donovan",
+  "source": "https://www.orderofbooks.com/characters/piper-donovan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Piper-Donovan-by-Mary-Jane-Clark.jpg",
+  "authors": [
+    {
+      "name": "Mary Jane Clark",
+      "slug": "mary-jane-clark"
+    }
+  ],
+  "books": [
+    {
+      "title": "To Have and to Kill",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bracelet",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Look of Love",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Friend",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Footprints in the Sand",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "That Old Black Magic",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

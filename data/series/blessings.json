@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Blessings",
+  "slug": "blessings",
+  "source": "https://www.orderofbooks.com/characters/blessings/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Blessings-by-Beverly-Jenkins-500x200.jpg",
+  "authors": [
+    {
+      "name": "Beverly Jenkins",
+      "slug": "beverly-jenkins"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bring on the Blessings",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Second Helping",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Something Old, Something New",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Wish and a Prayer",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Crystal Clear",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Heart of Gold",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "For Your Love",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Stepping to a New Day",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chasing Down a Dream",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Second Time Sweeter",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "On the Corner of Hope and Main",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "A Christmas to Remember",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

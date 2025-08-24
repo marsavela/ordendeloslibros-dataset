@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Paw Enforcement",
+  "slug": "paw-enforcement",
+  "source": "https://www.orderofbooks.com/characters/paw-enforcement/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Paw-Enforcement-by-Diane-Kelly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Diane Kelly",
+      "slug": "diane-kelly"
+    }
+  ],
+  "books": [
+    {
+      "title": "Paw Enforcement",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Paw and Order",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Laying Down the Paw",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Upholding the Paw",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Against the Paw",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Above the Paw",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Enforcing the Paw",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Love Unleashed",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Long Paw of the Law",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Paw of the Jungle",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bending the Paw",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Pawfully Wedded",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

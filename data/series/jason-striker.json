@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Jason Striker",
+  "slug": "jason-striker",
+  "source": "https://www.orderofbooks.com/characters/jason-striker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Jason-Striker-Martial-Arts-by-Piers-Anthony-Roberto-Fuentes.jpg",
+  "authors": [
+    {
+      "name": "Piers Anthony",
+      "slug": "piers-anthony"
+    }
+  ],
+  "books": [
+    {
+      "title": "Kiai!",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mistress of Death",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bamboo Bloodbath",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ninja's Revenge",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Amazon Slaughter",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Curse of the Ninja",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

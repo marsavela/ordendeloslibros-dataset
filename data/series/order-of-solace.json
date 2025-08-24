@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Order Of Solace",
+  "slug": "order-of-solace",
+  "source": "https://www.orderofbooks.com/characters/order-of-solace/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Order-of-Solace-by-Megan-Hart-500x200.jpg",
+  "authors": [
+    {
+      "name": "Megan Hart",
+      "slug": "megan-hart"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pleasure and Purpose",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "No Greater Pleasure",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Selfish is the Heart",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Virtue and Vice",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Beautiful Thorns",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Clint Ryan",
+  "slug": "clint-ryan",
+  "source": "https://www.orderofbooks.com/characters/clint-ryan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Clint-Ryan-by-LJ-Martin.jpg",
+  "authors": [
+    {
+      "name": "LJ Martin",
+      "slug": "lj-martin"
+    }
+  ],
+  "books": [
+    {
+      "title": "El Lazo",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Against the 7th Flag",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Bounty",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Benicia Belle",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadow of the Grizzly",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Condor Canyon",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Ten Beach Road",
+  "slug": "ten-beach-road",
+  "source": "https://www.orderofbooks.com/characters/ten-beach-road/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Beach-by-Wendy-Wax-500x200.jpg",
+  "authors": [
+    {
+      "name": "Wendy Wax",
+      "slug": "wendy-wax"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ten Beach Road",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ocean Beach",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Christmas at the Beach",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The House on Mermaid Point",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sunshine Beach",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "One Good Thing",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Bella Flora Christmas",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Best Beach Ever",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

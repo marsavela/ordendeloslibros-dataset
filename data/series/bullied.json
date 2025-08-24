@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Bullied",
+  "slug": "bullied",
+  "source": "https://www.orderofbooks.com/characters/bullied/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Bullied-by-Christopher-Smith-500x200.jpg",
+  "authors": [
+    {
+      "name": "Christopher Smith",
+      "slug": "christopher-smith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bullied",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Revenge",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Witch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "War",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

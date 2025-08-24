@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Henderson’s Boys",
+  "slug": "hendersons-boys",
+  "source": "https://www.orderofbooks.com/characters/hendersons-boys/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Hendersons-Boys-by-Robert-Muchamore-500x200.jpg",
+  "authors": [
+    {
+      "name": "Robert Muchamore",
+      "slug": "robert-muchamore"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Escape",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Eagle Day",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Secret Army",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Grey Wolves",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Prisoner",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "One Shot Kill",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Scorched Earth",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

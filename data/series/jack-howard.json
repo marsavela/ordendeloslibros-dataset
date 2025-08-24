@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Jack Howard",
+  "slug": "jack-howard",
+  "source": "https://www.orderofbooks.com/characters/jack-howard/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Jack-Howard-by-David-Gibbins-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Gibbins",
+      "slug": "david-gibbins"
+    }
+  ],
+  "books": [
+    {
+      "title": "Atlantis",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crusader Gold",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Lost Tomb / The Last Gospel",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Tiger Warrior",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Mask Of Troy",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Atlantis God / The Gods of Atlantis",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Pharaoh",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Pyramid",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Testament",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Inquisition",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

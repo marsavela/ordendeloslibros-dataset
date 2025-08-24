@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Candy Holliday",
+  "slug": "candy-holliday",
+  "source": "https://www.orderofbooks.com/characters/candy-holliday/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Candy-Holliday-by-BB-Haywood-500x200.jpg",
+  "authors": [
+    {
+      "name": "B.B. Haywood",
+      "slug": "b-b-haywood"
+    }
+  ],
+  "books": [
+    {
+      "title": "Town in a Blueberry Jam",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Town in a Lobster Stew",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Town in a Wild Moose Chase",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Town in a Pumpkin Bash",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Town in a Strawberry Swirl",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Town in a Sweet Pickle",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Town in a Cinnamon Toast",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Town in a Maple Madness",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

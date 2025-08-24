@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Rei Shimura",
+  "slug": "rei-shimura",
+  "source": "https://www.orderofbooks.com/characters/rei-shimura/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Rei-Shimura-by-Sujata-Massey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sujata Massey",
+      "slug": "sujata-massey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Salaryman's Wife",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Zen Attitude",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Flower Master",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Floating Girl",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bride's Kimono",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Samurai's Daughter",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Pearl Diver",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Typhoon Lover",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Girl in a Box",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Shimura Trouble",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Kizuna Coast",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Ghost Buddy",
+  "slug": "ghost-buddy",
+  "source": "https://www.orderofbooks.com/characters/ghost-buddy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Ghost-Buddy-by-Henry-Winkler-Lin-Oliver-500x200.jpg",
+  "authors": [
+    {
+      "name": "Henry Winkler",
+      "slug": "henry-winkler"
+    }
+  ],
+  "books": [
+    {
+      "title": "Zero to Hero",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mind If I Read Your Mind?",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "How to Scare the Pants Off Your Pets",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Always Dance with a Hairy Buffalo!",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

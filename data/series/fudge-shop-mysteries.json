@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Fudge Shop Mysteries",
+  "slug": "fudge-shop-mysteries",
+  "source": "https://www.orderofbooks.com/characters/fudge-shop-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/fudge-shop-mysteries-500x200.jpg",
+  "books": [
+    {
+      "title": "First-Degree Fudge",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hot Fudge Frame-Up",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Five-Alarm Fudge",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deadly Fudge Divas",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

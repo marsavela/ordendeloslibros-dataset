@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Paul Christopher",
+  "slug": "paul-christopher",
+  "source": "https://www.orderofbooks.com/characters/paul-christopher/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Paul-Christopher-by-Charles-McCarry.jpg",
+  "authors": [
+    {
+      "name": "Charles McCarry",
+      "slug": "charles-mccarry"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Miernik Dossier",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Tears of Autumn",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Secret Lovers",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Better Angels",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Last Supper",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bride of the Wilderness",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Second Sight",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shelley's Heart",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Old Boys",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Christopher's Ghosts",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

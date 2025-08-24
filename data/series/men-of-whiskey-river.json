@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Men Of Whiskey River",
+  "slug": "men-of-whiskey-river",
+  "source": "https://www.orderofbooks.com/characters/men-of-whiskey-river/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Men-of-Whiskey-River-by-JoAnn-Ross.jpg",
+  "books": [
+    {
+      "title": "Untamed",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Confessions",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Outlaw",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wanted!",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ambushed",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

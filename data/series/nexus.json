@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Nexus",
+  "slug": "nexus",
+  "source": "https://www.orderofbooks.com/characters/nexus/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/nexus-500x200.jpg",
+  "books": [
+    {
+      "title": "Nexus",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crux",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Apex",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

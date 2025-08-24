@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Dragonfire",
+  "slug": "dragonfire",
+  "source": "https://www.orderofbooks.com/characters/dragonfire/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/05/Dragonfire-by-Deborah-Cooke.jpg",
+  "authors": [
+    {
+      "name": "Deborah Cooke",
+      "slug": "deborah-cooke"
+    }
+  ],
+  "books": [
+    {
+      "title": "Kiss of Fire",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kiss of Fury",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kiss of Fate",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Winter Kiss",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Harmonia's Kiss",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Whisper Kiss",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Darkfire Kiss",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Flashfire",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Ember's Kiss",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Serpent's Kiss",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Firestorm Forever",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

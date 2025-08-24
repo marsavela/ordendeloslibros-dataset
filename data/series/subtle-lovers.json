@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Subtle Lovers",
+  "slug": "subtle-lovers",
+  "source": "https://www.orderofbooks.com/characters/subtle-lovers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Subtle-Lovers-by-Beth-Kery1-500x200.jpg",
+  "authors": [
+    {
+      "name": "Beth Kery",
+      "slug": "beth-kery"
+    }
+  ],
+  "books": [
+    {
+      "title": "Subtle Magic",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Subtle Touch",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Subtle Release",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Subtle Destiny",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

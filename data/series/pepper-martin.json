@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Pepper Martin",
+  "slug": "pepper-martin",
+  "source": "https://www.orderofbooks.com/characters/pepper-martin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Pepper-Martin-by-Casey-Daniels-500x200.jpg",
+  "authors": [
+    {
+      "name": "Casey Daniels",
+      "slug": "casey-daniels"
+    }
+  ],
+  "books": [
+    {
+      "title": "Don of the Dead",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Chick and the Dead",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tombs of Endearment",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Night of the Loving Dead",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dead Man Talking",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tomb with a View",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Hard Day's Fright",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wild Wild Death",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Supernatural Born Killers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Graveyard Shift",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

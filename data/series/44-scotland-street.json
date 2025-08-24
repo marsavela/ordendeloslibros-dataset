@@ -1,0 +1,158 @@
+{
+  "type": "series",
+  "name": "44 Scotland Street",
+  "slug": "44-scotland-street",
+  "source": "https://www.orderofbooks.com/characters/44-scotland-street/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/44-Scotland-Street-by-Alexander-McCall-Smith.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of 44 Scotland Street Books",
+      "books": [
+        {
+          "title": "44 Scotland Street",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Espresso Tales",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Love Over Scotland",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The World According to Bertie",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Unbearable Lightness Of Scones",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Importance of Being Seven",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Bertie Plays the Blues",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Sunshine on Scotland Street",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Bertie's Guide to Life and Mothers",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Revolving Door of Life",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "The Bertie Project",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "A Time of Love and Tartan",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Peppermint Tea Chronicles",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "A Promise of Ankles",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Love in the Time of Bertie",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "The Enigma of Garlic",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "The Stellar Debut of Galactica Macfee",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Bertie's Theory of Ice Cream",
+          "year": 2025,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        }
+      ]
+    }
+  }
+}

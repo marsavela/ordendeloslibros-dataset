@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Elizabeth MacPherson",
+  "slug": "elizabeth-macpherson",
+  "source": "https://www.orderofbooks.com/characters/elizabeth-macpherson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Elizabeth-MacPherson-by-Sharyn-McCrumb.jpg",
+  "authors": [
+    {
+      "name": "Sharyn McCrumb",
+      "slug": "sharyn-mccrumb"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sick of Shadows",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lovely in Her Bones",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Highland Laddie Gone",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Paying the Piper",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Windsor Knot",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Missing Susan",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "MacPherson's Lament",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "If I'd Killed Him When I Met Him...",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The PMS Outlaws",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

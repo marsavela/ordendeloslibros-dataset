@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Nicholas Linnear/Ninja Cycle",
+  "slug": "nicholas-linnear-ninja-cycle",
+  "source": "https://www.orderofbooks.com/characters/nicholas-linnear/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Nicholas-Linnear.jpg",
+  "books": [
+    {
+      "title": "The Ninja",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Miko",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "White Ninja",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Kaisho",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Floating City",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Second Skin",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Death and Life of Nicholas Linnear",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Oligarch's Daughter",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

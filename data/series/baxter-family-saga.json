@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Baxter Family Saga",
+  "slug": "baxter-family-saga",
+  "source": "https://www.orderofbooks.com/characters/baxter-family-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Baxter-Family-Saga-by-Palessa.jpg",
+  "books": [
+    {
+      "title": "Unchained Hearts",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Portrait of Gray",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Story of Us",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

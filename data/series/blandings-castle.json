@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Blandings Castle",
+  "slug": "blandings-castle",
+  "source": "https://www.orderofbooks.com/characters/blandings-castle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Blandings-Castle-by-PG-Wodehouse.jpg",
+  "books": [
+    {
+      "title": "Something New / Something Fresh",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Leave it to Psmith",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Summer Lightning / Fish Preferred",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Heavy Weather",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Blandings Castle and Elsewhere",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Lord Emsworth and Others / The Crime Wave at Blandings",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Uncle Fred in the Springtime",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Full Moon",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Pigs Have Wings",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Galahad at Blandings / The Brinkmanship of Galahad Threepwood",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Pelican at Blandings",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The World of Blandings",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Sunset at Blandings",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Imperial Blandings",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Lord Emsworth Acts for the Best",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

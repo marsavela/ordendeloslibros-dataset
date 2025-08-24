@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Firehawks",
+  "slug": "firehawks",
+  "source": "https://www.orderofbooks.com/characters/firehawks/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Firehawks-by-ML-Buchman-500x200.jpg",
+  "authors": [
+    {
+      "name": "ML Buchman",
+      "slug": "ml-buchman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pure Heat",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Full Blaze",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hot Point",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Flash of Fire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wild Fire",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

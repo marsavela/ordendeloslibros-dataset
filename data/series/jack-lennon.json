@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Jack Lennon",
+  "slug": "jack-lennon",
+  "source": "https://www.orderofbooks.com/characters/jack-lennon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Jack-Lennon-by-Stuart-Neville.jpg",
+  "authors": [
+    {
+      "name": "Stuart Neville",
+      "slug": "stuart-neville"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Twelve / The Ghosts of Belfast",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Collusion",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Stolen Souls",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Final Silence",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

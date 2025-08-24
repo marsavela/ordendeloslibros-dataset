@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Orion",
+  "slug": "orion",
+  "source": "https://www.orderofbooks.com/characters/orion/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Orion-by-Ben-Bova-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ben Bova",
+      "slug": "ben-bova"
+    }
+  ],
+  "books": [
+    {
+      "title": "Orion",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Vengeance of Orion",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Orion In The Dying Time",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Orion and the Conqueror",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Orion Among the Stars",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Orion and King Arthur",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

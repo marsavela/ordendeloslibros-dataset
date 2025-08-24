@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Warstrider",
+  "slug": "warstrider",
+  "source": "https://www.orderofbooks.com/characters/warstrider/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Warstrider-by-William-H-Keith.jpg",
+  "authors": [
+    {
+      "name": "William H. Keith",
+      "slug": "william-h-keith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Warstrider",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rebellion",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jackers",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Symbionts",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Netlink",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Battlemind",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Ten Billion Gods of Heaven",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

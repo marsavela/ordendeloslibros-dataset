@@ -1,0 +1,394 @@
+{
+  "type": "series",
+  "name": "39 Clues",
+  "slug": "39-clues",
+  "source": "https://www.orderofbooks.com/characters/39-clues/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/The-39-Clues-500x200.jpg",
+  "authors": [
+    {
+      "name": "Steven Spielberg.",
+      "slug": "steven-spielberg"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of The 39 Clues Books",
+      "books": [
+        {
+          "title": "The Maze of Bones",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "One False Note",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Sword Thief",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Beyond the Grave",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Black Circle",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "In Too Deep",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Viper's Nest",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The 39 Clues: Agent Handbook",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Emperor's Code",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Storm Warning",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Into the Gauntlet",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Vespers Rising",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Black Book of Buried Secrets (Companion Book)",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Midnight Ride",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Midnight Ride is a prequel.",
+          "year": null,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of The 39 Clues: Cahills vs. Vespers Books",
+      "books": [
+        {
+          "title": "The Medusa Plot",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "A King's Ransom",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Dead of Night",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Shatterproof",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Trust No One",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Day of Doom",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    },
+    "publication_3": {
+      "heading": "Publication Order of The 39 Clues: Unstoppable Books",
+      "books": [
+        {
+          "title": "Nowhere to Run",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Breakaway",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Countdown",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Flashpoint",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    },
+    "publication_4": {
+      "heading": "Publication Order of The 39 Clues: Doublecross Books",
+      "books": [
+        {
+          "title": "Mission Titanic",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Mission Hindenburg",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Mission Hurricane",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Mission Atomic",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    },
+    "publication_5": {
+      "heading": "Publication Order of The 39 Clues: Rapid Fire Books",
+      "books": [
+        {
+          "title": "Legacy",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Ignition",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Hunted",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Crushed",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Turbulence",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Invasion",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Fireworks",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        }
+      ]
+    },
+    "publication_6": {
+      "heading": "Publication Order of The 39 Clues: The Cahill Files Books",
+      "books": [
+        {
+          "title": "Operation Trinity",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Submarine Job",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Redcoat Chase",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Houdini Escape",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Silent Night",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Spymasters",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    },
+    "publication_7": {
+      "heading": "Publication Order of The 39 Clues: Super Special Books",
+      "books": [
+        {
+          "title": "Outbreak",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        }
+      ]
+    }
+  }
+}

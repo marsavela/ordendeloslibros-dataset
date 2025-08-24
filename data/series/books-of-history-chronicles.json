@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Books Of History Chronicles",
+  "slug": "books-of-history-chronicles",
+  "source": "https://www.orderofbooks.com/characters/books-of-history-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Books-of-History-Chronicles-by-Ted-Dekker.jpg",
+  "books": [
+    {
+      "title": "Black",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Red",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "White",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Green",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

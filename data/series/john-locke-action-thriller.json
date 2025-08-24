@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "John Locke Action Thriller",
+  "slug": "john-locke-action-thriller",
+  "source": "https://www.orderofbooks.com/characters/john-locke-action-thriller/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/John-Locke-by-Mike-Pettit.jpg",
+  "authors": [
+    {
+      "name": "Mike Pettit",
+      "slug": "mike-pettit"
+    }
+  ],
+  "books": [
+    {
+      "title": "Honorable Revenge",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Body Broker",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dirty Money",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Nine Monkeys",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Jungle Rules",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Little Tokyo",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The novels Jungle Rules and Little Tokyo are no longer available on Amazon.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

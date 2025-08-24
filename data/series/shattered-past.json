@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Shattered Past",
+  "slug": "shattered-past",
+  "source": "https://www.orderofbooks.com/characters/shattered-past/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/shattered-past-500x200.jpg",
+  "authors": [
+    {
+      "name": "Cecy Robson.",
+      "slug": "cecy-robson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Once Perfect",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Once Loved",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Once Pure",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

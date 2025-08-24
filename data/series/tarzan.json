@@ -1,0 +1,201 @@
+{
+  "type": "series",
+  "name": "Tarzan",
+  "slug": "tarzan",
+  "source": "https://www.orderofbooks.com/characters/tarzan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Tarzan-by-Edgar-Rice-Burroughs.jpg",
+  "books": [
+    {
+      "title": "Tarzan of the Apes",
+      "year": 1912,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Return of Tarzan",
+      "year": 1913,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Beasts of Tarzan",
+      "year": 1914,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Son of Tarzan",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tarzan and the Jewels of Opar",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Jungle Tales of Tarzan",
+      "year": 1919,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Tarzan the Untamed",
+      "year": 1919,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tarzan the Terrible",
+      "year": 1921,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Tarzan and the Golden Lion",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Tarzan and the Ant Men",
+      "year": 1924,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Tarzan Twins",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Tarzan, Lord of the Jungle",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Tarzan and the Lost Empire",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Tarzan the Invincible",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Tarzan Triumphant",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Tarzan and the City of Gold",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Tarzan and the Lion Man",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Tarzan and the Leopard Men",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Tarzan's Quest",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Tarzan and the Forbidden City",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Tarzan the Magnificent",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Tarzan and the Foreign Legion",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Tarzan and the Madman",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Tarzan and the Castaways",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    }
+  ]
+}

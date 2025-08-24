@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Renegade Angels",
+  "slug": "renegade-angels",
+  "source": "https://www.orderofbooks.com/characters/renegade-angels/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Renegade-Angels-by-Sylvia-Day.jpg",
+  "books": [
+    {
+      "title": "A Dark Kiss of Rapture",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Touch of Crimson",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Adrian",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Caress of Wings",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Hunger So Wild",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Taste of Seduction",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

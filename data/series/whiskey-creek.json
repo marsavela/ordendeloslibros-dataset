@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Whiskey Creek",
+  "slug": "whiskey-creek",
+  "source": "https://www.orderofbooks.com/characters/whiskey-creek/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Whiskey-Creek-by-Brenda-Novak-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brenda Novak",
+      "slug": "brenda-novak"
+    }
+  ],
+  "books": [
+    {
+      "title": "When We Touch",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "When Lightning Strikes",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Snow Falls",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "When Summer Comes",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Home to Whiskey Creek",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Take Me Home for Christmas",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Come Home to Me",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Heart of Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "This Heart of Mine",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Winter Wedding",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Discovering You",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

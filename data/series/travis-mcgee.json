@@ -1,0 +1,183 @@
+{
+  "type": "series",
+  "name": "Travis McGee",
+  "slug": "travis-mcgee",
+  "source": "https://www.orderofbooks.com/characters/travis-mcgee/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/11/Travis-McGee.jpg",
+  "authors": [
+    {
+      "name": "John D. MacDonald. Travis McGee",
+      "slug": "john-d-macdonald-travis-mcgee"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nightmare in Pink",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Purple Place for Dying",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Quick Red Fox",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Deep Blue Good-By",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Deadly Shade of Gold",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bright Orange for the Shroud",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Darker Than Amber",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "One Fearful Yellow Eye",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Pale Gray for Guilt",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Girl in the Plain Brown Wrapper",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Dress Her in Indigo",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Long Lavender Look",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "A Tan and Sandy Silence",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Scarlet Ruse",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Turquoise Lament",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Dreadful Lemon Sky",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Empty Copper Sea",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Green Ripper",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Free Fall in Crimson",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Cinnamon Skin",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Lonely Silver Rain",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    }
+  ]
+}

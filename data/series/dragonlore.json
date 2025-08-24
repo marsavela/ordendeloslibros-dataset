@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Dragonlore",
+  "slug": "dragonlore",
+  "source": "https://www.orderofbooks.com/characters/dragonlore/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/dragonlore-500x200.jpg",
+  "authors": [
+    {
+      "name": "Daniel Arenson",
+      "slug": "daniel-arenson"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Dawn of Dragonfire",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Day of Dragon Blood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Night of Dragon Wings",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

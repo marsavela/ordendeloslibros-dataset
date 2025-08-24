@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Mac Reilly",
+  "slug": "mac-reilly",
+  "source": "https://www.orderofbooks.com/characters/mac-reilly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Mac-Reilly-by-Elizabeth-Adler.jpg",
+  "authors": [
+    {
+      "name": "Elizabeth Adler",
+      "slug": "elizabeth-adler"
+    }
+  ],
+  "books": [
+    {
+      "title": "One of Those Malibu Nights",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "There's Something about St. Tropez",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "It All Began in Monte Carlo",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "From Barcelona, with Love",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

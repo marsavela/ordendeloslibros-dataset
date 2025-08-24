@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Dr. Hoffmann",
+  "slug": "dr-hoffmann",
+  "source": "https://www.orderofbooks.com/characters/dr-hoffmann/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Dr-Hoffmann-by-Christoph-Spielberg.jpg",
+  "authors": [
+    {
+      "name": "Christoph Spielberg",
+      "slug": "christoph-spielberg"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Russian Donation",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "He Who Dies Last",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "101 Nights",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fourth Day",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

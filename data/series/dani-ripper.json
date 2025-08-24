@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Dani Ripper",
+  "slug": "dani-ripper",
+  "source": "https://www.orderofbooks.com/characters/dani-ripper/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Dani-Ripper-by-John-Locke-500x200.jpg",
+  "authors": [
+    {
+      "name": "John Locke",
+      "slug": "john-locke"
+    }
+  ],
+  "books": [
+    {
+      "title": "Call Me",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Promise You Won't Tell?",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Teacher, Teacher",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Don't Tell Presley!",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Abbey Rayne",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hot Mess Express",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

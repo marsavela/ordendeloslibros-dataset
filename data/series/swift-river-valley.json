@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Swift River Valley",
+  "slug": "swift-river-valley",
+  "source": "https://www.orderofbooks.com/characters/swift-river-valley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/02/Swift-River-Valley-by-Carla-Neggers.jpg",
+  "authors": [
+    {
+      "name": "Carla Neggers",
+      "slug": "carla-neggers"
+    }
+  ],
+  "books": [
+    {
+      "title": "Secrets of the Lost Summer",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "That Night on Thistle Lane",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cider Brook",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Christmas at Carriage Hill",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Echo Lake",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Knights Bridge Christmas",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Spring at Moss Hill",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Red Clover Inn",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The River House",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Stone Bridges",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

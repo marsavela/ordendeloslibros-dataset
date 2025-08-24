@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Windham Sisters",
+  "slug": "windham-sisters",
+  "source": "https://www.orderofbooks.com/characters/windham-sisters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/08/Windham-Sisters-by-Grace-Burrowes-500x200.jpg",
+  "authors": [
+    {
+      "name": "Grace Burrowes",
+      "slug": "grace-burrowes"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Heir",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Soldier",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Virtuoso",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

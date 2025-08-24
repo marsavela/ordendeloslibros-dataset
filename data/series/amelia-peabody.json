@@ -1,0 +1,339 @@
+{
+  "type": "series",
+  "name": "Amelia Peabody",
+  "slug": "amelia-peabody",
+  "source": "https://www.orderofbooks.com/characters/amelia-peabody/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Amelia-Peabody-by-Elizabeth-Peters.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amelia Peabody Books",
+      "books": [
+        {
+          "title": "Crocodile on the Sandbank",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Curse of the Pharaohs",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Mummy Case",
+          "year": 1985,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Lion in the Valley",
+          "year": 1986,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Deeds of the Disturber",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Last Camel Died at Noon",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Snake, the Crocodile and the Dog",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Hippopotamus Pool",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Seeing a Large Cat",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Ape Who Guards the Balance",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "The Falcon at the Portal",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "He Shall Thunder in the Sky",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Lord of the Silent",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Golden One",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Children of the Storm",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Guardian of the Horizon",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "The Serpent on the Crown",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Tomb of the Golden Bird",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "A River in the Sky",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "The Painted Queen",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        }
+      ]
+    },
+    "chronological": {
+      "heading": "Chronological Order of Amelia Peabody Books",
+      "books": [
+        {
+          "title": "Crocodile on the Sandbank",
+          "year": 1975,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Curse of the Pharaohs",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Mummy Case",
+          "year": 1985,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Lion in the Valley",
+          "year": 1986,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Deeds of the Disturber",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Last Camel Died at Noon",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Snake, the Crocodile and the Dog",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Hippopotamus Pool",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Seeing a Large Cat",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The Ape Who Guards the Balance",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Guardian of the Horizon",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "A River in the Sky",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Falcon at the Portal",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Painted Queen",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "He Shall Thunder in the Sky",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Lord of the Silent",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "The Golden One",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Children of the Storm",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "The Serpent on the Crown",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "Tomb of the Golden Bird",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        }
+      ]
+    }
+  }
+}

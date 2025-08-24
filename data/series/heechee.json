@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Heechee",
+  "slug": "heechee",
+  "source": "https://www.orderofbooks.com/characters/heechee/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Heechee-Gateway-by-Frederik-Pohl.jpg",
+  "books": [
+    {
+      "title": "Gateway",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Beyond the Blue Event Horizon",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Heechee Rendezvous",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Annals of the Heechee",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Boy Who Would Live Forever",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

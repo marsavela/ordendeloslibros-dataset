@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Kane Chronicles",
+  "slug": "kane-chronicles",
+  "source": "https://www.orderofbooks.com/characters/kane-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Kane-Chronicles-by-Rick-Riordan.jpg",
+  "books": [
+    {
+      "title": "The Red Pyramid",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Throne of Fire",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Serpent's Shadow",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

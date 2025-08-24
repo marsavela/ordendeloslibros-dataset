@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Charmed Pie Shoppe Mysteries",
+  "slug": "charmed-pie-shoppe-mysteries",
+  "source": "https://www.orderofbooks.com/characters/charmed-pie-shoppe-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Charmed-Pie-Shoppe-Mysteries-by-Ellery-Adams.jpg",
+  "authors": [
+    {
+      "name": "Ellery Adams",
+      "slug": "ellery-adams"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pies and Prejudice",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Peach Pies and Alibis",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Pecan Pies and Homicides",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Lemon Pies and Little White Lies",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Breach of Crust",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

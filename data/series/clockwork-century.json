@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Clockwork Century",
+  "slug": "clockwork-century",
+  "source": "https://www.orderofbooks.com/characters/clockwork-century/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/Clockwork-Century-by-Cherie-Priest-500x200.jpg",
+  "authors": [
+    {
+      "name": "Cherie Priest",
+      "slug": "cherie-priest"
+    }
+  ],
+  "books": [
+    {
+      "title": "Boneshaker",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dreadnought",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Clementine",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ganymede",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tanglefoot",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Inexplicables",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fiddlehead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Jacaranda",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Nick Bracco",
+  "slug": "nick-bracco",
+  "source": "https://www.orderofbooks.com/characters/nick-bracco/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Nick-Bracco-by-Gary-Ponzo.jpg",
+  "authors": [
+    {
+      "name": "Gary Ponzo",
+      "slug": "gary-ponzo"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Touch of Deceit",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Touch of Revenge",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Touch of Greed",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Touch of Malice",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Touch of Tequila",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Flight 12",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "In the Beginning",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Touch of Defiance",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Touch of Terror",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Touch of Torment",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Touch of Regret",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

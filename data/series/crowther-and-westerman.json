@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Crowther and Westerman",
+  "slug": "crowther-and-westerman",
+  "source": "https://www.orderofbooks.com/characters/crowther-and-westerman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/07/Crowther-and-Westerman-by-Imogen-Robertson.jpg",
+  "books": [
+    {
+      "title": "Instruments of Darkness",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Anatomy of Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Island of Bones",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Circle of Shadows",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Theft of Life",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

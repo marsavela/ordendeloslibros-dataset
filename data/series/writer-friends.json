@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Writer Friends",
+  "slug": "writer-friends",
+  "source": "https://www.orderofbooks.com/characters/writer-friends/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Writers-Series-by-Rachel-Gibson.jpg",
+  "books": [
+    {
+      "title": "Sex, Lies, and Online Dating",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I'm In No Mood for Love",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tangled Up in You",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Not Another Bad Date",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

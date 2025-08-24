@@ -1,0 +1,86 @@
+{
+  "type": "series",
+  "name": "Alpha Girl",
+  "slug": "alpha-girl",
+  "source": "https://www.orderofbooks.com/characters/alpha-girl/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/alpha-girl-500x200.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alpha Girl Books",
+      "books": [
+        {
+          "title": "Becoming Alpha",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Avoiding Alpha",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Alpha Divided",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Bruja",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Alpha Unleashed",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Shattered Pack",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Being Alpha",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Lunar Court",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Alpha Erased",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        }
+      ]
+    }
+  }
+}

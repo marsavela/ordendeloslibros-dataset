@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Paul Chavasse",
+  "slug": "paul-chavasse",
+  "source": "https://www.orderofbooks.com/characters/paul-chavasse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Paul-Chavasse-by-Jack-Higgins.jpg",
+  "books": [
+    {
+      "title": "The Bormann Testament / The Testament of Caspar Schultz",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Year of the Tiger",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Keys of Hell",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Midnight Never Comes",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dark Side of the Street",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Fine Night for Dying",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

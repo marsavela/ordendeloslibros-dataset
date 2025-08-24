@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Providence",
+  "slug": "providence",
+  "source": "https://www.orderofbooks.com/characters/providence/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Providence-Trilogy-by-Jamie-McGuire-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jamie McGuire",
+      "slug": "jamie-mcguire"
+    }
+  ],
+  "books": [
+    {
+      "title": "Providence",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Requiem",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Eden",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sins of the Innocent",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sins of the Immortalla",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

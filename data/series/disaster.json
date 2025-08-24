@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Disaster",
+  "slug": "disaster",
+  "source": "https://www.orderofbooks.com/characters/disaster/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Disaster-Series-by-Max-Allan-Collins.jpg",
+  "books": [
+    {
+      "title": "The Titanic Murders",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hindenburg Murders",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Pearl Harbor Murders",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lusitania Murders",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The London Blitz Murders",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The War of the Worlds Murder",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

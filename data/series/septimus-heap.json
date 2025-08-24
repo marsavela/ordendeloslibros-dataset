@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Septimus Heap",
+  "slug": "septimus-heap",
+  "source": "https://www.orderofbooks.com/characters/septimus-heap/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Septimus-Heap-by-Angie-Sage-500x200.jpg",
+  "authors": [
+    {
+      "name": "Angie Sage",
+      "slug": "angie-sage"
+    }
+  ],
+  "books": [
+    {
+      "title": "Magyk",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Flyte",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Physik",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Queste",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Magykal Papers",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Syren",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Darke",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Darke Toad",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Fyre",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

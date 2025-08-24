@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Band Of Four",
+  "slug": "band-of-four",
+  "source": "https://www.orderofbooks.com/characters/band-of-four/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Band-of-Four-by-Ed-Greenwood-500x200.jpg",
+  "authors": [
+    {
+      "name": "Ed Greenwood",
+      "slug": "ed-greenwood"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Kingless Land",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Vacant Throne",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Dragon's Ascension",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Dragon's Doom",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Silent House: A Chronicle of Aglirta",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

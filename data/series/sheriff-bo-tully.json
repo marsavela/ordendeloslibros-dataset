@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Sheriff Bo Tully",
+  "slug": "sheriff-bo-tully",
+  "source": "https://www.orderofbooks.com/characters/sherriff-bo-tully/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Sheriff-Bo-Tully-by-Patrick-F-McManus-500x200.jpg",
+  "books": [
+    {
+      "title": "The Blight Way",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Avalanche",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Double-Jack Murders",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Huckleberry Murders",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Tamarack Murders",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Circles in the Snow",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

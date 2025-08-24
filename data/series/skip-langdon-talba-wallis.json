@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Skip Langdon/Talba Wallis",
+  "slug": "skip-langdon-talba-wallis",
+  "source": "https://www.orderofbooks.com/characters/skip-langdon-talba-wallis/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Skip-Langdon-by-Julie-Smith-500x200.jpg",
+  "authors": [
+    {
+      "name": "Julie Smith",
+      "slug": "julie-smith"
+    }
+  ],
+  "books": [
+    {
+      "title": "New Orleans Mourning",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Axeman's Jazz",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Jazz Funeral",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "New Orleans Beat / Death Before Facebook",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "House of Blues",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Kindness of Strangers",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Crescent City Connection / Crescent City Kill",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "82 Desire",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mean Woman Blues / Boneyard Blues",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Murder On Magazine",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Big Crazy",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Domesday",
+  "slug": "domesday",
+  "source": "https://www.orderofbooks.com/characters/domesday/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Domesday-Medieval-Mysteries-by-Edward-Marston.jpg",
+  "authors": [
+    {
+      "name": "Edward Marston",
+      "slug": "edward-marston"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Wolves of Savernake",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Ravens of Blackwater",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dragons of Archenfield",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lions of the North",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Serpents Of Harbledown",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Stallions of Woodstock",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Hawks of Delamere",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Wildcats of Exeter",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Foxes of Warwick",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Owls of Gloucester",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Elephants of Norwich",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

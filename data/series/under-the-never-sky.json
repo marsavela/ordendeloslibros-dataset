@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Under The Never Sky",
+  "slug": "under-the-never-sky",
+  "source": "https://www.orderofbooks.com/characters/under-the-never-sky/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Under-the-Never-Sky-by-Veronica-Rossi-500x200.jpg",
+  "authors": [
+    {
+      "name": "Veronica Rossi",
+      "slug": "veronica-rossi"
+    }
+  ],
+  "books": [
+    {
+      "title": "Roar and Liv",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Under the Never Sky",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Through the Ever Night",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Brooke",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Into the Still Blue",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Roar of the Tides",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

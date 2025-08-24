@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Slightly",
+  "slug": "slightly",
+  "source": "https://www.orderofbooks.com/characters/slightly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Slightly-by-Wendy-Markham-Corsi-Staub-500x200.jpg",
+  "authors": [
+    {
+      "name": "Wendy Markham Corsi Staub",
+      "slug": "wendy-markham-corsi-staub"
+    }
+  ],
+  "books": [
+    {
+      "title": "Slightly Single",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Slightly Settled",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Slightly Engaged",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Slightly Married",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Slightly Suburban",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

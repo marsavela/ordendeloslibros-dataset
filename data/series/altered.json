@@ -1,0 +1,62 @@
+{
+  "type": "series",
+  "name": "Altered",
+  "slug": "altered",
+  "source": "https://www.orderofbooks.com/characters/altered/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/04/Altered-by-Jennifer-Rush.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Altered Books",
+      "books": [
+        {
+          "title": "Forged",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Altered",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Betrayed",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Erased",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Reborn",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Played",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

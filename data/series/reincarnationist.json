@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Reincarnationist",
+  "slug": "reincarnationist",
+  "source": "https://www.orderofbooks.com/characters/reincarnationist/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Reincarnationist-by-MJ-Rose.jpg",
+  "books": [
+    {
+      "title": "The Reincarnationist",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Memorist",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Hypnotist",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Book of Lost Fragrances",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Seduction",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Collector of Dying Breaths",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Laughing Buddha: Malachai Samuels vs. D.D. Warren",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

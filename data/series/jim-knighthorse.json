@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Jim Knighthorse",
+  "slug": "jim-knighthorse",
+  "source": "https://www.orderofbooks.com/characters/jim-knighthorse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Jim-Knighthorse-by-JR-Rain.jpg",
+  "authors": [
+    {
+      "name": "JR Rain",
+      "slug": "jr-rain"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dark Horse",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Mummy Case",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hail Mary",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Clean Slate",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Easy Rider",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Night Run",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

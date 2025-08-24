@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Patriots",
+  "slug": "patriots",
+  "source": "https://www.orderofbooks.com/characters/patriots/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Patriots-by-Adam-Rutledge-James-Reasoner.jpg",
+  "authors": [
+    {
+      "name": "Adam Rutledge",
+      "slug": "adam-rutledge"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sons of Liberty",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rebel Guns",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Turncoat",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Life and Liberty",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cannon's Call",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Stars and Stripes",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

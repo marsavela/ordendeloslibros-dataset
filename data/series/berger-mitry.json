@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Berger & Mitry",
+  "slug": "berger-mitry",
+  "source": "https://www.orderofbooks.com/characters/berger-and-mitry/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Berger-and-Mitry-by-David-Handler-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Handler",
+      "slug": "david-handler"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Cold Blue Blood",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hot Pink Farmhouse",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bright Silver Star",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Burnt Orange Sunrise",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Sweet Golden Parachute",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Sour Cherry Surprise",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Shimmering Blond Sister",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Blood Red Indian Summer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Snow White Christmas Cookie",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Coal Black Asphalt Tomb",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Lavender Lane Lothario",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

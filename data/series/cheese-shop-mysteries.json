@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Cheese Shop Mysteries",
+  "slug": "cheese-shop-mysteries",
+  "source": "https://www.orderofbooks.com/characters/cheese-shop-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Cheese-Shop-Mysteries-by-Avery-Aames-500x200.jpg",
+  "authors": [
+    {
+      "name": "Avery Aames",
+      "slug": "avery-aames"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Long Quiche Goodbye",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lost and Fondue",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Clobbered by Camembert",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "To Brie or Not To Brie",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Days of Wine and Roquefort",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "As Gouda as Dead",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "For Cheddar or Worse",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

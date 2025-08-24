@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Clare Fergusson & Russ Van Alstyne",
+  "slug": "clare-fergusson-russ-van-alstyne",
+  "source": "https://www.orderofbooks.com/characters/clare-fergusson-and-russ-van-alstyne/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Rev-Clare-Fergusson-Russ-Van-Alstyne-by-Julia-Spencer-Fleming.jpg",
+  "books": [
+    {
+      "title": "In the Bleak Midwinter",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Fountain Filled with Blood",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Out of the Deep I Cry",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "To Darkness and to Death",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "All Mortal Flesh",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "I Shall Not Want",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Letters to a Soldier",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "One Was a Soldier",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Through the Evil Days",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Hid from Our Eyes",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "At Midnight Comes the Cry",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

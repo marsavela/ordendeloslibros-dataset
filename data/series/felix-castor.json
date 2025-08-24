@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Felix Castor",
+  "slug": "felix-castor",
+  "source": "https://www.orderofbooks.com/characters/felix-castor/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/09/Felix-Castor-by-Mike-Carey-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mike Carey",
+      "slug": "mike-carey"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Devil You Know",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Vicious Circle",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dead Men's Boots",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Thicker Than Water",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Naming of the Beasts",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Ghost in Bone",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

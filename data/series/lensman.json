@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Lensman",
+  "slug": "lensman",
+  "source": "https://www.orderofbooks.com/characters/lensman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Lensman-by-EE-Doc-Smith-500x200.jpg",
+  "authors": [
+    {
+      "name": "EE Doc Smith",
+      "slug": "ee-doc-smith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Galatic Patrol",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Children of the Lens",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Triplanetary",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "First Lensman",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Gray Lensman",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Second Stage Lensman",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Masters of the Vortex",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

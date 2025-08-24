@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Charlotte McNally",
+  "slug": "charlotte-mcnally",
+  "source": "https://www.orderofbooks.com/characters/charlotte-mcnally/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/Charlotte-McNally-by-Hank-Phillippi-Ryan.jpg",
+  "authors": [
+    {
+      "name": "Hank Phillippi Ryan",
+      "slug": "hank-phillippi-ryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Prime Time",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Face Time",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Air Time",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Drive Time",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

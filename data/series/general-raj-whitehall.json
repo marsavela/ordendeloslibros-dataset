@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "General/Raj Whitehall",
+  "slug": "general-raj-whitehall",
+  "source": "https://www.orderofbooks.com/characters/raj-whitehall/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/07/The-General-Raj-Whitehall-by-David-Drake-SM-Stirling-Eric-Flint-500x200.jpg",
+  "authors": [
+    {
+      "name": "David Drake SM Stirling Eric",
+      "slug": "david-drake-sm-stirling-eric"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Forge",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hammer",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Anvil",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Steel",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Sword",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Chosen",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Reformer",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Tyrant",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Heretic",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Savior",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

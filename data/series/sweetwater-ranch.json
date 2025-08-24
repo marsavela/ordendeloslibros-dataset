@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Sweetwater Ranch",
+  "slug": "sweetwater-ranch",
+  "source": "https://www.orderofbooks.com/characters/sweetwater-ranch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Sweetwater-Ranch-by-Delores-Fossen-500x200.jpg",
+  "authors": [
+    {
+      "name": "Delores Fossen",
+      "slug": "delores-fossen"
+    }
+  ],
+  "books": [
+    {
+      "title": "Maverick Sheriff",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Cowboy Behind the Badge",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rustling Up Trouble",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Kidnapping in Kendall County",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cowboy Deputy / The Deputy's Redemption",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Reining in Justice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Surrendering to the Sheriff",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Lawman's Justice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

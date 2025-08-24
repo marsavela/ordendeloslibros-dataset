@@ -1,0 +1,295 @@
+{
+  "type": "series",
+  "name": "Honey Bunch",
+  "slug": "honey-bunch",
+  "source": "https://www.orderofbooks.com/characters/honey-bunch/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Honey-Bunch-by-Helen-Louise-Thorndyke.jpg",
+  "authors": [
+    {
+      "name": "Helen Louise Thorndyke",
+      "slug": "helen-louise-thorndyke"
+    }
+  ],
+  "books": [
+    {
+      "title": "Just a Little Girl",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Her First Visit to the City",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Her First Days on the Farm",
+      "year": 1923,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Her First Visit to the Seashore",
+      "year": 1924,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Her First Little Garden",
+      "year": 1924,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Her First Days In Camp",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Her First Auto Tour",
+      "year": 1926,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Her First Trip on the Ocean",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Her First Trip West",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Her First Summer on an Island",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Her First Trip on the Great Lakes",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Her First Trip in an Airplane",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Her First Visit to the Zoo",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Her First Big Adventure",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Her First Big Parade",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Her First Little Mystery",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Her First Little Treasure Hunt",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Her First Little Club",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Her First Trip in a Trailer",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Her First Trip to a Big Fair",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Her First Twin Playmates",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Her First Costume Party",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Her First Trip on a House Boat",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Her First Winter at Snowtop",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Her First Trip to the Big Woods",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Her First Little Pet Show",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Her First Trip to a Lighthouse",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Her First Visit to a Pony Ranch",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Her First Tour of Toy Town",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Her First Visit to Puppyland",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Her First Trip to Reindeer Farm",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Honey Bunch and Norman on Lighthouse Island",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Honey Bunch and Norman Solve the Pine Cone Mystery",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Honey Bunch And Norman Play Detective At Niagara Falls",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Honey Bunch and Norman at Beaver Lodge",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    }
+  ]
+}

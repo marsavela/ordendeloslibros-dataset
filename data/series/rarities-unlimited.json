@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Rarities Unlimited",
+  "slug": "rarities-unlimited",
+  "source": "https://www.orderofbooks.com/characters/rarities-unlimited/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Rarities-Unlimited-by-Elizabeth-Lowell.jpg",
+  "books": [
+    {
+      "title": "Moving Target",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Running Scared",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Die in Plain Sight",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Color of Death",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

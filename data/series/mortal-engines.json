@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Mortal Engines",
+  "slug": "mortal-engines",
+  "source": "https://www.orderofbooks.com/characters/mortal-engines/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Hungry-City-Chronicles-by-Philip-Reeve.jpg",
+  "books": [
+    {
+      "title": "Mortal Engines",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Predator's Gold",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Infernal Devices",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Darkling Plain",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Traction City",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Night Flights",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Thunder City",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

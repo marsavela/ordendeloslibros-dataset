@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Heroes Of The Dixie Wardens MC",
+  "slug": "heroes-of-the-dixie-wardens-mc",
+  "source": "https://www.orderofbooks.com/characters/heroes-of-the-dixie-wardens-mc/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Heroes-of-the-Dixie-Wardens-MC-by-Lani-Lynn-Vale-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lani Lynn Vale",
+      "slug": "lani-lynn-vale"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lights to My Siren",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Halligan to My Axe",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kevlar to My Vest",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Keys to My Cuffs",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Life to My Flight",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Charge to My Line",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Counter to My Intelligence",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Right to My Wrong",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Ask Your Mom If I'm Real",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

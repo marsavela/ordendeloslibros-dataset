@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Daughters Of The Sea",
+  "slug": "daughters-of-the-sea",
+  "source": "https://www.orderofbooks.com/characters/daughters-of-the-sea/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Daughters-of-the-Sea-by-Kathryn-Lasky.jpg",
+  "authors": [
+    {
+      "name": "Kathryn Lasky",
+      "slug": "kathryn-lasky"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hannah / Girl in the Shadows",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "May",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lucy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Crossing",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Downward Dog Mystery",
+  "slug": "downward-dog-mystery",
+  "source": "https://www.orderofbooks.com/characters/downward-dog-mystery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/downdog.jpg",
+  "books": [
+    {
+      "title": "Murder Strikes a Pose",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Killer Retreat",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Karma's a Killer",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Fatal Twist",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Pre-Meditated Murder",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Murder Likes It Hot",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

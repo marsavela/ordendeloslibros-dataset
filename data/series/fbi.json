@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "FBI",
+  "slug": "fbi",
+  "source": "https://www.orderofbooks.com/characters/fbi/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Novel-of-the-FBI-by-Paul-Lindsay.jpg",
+  "authors": [
+    {
+      "name": "Paul Lindsay",
+      "slug": "paul-lindsay"
+    }
+  ],
+  "books": [
+    {
+      "title": "Witness to the Truth",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Code Name: Gentkill",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Freedom to Kill",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Fuhrer's Reserve",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Traps",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Big Scam",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": "series",
+  "name": "Alton Rhode Mysteries",
+  "slug": "alton-rhode-mysteries",
+  "source": "https://www.orderofbooks.com/characters/alton-rhode-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/02/Alton-Rhode-by-Lawrence-De-Maria.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alton Rhode Mysteries Books",
+      "books": [
+        {
+          "title": "Capriati's Blood / The Capriati Conspiracy",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Laura Lee",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Siren's Tears",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Sister",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Gunner",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Elson Legacy",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Turtle Dove",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Shadow of the Black Womb",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Golden Gate",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Barnwell",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "The Drone",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Joshua House",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        }
+      ]
+    }
+  }
+}

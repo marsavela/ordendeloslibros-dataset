@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Oz Blackstone",
+  "slug": "oz-blackstone",
+  "source": "https://www.orderofbooks.com/characters/oz-blackstone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Oz-Blackstone-by-Quintin-Jardine-500x200.jpg",
+  "authors": [
+    {
+      "name": "Quintin Jardine",
+      "slug": "quintin-jardine"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blackstone's Pursuits / Dangerous Pursuits",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Coffin for Two",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wearing Purple",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Screen Savers",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "On Honeymoon with Death",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Poisoned Cherries",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Unnatural Justice",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Alarm Call",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "For the Death of Me",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

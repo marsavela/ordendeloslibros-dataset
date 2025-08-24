@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Kushiel’s Legacy",
+  "slug": "kushiels-legacy",
+  "source": "https://www.orderofbooks.com/characters/kushiels-legacy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Kushiels-Legacy-by-Jacqueline-Carey.jpg",
+  "books": [
+    {
+      "title": "Kushiel's Dart",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kushiel's Chosen",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kushiel's Avatar",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cassiel's Servant",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

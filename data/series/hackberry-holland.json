@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Hackberry Holland",
+  "slug": "hackberry-holland",
+  "source": "https://www.orderofbooks.com/characters/hackberry-holland/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/09/Hackberry-Holland.jpg",
+  "books": [
+    {
+      "title": "Lay Down My Sword and Shield",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rain Gods",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Feast Day of Fools",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "House of the Rising Sun",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Another Kind of Eden",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Every Cloak Rolled in Blood",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Don't Forget Me, Little Bessie",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "type": "series",
+  "name": "Accidentals",
+  "slug": "accidentals",
+  "source": "https://www.orderofbooks.com/characters/accidentals/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Accidentals-by-Dakota-Cassidy-500x200.jpg",
+  "authors": [
+    {
+      "name": "Dakota Cassidy",
+      "slug": "dakota-cassidy"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Accidentals Books",
+      "books": [
+        {
+          "title": "The Accidental Werewolf",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Accidentally Dead",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Accidental Human",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Accidentally Demonic",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Accidentally Catty",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Accidentally Dead, Again",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Accidental Genie",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Accidental Werewolf 2",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Accidental Dragon",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Accidentally Aphrodite",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Accidentally Ever After",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Interview With an Accidental",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Bearly Accidental",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "How Nina Got Her Fang Back",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "The Accidental Familiar",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Then Came Wanda...With A Baby Carriage",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "The Accidental Mermaid",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Marty's Horrible, Terrible, Very Bad Day",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "The Accidental Unicorn",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "The Accidental Troll",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Accidentally Divine",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "The Accidental Gargoyle",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        },
+        {
+          "title": "Accidental AF",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 23
+        },
+        {
+          "title": "The Accidental Fairy",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 24
+        },
+        {
+          "title": "The Accidental Ghost",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 25
+        },
+        {
+          "title": "The Accidental Witch",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 26
+        }
+      ]
+    }
+  }
+}

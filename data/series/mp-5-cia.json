@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "MP-5 CIA",
+  "slug": "mp-5-cia",
+  "source": "https://www.orderofbooks.com/characters/mp-5-cia/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/MP-5-CIA-Thriller-by-MH-Sargent-500x200.jpg",
+  "authors": [
+    {
+      "name": "M.H. Sargent",
+      "slug": "m-h-sargent"
+    }
+  ],
+  "books": [
+    {
+      "title": "Seven Days From Sunday",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Shot To Die For",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Operation Spider Web",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Yemen Connection",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Alliance of Evil",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Birdwatchers",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Containable Incident",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Ghost Gathering",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Rapier",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

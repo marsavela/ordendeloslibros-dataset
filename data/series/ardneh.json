@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Ardneh",
+  "slug": "ardneh",
+  "source": "https://www.orderofbooks.com/characters/ardneh/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Ardneh-Series-by-Fred-Saberhagen.jpg",
+  "books": [
+    {
+      "title": "The Broken Lands",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Black Mountains",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ardneh's World / Changeling Earth",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ardneh's Sword",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

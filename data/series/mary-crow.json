@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Mary Crow",
+  "slug": "mary-crow",
+  "source": "https://www.orderofbooks.com/characters/mary-crow/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Mary-Crow-by-Sallie-Bissell.jpg",
+  "books": [
+    {
+      "title": "In the Forest of Harm",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Darker Justice",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Call the Devil by His Oldest Name",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Legacy of Masks",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Music of Ghosts",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deadliest of Sins",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Judgment of Whispers",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "White Trees Crimson Snow",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

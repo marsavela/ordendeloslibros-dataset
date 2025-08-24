@@ -1,0 +1,687 @@
+{
+  "type": "series",
+  "name": "Perry Mason",
+  "slug": "perry-mason",
+  "source": "https://www.orderofbooks.com/characters/perry-mason/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Perry-Mason-by-Erle-Stanley-Gardner-500x200.jpg",
+  "authors": [
+    {
+      "name": "Erle Stanley Gardner",
+      "slug": "erle-stanley-gardner"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Case of the Velvet Claws",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Case of the Sulky Girl",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Case of the Lucky Legs",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Case of the Howling Dog",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Case of the Curious Bride",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Case of the Counterfeit Eye",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Case of the Caretaker's Cat",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Case of the Sleepwalker's Niece",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Case of the Stuttering Bishop",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Case of the Dangerous Dowager",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Case of the Lame Canary",
+      "year": 1937,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Case of the Substitute Face",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Case of the Shoplifter's Shoe",
+      "year": 1938,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Case of the Perjured Parrot",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Case of the Rolling Bones",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Case of the Baited Hook",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Case of the Silent Partner",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Case of the Haunted Husband",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "The Case of the Empty Tin",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "The Case of the Drowning Duck",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Case of the Careless Kitten",
+      "year": 1942,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "The Case of the Buried Clock",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "The Case of the Drowsy Mosquito",
+      "year": 1943,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "The Case of the Crooked Candle",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "The Case of the Black-Eyed Blonde",
+      "year": 1944,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "The Case of the Golddigger's Purse",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Case of the Half-Wakened Wife",
+      "year": 1945,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "The Case of the Borrowed Brunette",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "The Case of the Fan-Dancer's Horse",
+      "year": 1946,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Case of the Lazy Lover",
+      "year": 1947,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "The Case of the Lonely Heiress",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "The Case of the Vagabond Virgin",
+      "year": 1948,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "The Case of the Cautious Coquette",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "The Case of the Dubious Bridegroom",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "The Case of the Negligent Nymph",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "The Case of the One-Eyed Witness",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "The Case of the Fiery Fingers",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "The Case of the Angry Mourner",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "The Case of the Moth-Eaten Mink",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "The Case of the Grinning Gorilla",
+      "year": 1952,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "The Case of the Hesitant Hostess",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "The Case of the Green-Eyed Sister",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "The Case of the Fugitive Nurse",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    },
+    {
+      "title": "The Case of the Runaway Corpse",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 44
+    },
+    {
+      "title": "The Case of the Restless Redhead",
+      "year": 1954,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 45
+    },
+    {
+      "title": "The Case of the Sun Bather's Diary",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 46
+    },
+    {
+      "title": "The Case of the Glamorous Ghost",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 47
+    },
+    {
+      "title": "The Case of the Nervous Accomplice",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 48
+    },
+    {
+      "title": "The Case of the Terrified Typist",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 49
+    },
+    {
+      "title": "The Case of the Gilded Lily",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 50
+    },
+    {
+      "title": "The Case of the Demure Defendant",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 51
+    },
+    {
+      "title": "The Case of The Screaming Woman",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 52
+    },
+    {
+      "title": "The Case of the Lucky Loser",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 53
+    },
+    {
+      "title": "The Case of the Daring Decoy",
+      "year": 1957,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 54
+    },
+    {
+      "title": "The Case of the Foot-Loose Doll",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 55
+    },
+    {
+      "title": "The Case of the Long-Legged Models",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 56
+    },
+    {
+      "title": "The Case of the Calendar Girl",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 57
+    },
+    {
+      "title": "The Case of the Singing Skirt",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 58
+    },
+    {
+      "title": "The Case of the Mythical Monkeys",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 59
+    },
+    {
+      "title": "The Case of the Deadly Toy",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 60
+    },
+    {
+      "title": "The Case of the Waylaid Wolf",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 61
+    },
+    {
+      "title": "The Case of the Duplicate Daughter",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 62
+    },
+    {
+      "title": "The Case of the Shapely Shadow",
+      "year": 1960,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 63
+    },
+    {
+      "title": "The Case of the Spurious Spinster",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 64
+    },
+    {
+      "title": "The Case of the Bigamous Spouse",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 65
+    },
+    {
+      "title": "The Case of the Reluctant Model",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 66
+    },
+    {
+      "title": "The Case of the Blonde Bonanza",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 67
+    },
+    {
+      "title": "The Case of the Ice-Cold Hands",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 68
+    },
+    {
+      "title": "The Case of the Mischievous Doll",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 69
+    },
+    {
+      "title": "The Case of the Stepdaughter's Secret",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 70
+    },
+    {
+      "title": "The Case of the Amorous Aunt",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 71
+    },
+    {
+      "title": "The Case of the Daring Divorcee",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 72
+    },
+    {
+      "title": "The Case of the Phantom Fortune",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 73
+    },
+    {
+      "title": "The Case of the Horrified Heirs",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 74
+    },
+    {
+      "title": "The Case of the Troubled Trustee",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 75
+    },
+    {
+      "title": "The Case of the Beautiful Beggar",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 76
+    },
+    {
+      "title": "The Case of the Worried Waitress",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 77
+    },
+    {
+      "title": "The Case of the Queenly Contestant",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 78
+    },
+    {
+      "title": "The Case of the Careless Cupid",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 79
+    },
+    {
+      "title": "The Case of the Fabulous Fake",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 80
+    },
+    {
+      "title": "The Case of the Fenced-in Woman",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 81
+    },
+    {
+      "title": "The Case of the Postponed Murder",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 82
+    },
+    {
+      "title": "The Case of Too Many Murders",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 83
+    },
+    {
+      "title": "The Case of the Burning Bequest",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 84
+    }
+  ]
+}

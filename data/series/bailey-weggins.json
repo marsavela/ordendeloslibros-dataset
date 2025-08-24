@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Bailey Weggins",
+  "slug": "bailey-weggins",
+  "source": "https://www.orderofbooks.com/characters/bailey-weggins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Bailey-Weggins-by-Kate-White.jpg",
+  "books": [
+    {
+      "title": "If Looks Could Kill",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Body to Die For",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "'Til Death Do Us Part",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Over Her Dead Body",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lethally Blond",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "So Pretty it Hurts",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Even if it Kills Her",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Such a Perfect Wife",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

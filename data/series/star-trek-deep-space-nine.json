@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Star Trek: Deep Space Nine",
+  "slug": "star-trek-deep-space-nine",
+  "source": "https://www.orderofbooks.com/characters/star-trek-deep-space-nine/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Star-Trek-Deep-Space-9-by-Gene-Roddenberry.jpg",
+  "authors": [
+    {
+      "name": "Commander Benjamin Sisko.",
+      "slug": "commander-benjamin-sisko"
+    }
+  ],
+  "books": [
+    {
+      "title": "First Strike",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Soldiers of Fear",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Time's Enemy",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Final Fury",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "This series is a crossover between The Next Generation, Deep Space Nine, Voyager, and The Original Series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

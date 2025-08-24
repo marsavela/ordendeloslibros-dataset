@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Star Trek",
+  "slug": "star-trek",
+  "source": "https://www.orderofbooks.com/characters/star-trek/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Star-Trek-by-Gene-Roddenberry.jpg",
+  "books": [
+    {
+      "title": "Star Trek 1",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Star Trek 2",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Star Trek 3",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Star Trek 4",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Star Trek 5",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Star Trek 6",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Star Trek 7",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Star Trek 8",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Star Trek 9",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Star Trek 10",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Star Trek 11",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Star Trek 12",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Future History",
+  "slug": "future-history",
+  "source": "https://www.orderofbooks.com/characters/future-history/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Robert-A-Heinleins-Future-History.jpg",
+  "books": [
+    {
+      "title": "Misfit",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Let There Be Light",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blowups Happen",
+      "year": 1940,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Methuselah's Children",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "We Also Walk Dogs",
+      "year": 1941,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Long Watch",
+      "year": 1949,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Man Who Sold the Moon",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Green Hills of Earth",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Revolt in 2100",
+      "year": 1953,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Orphans of the Sky",
+      "year": 1963,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Past Through Tomorrow",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

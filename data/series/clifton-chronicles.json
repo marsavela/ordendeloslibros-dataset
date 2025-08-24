@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Clifton Chronicles",
+  "slug": "clifton-chronicles",
+  "source": "https://www.orderofbooks.com/characters/clifton-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Clifton-Chronicles-by-Jeffrey-Archer.jpg",
+  "authors": [
+    {
+      "name": "Jeffrey Archer",
+      "slug": "jeffrey-archer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Only Time Will Tell",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sins of the Father",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Best Kept Secret",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Be Careful What You Wish For",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Mightier Than the Sword",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cometh the Hour",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "This Was a Man",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "name": "Abe Glitsky",
+  "slug": "abe-glitsky",
+  "source": "https://www.orderofbooks.com/characters/abe-glitsky/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Abe-Glitsky.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Abe Glitsky Books",
+      "books": [
+        {
+          "title": "A Certain Justice",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Guilt",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Damage",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Keeper",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    }
+  }
+}

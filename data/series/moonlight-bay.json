@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Moonlight Bay",
+  "slug": "moonlight-bay",
+  "source": "https://www.orderofbooks.com/characters/moonlight-bay/",
+  "image": "https://www.orderofbooks.com/images/bn-banner.png",
+  "books": [
+    {
+      "title": "Fear Nothing",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Seize the Night",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Georgian",
+  "slug": "georgian",
+  "source": "https://www.orderofbooks.com/characters/georgian/",
+  "image": "https://www.orderofbooks.com/images/bn-banner.png",
+  "books": [
+    {
+      "title": "Ask For It",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Passion for the Game",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Passion for Him",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Don't Tempt Me",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

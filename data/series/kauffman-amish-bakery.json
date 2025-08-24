@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Kauffman Amish Bakery",
+  "slug": "kauffman-amish-bakery",
+  "source": "https://www.orderofbooks.com/characters/kauffman-amish-bakery/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/kauffman-amish-bakery-500x200.jpg",
+  "authors": [
+    {
+      "name": "Amy Clipston",
+      "slug": "amy-clipston"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Gift of Grace",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Promise of Hope",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Place of Peace",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Life of Joy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Season of Love",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

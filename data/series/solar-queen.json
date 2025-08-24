@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Solar Queen",
+  "slug": "solar-queen",
+  "source": "https://www.orderofbooks.com/characters/solar-queen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Solar-Queen-by-Andre-Norton-Andrew-North.jpg",
+  "books": [
+    {
+      "title": "Sargasso of Space",
+      "year": 1955,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Plague Ship",
+      "year": 1956,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Voodoo Planet",
+      "year": 1959,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Postmarked the Stars",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Redline the Stars",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Derelict for Trade",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Mind for Trade",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Solar Queen",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

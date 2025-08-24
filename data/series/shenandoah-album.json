@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Shenandoah Album",
+  "slug": "shenandoah-album",
+  "source": "https://www.orderofbooks.com/characters/shenandoah-album/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Shenandoah-Album-by-Emilie-Richards-500x200.jpg",
+  "authors": [
+    {
+      "name": "Emilie Richards",
+      "slug": "emilie-richards"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wedding Ring",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Endless Chain",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lover's Knot",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Touching Stars",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Sister's Choice",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

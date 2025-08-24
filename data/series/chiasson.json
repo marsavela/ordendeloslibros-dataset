@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Chiasson",
+  "slug": "chiasson",
+  "source": "https://www.orderofbooks.com/characters/chiasson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/01/Chiasson-by-Donna-Grant-500x200.jpg",
+  "authors": [
+    {
+      "name": "Donna Grant",
+      "slug": "donna-grant"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wild Fever",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wild Dream",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Wild Need",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wild Flame",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wild Rapture",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

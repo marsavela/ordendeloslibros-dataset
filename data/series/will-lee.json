@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Will Lee",
+  "slug": "will-lee",
+  "source": "https://www.orderofbooks.com/characters/will-lee/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Will-Lee.jpg",
+  "books": [
+    {
+      "title": "Chiefs",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Run Before the Wind",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deep Lie",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Grass Roots",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Run",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Capital Crimes",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Mounting Fears",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

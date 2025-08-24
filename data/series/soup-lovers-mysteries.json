@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Soup Lover’s Mysteries",
+  "slug": "soup-lovers-mysteries",
+  "source": "https://www.orderofbooks.com/characters/soup-lovers-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Soup-Lovers-Mysteries-by-Connie-Archer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Connie Archer",
+      "slug": "connie-archer"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Spoonful of Murder",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Broth of Betrayal",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Roux of Revenge",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ladle to the Grave",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Clue in the Stew",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

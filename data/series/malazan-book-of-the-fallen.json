@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Malazan Book Of The Fallen",
+  "slug": "malazan-book-of-the-fallen",
+  "source": "https://www.orderofbooks.com/characters/malazan-book-of-the-fallen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Malazan-Book-of-the-Fallen-by-Steven-Erikson-500x200.jpg",
+  "authors": [
+    {
+      "name": "Steven Erikson",
+      "slug": "steven-erikson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gardens of the Moon",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deadhouse Gates",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Memories of Ice",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "House of Chains",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Midnight Tides",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Bonehunters",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Reaper's Gale",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Toll the Hounds",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dust of Dreams",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Crippled God",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

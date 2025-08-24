@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Montana",
+  "slug": "montana",
+  "source": "https://www.orderofbooks.com/characters/montana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/08/Montana-by-LJ-Martin.jpg",
+  "authors": [
+    {
+      "name": "LJ Martin",
+      "slug": "lj-martin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Stranahan",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wolf Mountain",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "McKeag's Mountain",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "O'Rourke's Revenge",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "McCreed's Law",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Eye For Eye",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Revenge of the Damned",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Blackjack Brannigan",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Gabriel De Sade",
+  "slug": "gabriel-de-sade",
+  "source": "https://www.orderofbooks.com/characters/gabriel-de-sade/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Gabriel-De-Sade-by-Eric-Meyer-500x200.jpg",
+  "authors": [
+    {
+      "name": "Eric Meyer",
+      "slug": "eric-meyer"
+    }
+  ],
+  "books": [
+    {
+      "title": "Killing Faith",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Loss of Faith",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death of Faith",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tomb of Faith",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

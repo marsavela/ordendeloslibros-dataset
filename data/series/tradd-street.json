@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Tradd Street",
+  "slug": "tradd-street",
+  "source": "https://www.orderofbooks.com/characters/tradd-street/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Tradd-Street.jpg",
+  "books": [
+    {
+      "title": "The House on Tradd Street",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Girl On Legare Street",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Strangers on Montagu Street",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Return to Tradd Street",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Guests on South Battery",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Christmas Spirits on Tradd Street",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Attic on Queen Street",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

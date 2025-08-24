@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Riley Gavin & Frank Palmer",
+  "slug": "riley-gavin-frank-palmer",
+  "source": "https://www.orderofbooks.com/characters/riley-gavin-and-frank-palmer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Riley-Gavin-and-Frank-Palmer-by-Adrian-Magson.jpg",
+  "authors": [
+    {
+      "name": "Adrian Magson",
+      "slug": "adrian-magson"
+    }
+  ],
+  "books": [
+    {
+      "title": "No Peace for the Wicked",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "No Help for the Dying",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "No Sleep for the Dead",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "No Tears for the Lost",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "No Kiss for the Devil",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "No Time for Regrets",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

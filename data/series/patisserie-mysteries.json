@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Patisserie Mysteries",
+  "slug": "patisserie-mysteries",
+  "source": "https://www.orderofbooks.com/characters/patisserie-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/Patissere-Mysteries-by-Harper-Lin.jpg",
+  "authors": [
+    {
+      "name": "Harper Lin",
+      "slug": "harper-lin"
+    }
+  ],
+  "books": [
+    {
+      "title": "Macaron Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Eclair Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Baguette Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Crepe Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Croissant Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Creme Brulee Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Madeleine Murder",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Opera Cake Murder",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Chocolat Chaud Murder",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Red Queen’s War",
+  "slug": "red-queens-war",
+  "source": "https://www.orderofbooks.com/characters/red-queens-war/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Red-Queens-War-by-Mark-Lawrence-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mark Lawrence",
+      "slug": "mark-lawrence"
+    }
+  ],
+  "books": [
+    {
+      "title": "Prince of Fools",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Liar’s Key",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Wheel of Osheim",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The New World",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

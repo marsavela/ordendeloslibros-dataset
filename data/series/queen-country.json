@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Queen & Country",
+  "slug": "queen-country",
+  "source": "https://www.orderofbooks.com/characters/queen-and-country/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Queen-and-Country-by-Greg-Rucka-500x200.jpg",
+  "authors": [
+    {
+      "name": "Greg Rucka",
+      "slug": "greg-rucka"
+    }
+  ],
+  "books": [
+    {
+      "title": "Operation: Broken Ground",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Operation: Morning Star",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Operation: Crystal Ball",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Operation: Blackwall",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Operation: Stormfront",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Operation: Dandelion",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Operation: Saddlebag",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Operation: Red Panda",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

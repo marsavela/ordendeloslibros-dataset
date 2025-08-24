@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Oxford Medieval Mysteries",
+  "slug": "oxford-medieval-mysteries",
+  "source": "https://www.orderofbooks.com/characters/oxford-medieval-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/06/Oxford-Medieval-Mysteries-by-Ann-Swinfen.jpg",
+  "authors": [
+    {
+      "name": "Ann Swinfen",
+      "slug": "ann-swinfen"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Bookseller's Tale",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Novice's Tale",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Huntsman's Tale",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Merchant's Tale",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Troubadour's Tale",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Stonemason's Tale",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

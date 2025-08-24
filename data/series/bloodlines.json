@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Bloodlines",
+  "slug": "bloodlines",
+  "source": "https://www.orderofbooks.com/characters/bloodlines/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Bloodlines-by-Richelle-Mead.jpg",
+  "authors": [
+    {
+      "name": "Richelle Mead",
+      "slug": "richelle-mead"
+    }
+  ],
+  "books": [
+    {
+      "title": "Adrian's Lost Chapter",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bloodlines",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Golden Lily",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Indigo Spell",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Fiery Heart",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Silver Shadows",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Ruby Circle",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Gentleman Bastard",
+  "slug": "gentleman-bastard",
+  "source": "https://www.orderofbooks.com/characters/gentleman-bastard/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Gentleman-Bastard-by-Scott-Lynch.jpg",
+  "books": [
+    {
+      "title": "The Lies of Locke Lamora",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Red Seas Under Red Skies",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Republic of Thieves",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

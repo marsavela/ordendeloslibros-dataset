@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Rock Chick",
+  "slug": "rock-chick",
+  "source": "https://www.orderofbooks.com/characters/rock-chick/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Rock-Chick-by-Kristen-Ashley.jpg",
+  "authors": [
+    {
+      "name": "Kristen Ashley",
+      "slug": "kristen-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rock Chick",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Rock Chick Rescue",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rock Chick Redemption",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rock Chick Renegade",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rock Chick Revenge",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rock Chick Reckoning",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Rock Chick Regret",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Rock Chick Revolution",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Rock Chick Redux",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Rock Chick Reawakening",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Rock Chick Reborn",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Rock Chick Rematch",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Rock Chick Bonus Tracks",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Chronological Order of Rock Chick Books Rock Chick Reawakening is a prequel novella in the Rock Chick series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

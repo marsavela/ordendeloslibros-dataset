@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Harry Palmer",
+  "slug": "harry-palmer",
+  "source": "https://www.orderofbooks.com/characters/harry-palmer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Harry-Palmer-by-Len-Deighton.jpg",
+  "books": [
+    {
+      "title": "The Ipcress File",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Horse Under Water",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Funeral in Berlin",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Billion-Dollar Brain",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "An Expensive Place to Die",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Spy Story",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Twinkle, Twinkle Little Spy / Catch a Falling Spy",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

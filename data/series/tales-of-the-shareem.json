@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Tales Of The Shareem",
+  "slug": "tales-of-the-shareem",
+  "source": "https://www.orderofbooks.com/characters/tales-of-the-shareem/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/11/Tales-of-the-Shareem-by-Allyson-James-Jennifer-Ashley.jpg",
+  "authors": [
+    {
+      "name": "Allyson James Jennifer Ashley",
+      "slug": "allyson-james-jennifer-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rees",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Maia and Rylan",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rio",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Aiden and Ky",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Eland",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Braden",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Justin",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Calder",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Kieran",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Eland and Jeanne",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Mike Tucker",
+  "slug": "mike-tucker",
+  "source": "https://www.orderofbooks.com/characters/mike-tucker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Black-Cat-Mysteries.jpg",
+  "books": [
+    {
+      "title": "Blood Risk",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Surrounded",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Wall of Masks",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

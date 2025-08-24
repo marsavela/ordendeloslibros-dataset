@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Haunted Mysteries",
+  "slug": "haunted-mysteries",
+  "source": "https://www.orderofbooks.com/characters/haunted-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Haunted-Mysteries-by-Chris-Grabenstein-500x200.jpg",
+  "authors": [
+    {
+      "name": "Chris Grabenstein",
+      "slug": "chris-grabenstein"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Crossroads",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hanging Hill",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Smoky Corridor",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Black Heart Crypt",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

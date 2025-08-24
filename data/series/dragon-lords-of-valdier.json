@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "name": "Dragon Lords Of Valdier",
+  "slug": "dragon-lords-of-valdier",
+  "source": "https://www.orderofbooks.com/characters/dragon-lords-of-valdier/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Dragon-Lords-of-Valdier-by-SE-Smith-500x200.jpg",
+  "authors": [
+    {
+      "name": "SE Smith",
+      "slug": "se-smith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Abducting Abby",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Capturing Cara",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tracking Trisha",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ambushing Ariel",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Cornering Carmen",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "For the Love of Tia",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Paul's Pursuit",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Twin Dragons",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Old Dragon of the Mountain's Christmas",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Jaguin's Love",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Pearl's Dragon",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Twin Dragon’s Destiny",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The King's Quest",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Christmas for a Goddess",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    }
+  ]
+}

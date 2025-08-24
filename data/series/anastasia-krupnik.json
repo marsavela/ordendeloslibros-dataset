@@ -1,0 +1,92 @@
+{
+  "type": "series",
+  "name": "Anastasia Krupnik",
+  "slug": "anastasia-krupnik",
+  "source": "https://www.orderofbooks.com/characters/anastasia-krupnik/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Anastasia-Krupnik-by-Lois-Lowry-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lois Lowry",
+      "slug": "lois-lowry"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Anastasia Krupnik Books",
+      "books": [
+        {
+          "title": "Anastasia Krupnik",
+          "year": 1978,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Anastasia Again!",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Anastasia at Your Service",
+          "year": 1982,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Anastasia, Ask Your Analyst / Off Her Rocker",
+          "year": 1984,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Anastasia on Her Own",
+          "year": 1985,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Anastasia Has the Answers",
+          "year": 1986,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Anastasia's Chosen Career",
+          "year": 1987,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Anastasia at This Address",
+          "year": 1991,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Anastasia, Absolutely",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Posadas County Mysteries",
+  "slug": "posadas-county-mysteries",
+  "source": "https://www.orderofbooks.com/characters/posadas-county-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Undersheriff-Bill-Gastner-Posadas-County-Mysteries-by-Steven-F-Havill-500x200.jpg",
+  "books": [
+    {
+      "title": "Heartshot",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bitter Recoil",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Twice Buried",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Before She Dies",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Privileged to Kill",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Prolonged Exposure",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Out of Season",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Dead Weight",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Bag Limit",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "One Perfect Shot",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Easy Errors",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Chronologically, read Easy Errors followed by One Perfect Shot then the rest of the series in publication order.Also read this series prior to the Posadas County Mysteries series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "type": "series",
+  "name": "Junie B. Jones",
+  "slug": "junie-b-jones",
+  "source": "https://www.orderofbooks.com/characters/junie-b-jones/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Junie-B-Jones-by-Barbara-Park-500x200.jpg",
+  "authors": [
+    {
+      "name": "Barbara Park",
+      "slug": "barbara-park"
+    }
+  ],
+  "books": [
+    {
+      "title": "Junie B. Jones and theStupid Smelly Bus",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Junie B. Jones and a Little Monkey Business",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Junie B. Jones and Her Big Fat Mouth",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Junie B. Jones and Some Sneaky Peeky Spying",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Junie B. Jones and the Yucky Blucky Fruitcake",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Junie B. Jones and That Meanie Jim's Birthday",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Junie B. Jones Loves Handsome Warren",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Junie B. Jones Has a Monster Under Her Bed",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Junie B. Jones Is a Party Animal",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Junie B. Jones Is Not a Crook",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Junie B. Jones Smells Something Fishy",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Junie B. Jones Is a Beauty Shop Guy",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Junie B. Jones Isa Flower Girl",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Junie B. Jones and the Mushy Gushy Valentime",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Junie B. Jones Has a Peep in Her Pocket",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Junie B. Jones Is Captain Field Day",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Junie B. Jones Is a Graduation Girl",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Turkeys We Have Loved and Eaten",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    }
+  ]
+}

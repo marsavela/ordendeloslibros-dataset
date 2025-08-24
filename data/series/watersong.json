@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Watersong",
+  "slug": "watersong",
+  "source": "https://www.orderofbooks.com/characters/watersong/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Watersong-by-Amanda-Hocking.jpg",
+  "books": [
+    {
+      "title": "Forgotten Lyrics",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wake",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lullaby",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tidal",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Elegy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

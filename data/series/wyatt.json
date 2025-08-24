@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Wyatt",
+  "slug": "wyatt",
+  "source": "https://www.orderofbooks.com/characters/wyatt/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Wyatt-by-Garry-Disher.jpg",
+  "authors": [
+    {
+      "name": "Garry Disher",
+      "slug": "garry-disher"
+    }
+  ],
+  "books": [
+    {
+      "title": "Kickback",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Paydirt",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deathdeal",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Crosskill",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Port Vila Blues",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Fallout",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wyatt",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Heat",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Kill Shot",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

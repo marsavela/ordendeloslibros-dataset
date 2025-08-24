@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Commissaire Adamsberg",
+  "slug": "commissaire-adamsberg",
+  "source": "https://www.orderofbooks.com/characters/commissaire-adamsberg/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Chief-Inspector-Adamsberg-by-Fred-Vargas-500x200.jpg",
+  "authors": [
+    {
+      "name": "Fred Vargas",
+      "slug": "fred-vargas"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Chalk Circle Man",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Seeking Whom He May Devour",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Have Mercy on Us All",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "This Night's Foul Work",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wash This Blood Clean from My Hand",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "An Uncertain Place",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Ghost Riders of Ordebec",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Climate of Fear",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "This Poison Will Remain",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

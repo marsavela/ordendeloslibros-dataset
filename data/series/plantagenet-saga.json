@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "name": "Plantagenet Saga",
+  "slug": "plantagenet-saga",
+  "source": "https://www.orderofbooks.com/characters/plantagenet-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Plantagenet-Saga-by-Jean-Plaidy-Victoria-Holt.jpg",
+  "books": [
+    {
+      "title": "The Plantagenet Prelude",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Revolt of the Eaglets",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Heart of the Lion",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hammer of the Scots",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Prince of Darkness",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Battle of the Queens",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Queen from Provence",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Hammer of the Scots / Edward Longshanks",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Follies of the King",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Vow on the Heron",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Passage to Pontefract",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Star of Lancaster",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Epitaph for Three Women",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Red Rose of Anjou",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Sun in Splendour",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

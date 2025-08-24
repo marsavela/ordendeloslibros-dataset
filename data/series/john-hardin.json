@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "John Hardin",
+  "slug": "john-hardin",
+  "source": "https://www.orderofbooks.com/characters/john-hardin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/John-Hardin-by-Phil-Bowie.jpg",
+  "books": [
+    {
+      "title": "Guns",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Diamondback",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "KLLRS",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deathsman",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

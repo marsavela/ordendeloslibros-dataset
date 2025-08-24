@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Inspector Celcius Daly",
+  "slug": "inspector-celcius-daly",
+  "source": "https://www.orderofbooks.com/characters/inspector-celcius-daly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/11/inspector-celcius.jpg",
+  "authors": [
+    {
+      "name": "Anthony Quinn",
+      "slug": "anthony-quinn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Disappeared",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Border Angels",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Silence",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Trespass",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Undertow",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

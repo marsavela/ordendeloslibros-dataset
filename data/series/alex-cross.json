@@ -1,0 +1,326 @@
+{
+  "type": "series",
+  "name": "Alex Cross",
+  "slug": "alex-cross",
+  "source": "https://www.orderofbooks.com/characters/alex-cross/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/07/Alex-Cross-by-James-Patterson.jpg",
+  "authors": [
+    {
+      "name": "James Patterson",
+      "slug": "james-patterson"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alex Cross Books",
+      "books": [
+        {
+          "title": "Along Came a Spider",
+          "year": 1992,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Kiss the Girls",
+          "year": 1995,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Jack & Jill",
+          "year": 1996,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Cat & Mouse",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Pop Goes the Weasel",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Roses Are Red",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Violets Are Blue",
+          "year": 2001,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Four Blind Mice",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Big Bad Wolf",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "London Bridges",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Mary, Mary",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Cross / Alex Cross",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Double Cross",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Cross Country",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "I, Alex Cross",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Cross Fire",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Kill Alex Cross",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Alex Cross, Run",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Cross My Heart",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "Hope to Die",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Cross Justice",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "Cross the Line",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        },
+        {
+          "title": "The People vs. Alex Cross",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 23
+        },
+        {
+          "title": "Target",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 24
+        },
+        {
+          "title": "Criss Cross",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 25
+        },
+        {
+          "title": "Deadly Cross",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 26
+        },
+        {
+          "title": "Fear No Evil",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 27
+        },
+        {
+          "title": "Triple Cross",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 28
+        },
+        {
+          "title": "Cross Down",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 29
+        },
+        {
+          "title": "Alex Cross Must Die / Cross Out",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 30
+        },
+        {
+          "title": "The House of Cross",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 31
+        },
+        {
+          "title": "Return of the Spider",
+          "year": 2025,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 32
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Bookshots: Alex Cross Books",
+      "books": [
+        {
+          "title": "Action",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Cross Kill",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Detective Cross",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        }
+      ]
+    },
+    "publication_3": {
+      "heading": "Publication Order of Alex Cross Miscellaneous Books",
+      "books": [
+        {
+          "title": "Alex Cross's Trial",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Merry Christmas, Alex Cross",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Philip St. Ives",
+  "slug": "philip-st-ives",
+  "source": "https://www.orderofbooks.com/characters/philip-st-ives/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Philip-St-Ives-by-Oliver-Bleeck-Ross-Thomas.jpg",
+  "authors": [
+    {
+      "name": "Oliver Bleeck Ross Thomas",
+      "slug": "oliver-bleeck-ross-thomas"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Brass Go-Between",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Procane Chronicle / The Thief Who Painted Sunlight",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Protocol for a Kidnapping",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Highbinders",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "No Questions Asked",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

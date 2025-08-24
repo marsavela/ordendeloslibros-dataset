@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Lew Fonesca",
+  "slug": "lew-fonesca",
+  "source": "https://www.orderofbooks.com/characters/lew-fonesca/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Lew-Fonesca-by-Stuart-M-Kaminsky.jpg",
+  "books": [
+    {
+      "title": "Vengeance",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Retribution",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Midnight Pass",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Denial",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Always Say Goodbye",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Bright Futures",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

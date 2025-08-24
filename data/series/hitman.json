@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Hitman",
+  "slug": "hitman",
+  "source": "https://www.orderofbooks.com/characters/hitman/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/05/hitman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jessica Clare",
+      "slug": "jessica-clare"
+    }
+  ],
+  "books": [
+    {
+      "title": "Last Hit",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Last Gift",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Last Breath",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Last Hit: Reloaded",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Last Kiss",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Last Hope",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

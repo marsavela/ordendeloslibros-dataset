@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Dr. Thomas Silkstone",
+  "slug": "dr-thomas-silkstone",
+  "source": "https://www.orderofbooks.com/characters/dr-thomas-silkstone/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Dr.-Thomas-Silkstone-by-Tessa-Harris-500x200.jpg",
+  "authors": [
+    {
+      "name": "Tessa Harris",
+      "slug": "tessa-harris"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Anatomist's Apprentice",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dead Shall Not Rest",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Devil's Breath",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Lazarus Curse",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadow of the Raven",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Secrets in the Stones",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

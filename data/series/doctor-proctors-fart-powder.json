@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Doctor Proctor’s Fart Powder",
+  "slug": "doctor-proctors-fart-powder",
+  "source": "https://www.orderofbooks.com/characters/doctor-proctors-fart-powder/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Doctor-Proctor-by-Jo-Nesbo.jpg",
+  "authors": [
+    {
+      "name": "Jo Nesbo",
+      "slug": "jo-nesbo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Doctor Proctor's Fart Powder",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Bubble in the Bathtub / Time-Travel Bath Bomb",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Who Cut the Cheese?",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Magical Fruit",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Great Gold Robbery",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Silent (But Deadly) Night",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Can Doctor Proctor Save Christmas?",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

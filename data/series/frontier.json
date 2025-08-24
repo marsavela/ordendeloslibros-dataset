@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Frontier",
+  "slug": "frontier",
+  "source": "https://www.orderofbooks.com/characters/frontier/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Frontier-by-Peter-Watt-500x200.jpg",
+  "authors": [
+    {
+      "name": "Peter Watt",
+      "slug": "peter-watt"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cry of the Curlew",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shadow of the Osprey",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flight of the Eagle",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "To Chase The Storm",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "To Touch The Clouds",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "To Ride The Wind",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Beyond the Horizon",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "War Clouds Gather",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "And Fire Falls",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Beneath a Rising Sun",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "While the Moon Burns",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "From the Stars Above",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

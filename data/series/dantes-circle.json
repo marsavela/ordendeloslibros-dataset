@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Dante’s Circle",
+  "slug": "dantes-circle",
+  "source": "https://www.orderofbooks.com/characters/dantes-circle/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/11/Dantes-Circle-by-Carrie-Ann-Ryan-500x200.jpg",
+  "authors": [
+    {
+      "name": "Carrie Ann Ryan",
+      "slug": "carrie-ann-ryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dust of My Wings",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Her Warriors' Three Wishes",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Unlucky Moon",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tangled Innocence",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "His Choice",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Fierce Enchantment",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "An Immortal's Song",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Prowled Darkness",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Dante's Circle Reborn",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

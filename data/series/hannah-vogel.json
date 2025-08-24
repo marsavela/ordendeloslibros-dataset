@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Hannah Vogel",
+  "slug": "hannah-vogel",
+  "source": "https://www.orderofbooks.com/characters/hannah-vogel/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Hannah-Vogel-by-Rebecca-Cantrell.jpg",
+  "authors": [
+    {
+      "name": "Rebecca Cantrell",
+      "slug": "rebecca-cantrell"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Trace of Smoke",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Night of Long Knives",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Game of Lies",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A City of Broken Glass",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

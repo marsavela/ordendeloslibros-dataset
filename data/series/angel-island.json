@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Angel Island",
+  "slug": "angel-island",
+  "source": "https://www.orderofbooks.com/characters/angel-island/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Angel-Island-by-Thomas-Kinkade-and-Katherine-Spencer.jpg",
+  "authors": [
+    {
+      "name": "Thomas Kinkade",
+      "slug": "thomas-kinkade"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Inn at Angel Island",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Wedding Promise",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Wandering Heart",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Way Home",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Harbor of the Heart",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

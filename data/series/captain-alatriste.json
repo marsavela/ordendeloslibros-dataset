@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Captain Alatriste",
+  "slug": "captain-alatriste",
+  "source": "https://www.orderofbooks.com/characters/captain-alatriste/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Captain-Alatriste-by-Arthur-Perez-Reverte.jpg",
+  "authors": [
+    {
+      "name": "Arthur Perez-Reverte",
+      "slug": "arthur-perez-reverte"
+    }
+  ],
+  "books": [
+    {
+      "title": "Captain Alatriste",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Purity of Blood",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sun Over Breda",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The King's Gold",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Cavalier in the Yellow Doublet",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pirates of the Levant",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "series",
+  "name": "Allie Finkle’s Rules For Girls",
+  "slug": "allie-finkles-rules-for-girls",
+  "source": "https://www.orderofbooks.com/characters/allie-finkles-rules-for-girls/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Allie-Finkles-Rules-for-Girls-by-Meg-Cabot.jpg",
+  "authors": [
+    {
+      "name": "Meg Cabot",
+      "slug": "meg-cabot"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Allie Finkle's Rules For Girls Books",
+      "books": [
+        {
+          "title": "Moving Day",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The New Girl",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Best Friends and Drama Queens",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Stage Fright",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Glitter Girls and the Great Fake-Out / Glitter Girls",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Blast from the Past",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Sean Drummond",
+  "slug": "sean-drummond",
+  "source": "https://www.orderofbooks.com/characters/sean-drummond/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Sean-Drummond-by-Brian-Haig.jpg",
+  "books": [
+    {
+      "title": "Secret Sanction",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Mortal Allies",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Kingmaker",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Private Sector",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The President's Assassin",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Man In The Middle",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Night Crew",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Parable, Montana",
+  "slug": "parable-montana",
+  "source": "https://www.orderofbooks.com/characters/parable-montana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Parable-Montana-by-Linda-Lael-Miller.jpg",
+  "books": [
+    {
+      "title": "Big Sky Country",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Big Sky Mountain",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Big Sky River",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Big Sky Summer",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Big Sky Wedding",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Big Sky Secrets",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

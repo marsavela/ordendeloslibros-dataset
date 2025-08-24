@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Conqueror",
+  "slug": "conqueror",
+  "source": "https://www.orderofbooks.com/characters/conqueror/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Conqueror-by-Conn-Iggulden.jpg",
+  "books": [
+    {
+      "title": "Wolf of the Plains / Genghis: Birth of an Empire",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lords of the Bow",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bones of the Hills",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Empire of Silver",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Conqueror",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

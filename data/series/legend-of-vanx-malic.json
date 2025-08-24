@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Legend Of Vanx Malic",
+  "slug": "legend-of-vanx-malic",
+  "source": "https://www.orderofbooks.com/characters/legend-of-vanx-malic/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Legend-Of-Vanx-Malic-by-MR-Mathias.jpg",
+  "authors": [
+    {
+      "name": "MR Mathias",
+      "slug": "mr-mathias"
+    }
+  ],
+  "books": [
+    {
+      "title": "Through the Wildwood",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dragon Isle",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Foxwise",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Saint Elm's Deep",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "That Frigid Fargin Witch",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Trigon Daze",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Paragon Dracus",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Far Side of Creation",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Long Journey Home",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Tome of Arbor",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "A Gossamer Lens",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

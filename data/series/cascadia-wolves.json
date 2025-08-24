@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Cascadia Wolves",
+  "slug": "cascadia-wolves",
+  "source": "https://www.orderofbooks.com/characters/cascadia-wolves/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Cascadia-Wolves-by-Lauren-Dane1-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lauren Dane",
+      "slug": "lauren-dane"
+    }
+  ],
+  "books": [
+    {
+      "title": "Enforcer",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pack Enforcer",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Reluctant Mate",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tri Mates / Wolves' Triad",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wolf Unbound",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Alpha's Challenge / Standoff",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fated / Bonded Pair",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Twice Bitten / Unconditional",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

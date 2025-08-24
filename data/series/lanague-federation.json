@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "LaNague Federation",
+  "slug": "lanague-federation",
+  "source": "https://www.orderofbooks.com/characters/lanague-federation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/LaNague-Federation-by-F-Paul-Wilson.jpg",
+  "books": [
+    {
+      "title": "Healer",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Wheels Within Wheels",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "An Enemy of the State",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Tery",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Dydeetown World",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

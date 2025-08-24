@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Earth’s Children",
+  "slug": "earths-children",
+  "source": "https://www.orderofbooks.com/characters/earths-children/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/01/Earths-Children.jpg",
+  "books": [
+    {
+      "title": "The Clan of the Cave Bear",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Valley of Horses",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Mammoth Hunters",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Plains of Passage",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Shelters of Stone",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Land of Painted Caves",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

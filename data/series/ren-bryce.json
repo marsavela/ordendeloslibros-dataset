@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Ren Bryce",
+  "slug": "ren-bryce",
+  "source": "https://www.orderofbooks.com/characters/ren-bryce/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Ren-Bryce-by-Alex-Barclay.jpg",
+  "authors": [
+    {
+      "name": "Alex Barclay",
+      "slug": "alex-barclay"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blood Runs Cold",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Time Of Death",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Blood Loss",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Harm’s Reach",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Killing Ways",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Drowning Child",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

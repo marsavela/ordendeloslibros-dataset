@@ -1,0 +1,263 @@
+{
+  "type": "series",
+  "name": "Darkover",
+  "slug": "darkover",
+  "source": "https://www.orderofbooks.com/characters/darkover/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Darkover-by-Marion-Zimmer-Bradley.jpg",
+  "authors": [
+    {
+      "name": "Marion Zimmer Bradley",
+      "slug": "marion-zimmer-bradley"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Planet Savers",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sword of Aldones",
+      "year": 1962,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bloody Sun",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Star of Danger",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Winds of Darkover",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The World Wreckers",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Darkover Landfall",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Spell Sword",
+      "year": 1974,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Heritage of Hastur",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Shattered Chain",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Forbidden Tower",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Stormqueen!",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Two to Conquer",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Sharra's Exile",
+      "year": 1981,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Hawkmistress!",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Thendara House",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "City of Sorcery",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "The Heirs of Hammerfell",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Rediscovery",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Exile's Song",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "The Shadow Matrix",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Traitor's Sun",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "Zandru's Forge",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "A Flame in Hali",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Hastur Lord",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Death of Brendan Ensolare",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "The Children of Kings",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Thunderlord",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Ski the Hellers",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "The Laran Gambit",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Arilinn",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    }
+  ]
+}

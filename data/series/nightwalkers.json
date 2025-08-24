@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Nightwalkers",
+  "slug": "nightwalkers",
+  "source": "https://www.orderofbooks.com/characters/nightwalkers/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Nightwalkers-by-Jacquelyn-Frank-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jacquelyn Frank",
+      "slug": "jacquelyn-frank"
+    }
+  ],
+  "books": [
+    {
+      "title": "Jacob",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Gideon",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Elijah",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Damien",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Noah",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Kane",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Adam",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

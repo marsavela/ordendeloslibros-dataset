@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Sean Duffy",
+  "slug": "sean-duffy",
+  "source": "https://www.orderofbooks.com/characters/sean-duffy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Sean-Duffy-by-Adrian-McKinty.jpg",
+  "authors": [
+    {
+      "name": "Adrian McKinty",
+      "slug": "adrian-mckinty"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Cold Cold Ground",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "I Hear the Sirens in the Street",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "In the Morning I'll Be Gone",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Gun Street Girl",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rain Dogs",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Police at the Station and They Don't Look Friendly",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Detective Up Late",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "God’s Away on Business",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Hang on St. Christopher",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

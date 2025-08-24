@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Essalieyan",
+  "slug": "essalieyan",
+  "source": "https://www.orderofbooks.com/characters/essalieyan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/Essalieyan-by-Michelle-West.jpg",
+  "authors": [
+    {
+      "name": "Michelle West",
+      "slug": "michelle-west"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hunter's Oath",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hunter's Death",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The authors recommend that readers make sure to read The Sun Sword series before the fourth novel of The House War series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

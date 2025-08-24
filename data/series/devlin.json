@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Devlin",
+  "slug": "devlin",
+  "source": "https://www.orderofbooks.com/characters/devlin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Devlin-by-Michael-Walsh.jpg",
+  "books": [
+    {
+      "title": "Hostile Intent",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Early Warning",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shock Warning / Shock Wave",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

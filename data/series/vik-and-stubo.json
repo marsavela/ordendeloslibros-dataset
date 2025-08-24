@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Vik and Stubo",
+  "slug": "vik-and-stubo",
+  "source": "https://www.orderofbooks.com/characters/vik-and-stubo/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Vik-and-Stubo-by-Anne-Holt.jpg",
+  "books": [
+    {
+      "title": "Punishment / What Is Mine",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Final Murder / What Never Happens",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death in Oslo",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fear Not",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "What Dark Clouds Hide",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Grk",
+  "slug": "grk",
+  "source": "https://www.orderofbooks.com/characters/grk/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Grk-by-Joshua-Doder-500x200.jpg",
+  "authors": [
+    {
+      "name": "Joshua Doder",
+      "slug": "joshua-doder"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Dog Called Grk",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Grk and the Pelotti Gang",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Grk and the Hot Dog Trail",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Grk Operation Tortoise",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Grk Smells a Rat",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Grk Takes Revenge",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Grk Down Under",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Grk and the Phoney Macaroni",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

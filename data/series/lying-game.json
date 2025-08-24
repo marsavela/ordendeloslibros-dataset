@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Lying Game",
+  "slug": "lying-game",
+  "source": "https://www.orderofbooks.com/characters/lying-game/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/The-Lying-Game-by-Sara-Shepard.jpg",
+  "books": [
+    {
+      "title": "The Lying Game",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Never Have I Ever",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Two Truths and a Lie",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hide and Seek",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The First Lie",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Cross My Heart, Hope to Die",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "True Lies",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Seven Minutes in Heaven",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

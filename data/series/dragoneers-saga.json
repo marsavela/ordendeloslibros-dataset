@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Dragoneers Saga",
+  "slug": "dragoneers-saga",
+  "source": "https://www.orderofbooks.com/characters/dragoneers-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Dragoneers-Saga-by-MR-Mathias.jpg",
+  "authors": [
+    {
+      "name": "MR Mathias",
+      "slug": "mr-mathias"
+    }
+  ],
+  "books": [
+    {
+      "title": "The First Dragoneer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Royal Dragoneers",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cold Hearted Son of a Witch",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Confliction",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Emerald Rider",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rise of the Dragon King",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Blood and Royalty",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Chronological Order of Dragoneers Saga Books The First Dragoneer is an introductory novella to the Dragoneers Saga and comes first chronologically. The author recommends reading the Crimzon and Clover short stories before The Dragoneer Saga because the Crimzon and Clover characters are a big part of the latter Dragoneer books. The stories can be purchased a la carte or in collection form (available in Kindle or paperback).",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

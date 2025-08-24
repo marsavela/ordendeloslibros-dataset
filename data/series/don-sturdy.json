@@ -1,0 +1,135 @@
+{
+  "type": "series",
+  "name": "Don Sturdy",
+  "slug": "don-sturdy",
+  "source": "https://www.orderofbooks.com/characters/don-sturdy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/05/Don-Sturdy-by-Victor-Appleton.jpg",
+  "authors": [
+    {
+      "name": "Howard Roger Garis",
+      "slug": "howard-roger-garis"
+    }
+  ],
+  "books": [
+    {
+      "title": "Don Sturdy on the Desert of Mystery / Autoing in the Land of Caravans",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Don Sturdy with the Big Snake Hunters / Lost in the Jungles of the Amazon",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Don Sturdy in the Tombs of Gold / The Old Egyptian's Great Secret",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Don Sturdy Across the North Pole / Cast Away in the Land of Ice",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Don Sturdy in the Land of Volcanoes / The Trail of the Ten Thousand Smokes",
+      "year": 1925,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Don Sturdy in the Port of Lost Ships / Adrift in the Sargasso Sea",
+      "year": 1926,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Don Sturdy Among the Gorillas / Adrift in the Great Jungle",
+      "year": 1927,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Don Sturdy Captured by Head Hunters / Adrift in the Wilds of Borneo",
+      "year": 1928,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Don Sturdy in Lion Land / The Strange Clearing in the Jungle",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Don Sturdy in the Land of Giants / Captives of the Savage Patagonians",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Don Sturdy on the Ocean Bottom / The Strange Cruise of the Phantom",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Don Sturdy in the Temples of Fear / Destined for a Strange Sacrifice",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Don Sturdy Lost in Glacier Bay / The Mystery of the Moving Totem Poles",
+      "year": 1933,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Don Sturdy Trapped in the Flaming Wilderness / Unearthing Secrets in Central Asia",
+      "year": 1934,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Don Sturdy with the Harpoon Hunters / The Strange Cruise of the Whaling Ship",
+      "year": 1935,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    }
+  ]
+}

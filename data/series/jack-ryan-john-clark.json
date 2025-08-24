@@ -1,0 +1,359 @@
+{
+  "type": "series",
+  "name": "Jack Ryan/John Clark",
+  "slug": "jack-ryan-john-clark",
+  "source": "https://www.orderofbooks.com/characters/jack-ryan-john-clark/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/Jack-Ryan.jpg",
+  "authors": [
+    {
+      "name": "Liev Schreiber",
+      "slug": "liev-schreiber"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Hunt for Red October (By:Tom Clancy)",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Patriot Games (By:Tom Clancy)",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Cardinal of the Kremlin (By:Tom Clancy)",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Clear and Present Danger (By:Tom Clancy)",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Sum of All Fears (By:Tom Clancy)",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Without Remorse (By:Tom Clancy)",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Debt of Honor (By:Tom Clancy)",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Executive Orders (By:Tom Clancy)",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Rainbow Six (By:Tom Clancy)",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Bear and the Dragon (By:Tom Clancy)",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Red Rabbit (By:Tom Clancy)",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Teeth of the Tiger (By:Tom Clancy)",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Dead or Alive (By:Tom Clancy,Grant Blackwood)",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Against All Enemies (By:Tom Clancy,Peter Telep)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Locked On (By:Mark Greaney,Tom Clancy)",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Threat Vector (By:Mark Greaney,Tom Clancy)",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Command Authority (By:Mark Greaney,Tom Clancy)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Support and Defend (By: Mark Greaney)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Full Force and Effect (By: Mark Greaney)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Under Fire (By: Grant Blackwood)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Commander-in-Chief (By:Mark Greaney,Tom Clancy)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Duty and Honor (By: Grant Blackwood)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    },
+    {
+      "title": "True Faith and Allegiance (By: Mark Greaney)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 23
+    },
+    {
+      "title": "Point of Contact (By: Mike Maden)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 24
+    },
+    {
+      "title": "Power and Empire (By: Marc Cameron)",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 25
+    },
+    {
+      "title": "Line of Sight (By: Mike Maden)",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 26
+    },
+    {
+      "title": "Oath of Office (By: Marc Cameron)",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 27
+    },
+    {
+      "title": "Enemy Contact (By: Mike Maden)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 28
+    },
+    {
+      "title": "Code of Honor (By: Marc Cameron)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 29
+    },
+    {
+      "title": "Firing Point (By: Mike Maden)",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 30
+    },
+    {
+      "title": "Shadow of the Dragon (By: Marc Cameron)",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 31
+    },
+    {
+      "title": "Target Acquired (By: Don Bentley)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 32
+    },
+    {
+      "title": "Chain of Command (By: Marc Cameron)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 33
+    },
+    {
+      "title": "Zero Hour (By: Don Bentley)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 34
+    },
+    {
+      "title": "Red Winter (By: Marc Cameron)",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 35
+    },
+    {
+      "title": "Flash Point (By: Don Bentley)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 36
+    },
+    {
+      "title": "Weapons Grade (By: Don Bentley)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 37
+    },
+    {
+      "title": "Command and Control (By: Marc Cameron)",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 38
+    },
+    {
+      "title": "Act of Defiance (By: Brian Andrews,Jeffrey Wilson)",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 39
+    },
+    {
+      "title": "Shadow State (By: M.P. Woodward)",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 40
+    },
+    {
+      "title": "Defense Protocol (By: Brian Andrews,Jeffrey Wilson)",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 41
+    },
+    {
+      "title": "Line of Demarcation (By: M.P. Woodward)",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 42
+    },
+    {
+      "title": "Executive Power (By: Brian Andrews,Jeffrey Wilson)",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 43
+    }
+  ]
+}

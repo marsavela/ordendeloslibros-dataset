@@ -1,0 +1,52 @@
+{
+  "type": "series",
+  "name": "Alphas",
+  "slug": "alphas",
+  "source": "https://www.orderofbooks.com/characters/alphas/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/The-Alphas-by-Lisi-Harrison-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lisi Harrison",
+      "slug": "lisi-harrison"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alphas Books",
+      "books": [
+        {
+          "title": "Alphas",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Movers & Fakers",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Belle of the Brawl",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Top of the Feud Chain",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Detective Jacob Lev",
+  "slug": "detective-jacob-lev",
+  "source": "https://www.orderofbooks.com/characters/detective-jacob-lev/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/11/det-500x200.jpg",
+  "books": [
+    {
+      "title": "The Golem of Hollywood",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Golem of Paris",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

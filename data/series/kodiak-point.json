@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Kodiak Point",
+  "slug": "kodiak-point",
+  "source": "https://www.orderofbooks.com/characters/kodiak-point/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Kodiak-Point-by-Eve-Langlais-500x200.jpg",
+  "authors": [
+    {
+      "name": "Eve Langlais",
+      "slug": "eve-langlais"
+    }
+  ],
+  "books": [
+    {
+      "title": "Kodiak's Claim",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Outfoxed by Love",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Polar Bared",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wolf's Capture",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Caribou's Gift",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Grizzly Love",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Missing Lynx",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Iron Eagle",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

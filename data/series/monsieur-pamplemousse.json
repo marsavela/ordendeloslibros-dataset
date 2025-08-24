@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "name": "Monsieur Pamplemousse",
+  "slug": "monsieur-pamplemousse",
+  "source": "https://www.orderofbooks.com/characters/monsieur-pamplemousse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2020/05/pamplemousse.jpg",
+  "authors": [
+    {
+      "name": "Michael Bond",
+      "slug": "michael-bond"
+    }
+  ],
+  "books": [
+    {
+      "title": "Monsieur Pamplemousse",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Monsieur Pamplemousse and the Secret Mission",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Monsieur Pamplemousse on the Spot",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Monsieur Pamplemousse Takes the Cure",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Monsieur Pamplemousse Aloft",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Monsieur Pamplemousse Rests His Case",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Monsieur Pamplemousse Stands Firm",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Monsieur Pamplemousse on Location",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Monsieur Pamplemousse Takes the Train",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Monsieur Pamplemousse Afloat",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Monsieur Pamplemousse on Probation",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Monsieur Pamplemousse on Vacation",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Monsieur Pamplemousse Hits the Headlines",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Monsieur Pamplemousse and the Militant Midwives",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Monsieur Pamplemousse and the French Solution",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Monsieur Pamplemousse and the Carbon Footprint",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "Monsieur Pamplemousse & the Tangled Web",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    }
+  ]
+}

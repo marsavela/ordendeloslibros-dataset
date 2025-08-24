@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "D.I. Jack Dylan",
+  "slug": "d-i-jack-dylan",
+  "source": "https://www.orderofbooks.com/characters/di-jack-dylan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/03/DI-Jack-Dylan-by-RC-Bridgestock-500x200.jpg",
+  "authors": [
+    {
+      "name": "R.C. Bridgestock",
+      "slug": "r-c-bridgestock"
+    }
+  ],
+  "books": [
+    {
+      "title": "Deadly Focus",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Consequences",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "White Lilies",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Snow Kills",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Reprobates",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Killer Smile",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "When the Killing Starts",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "When a Killer Strikes",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Poetic Justice",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

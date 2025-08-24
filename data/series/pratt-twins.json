@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Pratt Twins",
+  "slug": "pratt-twins",
+  "source": "https://www.orderofbooks.com/characters/pratt-twins/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Pratt-Twins-by-Cynthia-Blair.jpg",
+  "authors": [
+    {
+      "name": "Cynthia Blair",
+      "slug": "cynthia-blair"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Banana Split Affair",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hot Fudge Sunday Affair",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Strawberry Summer",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Pumpkin Principle",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Marshmallow Masquerade",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Candy Cane Caper",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Pink Lemonade Charade",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Double-Dip Disguise",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Popcorn Project",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Apple Pie Adventure",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Jelly Bean Scheme",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Lollipop Plot",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Coconut Connection",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

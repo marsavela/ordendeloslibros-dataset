@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Fallen Angels",
+  "slug": "fallen-angels",
+  "source": "https://www.orderofbooks.com/characters/fallen-angels/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Fallen-Angels-by-JR-Ward.jpg",
+  "books": [
+    {
+      "title": "Covet",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Crave",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Envy",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Rapture",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Possession",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Immortal",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

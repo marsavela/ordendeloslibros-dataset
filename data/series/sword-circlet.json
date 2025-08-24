@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Sword & Circlet",
+  "slug": "sword-circlet",
+  "source": "https://www.orderofbooks.com/characters/sword-and-circlet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Sword-and-Circlet-by-Carole-Nelson-Douglas.jpg",
+  "authors": [
+    {
+      "name": "Carole Nelson Douglas",
+      "slug": "carole-nelson-douglas"
+    }
+  ],
+  "books": [
+    {
+      "title": "Six of Swords",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Exiles of the Rynth",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Keepers of Edanvant",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Heir of Rengarth",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Seven of Swords",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

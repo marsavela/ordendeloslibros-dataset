@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Blue Sky Hills",
+  "slug": "blue-sky-hills",
+  "source": "https://www.orderofbooks.com/characters/blue-sky-hills/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Blue-Sky-Hills-by-Lisa-Wingate-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lisa Wingate",
+      "slug": "lisa-wingate"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Month of Summer",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Summer Kitchen",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Beyond Summer",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dandelion Summer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

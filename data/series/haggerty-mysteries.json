@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Haggerty Mysteries",
+  "slug": "haggerty-mysteries",
+  "source": "https://www.orderofbooks.com/characters/haggerty-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/09/Haggerty-Mysteries-by-Betsy-Brannon-Green-500x200.jpg",
+  "authors": [
+    {
+      "name": "Betsy Brannon Green",
+      "slug": "betsy-brannon-green"
+    }
+  ],
+  "books": [
+    {
+      "title": "Hearts in Hiding",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Until Proven Guilty",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Above Suspicion",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Silenced",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Copycat",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Poison",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Double Cross",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Christmas in Haggerty",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Backtrack",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Puzzle Pieces",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Slab City Blues",
+  "slug": "slab-city-blues",
+  "source": "https://www.orderofbooks.com/characters/slab-city-blues/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/slab-city-blues-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anthony Ryan. Ryan",
+      "slug": "anthony-ryan-ryan"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Hymn to Gods Long Dead",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Ballad of Bad Jack",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Slab City Blues",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Song for Madame Choi",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "An Aria for Ragnarok",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

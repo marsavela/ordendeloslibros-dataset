@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Odyssey One",
+  "slug": "odyssey-one",
+  "source": "https://www.orderofbooks.com/characters/odyssey-one/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/04/Odyssey-One-by-Evan-Currie-500x200.jpg",
+  "authors": [
+    {
+      "name": "Evan Currie",
+      "slug": "evan-currie"
+    }
+  ],
+  "books": [
+    {
+      "title": "Into the Black",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Heart of Matter",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Homeworld",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Out of the Black",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Warrior King",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Odysseus Awakening",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Odysseus Ascendant",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "King's Fall: Odyssey One",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

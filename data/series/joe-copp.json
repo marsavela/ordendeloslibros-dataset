@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Joe Copp",
+  "slug": "joe-copp",
+  "source": "https://www.orderofbooks.com/characters/joe-copp/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Joe-Copp-by-Don-Pendleton.jpg",
+  "authors": [
+    {
+      "name": "Don Pendleton",
+      "slug": "don-pendleton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Copp For Hire",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Copp On Fire",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Copp in Deep",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Copp in the Dark",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Copp On Ice",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Copp in Shock",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

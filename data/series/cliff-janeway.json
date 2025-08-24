@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Cliff Janeway",
+  "slug": "cliff-janeway",
+  "source": "https://www.orderofbooks.com/characters/cliff-janeway/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Cliff-Janeway-by-John-Dunning.jpg",
+  "books": [
+    {
+      "title": "Booked to Die",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Bookman's Wake",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Bookman's Promise",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Sign of the Book",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Bookwoman's Last Fling",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

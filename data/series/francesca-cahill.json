@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Francesca Cahill",
+  "slug": "francesca-cahill",
+  "source": "https://www.orderofbooks.com/characters/francesca-cahill/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Francesca-Cahill-by-Brenda-Joyce-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brenda Joyce",
+      "slug": "brenda-joyce"
+    }
+  ],
+  "books": [
+    {
+      "title": "Deadly Love",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Deadly Pleasure",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deadly Affairs",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deadly Desire",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Deadly Caress",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deadly Promise",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deadly Illusions",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Deadly Kisses",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Deadly Vows",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

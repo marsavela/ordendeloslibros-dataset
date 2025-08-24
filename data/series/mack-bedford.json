@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Mack Bedford",
+  "slug": "mack-bedford",
+  "source": "https://www.orderofbooks.com/characters/mack-bedford/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Mack-Bedford-by-Patrick-Robinson.jpg",
+  "authors": [
+    {
+      "name": "Patrick Robinson",
+      "slug": "patrick-robinson"
+    }
+  ],
+  "books": [
+    {
+      "title": "Diamondhead",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Intercept",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Delta Solution",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Power Play",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

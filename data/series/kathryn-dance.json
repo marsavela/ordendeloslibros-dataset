@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Kathryn Dance",
+  "slug": "kathryn-dance",
+  "source": "https://www.orderofbooks.com/characters/kathryn-dance/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/10/Kathryn-Dance-by-Jeffery-Deaver.jpg",
+  "books": [
+    {
+      "title": "The Sleeping Doll",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Roadside Crosses",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "XO",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Solitude Creek",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

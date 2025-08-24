@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Riley Jenson Guardian",
+  "slug": "riley-jenson-guardian",
+  "source": "https://www.orderofbooks.com/characters/riley-jenson-guardian/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Riley-Jenson-Guardian-by-Keri-Arthur-500x200.jpg",
+  "authors": [
+    {
+      "name": "Keri Arthur",
+      "slug": "keri-arthur"
+    }
+  ],
+  "books": [
+    {
+      "title": "Full Moon Rising",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kissing Sin",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tempting Evil",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dangerous Games",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Embraced by Darkness",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Darkest Kiss",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Deadly Desire",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bound to Shadows",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Moon Sworn",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

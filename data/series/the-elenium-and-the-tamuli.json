@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "The Elenium and The Tamuli",
+  "slug": "the-elenium-and-the-tamuli",
+  "source": "https://www.orderofbooks.com/characters/the-elenium-and-the-tamuli/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Elenium-and-Tamuli-by-David-Eddings.jpg",
+  "books": [
+    {
+      "title": "The Diamond Throne",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Ruby Knight",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Sapphire Rose",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

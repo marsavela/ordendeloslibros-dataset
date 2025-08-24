@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Fallen World Trilogy",
+  "slug": "fallen-world-trilogy",
+  "source": "https://www.orderofbooks.com/characters/fallen-world-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/fallen-world-500x200.jpg",
+  "authors": [
+    {
+      "name": "Megan Crewe. She",
+      "slug": "megan-crewe-she"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Way We Fall",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Lives We Lost",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Worlds We Make",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Those Who Lived: Fallen World Stories",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

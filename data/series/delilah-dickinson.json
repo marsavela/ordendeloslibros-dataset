@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Delilah Dickinson",
+  "slug": "delilah-dickinson",
+  "source": "https://www.orderofbooks.com/characters/delilah-dickinson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Delilah-Dickinson-Mysteries-by-Livia-J-Washburn-500x200.jpg",
+  "books": [
+    {
+      "title": "Frankly My Dear, I'm Dead",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Huckleberry Finished",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Killer On A Hot Tin Roof",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "For Whom the Funeral Bell Tolls",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Birchbark House",
+  "slug": "birchbark-house",
+  "source": "https://www.orderofbooks.com/characters/birchbark-house/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Birchbark-House-by-Louise-Erdrich.jpg",
+  "authors": [
+    {
+      "name": "Louise Erdrich",
+      "slug": "louise-erdrich"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Birchbark House",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Game of Silence",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Porcupine Year",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Chickadee",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Makoons",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Golden Filly",
+  "slug": "golden-filly",
+  "source": "https://www.orderofbooks.com/characters/golden-filly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/12/Golden-Filly-by-Lauraine-Snelling-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lauraine Snelling",
+      "slug": "lauraine-snelling"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Race",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Eagle's Wings",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Go for the Glory",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Call for Courage",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Kentucky Dreamer",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Shadow Over San Mateo",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Out of the Mist",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Second Wind",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Close Call",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Winner's Circle",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

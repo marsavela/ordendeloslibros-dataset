@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Palliser",
+  "slug": "palliser",
+  "source": "https://www.orderofbooks.com/characters/palliser/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Palliser-by-Anthony-Trollope-500x200.jpg",
+  "authors": [
+    {
+      "name": "Anthony Trollope",
+      "slug": "anthony-trollope"
+    }
+  ],
+  "books": [
+    {
+      "title": "Can You Forgive Her?",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Phineas Finn",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Eustace Diamonds",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Phineas Redux",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Prime Minister",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Duke's Children",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

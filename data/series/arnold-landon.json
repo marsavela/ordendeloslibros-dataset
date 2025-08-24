@@ -1,0 +1,185 @@
+{
+  "type": "series",
+  "name": "Arnold Landon",
+  "slug": "arnold-landon",
+  "source": "https://www.orderofbooks.com/characters/arnold-landon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/01/Arnold-Landon-by-Roy-Lewis.jpg",
+  "books": [
+    {
+      "title": "A Gathering of Ghosts / Murder in the Barn",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Most Cunning Workmen / Murder in the Manor",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Trout in the Milk / Murder in the Farmhouse",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Men of Subtle Craft / Murder in the Stableyard",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Devil is Dead / Murder in the Church",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Wisp of Smoke / Murder in the House",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Secret Dying / Murder in the Tower",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Bloodeagle / Murder Under the Bridge",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Cross Bearer / Murder by the Quay",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "A Short-Lived Ghost / Murder at the Folly",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Angel of Death / Murder in the Field",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Suddenly as a Shadow / Murder in the Cottage",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Shape-Shifter / Murder at Haggburn Hall",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Ghost Dancers / Murder on the Golf Course",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "An Assumption of Death / Murder on the Dawn Princess",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Dead Secret / Murder in Wolfcleugh Woods",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    },
+    {
+      "title": "The Ways of Death / Murder at Abby Head",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 17
+    },
+    {
+      "title": "Headhunter / Murder in the South of France",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 18
+    },
+    {
+      "title": "Grave Error / Murder in Rome",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 19
+    },
+    {
+      "title": "Dragon Head / Murder in China",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 20
+    },
+    {
+      "title": "Shadowmaker / Murder in La Rochelle",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 21
+    },
+    {
+      "title": "Goddess of Death / Murder in Valencia",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 22
+    }
+  ]
+}

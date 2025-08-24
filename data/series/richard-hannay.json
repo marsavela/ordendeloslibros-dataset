@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Richard Hannay",
+  "slug": "richard-hannay",
+  "source": "https://www.orderofbooks.com/characters/richard-hannay/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/11/Richard-Hannay-by-John-Buchan.jpg",
+  "books": [
+    {
+      "title": "The Thirty-Nine Steps",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Greenmantle",
+      "year": 1916,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mr. Standfast",
+      "year": 1919,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Three Hostages",
+      "year": 1924,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Courts Of The Morning",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Island of Sheep",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

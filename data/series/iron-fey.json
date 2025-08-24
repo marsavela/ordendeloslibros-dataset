@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Iron Fey",
+  "slug": "iron-fey",
+  "source": "https://www.orderofbooks.com/characters/iron-fey/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/06/Iron-Fey-by-Julie-Kagawa.jpg",
+  "authors": [
+    {
+      "name": "Julie Kagawa",
+      "slug": "julie-kagawa"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Iron King",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Winter's Passage",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Iron Daughter",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Ash's Letter to Meghan",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Iron Queen",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Summer's Crossing",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Iron Knight",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "An Iron Fey Valentine",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Iron's Prophecy",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The First Kiss",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

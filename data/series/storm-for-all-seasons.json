@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Storm For All Seasons",
+  "slug": "storm-for-all-seasons",
+  "source": "https://www.orderofbooks.com/characters/storm-for-all-seasons/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/04/Storm-For-All-Seasons-by-Jaci-Burton-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jaci Burton",
+      "slug": "jaci-burton"
+    }
+  ],
+  "books": [
+    {
+      "title": "Summer Heat",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fall Fury",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Winter Ice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Spring Rain",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Ice and Rain",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

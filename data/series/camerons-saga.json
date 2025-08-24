@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Camerons Saga",
+  "slug": "camerons-saga",
+  "source": "https://www.orderofbooks.com/characters/camerons-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Camerons-Saga-by-Heather-Graham.jpg",
+  "books": [
+    {
+      "title": "Sweet Savage Eden",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Pirate's Pleasure",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Love Not a Rebel",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

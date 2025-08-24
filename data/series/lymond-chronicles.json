@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Lymond Chronicles",
+  "slug": "lymond-chronicles",
+  "source": "https://www.orderofbooks.com/characters/lymond-chronicles/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Lymond-Chronicles-by-Dorothy-Dunnett.jpg",
+  "books": [
+    {
+      "title": "The Game of Kings",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Queens' Play",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Disorderly Knights",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Pawn in Frankincense",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Ringed Castle",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Checkmate",
+      "year": 1975,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

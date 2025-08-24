@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Anne Shirley",
+  "slug": "anne-shirley",
+  "source": "https://www.orderofbooks.com/characters/anne-shirley/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/07/Anne-Shirley-by-LM-Montgomery.jpg",
+  "books": [
+    {
+      "title": "Anne of Green Gables",
+      "year": 1908,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Anne of Avonlea",
+      "year": 1909,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Anne of the Island",
+      "year": 1915,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Anne's House of Dreams",
+      "year": 1917,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rainbow Valley",
+      "year": 1919,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Rilla of Ingleside",
+      "year": 1921,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Anne of Windy Poplars / Anne of Windy Willows",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Anne of Ingleside",
+      "year": 1939,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Before Green Gables",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

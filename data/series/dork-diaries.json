@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Dork Diaries",
+  "slug": "dork-diaries",
+  "source": "https://www.orderofbooks.com/characters/dork-diaries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Dork-Diaries-by-Rachel-Renee-Russell.jpg",
+  "authors": [
+    {
+      "name": "Rachel Renee Russell",
+      "slug": "rachel-renee-russell"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tales from a Not-So-Fabulous Life",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Tales from a Not-So-Popular Party Girl",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Tales from a Not-So-Talented Pop Star",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Tales from a Not-So-Graceful Ice Princess",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Tales from a Not-So-Smart Miss Know-It-All / Dear Dork",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Tales from a Not-So-Happy Heartbreaker",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Tales from a Not-So-Glam TV Star",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Tales from a Not-So-Happily Ever After / Once Upon a Dork",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Tales from a Not-So-Dorky Drama Queen",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Tales from a Not-So-Perfect Pet Sitter / Puppy Love",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Tales from a Not-So-Friendly Frenemy",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Tales from a Not-So-Secret Crush Catastrophe",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Tales from a Not-So-Happy Birthday /Birthday Drama!",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "Tales from a Not-So-Best Friend Forever",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "Tales from a Not-So-Posh Paris Adventure / I Love Paris!",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Tales from a Not-So-Bratty Little Sister",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

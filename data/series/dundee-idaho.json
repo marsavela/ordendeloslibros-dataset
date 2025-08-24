@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Dundee, Idaho",
+  "slug": "dundee-idaho",
+  "source": "https://www.orderofbooks.com/characters/dundee-idaho/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/09/Dundee-Idaho-by-Brenda-Novak-500x200.jpg",
+  "authors": [
+    {
+      "name": "Brenda Novak",
+      "slug": "brenda-novak"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Baby of Her Own / That One Night",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Husband of Her Own / Falling For You",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Family of Her Own / First Love, Second Chance",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Home of Her Own / Say You Love Me",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Stranger in Town / Meant For You",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Big Girls Don't Cry / Finding You",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Other Woman / Just the Two of Us",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Coulda Been a Cowboy / The More I Love You",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "A Dundee Christmas",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Girls Only",
+  "slug": "girls-only",
+  "source": "https://www.orderofbooks.com/characters/girls-only/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Girls-Only-by-Beverly-Lewis.jpg",
+  "books": [
+    {
+      "title": "Dreams on Ice",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Only the Best",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "A Perfect Match",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Reach for the Stars",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Follow the Dream",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Better Than Best",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Photo Perfect",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Star Status",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Arthurian Saga",
+  "slug": "arthurian-saga",
+  "source": "https://www.orderofbooks.com/characters/arthurian-saga/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Arthurian-Saga-by-Mary-Stewart-500x200.jpg",
+  "authors": [
+    {
+      "name": "Mary Stewart",
+      "slug": "mary-stewart"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Crystal Cave",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Hollow Hills",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Last Enchantment",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Wicked Day",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Prince and the Pilgrim",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

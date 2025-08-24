@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Ghosts and Reincarnation",
+  "slug": "ghosts-and-reincarnation",
+  "source": "https://www.orderofbooks.com/characters/ghosts-and-reincarnation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Ghosts-and-Reincarnation-by-Kristen-Ashley.jpg",
+  "authors": [
+    {
+      "name": "Kristen Ashley",
+      "slug": "kristen-ashley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Penmort Castle",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Sommersgate House",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lacybourne Manor",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fairytale Come Alive",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Lucky Stars",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

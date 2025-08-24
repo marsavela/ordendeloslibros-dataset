@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Antique Print Mysteries",
+  "slug": "antique-print-mysteries",
+  "source": "https://www.orderofbooks.com/characters/antique-print-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Antique-Print-Mysteries-by-Lea-Wait-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lea Wait",
+      "slug": "lea-wait"
+    }
+  ],
+  "books": [
+    {
+      "title": "Shadows at the Fair",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shadows on the Coast of Maine",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shadows on the Ivy",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Shadows at the Spring Show",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shadows of a Down East Summer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Shadows on a Cape Cod Wedding",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Shadows on a Maine Christmas",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Shadows on a Morning in Maine",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

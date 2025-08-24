@@ -1,0 +1,158 @@
+{
+  "type": "series",
+  "name": "3:AM Kisses",
+  "slug": "3-am-kisses",
+  "source": "https://www.orderofbooks.com/characters/3am-kisses/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/09/3AM-Kisses-by-Addison-Moore.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of 3:AM Kisses Books",
+      "books": [
+        {
+          "title": "3:AM Kisses",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Winter Kisses / The Ex Who Stole Christmas Kisses",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Sugar Kisses",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Whiskey Kisses",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Rock Candy Kisses",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Velvet Kisses",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Wild Kisses",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Country Kisses",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Forbidden Kisses",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Dirty Kisses",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Stolen Kisses",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Lucky Kisses",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Tender Kisses",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Revenge Kisses",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Red Hot Kisses",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Reckless Kisses",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Hot Honey Kisses",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Shameless Kisses",
+          "year": 2019,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        }
+      ]
+    }
+  }
+}

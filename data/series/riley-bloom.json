@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Riley Bloom",
+  "slug": "riley-bloom",
+  "source": "https://www.orderofbooks.com/characters/riley-bloom/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Riley-Bloom-by-Alyson-Noel.jpg",
+  "books": [
+    {
+      "title": "Radiance",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shimmer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dreamland",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Whisper",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

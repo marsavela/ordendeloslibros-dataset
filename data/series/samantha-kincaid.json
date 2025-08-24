@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Samantha Kincaid",
+  "slug": "samantha-kincaid",
+  "source": "https://www.orderofbooks.com/characters/samantha-kincaid/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/03/Samantha-Kincaid.jpg",
+  "books": [
+    {
+      "title": "Judgment Calls",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Missing Justice",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Close Case",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

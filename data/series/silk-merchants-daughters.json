@@ -1,0 +1,47 @@
+{
+  "type": "series",
+  "name": "Silk Merchant’s Daughters",
+  "slug": "silk-merchants-daughters",
+  "source": "https://www.orderofbooks.com/characters/silk-merchants-daughters/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Silk-Merchants-Daughters-by-Bertrice-Small.jpg",
+  "authors": [
+    {
+      "name": "Bertrice Small",
+      "slug": "bertrice-small"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bianca",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Francesca",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Lucianna",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Serena",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

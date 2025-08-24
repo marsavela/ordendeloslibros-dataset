@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "H&W Investigations",
+  "slug": "h-w-investigations",
+  "source": "https://www.orderofbooks.com/characters/hw-investigations/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/02/HW-Investigations.jpg",
+  "books": [
+    {
+      "title": "Hunted by the Others",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Taken by the Others",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Deceived by the Others",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Stalking the Others",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Forsaken by the Others",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Silent Cravings",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Enslaved By the Others",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

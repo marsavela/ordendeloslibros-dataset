@@ -1,0 +1,355 @@
+{
+  "type": "series",
+  "name": "Aimee Leduc",
+  "slug": "aimee-leduc",
+  "source": "https://www.orderofbooks.com/characters/aimee-leduc/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Aimee-Leduc-by-Cara-Black.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Aimee Leduc Investigations Books",
+      "books": [
+        {
+          "title": "Murder in the Marais",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Murder in Belleville",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Murder in the Sentier",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Murder in the Bastille",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Murder in Clichy",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Murder in Montmartre",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Murder on the Ile Saint-Louis",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Murder in the Rue de Paradis",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Murder in the Latin Quarter",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Murder in the Palais Royal",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Murder in Passy",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Murder at the Lanterne Rouge",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Murder Below Montparnasse",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Murder in Pigalle",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Murder on the Champ de Mars",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Murder on the Quai",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Murder in Saint-Germain",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Murder on the Left Bank",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Murder in Bel Air",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "Murder at the Porte de Versailles",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Murder at la Villette",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        }
+      ]
+    },
+    "chronological": {
+      "heading": "Chronological Order of Aimee Leduc Investigations Books",
+      "books": [
+        {
+          "title": "Murder on the Quai",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Murder in the Marais",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Murder in Belleville",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Murder in the Sentier",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Murder in the Bastille",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Murder in Clichy",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Murder in Montmartre",
+          "year": 2006,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Murder on the Ile Saint-Louis",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Murder in the Rue de Paradis",
+          "year": 2008,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Murder in the Latin Quarter",
+          "year": 2009,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Murder in the Palais Royal",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "Murder in Passy",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "Murder at the Lanterne Rouge",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "Murder Below Montparnasse",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Murder in Pigalle",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Murder on the Champ de Mars",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Murder in Saint-Germain",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Murder on the Left Bank",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "Murder in Bel Air",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "Murder at the Porte de Versailles",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Murder at la Villette",
+          "year": 2024,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        }
+      ]
+    }
+  }
+}

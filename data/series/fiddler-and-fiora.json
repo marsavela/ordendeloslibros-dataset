@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Fiddler and Fiora",
+  "slug": "fiddler-and-fiora",
+  "source": "https://www.orderofbooks.com/characters/fiddler-and-fiora/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Fiddler-and-Fiora-by-AE-Maxwell.jpg",
+  "authors": [
+    {
+      "name": "A.E. Maxwell",
+      "slug": "a-e-maxwell"
+    }
+  ],
+  "books": [
+    {
+      "title": "Just Another Day in Paradise",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Frog and the Scorpion",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gatsby's Vineyard",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Just Enough Light to Kill",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Art of Survival",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Money Burns",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The King of Nothing",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Murder Hurts",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

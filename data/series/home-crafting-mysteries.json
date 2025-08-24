@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Home Crafting Mysteries",
+  "slug": "home-crafting-mysteries",
+  "source": "https://www.orderofbooks.com/characters/home-crafting-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/10/Home-Crafting-Mysteries-by-Cricket-McRae-Bailey-Cates-500x200.jpg",
+  "authors": [
+    {
+      "name": "Cricket McRae Bailey Cates",
+      "slug": "cricket-mcrae-bailey-cates"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lye in Wait",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Heaven Preserve Us",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Spin a Wicked Web",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Something Borrowed, Something Bleu",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Wined and Died",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Deadly Row to Hoe",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

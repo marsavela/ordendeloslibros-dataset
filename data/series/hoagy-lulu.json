@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Hoagy & Lulu",
+  "slug": "hoagy-lulu",
+  "source": "https://www.orderofbooks.com/characters/hoagy-and-lulu/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Stewart-Hoag-and-Lulu-Mysteries-by-David-Handler.jpg",
+  "authors": [
+    {
+      "name": "David Handler",
+      "slug": "david-handler"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Man Who Died Laughing",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Man Who Lived by Night",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Man Who Would Be F. Scott Fitzgerald",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Woman Who Fell from Grace",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Boy Who Never Grew Up",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Man Who Cancelled Himself",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Girl Who Ran Off with Daddy",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Man Who Loved Women to Death",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Girl with Kaleidoscope Eyes",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Man Who Couldn't Miss",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Man in the White Linen Suit",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Man Who Wasn't All There",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Lady in the Silver Cloud",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Girl Who Took What She Wanted",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Woman Who Lowered the Boom",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "The Man Who Swore He'd Never Go Home Again",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

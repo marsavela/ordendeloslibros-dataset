@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Sin and Salvation",
+  "slug": "sin-and-salvation",
+  "source": "https://www.orderofbooks.com/characters/sin-and-salvation/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Sin-and-Salvation-by-William-Faulkner.jpg",
+  "books": [
+    {
+      "title": "Sartoris",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sound and the Fury",
+      "year": 1929,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "As I Lay Dying",
+      "year": 1930,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sanctuary",
+      "year": 1931,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Light in August",
+      "year": 1932,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Absalom, Absalom!",
+      "year": 1936,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Requiem for a Nun",
+      "year": 1950,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

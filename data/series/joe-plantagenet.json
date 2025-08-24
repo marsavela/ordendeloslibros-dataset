@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Joe Plantagenet",
+  "slug": "joe-plantagenet",
+  "source": "https://www.orderofbooks.com/characters/joe-plantagenet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Joe-Plantagenet-by-Kate-Ellis.jpg",
+  "authors": [
+    {
+      "name": "Kate Ellis",
+      "slug": "kate-ellis"
+    }
+  ],
+  "books": [
+    {
+      "title": "Seeking The Dead",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Playing with Bones",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kissing the Demons",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Watching the Ghosts",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Walking by Night",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

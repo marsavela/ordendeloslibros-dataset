@@ -1,0 +1,291 @@
+{
+  "type": "series",
+  "name": "Amos Walker",
+  "slug": "amos-walker",
+  "source": "https://www.orderofbooks.com/characters/amos-walker/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/12/Amos-Walker-by-Loren-D-Estleman.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Amos Walker Books",
+      "books": [
+        {
+          "title": "Motor City Blue",
+          "year": 1980,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Angel Eyes",
+          "year": 1981,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Midnight Man",
+          "year": 1982,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Glass Highway",
+          "year": 1983,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Sugartown",
+          "year": 1984,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Every Brilliant Eye",
+          "year": 1986,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Lady Yesterday",
+          "year": 1987,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Downriver",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Silent Thunder",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "Sweet Women Lie",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "Never Street",
+          "year": 1997,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "The Witchfinder",
+          "year": 1998,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Hours of the Virgin",
+          "year": 1999,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "A Smile on the Face of the Tiger",
+          "year": 2000,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "Sinister Heights",
+          "year": 2002,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "Poison Blonde",
+          "year": 2003,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        },
+        {
+          "title": "Retro",
+          "year": 2004,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 17
+        },
+        {
+          "title": "Nicotine Kiss",
+          "year": 2005,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 18
+        },
+        {
+          "title": "American Detective",
+          "year": 2007,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 19
+        },
+        {
+          "title": "The Left-Handed Dollar",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 20
+        },
+        {
+          "title": "Infernal Angels",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 21
+        },
+        {
+          "title": "Burning Midnight",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 22
+        },
+        {
+          "title": "Don't Look for Me",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 23
+        },
+        {
+          "title": "You Know Who Killed Me",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 24
+        },
+        {
+          "title": "The Sundown Speech",
+          "year": 2015,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 25
+        },
+        {
+          "title": "The Lioness Is the Hunter",
+          "year": 2017,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 26
+        },
+        {
+          "title": "Black and White Ball",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 27
+        },
+        {
+          "title": "When Old Midnight Comes Along",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 28
+        },
+        {
+          "title": "Cut-Throat Dogs",
+          "year": 2021,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 29
+        },
+        {
+          "title": "Monkey in the Middle",
+          "year": 2022,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 30
+        },
+        {
+          "title": "City Walls",
+          "year": 2023,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 31
+        },
+        {
+          "title": "Smoke on the Water",
+          "year": 2025,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 32
+        }
+      ]
+    },
+    "publication_2": {
+      "heading": "Publication Order of Amos Walker Collections",
+      "books": [
+        {
+          "title": "General Murders",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Amos Walker: The Complete Story Collection",
+          "year": 2010,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        }
+      ]
+    }
+  }
+}

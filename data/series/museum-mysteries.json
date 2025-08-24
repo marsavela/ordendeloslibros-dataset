@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Museum Mysteries",
+  "slug": "museum-mysteries",
+  "source": "https://www.orderofbooks.com/characters/museum-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Museum-Mysteries-by-Sheila-Connolly-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sheila Connolly",
+      "slug": "sheila-connolly"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fundraising the Dead",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Let's Play Dead",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fire Engine Dead",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Monument to the Dead",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Razing the Dead",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Privy to the Dead",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Dead End Street",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Digging Up History",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Tending Roses",
+  "slug": "tending-roses",
+  "source": "https://www.orderofbooks.com/characters/tending-roses/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/Tending-Roses-by-Lisa-Wingate-500x200.jpg",
+  "authors": [
+    {
+      "name": "Lisa Wingate",
+      "slug": "lisa-wingate"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tending Roses",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Good Hope Road",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Language of Sycamores",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Drenched in Light",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Thousand Voices",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

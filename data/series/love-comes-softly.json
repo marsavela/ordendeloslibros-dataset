@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Love Comes Softly",
+  "slug": "love-comes-softly",
+  "source": "https://www.orderofbooks.com/characters/love-comes-softly/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Love-Comes-Softly-by-Janette-Oke-500x200.jpg",
+  "authors": [
+    {
+      "name": "Janette Oke",
+      "slug": "janette-oke"
+    }
+  ],
+  "books": [
+    {
+      "title": "Love Comes Softly",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Love's Enduring Promise",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Love's Long Journey",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Love's Abiding Joy",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Love's Unending Legacy",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Love's Unfolding Dream",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Love Takes Wing",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Love Finds a Home",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

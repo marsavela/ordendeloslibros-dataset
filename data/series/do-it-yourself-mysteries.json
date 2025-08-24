@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Do-It-Yourself Mysteries",
+  "slug": "do-it-yourself-mysteries",
+  "source": "https://www.orderofbooks.com/characters/do-it-yourself-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Do-It-Yourself-Mysteries-by-Jennie-Bentley-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jennie Bentley",
+      "slug": "jennie-bentley"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fatal Fixer-Upper",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Spackled and Spooked",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Plaster and Poison",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Mortar and Murder",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Flipped Out",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Wall-to-Wall Dead",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Home for the Homicide",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

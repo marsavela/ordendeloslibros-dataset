@@ -1,0 +1,148 @@
+{
+  "type": "series",
+  "name": "Abilene",
+  "slug": "abilene",
+  "source": "https://www.orderofbooks.com/characters/abilene/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Abilene-by-Justin-Ladd.jpg",
+  "authors": [
+    {
+      "name": "Justin Ladd",
+      "slug": "justin-ladd"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Abilene Books",
+      "books": [
+        {
+          "title": "The Peacemaker",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Sharpshooter",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Pursuers",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "The Night Riders",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "The Half-Breed",
+          "year": 1988,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "The Hangman",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "The Prizefighter",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "The Whiskey Runners",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "The Tracker",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        },
+        {
+          "title": "The General",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 10
+        },
+        {
+          "title": "The Hellion",
+          "year": 1989,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 11
+        },
+        {
+          "title": "The Cattle Baron",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 12
+        },
+        {
+          "title": "The Pistoleer",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 13
+        },
+        {
+          "title": "The Lawman",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 14
+        },
+        {
+          "title": "The Barlow Brides",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 15
+        },
+        {
+          "title": "The Deputy",
+          "year": 1990,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 16
+        }
+      ]
+    }
+  }
+}

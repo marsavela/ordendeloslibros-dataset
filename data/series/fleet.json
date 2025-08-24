@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Fleet",
+  "slug": "fleet",
+  "source": "https://www.orderofbooks.com/characters/fleet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/11/Fleet-by-David-Drake-Bill-Fawcett.jpg",
+  "authors": [
+    {
+      "name": "David Drake",
+      "slug": "david-drake"
+    }
+  ],
+  "books": [
+    {
+      "title": "Counter Attack",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Breakthrough",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Sworn Allies",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Total War",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Crisis",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

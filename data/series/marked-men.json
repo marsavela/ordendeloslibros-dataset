@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Marked Men",
+  "slug": "marked-men",
+  "source": "https://www.orderofbooks.com/characters/marked-men/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/07/Marked-Men-by-Jay-Crownover-500x200.jpg",
+  "authors": [
+    {
+      "name": "Jay Crownover",
+      "slug": "jay-crownover"
+    }
+  ],
+  "books": [
+    {
+      "title": "Rule",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Jet",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Rome",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nash",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rowdy",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Asa",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

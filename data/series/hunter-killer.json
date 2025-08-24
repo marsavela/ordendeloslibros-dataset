@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Hunter Killer",
+  "slug": "hunter-killer",
+  "source": "https://www.orderofbooks.com/characters/hunter-killer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2021/03/hunter.jpg",
+  "authors": [
+    {
+      "name": "Don Keith",
+      "slug": "don-keith"
+    }
+  ],
+  "books": [
+    {
+      "title": "Final Bearing",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Dangerous Grounds",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cuban Deep",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fast Attack",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Arabian Storm",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Warshot",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Silent Running",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Snapshot",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Southern Cross",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Gibraltar Affair",
+      "year": 2025,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

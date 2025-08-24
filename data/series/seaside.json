@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "name": "Seaside",
+  "slug": "seaside",
+  "source": "https://www.orderofbooks.com/characters/seaside/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/01/Seaside-by-Rachel-Van-Dyken-500x200.jpg",
+  "authors": [
+    {
+      "name": "Rachel Van Dyken",
+      "slug": "rachel-van-dyken"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tear",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pull",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shatter",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Forever",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fall",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Strung",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Eternal",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Keep",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Surrender",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Strung is a prequel in the Seaside series.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    }
+  ]
+}

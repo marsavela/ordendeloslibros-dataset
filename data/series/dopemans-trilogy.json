@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Dopeman’s Trilogy",
+  "slug": "dopemans-trilogy",
+  "source": "https://www.orderofbooks.com/characters/dopemans-trilogy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Dopeman-Trilogy-by-JaQuavis-Coleman.jpg",
+  "books": [
+    {
+      "title": "The Dopeman's Wife",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Dopefiend",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dopeman: Memoirs of a Snitch",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

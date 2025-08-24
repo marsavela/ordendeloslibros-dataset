@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Legal Affairs",
+  "slug": "legal-affairs",
+  "source": "https://www.orderofbooks.com/characters/legal-affairs/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/07/Legal-Affairs-by-Sawyer-Bennett-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sawyer Bennett",
+      "slug": "sawyer-bennett"
+    }
+  ],
+  "books": [
+    {
+      "title": "McKayla's Story",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Confessions of a Litigation God",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Friction",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Sexy Lies and Rock & Roll",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Pecker Briefs",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

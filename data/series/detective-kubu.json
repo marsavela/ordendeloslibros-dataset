@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Detective Kubu",
+  "slug": "detective-kubu",
+  "source": "https://www.orderofbooks.com/characters/detective-kubu/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/01/Detective-Kubu-by-Michael-Stanley.jpg",
+  "authors": [
+    {
+      "name": "Michael Stanley",
+      "slug": "michael-stanley"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Carrion Death",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Deadly Trade / The Second Death of Goodluck Tinubu",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Death of the Mantis",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deadly Harvest",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Death in the Family",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Dying to Live",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Facets of Death",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "A Deadly Covenant",
+      "year": 2022,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

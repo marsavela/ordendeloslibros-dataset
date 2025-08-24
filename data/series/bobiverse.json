@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Bobiverse",
+  "slug": "bobiverse",
+  "source": "https://www.orderofbooks.com/characters/bobiverse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2018/09/Bobiverse-by-Dennis-E-Taylor.jpg",
+  "books": [
+    {
+      "title": "We Are Legion",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "For We Are Many",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "All These Worlds",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Heaven's River",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Not Till We Are Lost",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

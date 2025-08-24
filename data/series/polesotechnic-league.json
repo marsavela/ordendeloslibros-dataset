@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Polesotechnic League",
+  "slug": "polesotechnic-league",
+  "source": "https://www.orderofbooks.com/characters/polesotechnic-league/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Polesotechnic-League-by-Poul-Anderson.jpg",
+  "books": [
+    {
+      "title": "War of the Wing-Men / The Man Who Counts",
+      "year": 1958,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Trader to the Stars",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Trouble Twisters",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Satan's World",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The People of the Wind",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Mirkheim",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Earth Book of Stormgate",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

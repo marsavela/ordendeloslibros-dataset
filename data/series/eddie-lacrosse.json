@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Eddie LaCrosse",
+  "slug": "eddie-lacrosse",
+  "source": "https://www.orderofbooks.com/characters/eddie-lacrosse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/02/Eddie-LaCrosse-by-Alex-Bledsoe.jpg",
+  "books": [
+    {
+      "title": "The Sword-Edged Blonde",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Burn Me Deadly",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Dark Jenny",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wake of the Bloody Angel",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "He Drank, and Saw the Spider",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Key to the Coward's Spell",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

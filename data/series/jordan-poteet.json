@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Jordan Poteet",
+  "slug": "jordan-poteet",
+  "source": "https://www.orderofbooks.com/characters/jordan-poteet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Jordan-Poteet-by-Jeff-Abbott.jpg",
+  "books": [
+    {
+      "title": "Do Unto Others",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Only Good Yankee",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Promises of Home",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Distant Blood",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

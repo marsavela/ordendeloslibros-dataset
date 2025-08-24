@@ -1,0 +1,119 @@
+{
+  "type": "series",
+  "name": "Inspector Chen",
+  "slug": "inspector-chen",
+  "source": "https://www.orderofbooks.com/characters/inspector-chen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/12/Inspector-Chen-by-Qiu-Xiaolong.jpg",
+  "authors": [
+    {
+      "name": "Qiu Xiaolong",
+      "slug": "qiu-xiaolong"
+    }
+  ],
+  "books": [
+    {
+      "title": "Death of a Red Heroine",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "A Loyal Character Dancer",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "When Red is Black",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Case of Two Cities",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Red Mandarin Dress",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Mao Case",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Don't Cry, Tai Lake",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Enigma of China",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Shanghai Redemption",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Hold Your Breath, China",
+      "year": 2020,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Becoming Inspector Chen",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Inspector Chen and the Private Kitchen Murder",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Love and Murder in the Time of Covid",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

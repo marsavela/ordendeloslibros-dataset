@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Lou Mason",
+  "slug": "lou-mason",
+  "source": "https://www.orderofbooks.com/characters/lou-mason/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Lou-Mason-by-Joel-Goldman.jpg",
+  "books": [
+    {
+      "title": "Motion to Kill",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Last Witness",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Cold Truth",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Deadlocked",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Final Judgment",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

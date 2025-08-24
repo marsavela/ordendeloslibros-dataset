@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Joseph O’Loughlin",
+  "slug": "joseph-oloughlin",
+  "source": "https://www.orderofbooks.com/characters/joseph-oloughlin/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Joseph-OLoughlin-by-Michael-Robotham.jpg",
+  "books": [
+    {
+      "title": "The Suspect",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lost / The Drowning Man",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Shatter / The Sleep of Reason",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Bleed for Me",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Wreckage",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Say You're Sorry",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Watching You",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Close Your Eyes",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Other Wife",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

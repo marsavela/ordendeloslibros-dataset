@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Inspector Barnaby",
+  "slug": "inspector-barnaby",
+  "source": "https://www.orderofbooks.com/characters/inspector-barnaby/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/08/Chief-Inspector-Barnaby-by-Caroline-Graham-500x200.jpg",
+  "authors": [
+    {
+      "name": "Caroline Graham",
+      "slug": "caroline-graham"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Killings at Badger's Drift",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death of a Hollow Man",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Death in Disguise",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Written in Blood",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Faithful Unto Death",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Place of Safety",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "A Ghost in the Machine",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

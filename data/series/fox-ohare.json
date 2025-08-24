@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "name": "Fox & O’Hare",
+  "slug": "fox-ohare",
+  "source": "https://www.orderofbooks.com/characters/fox-and-ohare/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/09/Fox-and-OHare-by-Janet-Evanovich-Lee-Goldberg-500x200.jpg",
+  "authors": [
+    {
+      "name": "Janet Evanovich",
+      "slug": "janet-evanovich"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Caper (By:Janet Evanovich)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Pros and Cons (By:Janet Evanovich,Lee Goldberg)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Heist (By:Janet Evanovich,Lee Goldberg)",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Chase (By:Janet Evanovich,Lee Goldberg)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Shell Game (By:Janet Evanovich,Lee Goldberg)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Job (By:Janet Evanovich,Lee Goldberg)",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Scam (By:Janet Evanovich,Lee Goldberg)",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Pursuit (By:Janet Evanovich,Lee Goldberg)",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Big Kahuna (By:Janet Evanovich,Peter Evanovich)",
+      "year": 2019,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Bounty (By:Janet Evanovich,Steve Hamilton)",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Shell Game is a prequel short story to the Kate O’Hare & Nicolas Fox series.The Caper is an online exclusive story.",
+      "year": null,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

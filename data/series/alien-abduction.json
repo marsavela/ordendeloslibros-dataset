@@ -1,0 +1,92 @@
+{
+  "type": "series",
+  "name": "Alien Abduction",
+  "slug": "alien-abduction",
+  "source": "https://www.orderofbooks.com/characters/alien-abduction/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/02/Alien-Abduction-by-Eve-Langlais-500x200.jpg",
+  "authors": [
+    {
+      "name": "Eve Langlais",
+      "slug": "eve-langlais"
+    }
+  ],
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alien Abduction Books",
+      "books": [
+        {
+          "title": "Accidental Abduction",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "Intentional Abduction",
+          "year": 2011,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "Dual Abduction",
+          "year": 2012,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Mercenary Abduction",
+          "year": 2013,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        },
+        {
+          "title": "Heroic Abduction",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 5
+        },
+        {
+          "title": "Holiday Abduction",
+          "year": 2014,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 6
+        },
+        {
+          "title": "Reader Abduction",
+          "year": 2016,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 7
+        },
+        {
+          "title": "Reverse Abduction",
+          "year": 2018,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 8
+        },
+        {
+          "title": "Mate Abduction",
+          "year": 2020,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 9
+        }
+      ]
+    }
+  }
+}

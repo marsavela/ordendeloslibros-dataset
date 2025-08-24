@@ -1,0 +1,39 @@
+{
+  "type": "series",
+  "name": "Mara Dyer",
+  "slug": "mara-dyer",
+  "source": "https://www.orderofbooks.com/characters/mara-dyer/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/04/Mara-Dyer-Trilogy-by-Michelle-Hodkin.jpg",
+  "authors": [
+    {
+      "name": "Michelle Hodkin",
+      "slug": "michelle-hodkin"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Unbecoming of Mara Dyer",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Evolution of Mara Dyer",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Retribution of Mara Dyer",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

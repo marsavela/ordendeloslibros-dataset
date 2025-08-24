@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "On The Run",
+  "slug": "on-the-run",
+  "source": "https://www.orderofbooks.com/characters/on-the-run/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/01/On-the-Run-by-Gordon-Korman-500x200.jpg",
+  "authors": [
+    {
+      "name": "Gordon Korman",
+      "slug": "gordon-korman"
+    }
+  ],
+  "books": [
+    {
+      "title": "Chasing The Falconers",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Fugitive Factor",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Now You See Them, Now You Don't",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Stowaway Solution",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Public Enemies",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hunting the Hunter",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

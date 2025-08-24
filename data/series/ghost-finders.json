@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "name": "Ghost Finders",
+  "slug": "ghost-finders",
+  "source": "https://www.orderofbooks.com/characters/ghost-finders/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/10/Ghost-Finders-by-Simon-R-Green.jpg",
+  "books": [
+    {
+      "title": "Ghost of a Chance",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Ghost of a Smile",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Ghost of a Dream",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Spirits from Beyond",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Voices from Beyond",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Forces from Beyond",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

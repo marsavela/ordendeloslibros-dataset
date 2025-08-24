@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Frank Clevenger",
+  "slug": "frank-clevenger",
+  "source": "https://www.orderofbooks.com/characters/frank-clevenger/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/02/Frank-Clevenger-by-Keith-Ablow.jpg",
+  "authors": [
+    {
+      "name": "Keith Ablow",
+      "slug": "keith-ablow"
+    }
+  ],
+  "books": [
+    {
+      "title": "Denial",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Projection",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Compulsion",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Psychopath",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Murder Suicide",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Architect",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Percy Jackson",
+  "slug": "percy-jackson",
+  "source": "https://www.orderofbooks.com/characters/percy-jackson/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/06/Percy-Jackson-and-the-Olympians-by-Rick-Riordan.jpg",
+  "books": [
+    {
+      "title": "The Lightning Thief",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Sea of Monsters",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Titan's Curse",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Battle of the Labyrinth",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Last Olympian",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Chalice of the Gods",
+      "year": 2023,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Wrath of the Triple Goddess",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

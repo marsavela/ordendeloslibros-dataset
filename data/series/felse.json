@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "name": "Felse",
+  "slug": "felse",
+  "source": "https://www.orderofbooks.com/characters/felse/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Inspector-Felse-by-Ellis-Peters.jpg",
+  "books": [
+    {
+      "title": "Fallen Into the Pit",
+      "year": 1951,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death and the Joyful Woman",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flight of a Witch",
+      "year": 1964,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Nice Derangement of Epitaphs",
+      "year": 1965,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Piper on the Mountain",
+      "year": 1966,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Black Is the Colour of My True Love's Heart",
+      "year": 1967,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Grass Widow's Tale",
+      "year": 1968,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The House of Green Turf",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Mourning Raga",
+      "year": 1969,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Knocker on Death's Door",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Death to the Landlords",
+      "year": 1972,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "City of Gold and Shadows",
+      "year": 1973,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "Rainbow's End",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    }
+  ]
+}

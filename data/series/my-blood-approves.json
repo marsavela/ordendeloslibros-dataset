@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "My Blood Approves",
+  "slug": "my-blood-approves",
+  "source": "https://www.orderofbooks.com/characters/my-blood-approves/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/My-Blood-Approves-by-Amanda-Hocking.jpg",
+  "books": [
+    {
+      "title": "My Blood Approves",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fate",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Flutter",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Wisdom",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Swear",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Heart of Montana",
+  "slug": "heart-of-montana",
+  "source": "https://www.orderofbooks.com/characters/heart-of-montana/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/03/heart-of-montana-500x200.jpg",
+  "books": [
+    {
+      "title": "By Proxy",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Midsummer Sweetheart",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Meeting Miss Mystic",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "What Were You Expecting?",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

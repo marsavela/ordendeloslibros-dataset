@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "name": "Saga Of The Sierras",
+  "slug": "saga-of-the-sierras",
+  "source": "https://www.orderofbooks.com/characters/saga-of-the-sierras/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/03/Saga-of-the-Sierras-by-Bodie-and-Brock-Thoene1.jpg",
+  "books": [
+    {
+      "title": "The Man from Shadow Ridge",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Riders of the Silver Rim",
+      "year": 1990,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Gold Rush Prodigal",
+      "year": 1991,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Cannons of the Comstock",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Shooting Star",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Flames on the Barbary Coast",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Sequoia Scout",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Year of the Grizzly",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

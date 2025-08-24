@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "name": "Alan Grofield",
+  "slug": "alan-grofield",
+  "source": "https://www.orderofbooks.com/characters/alan-grofield/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Alan-Grofield-by-Richard-Stark-Donald-Westlake.jpg",
+  "orderings": {
+    "publication": {
+      "heading": "Publication Order of Alan Grofield Books",
+      "books": [
+        {
+          "title": "The Damsel",
+          "year": 1967,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 1
+        },
+        {
+          "title": "The Dame",
+          "year": 1969,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 2
+        },
+        {
+          "title": "The Blackbird",
+          "year": 1969,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 3
+        },
+        {
+          "title": "Lemons Never Lie",
+          "year": 1971,
+          "links": {
+            "amazon_es": ""
+          },
+          "index": 4
+        }
+      ]
+    }
+  }
+}

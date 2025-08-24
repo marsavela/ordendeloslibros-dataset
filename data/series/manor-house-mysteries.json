@@ -1,0 +1,87 @@
+{
+  "type": "series",
+  "name": "Manor House Mysteries",
+  "slug": "manor-house-mysteries",
+  "source": "https://www.orderofbooks.com/characters/manor-house-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/05/Manor-House-Mysteries-by-Kate-Kingsbury-500x200.jpg",
+  "authors": [
+    {
+      "name": "Kate Kingsbury",
+      "slug": "kate-kingsbury"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Bicycle Built for Murder",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Death is in the Air",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "For Whom Death Tolls",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Dig Deep for Murder",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Paint by Murder",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Berried Alive",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Fire When Ready",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Wedding Rows",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "An Unmentionable Murder",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

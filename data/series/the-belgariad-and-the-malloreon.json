@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "The Belgariad and The Malloreon",
+  "slug": "the-belgariad-and-the-malloreon",
+  "source": "https://www.orderofbooks.com/characters/the-belgariad-and-the-malloreon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Belgariad-and-Malloreon-by-David-Eddings.jpg",
+  "books": [
+    {
+      "title": "Pawn of Prophecy",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Queen of Sorcery",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Magician's Gambit",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Castle of Wizardry",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Enchanters' End Game",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

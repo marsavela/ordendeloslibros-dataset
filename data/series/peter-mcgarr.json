@@ -1,0 +1,143 @@
+{
+  "type": "series",
+  "name": "Peter McGarr",
+  "slug": "peter-mcgarr",
+  "source": "https://www.orderofbooks.com/characters/peter-mcgarr/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2019/09/Peter-McGarr-by-by-Bartholomew-Gill-500x200.jpg",
+  "authors": [
+    {
+      "name": "By Bartholomew Gill",
+      "slug": "by-bartholomew-gill"
+    }
+  ],
+  "books": [
+    {
+      "title": "McGarr and the Politician's Wife/The Death of an Irish Politician",
+      "year": 1976,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "McGarr and the Sienese Conspiracy/The Death of an Irish Consul",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "McGarr and the Cliffs of Moher/The Death of an Irish Lass",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "cGarr and the Dublin Horse Show/The Death of an Irish Tradition",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "McGarr and the P.M. of Belgrave Square",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "McGarr and the Method of Descartes",
+      "year": 1984,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "McGarr and the Legacy of a Woman Scorned",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Death of a Joyce Scholar",
+      "year": 1989,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Death of Love",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Death on a Cold, Wild River",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Death of an Ardent Bibliophile",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Death of an Irish Sea Wolf",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    },
+    {
+      "title": "The Death of an Irish Tinker/Death of a Busker King",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 13
+    },
+    {
+      "title": "The Death of an Irish Lover",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 14
+    },
+    {
+      "title": "The Death of an Irish Sinner",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 15
+    },
+    {
+      "title": "Death in Dublin",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 16
+    }
+  ]
+}

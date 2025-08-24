@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Lawmen",
+  "slug": "lawmen",
+  "source": "https://www.orderofbooks.com/characters/lawmen/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/10/Lawmen-by-JB-Dancer.jpg",
+  "authors": [
+    {
+      "name": "John Harvey",
+      "slug": "john-harvey"
+    }
+  ],
+  "books": [
+    {
+      "title": "Evil Breed",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Kansas Bloody Kansas",
+      "year": 1977,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Judgment Day",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Vengeance Trail",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hanged Man",
+      "year": 1979,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "One Way to Die",
+      "year": 1980,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Susan Wren",
+  "slug": "susan-wren",
+  "source": "https://www.orderofbooks.com/characters/susan-wren/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/06/Susan-Wren-by-Charlene-Weir-500x200.jpg",
+  "authors": [
+    {
+      "name": "Charlene Weir",
+      "slug": "charlene-weir"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Winter Widow",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Consider the Crows / A Lesson in Murder",
+      "year": 1993,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Family Practice",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Murder Take Two",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "A Cold Christmas",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Up in Smoke",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Edge of Midnight",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

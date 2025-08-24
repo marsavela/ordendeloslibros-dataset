@@ -1,0 +1,33 @@
+{
+  "type": "series",
+  "name": "Mickey Bolitar",
+  "slug": "mickey-bolitar",
+  "source": "https://www.orderofbooks.com/characters/mickey-bolitar/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/07/mickey-bolitar.jpg",
+  "books": [
+    {
+      "title": "Shelter",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Seconds Away",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Found",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    }
+  ]
+}

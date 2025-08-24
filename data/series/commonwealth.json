@@ -1,0 +1,25 @@
+{
+  "type": "series",
+  "name": "Commonwealth",
+  "slug": "commonwealth",
+  "source": "https://www.orderofbooks.com/characters/commonwealth/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Commonwealth-by-Peter-F-Hamilton.jpg",
+  "books": [
+    {
+      "title": "Pandora's Star",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Judas Unchained",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    }
+  ]
+}

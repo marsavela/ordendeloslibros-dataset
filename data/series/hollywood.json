@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "name": "Hollywood",
+  "slug": "hollywood",
+  "source": "https://www.orderofbooks.com/characters/hollywood/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/04/Hollywood-Series-by-Jackie-Collins.jpg",
+  "books": [
+    {
+      "title": "Hollywood Wives",
+      "year": 1983,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Hollywood Husbands",
+      "year": 1986,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Hollywood Kids",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Hollywood Wives: The New Generation",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Hollywood Divorces",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

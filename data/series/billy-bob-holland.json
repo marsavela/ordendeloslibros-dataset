@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Billy Bob Holland",
+  "slug": "billy-bob-holland",
+  "source": "https://www.orderofbooks.com/characters/billy-bob-holland/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2011/08/Billy-Bob-Holland.jpg",
+  "books": [
+    {
+      "title": "Cimarron Rose",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Heartwood",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Bitterroot",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "In the Moon of Red Ponies",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

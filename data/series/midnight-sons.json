@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "name": "Midnight Sons",
+  "slug": "midnight-sons",
+  "source": "https://www.orderofbooks.com/characters/midnight-sons/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Midnight-Sons-by-Debbie-Macomber.jpg",
+  "books": [
+    {
+      "title": "Brides for Brothers",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Marriage Risk",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Daddy's Little Helper / Lessons in Love",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Because of the Baby",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Falling for Him",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Ending in Marriage",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Midnight Sons and Daughters",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Annwyn",
+  "slug": "annwyn",
+  "source": "https://www.orderofbooks.com/characters/annwyn/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/04/Annwyn-by-Shona-Husk-500x200.jpg",
+  "authors": [
+    {
+      "name": "Shona Husk",
+      "slug": "shona-husk"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Outcast Prince",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Lord of the Hunt",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Changeling Soldier",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "To Love a King",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Tenth Life of Vicki Torres",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Darkling Lord",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Singer of Death",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Taming the Assassin",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

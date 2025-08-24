@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "name": "Tales From The Shadowhunter Academy",
+  "slug": "tales-from-the-shadowhunter-academy",
+  "source": "https://www.orderofbooks.com/characters/tales-from-the-shadowhunter-academy/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/06/tales-from-the-shadowhunter-academy-500x200.jpg",
+  "books": [
+    {
+      "title": "Welcome to Shadowhunter Academy",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Lost Herondale",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Whitechapel Fiend",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Nothing but Shadows",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Evil We Love",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Pale Kings and Princes",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Bitter of Tongue",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Fiery Trial",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Born to Endless Night",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Angels Twice Descending",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Tales from the Shadowhunter Academy",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    }
+  ]
+}

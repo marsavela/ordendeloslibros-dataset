@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Corrigan",
+  "slug": "corrigan",
+  "source": "https://www.orderofbooks.com/characters/corrigan/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/10/Corrigan-by-Helen-Harper-500x200.jpg",
+  "authors": [
+    {
+      "name": "Helen Harper",
+      "slug": "helen-harper"
+    }
+  ],
+  "books": [
+    {
+      "title": "Corrigan Fire",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Corrigan Magic",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Corrigan Rage",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Corrigan Politics",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Corrigan Lust",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

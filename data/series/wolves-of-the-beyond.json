@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Wolves Of The Beyond",
+  "slug": "wolves-of-the-beyond",
+  "source": "https://www.orderofbooks.com/characters/wolves-of-the-beyond/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2015/01/Wolves-of-the-Beyond-by-Kathryn-Lasky.jpg",
+  "authors": [
+    {
+      "name": "Kathryn Lasky",
+      "slug": "kathryn-lasky"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lone Wolf",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Shadow Wolf",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Watch Wolf",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Frost Wolf",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Spirit Wolf",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Star Wolf",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

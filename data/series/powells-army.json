@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Powell’s Army",
+  "slug": "powells-army",
+  "source": "https://www.orderofbooks.com/characters/powells-army/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2014/05/Powells-Army-by-Terence-Duncan-James-Reasoner.jpg",
+  "authors": [
+    {
+      "name": "Barbara Puechner",
+      "slug": "barbara-puechner"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unchained Lightning",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Apache Raiders",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Mustang Warriors",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Robbers Roost",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Rocky Mountain Showdown",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Red River Desperadoes",
+      "year": 1988,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

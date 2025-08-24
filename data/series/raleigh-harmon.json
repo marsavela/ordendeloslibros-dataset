@@ -1,0 +1,63 @@
+{
+  "type": "series",
+  "name": "Raleigh Harmon",
+  "slug": "raleigh-harmon",
+  "source": "https://www.orderofbooks.com/characters/raleigh-harmon/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2016/05/Raleigh-Harmon-by-Sibella-Giorello-500x200.jpg",
+  "authors": [
+    {
+      "name": "Sibella Giorello",
+      "slug": "sibella-giorello"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Stones Cry Out",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Rivers Run Dry",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Clouds Roll Away",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Mountains Bow Down",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Stars Shine Bright",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Hers",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    }
+  ]
+}

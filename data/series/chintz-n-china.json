@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "name": "Chintz ‘N China",
+  "slug": "chintz-n-china",
+  "source": "https://www.orderofbooks.com/characters/chintz-n-china/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/02/Chintz-N-China-by-Yasmine-Galenorn.jpg",
+  "authors": [
+    {
+      "name": "Yasmine Galenorn",
+      "slug": "yasmine-galenorn"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ghost of a Chance",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Legend of the Jade Dragon",
+      "year": 2004,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Murder Under a Mystic Moon",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "A Harvest of Bones",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "One Hex of a Wedding",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Holiday Spirits",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Well of Secrets",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    }
+  ]
+}

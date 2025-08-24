@@ -1,0 +1,111 @@
+{
+  "type": "series",
+  "name": "Woods Cop Mysteries",
+  "slug": "woods-cop-mysteries",
+  "source": "https://www.orderofbooks.com/characters/woods-cop-mysteries/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/10/Woods-Cop-Mysteries-by-Joseph-Heywood-500x200.jpg",
+  "authors": [
+    {
+      "name": "Joseph Heywood",
+      "slug": "joseph-heywood"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ice Hunter",
+      "year": 2001,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Blue Wolf In Green Fire",
+      "year": 2002,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Chasing a Blond Moon",
+      "year": 2003,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Running Dark",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Strike Dog",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Death Roe",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Shadow of the Wolf Tree",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Force of Blood",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "Killing a Cold One",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "Buckular Dystrophy",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "Bad Optics",
+      "year": 2018,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "Out of Service",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}

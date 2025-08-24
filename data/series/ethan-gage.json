@@ -1,0 +1,79 @@
+{
+  "type": "series",
+  "name": "Ethan Gage",
+  "slug": "ethan-gage",
+  "source": "https://www.orderofbooks.com/characters/ethan-gage/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/09/Ethan-Gage-by-William-Dietrich.jpg",
+  "authors": [
+    {
+      "name": "William Dietrich",
+      "slug": "william-dietrich"
+    }
+  ],
+  "books": [
+    {
+      "title": "Napoleon's Pyramids",
+      "year": 2007,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Rosetta Key",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Dakota Cipher",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Barbary Pirates",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Emerald Storm",
+      "year": 2012,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "The Barbed Crown",
+      "year": 2013,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Three Emperors",
+      "year": 2014,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "The Trojan Icon",
+      "year": 2016,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    }
+  ]
+}

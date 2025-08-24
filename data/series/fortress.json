@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "name": "Fortress",
+  "slug": "fortress",
+  "source": "https://www.orderofbooks.com/characters/fortress/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/06/Tristan-by-CJ-Cherryh-500x200.jpg",
+  "authors": [
+    {
+      "name": "CJ Cherryh",
+      "slug": "cj-cherryh"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fortress in the Eye of Time",
+      "year": 1995,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "Fortress of Eagles",
+      "year": 1998,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Fortress of Owls",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Fortress of Dragons",
+      "year": 2000,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "Fortress of Ice",
+      "year": 2006,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    }
+  ]
+}

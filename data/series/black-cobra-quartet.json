@@ -1,0 +1,41 @@
+{
+  "type": "series",
+  "name": "Black Cobra Quartet",
+  "slug": "black-cobra-quartet",
+  "source": "https://www.orderofbooks.com/characters/black-cobra-quartet/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2013/01/Black-Cobra-Quartet-by-Stephanie-Laurens.jpg",
+  "books": [
+    {
+      "title": "The Untamed Bride",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Elusive Bride",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Brazen Bride",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Reckless Bride",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "name": "Arthur Beauchamp",
+  "slug": "arthur-beauchamp",
+  "source": "https://www.orderofbooks.com/characters/arthur-beauchamp/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2017/11/Arthur-Beauchamp-by-William-Deverell.jpg",
+  "books": [
+    {
+      "title": "Trial of Passion",
+      "year": 1997,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "April Fool",
+      "year": 2005,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "Kill All the Judges",
+      "year": 2008,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "Snow Job",
+      "year": 2009,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "I'll See You in My Dreams",
+      "year": 2011,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "Sing a Worried Song",
+      "year": 2015,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "Whipped",
+      "year": 2017,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Stung",
+      "year": 2021,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Long-Shot Trial",
+      "year": 2024,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    }
+  ]
+}

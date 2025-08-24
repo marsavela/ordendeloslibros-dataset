@@ -1,0 +1,105 @@
+{
+  "type": "series",
+  "name": "Stainless Steel Rat",
+  "slug": "stainless-steel-rat",
+  "source": "https://www.orderofbooks.com/characters/stainless-steel-rat/",
+  "image": "https://www.orderofbooks.com/wp-content/uploads/2012/08/Stainless-Steel-Rat-by-Harry-Harrison.jpg",
+  "books": [
+    {
+      "title": "Stainless Steel Rat",
+      "year": 1961,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 1
+    },
+    {
+      "title": "The Stainless Steel Rat's Revenge",
+      "year": 1970,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 2
+    },
+    {
+      "title": "The Stainless Steel Rat Saves The World",
+      "year": 1971,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 3
+    },
+    {
+      "title": "The Stainless Steel Rat Wants You!",
+      "year": 1978,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 4
+    },
+    {
+      "title": "The Stainless Steel Rat for President",
+      "year": 1982,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 5
+    },
+    {
+      "title": "A Stainless Steel Rat is Born",
+      "year": 1985,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 6
+    },
+    {
+      "title": "The Stainless Steel Rat Gets Drafted",
+      "year": 1987,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 7
+    },
+    {
+      "title": "Stainless Steel Visions",
+      "year": 1992,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 8
+    },
+    {
+      "title": "The Stainless Steel Rat Sings the Blues",
+      "year": 1994,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 9
+    },
+    {
+      "title": "The Stainless Steel Rat Goes to Hell",
+      "year": 1996,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 10
+    },
+    {
+      "title": "The Stainless Steel Rat Joins the Circus",
+      "year": 1999,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 11
+    },
+    {
+      "title": "The Stainless Steel Rat Returns",
+      "year": 2010,
+      "links": {
+        "amazon_es": ""
+      },
+      "index": 12
+    }
+  ]
+}
